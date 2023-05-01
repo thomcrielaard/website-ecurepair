@@ -6,8 +6,12 @@ import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
 
 import Container from "@/components/containers/Container";
+
 import Text from "@/components/modules/text/Text";
+import Title from "@/components/modules/text/Title";
+
 import Button from "@/components/modules/Button";
+
 import Tools from "@/assets/svg/Tools";
 import Gears from "@/assets/svg/Gears";
 
@@ -20,22 +24,32 @@ export default function Cards(props) {
         innerStyle={{
           display: "flex",
           justifyContent: "center",
+          flexDirection: size.width < Breakpoints.md ? "column" : "row",
         }}
+        padding={size.width < Breakpoints.md ? 0 : null}
         paddingVert={0}
       >
         <div
           style={{
             position: "relative",
-            width: "50%",
+            width: size.width < Breakpoints.md ? "100%" : "50%",
+            zIndex: 1,
           }}
         >
           <div
             style={{
-              height: "calc(100% + 75px)",
+              height:
+                size.width < Breakpoints.xs
+                  ? "calc(100% + 60px)"
+                  : size.width < Breakpoints.md
+                  ? "calc(100% + 35px)"
+                  : "calc(100% + 75px)",
               width: "100%",
               backgroundColor: Colors.RED,
               clipPath:
-                "polygon(0 0, calc(100% + 1px) 0, calc(100% + 1px) 100%, 0 calc(100% - 75px))",
+                size.width < Breakpoints.md
+                  ? "polygon(0 0, 100% 0, 100% calc(100% - 30px), 50% 100%, 0 calc(100% - 30px))"
+                  : "polygon(0 0, calc(100% + 1px) 0, calc(100% + 1px) 100%, 0 calc(100% - 75px))",
               display: "flex",
               flexDirection: "column",
               justifyContent: "flex-start",
@@ -50,9 +64,16 @@ export default function Cards(props) {
             }}
           >
             <Tools fill={`${Colors.WHITE}50`} height={100} />
+            <Title
+              text="AUTO ELECTRONICA REVISIE"
+              color={Colors.WHITE}
+              align="center"
+              size="md"
+            />
             <Text
               color={Colors.WHITE}
               align="center"
+              style={{ margin: 0 }}
               text="Car Assist heeft een uitgebreid assortiment met: ABS ECU, ECU, instrumentenpaneel, gasklephuis, TCU en nog een tal van andere elektronische onderdelen. Deze producten zijn voorzien van een diversiteit aan elektronische componenten die defect kunnen raken. "
             />
           </div>
@@ -76,22 +97,31 @@ export default function Cards(props) {
         <div
           style={{
             position: "relative",
-            width: "50%",
+            width: size.width < Breakpoints.md ? "100%" : "50%",
           }}
         >
           <div
             style={{
-              height: "calc(100% + 75px)",
+              height:
+                size.width < Breakpoints.xs
+                  ? "calc(100% + 60px)"
+                  : size.width < Breakpoints.md
+                  ? "calc(100% + 35px)"
+                  : "calc(100% + 75px)",
               width: "100%",
               backgroundColor: Colors.GRAY,
               clipPath:
-                "polygon(0 0, calc(100% + 1px) 0, calc(100% + 1px) calc(100% - 75px), 0 100%)",
+                size.width < Breakpoints.md
+                  ? "polygon(0 0, 100% 0, 100% calc(100% - 30px), 50% 100%, 0 calc(100% - 30px))"
+                  : "polygon(0 0, calc(100% + 1px) 0, calc(100% + 1px) calc(100% - 75px), 0 100%)",
               display: "flex",
               flexDirection: "column",
               justifyContent: "flex-start",
               alignItems: "center",
               padding:
-                size.width < Breakpoints.lg
+                size.width < Breakpoints.md
+                  ? "100px 25px 50px 25px"
+                  : size.width < Breakpoints.lg
                   ? "50px 25px"
                   : size.width < Breakpoints.xl
                   ? "50px"
@@ -100,9 +130,16 @@ export default function Cards(props) {
             }}
           >
             <Gears fill={`${Colors.WHITE}50`} height={100} />
+            <Title
+              text="DIAGNOSE APPARATUUR"
+              color={Colors.WHITE}
+              align="center"
+              size="md"
+            />
             <Text
               color={Colors.WHITE}
               align="center"
+              style={{ margin: 0 }}
               text="Car Assist BV dé specialist in levering en ondersteuning van diverse merken diagnose apparatuur voor auto’s en trucks en speciale voertuigen. Dit maakt het mogelijk om, afhankelijk van de diagnosebehoefte van de werkplaats, advies op maatwerk te geven."
             />
           </div>
