@@ -30,6 +30,7 @@ export default function Text(props) {
             fontFamily: "lato",
             fontWeight: 600,
             whiteSpace: "pre-wrap",
+            lineHeight: props.lineHeight ?? 1.5,
             textAlign:
               props.align ?? (size.width < Breakpoints.sm ? "center" : "left"),
             ...props.style,

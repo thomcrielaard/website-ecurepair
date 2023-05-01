@@ -4,7 +4,7 @@ import Link from "next/link";
 import UseDimensions from "../../services/UseDimensions";
 import Breakpoints from "@/styles/Breakpoints";
 
-import Colors from "../../styles/Colors";
+import Colors from "@/styles/Colors";
 
 export default function Button(props) {
   const size = UseDimensions();
@@ -21,7 +21,7 @@ export default function Button(props) {
               ? props.hoverBackgroundColor ?? props.backgroundColor
               : props.backgroundColor
             : "transparent",
-        border: `2px solid ${
+        border: `1px solid ${
           hover
             ? props.hoverBorderColor ?? props.borderColor ?? Colors.WHITE
             : props.borderColor ?? Colors.WHITE
@@ -41,6 +41,7 @@ export default function Button(props) {
         transition: ".3s ease-in-out",
         cursor: hover ? "pointer" : "auto",
         padding: "10px 25px",
+        textAlign: "center",
         ...props.style,
       }}
       onMouseEnter={() => setHover(true)}
