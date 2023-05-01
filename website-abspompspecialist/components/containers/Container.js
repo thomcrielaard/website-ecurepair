@@ -23,12 +23,13 @@ export default function Container(props) {
             padding:
               props.padding ??
               (size.width < Breakpoints.sm
-                ? "4rem 1rem"
+                ? `${props.paddingVert ?? "4rem"} 2rem`
                 : size.width < Breakpoints.md
-                ? "4rem 2rem"
-                : "4rem"),
+                ? `${props.paddingVert ?? "4rem"} 4rem`
+                : `${props.paddingVert ?? "4rem"} 8rem`),
             width: "100%",
             maxWidth: 2000,
+            ...props.innerStyle,
           }}
         >
           {props.children}
