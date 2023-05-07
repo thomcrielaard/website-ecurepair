@@ -28,6 +28,14 @@ export default function Cards(props) {
         }}
         padding={size.width < Breakpoints.md ? 0 : null}
         paddingVert={0}
+        style={{
+          marginBottom:
+            size.width < Breakpoints.xs
+              ? "calc(4rem + 60px)"
+              : size.width < Breakpoints.md
+              ? "calc(4rem + 35px)"
+              : "calc(4rem + 75px)",
+        }}
       >
         <div
           style={{
@@ -161,15 +169,6 @@ export default function Cards(props) {
           />
         </div>
       </Container>
-
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
     </>
   );
 }

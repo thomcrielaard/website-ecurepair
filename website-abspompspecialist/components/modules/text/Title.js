@@ -15,12 +15,14 @@ function calculateTitleFontSize(size, width) {
         : width < Breakpoints.xl
         ? "1.75em"
         : "2em";
-    // case "lg":
-    //   return width < Breakpoints.sm
-    //     ? "2.25em"
-    //     : width < Breakpoints.lg
-    //     ? "2.75em"
-    //     : "3.5em";
+    case "lg":
+      return width < Breakpoints.sm
+        ? "2em"
+        : width < Breakpoints.lg
+        ? "2.1em"
+        : width < Breakpoints.xl
+        ? "2.25em"
+        : "2.5em";
     // case "xl":
     //   return width < Breakpoints.xs
     //     ? "2.5em"

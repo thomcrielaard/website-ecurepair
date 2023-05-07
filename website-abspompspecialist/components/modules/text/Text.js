@@ -22,7 +22,7 @@ export default function Text(props) {
             : "center",
       }}
     >
-      <div style={{ maxWidth: 1000 }}>
+      <div style={{ maxWidth: props.slim ? 750 : 1000 }}>
         <p
           style={{
             fontSize: props.fontSize ?? 18,

@@ -48,14 +48,13 @@ export default function BigBanner(props) {
         >
           <Logo width={size.width < Breakpoints.xs ? "200px" : "300px"} />
 
-          <div style={{ maxWidth: 750 }}>
-            <Text
-              text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend. Duis varius orci eget lacus hendrerit, rutrum pretium est laoreet. Sed tempor iaculis dolor."
-              color={Colors.WHITE}
-              align="center"
-              style={{ textShadow: "0px 0px 4px #000000" }}
-            />
-          </div>
+          <Text
+            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend. Duis varius orci eget lacus hendrerit, rutrum pretium est laoreet. Sed tempor iaculis dolor."
+            color={Colors.WHITE}
+            align="center"
+            style={{ textShadow: "0px 0px 4px #000000" }}
+            slim
+          />
 
           <Button
             text={
@@ -66,6 +65,7 @@ export default function BigBanner(props) {
             borderColor={Colors.RED}
             backgroundColor={Colors.RED}
             color={Colors.WHITE}
+            href="#search"
           />
         </Container>
       </div>
