@@ -9,7 +9,7 @@ import UseDimensions from "@/services/UseDimensions";
 
 import Container from "@/components/containers/Container";
 
-import TextLink from "@/components/modules/text/TextLink";
+import TextLink from "@/components/text/TextLink";
 
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 

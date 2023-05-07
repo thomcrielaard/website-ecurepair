@@ -6,7 +6,7 @@ import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
 
 import Container from "@/components/containers/Container";
-import Text from "@/components/modules/text/Text";
+import Text from "@/components/text/Text";
 import Button from "@/components/modules/Button";
 import Cards from "@/components/modules/Cards";
 

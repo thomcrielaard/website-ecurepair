@@ -7,8 +7,8 @@ import Colors from "@/styles/Colors";
 
 import Container from "@/components/containers/Container";
 
-import Text from "@/components/modules/text/Text";
-import Title from "@/components/modules/text/Title";
+import Text from "@/components/text/Text";
+import Title from "@/components/text/Title";
 
 import Button from "@/components/modules/Button";
 

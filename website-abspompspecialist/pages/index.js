@@ -10,11 +10,12 @@ import Navbar from "@/components/layout/Navbar";
 
 import Searchbar from "@/components/modules/Searchbar";
 import BigBanner from "@/components/modules/BigBanner";
+import ProductCards from "@/components/modules/ProductCards";
 
-import Title from "@/components/modules/text/Title";
-import Text from "@/components/modules/text/Text";
+import Title from "@/components/text/Title";
+import Text from "@/components/text/Text";
 
-import Logo from "@/assets/svg/Logo";
+import TestImg from "@/assets/img/header-home.jpg";
 
 export default function Home() {
   const size = UseDimensions();
@@ -38,6 +39,45 @@ export default function Home() {
           slim
         />
         <Searchbar />
+        <ProductCards
+          items={[
+            {
+              title: "P8645271",
+              description:
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
+              price: 199.99,
+              href: "#",
+              img: TestImg,
+            },
+            {
+              title: "P8645271",
+              description:
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
+              price: 199.99,
+              href: "#",
+              img: TestImg,
+            },
+            {
+              title: "P8645271",
+              description:
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
+              price: 199.99,
+              href: "#",
+              img: TestImg,
+            },
+            {
+              title: "P8645271",
+              description:
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
+              price: 199.99,
+              href: "#",
+              img: TestImg,
+            },
+          ]}
+          square
+          button
+          price
+        />
       </Container>
 
       {/* <Footer /> */}

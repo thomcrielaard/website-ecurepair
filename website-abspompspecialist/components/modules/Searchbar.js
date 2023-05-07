@@ -4,8 +4,8 @@ import UseDimensions from "@/services/UseDimensions";
 import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
 
-import Title from "@/components/modules/text/Title";
-import Text from "@/components/modules/text/Text";
+import Title from "@/components/text/Title";
+import Text from "@/components/text/Text";
 import Button from "@/components/modules/Button";
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 
@@ -57,8 +57,9 @@ export default function Searchbar(props) {
                 fontSize: 18,
                 fontWeight: 600,
               }}
+              defaultValue={"DEFAULT"}
             >
-              <option value="" disabled selected style={{ fontWeight: 500 }}>
+              <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
                 Selecteer merk
               </option>
               <option value="opel" style={{ fontWeight: 500 }}>
@@ -87,8 +88,9 @@ export default function Searchbar(props) {
                 fontSize: 18,
                 fontWeight: 600,
               }}
+              defaultValue={"DEFAULT"}
             >
-              <option value="" disabled selected style={{ fontWeight: 500 }}>
+              <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
                 Selecteer model
               </option>
               <option value="astra" style={{ fontWeight: 500 }}>
@@ -117,8 +119,9 @@ export default function Searchbar(props) {
                 fontSize: 18,
                 fontWeight: 600,
               }}
+              defaultValue={"DEFAULT"}
             >
-              <option value="" disabled selected style={{ fontWeight: 500 }}>
+              <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
                 Selecteer type
               </option>
               <option value="opel" style={{ fontWeight: 500 }}>

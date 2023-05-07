@@ -15,6 +15,7 @@ export default function Button(props) {
       className="hover"
       href={props.href ?? ""}
       style={{
+        width: "fit-content",
         backgroundColor:
           props.backgroundColor != undefined
             ? hover
@@ -36,11 +37,11 @@ export default function Button(props) {
             : Colors.WHITE,
         fontFamily: "poppins",
         fontWeight: 500,
-        fontSize: "1em",
-        letterSpacing: size.width < Breakpoints.sm ? 3 : 5,
+        fontSize: props.small ? 12 : "1em",
+        letterSpacing: props.small ? 2 : size.width < Breakpoints.sm ? 3 : 5,
         transition: ".3s ease-in-out",
         cursor: hover ? "pointer" : "auto",
-        padding: "10px 25px",
+        padding: props.small ? "5px 15px" : "10px 25px",
         textAlign: "center",
         ...props.style,
       }}
