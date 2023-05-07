@@ -54,6 +54,10 @@ export default function Cards(props) {
                   : "calc(100% + 75px)",
               width: "100%",
               backgroundColor: Colors.RED,
+              WebkitClipPath:
+                size.width < Breakpoints.md
+                  ? "polygon(0 0, 100% 0, 100% calc(100% - 30px), 50% 100%, 0 calc(100% - 30px))"
+                  : "polygon(0 0, calc(100% + 1px) 0, calc(100% + 1px) 100%, 0 calc(100% - 75px))",
               clipPath:
                 size.width < Breakpoints.md
                   ? "polygon(0 0, 100% 0, 100% calc(100% - 30px), 50% 100%, 0 calc(100% - 30px))"
@@ -118,6 +122,10 @@ export default function Cards(props) {
                   : "calc(100% + 75px)",
               width: "100%",
               backgroundColor: Colors.GRAY,
+              WebkitClipPath:
+                size.width < Breakpoints.md
+                  ? "polygon(0 0, 100% 0, 100% calc(100% - 30px), 50% 100%, 0 calc(100% - 30px))"
+                  : "polygon(0 0, calc(100% + 1px) 0, calc(100% + 1px) calc(100% - 75px), 0 100%)",
               clipPath:
                 size.width < Breakpoints.md
                   ? "polygon(0 0, 100% 0, 100% calc(100% - 30px), 50% 100%, 0 calc(100% - 30px))"

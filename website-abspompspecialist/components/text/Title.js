@@ -15,6 +15,9 @@ function calculateTitleFontSize(size, width) {
         : width < Breakpoints.xl
         ? "1.3em"
         : "1.4em";
+    case "sm":
+    case "xs":
+      return width < Breakpoints.sm ? "1.4em" : "1.5em";
     case "md":
       return width < Breakpoints.sm
         ? "1.5em"
@@ -31,12 +34,12 @@ function calculateTitleFontSize(size, width) {
         : width < Breakpoints.xl
         ? "2.25em"
         : "2.5em";
-    // case "xl":
-    //   return width < Breakpoints.xs
-    //     ? "2.5em"
-    //     : width < Breakpoints.lg
-    //     ? "3.5em"
-    //     : "4.5em";
+    case "xl":
+      return width < Breakpoints.sm
+        ? "2.5em"
+        : width < Breakpoints.xl
+        ? "2.75em"
+        : "3em";
   }
 }
 
@@ -65,14 +68,19 @@ export default function Title(props) {
           style={{
             display: "flex",
             flexDirection: "row",
-            justifyContent: "center",
-            width: props.underlineSize ?? 125,
-            height: 4,
-            backgroundColor: props.underlineColor ?? Colors.BLUE,
-            margin: "15px 0",
-            ...props.underlineStyle,
+            justifyContent: props.align === "left" ? "flex-start" : "center",
           }}
-        />
+        >
+          <div
+            style={{
+              width: props.underlineSize ?? 125,
+              height: 4,
+              backgroundColor: props.underlineColor ?? Colors.RED,
+              margin: "15px 0",
+              ...props.underlineStyle,
+            }}
+          />
+        </div>
       )}
     </>
   );

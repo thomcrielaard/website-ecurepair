@@ -33,16 +33,22 @@ export default function ProductCards(props) {
                 : size.width < Breakpoints.lg
                 ? "48%"
                 : "22%",
+            alignSelf: "stretch",
+            boxShadow: "0px 0px 10px 0px rgba(0,0,0,0.15)",
+            WebkitBoxShadow: "0px 0px 10px 0px rgba(0,0,0,0.15)",
+            display: "flex",
+            flexDirection: "column",
           }}
         >
           <div
             style={{
               width: "100%",
-              aspectRatio: props.square ? "6/5  " : "1920/1080",
+              aspectRatio: props.square ? "6/5  " : "5/3",
               position: "relative",
             }}
           >
             <Image
+              sizes={`(min-width: ${Breakpoints.lg}) 25vw, (min-width: ${Breakpoints.xs}) 50vw, 100vw`}
               src={item.img}
               alt={item.title}
               fill
@@ -56,15 +62,25 @@ export default function ProductCards(props) {
               justifyContent: "space-between",
               padding: 20,
               gap: 15,
-              boxShadow: "0px 0px 10px 0px rgba(0,0,0,0.15)",
+              flexGrow: 1,
             }}
           >
-            <Title text={item.title} size="xs" />
-            <Text
-              text={item.description}
-              style={{ margin: 0, fontSize: 15, color: Colors.LIGHTGRAY }}
-              align="left"
-            />
+            <div>
+              <Title
+                text={item.title}
+                size="xs"
+                style={{ wordWrap: "break-word" }}
+              />
+              <Text
+                text={item.description}
+                style={{
+                  margin: "12px 0 0 0",
+                  fontSize: 15,
+                  color: Colors.LIGHTGRAY,
+                }}
+                align="left"
+              />
+            </div>
             <div
               style={{
                 display: "flex",
@@ -73,17 +89,15 @@ export default function ProductCards(props) {
                 gap: 10,
               }}
             >
-              {props.button && (
-                <Button
-                  text="MEER LEZEN"
-                  href={item.href}
-                  color={Colors.LIGHTGRAY}
-                  hoverColor={Colors.GRAY}
-                  borderColor={Colors.LIGHTGRAY}
-                  hoverBorderColor={Colors.GRAY}
-                  small
-                />
-              )}
+              <Button
+                text="MEER LEZEN"
+                href={item.href}
+                color={Colors.GRAY}
+                hoverColor={Colors.RED}
+                borderColor={Colors.LIGHTGRAY}
+                hoverBorderColor={Colors.RED}
+                small
+              />
               {props.price && (
                 <span
                   style={{
@@ -100,6 +114,26 @@ export default function ProductCards(props) {
           </div>
         </div>
       ))}
+      {props.buttonText != undefined && (
+        <div
+          style={{
+            width: "100%",
+            marginTop: 40,
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
+          <Button
+            style={{}}
+            text={props.buttonText}
+            href={props.buttonLink}
+            color={Colors.GRAY}
+            hoverColor={Colors.RED}
+            borderColor={Colors.GRAY}
+            hoverBorderColor={Colors.RED}
+          />
+        </div>
+      )}
     </div>
   );
 }
