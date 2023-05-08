@@ -75,14 +75,17 @@ export default function Footer(props) {
                 <FooterIcon
                   icon={<Google width={15} />}
                   href="https://www.google.com/maps/place/Car+Assist+B.v./@51.9051848,5.9110414,14.25z/data=!4m10!1m2!2m1!1scar+assist!3m6!1s0x47c7a71efb895555:0xc42500fe1eda4cfe!8m2!3d51.9121874!4d5.9198848!15sCgpjYXIgYXNzaXN04AEA!16s%2Fg%2F11j1hyjwnv"
+                  ariaLabel="Vind ons op Google"
                 />
                 <FooterIcon
                   icon={<Phone width={15} />}
                   href="tel:+31262340042"
+                  ariaLabel="Bel nu"
                 />
                 <FooterIcon
                   icon={<Mail width={40} />}
                   href="mailto:info@carassist.nl"
+                  ariaLabel="Mail nu"
                 />
               </div>
             </div>
@@ -275,6 +278,7 @@ function FooterIcon(props) {
         transition: ".3s ease-in-out",
       }}
       href={props.href}
+      aria-label={props.ariaLabel}
     >
       {newIcon}
     </Link>

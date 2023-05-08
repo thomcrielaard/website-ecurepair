@@ -91,6 +91,7 @@ function DesktopNavbar(props) {
                 alignItems: "center",
               }}
               onClick={() => alert("Hi")}
+              aria-label="Onderdeel zoeken"
             >
               <MagnifyingGlass
                 width={size.width < Breakpoints.lg ? 14 : 18}
@@ -177,6 +178,7 @@ function MobileNavbar(props) {
                 alignItems: "center",
               }}
               onClick={() => alert("Hi")}
+              aria-label="Onderdeel zoeken"
             >
               <MagnifyingGlass
                 width={size.width < Breakpoints.lg ? 14 : 18}
