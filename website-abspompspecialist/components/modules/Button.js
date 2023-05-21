@@ -47,7 +47,7 @@ export default function Button(props) {
       }}
       onMouseEnter={() => setHover(true)}
       onMouseLeave={() => setHover(false)}
-      scroll={false}
+      scroll={props.scroll ?? true}
     >
       {props.text}
     </Link>

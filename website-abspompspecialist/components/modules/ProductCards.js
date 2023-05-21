@@ -49,6 +49,7 @@ export default function ProductCards(props) {
           >
             <Image
               sizes={`(min-width: ${Breakpoints.lg}) 25vw, (min-width: ${Breakpoints.xs}) 50vw, 100vw`}
+              placeholder="blur"
               src={item.img}
               alt={item.title}
               fill

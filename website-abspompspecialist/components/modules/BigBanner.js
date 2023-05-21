@@ -65,6 +65,7 @@ export default function BigBanner(props) {
             backgroundColor={Colors.RED}
             color={Colors.WHITE}
             href="#search"
+            scroll={false}
           />
         </Container>
       </div>

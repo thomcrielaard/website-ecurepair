@@ -1,4 +1,5 @@
 import * as React from "react";
+import Image from "next/image";
 import { useRouter } from "next/router";
 
 import { Spin as Hamburger } from "hamburger-react";
@@ -12,11 +13,28 @@ import Container from "@/components/containers/Container";
 import TextLink from "@/components/text/TextLink";
 
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
+import Background from "@/assets/img/about-repair.jpg";
 
 export default function Navbar(props) {
   const size = UseDimensions();
+  const [showNavbar, setShowNavbar] = React.useState(false);
 
-  return size.width < Breakpoints.sm ? <MobileNavbar /> : <DesktopNavbar />;
+  const handleScroll = () => {
+    setShowNavbar(window.scrollY > 30);
+  };
+
+  React.useEffect(() => {
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  });
+
+  return size.width < Breakpoints.sm ? (
+    <MobileNavbar transparent={props.transparent} showNavbar={showNavbar} />
+  ) : (
+    <DesktopNavbar transparent={props.transparent} showNavbar={showNavbar} />
+  );
 }
 
 function DesktopNavbar(props) {
@@ -25,13 +43,59 @@ function DesktopNavbar(props) {
 
   return (
     <>
+      {!props.transparent && (
+        <div
+          style={{
+            position: "relative",
+            zIndex: 998,
+            top: 0,
+            left: 0,
+            width: "100%",
+            height:
+              size.width < Breakpoints.sm
+                ? 125
+                : size.width < Breakpoints.lg
+                ? 150
+                : 175,
+            clipPath:
+              size.width < Breakpoints.md
+                ? "polygon(0 0, 100% 0, 100% calc(100% - 30px), 50% 100%, 0 calc(100% - 30px))"
+                : "polygon(0 0, 100% 0, 100% calc(100% - 65px), 50% 100%, 0 calc(100% - 65px))",
+          }}
+        >
+          <Image
+            src={Background}
+            fill
+            sizes="100vw"
+            placeholder="blur"
+            alt="Navbar"
+            style={{ objectFit: "cover", zIndex: -1 }}
+          />
+          <div
+            style={{
+              position: "absolute",
+              zIndex: 0,
+              backgroundColor: `${Colors.BLACK}BB`,
+              width: "100%",
+              height: "100%",
+            }}
+          />
+        </div>
+      )}
       <Container
         paddingVert="15px"
         background="transparent"
         style={{
-          position: "absolute",
+          position: "fixed",
           top: 0,
           zIndex: 1000,
+          backgroundColor: props.showNavbar
+            ? `${Colors.DARKGRAY}FA`
+            : "transparent",
+          borderBottom: `1px solid ${
+            props.showNavbar ? Colors.DARKGRAY : "transparent"
+          }`,
+          transition: "all .3s ease-in-out",
         }}
       >
         <div
@@ -90,7 +154,7 @@ function DesktopNavbar(props) {
                 justifyContent: "center",
                 alignItems: "center",
               }}
-              onClick={() => alert("Hi")}
+              onClick={() => {}}
               aria-label="Onderdeel zoeken"
             >
               <MagnifyingGlass
@@ -124,15 +188,63 @@ function MobileNavbar(props) {
 
   return (
     <>
+      {!props.transparent && (
+        <div
+          style={{
+            position: "relative",
+            zIndex: 998,
+            top: 0,
+            left: 0,
+            width: "100%",
+            height:
+              size.width < Breakpoints.sm
+                ? 125
+                : size.width < Breakpoints.lg
+                ? 150
+                : 175,
+            clipPath:
+              size.width < Breakpoints.md
+                ? "polygon(0 0, 100% 0, 100% calc(100% - 30px), 50% 100%, 0 calc(100% - 30px))"
+                : "polygon(0 0, 100% 0, 100% calc(100% - 65px), 50% 100%, 0 calc(100% - 65px))",
+          }}
+        >
+          <Image
+            src={Background}
+            fill
+            sizes="100vw"
+            placeholder="blur"
+            alt="Navbar"
+            style={{ objectFit: "cover", zIndex: -1 }}
+          />
+          <div
+            style={{
+              position: "absolute",
+              zIndex: 0,
+              backgroundColor: `${Colors.BLACK}BB`,
+              width: "100%",
+              height: "100%",
+            }}
+          />
+        </div>
+      )}
       <MobileNavExpanded open={isOpen} setOpen={setOpen} />
       <Container
         paddingVert="15px"
         background="transparent"
         style={{
-          position: "absolute",
+          position: "fixed",
           top: 0,
           zIndex: 1000,
           minWidth: 300,
+          backgroundColor: props.showNavbar
+            ? isOpen
+              ? Colors.GRAY
+              : `${Colors.DARKGRAY}FA`
+            : "transparent",
+          borderBottom: `1px solid ${
+            !isOpen && props.showNavbar ? Colors.DARKGRAY : "transparent"
+          }`,
+          transition: "all .3s ease-in-out",
         }}
       >
         <div
@@ -215,6 +327,7 @@ function MobileNavExpanded(props) {
         style={{
           height: "100%",
           position: "fixed",
+          top: 0,
           width: size.width < Breakpoints.xs ? "100%" : 300,
           backgroundColor: Colors.GRAY,
           transform: props.open ? "translateX(0)" : "translateX(-100%)",
@@ -224,7 +337,7 @@ function MobileNavExpanded(props) {
           boxShadow: "0px 0px 10px 5px #00000040",
           overflow: "hidden",
         }}
-        paddingVert="15px"
+        paddingVert="30px"
       >
         <div
           style={{

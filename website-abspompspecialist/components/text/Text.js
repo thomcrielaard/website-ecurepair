@@ -9,6 +9,7 @@ export default function Text(props) {
 
   return (
     <div
+      ref={props.forwardRef}
       style={{
         width: "100%",
         display: "flex",
