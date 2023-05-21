@@ -25,7 +25,7 @@ export default function ParallexBanner(props) {
           clipPath:
             size.width < Breakpoints.md
               ? "polygon(0 0, 50% 30px, 100% 0, 100% calc(100% - 30px), 50% 100%, 0 calc(100% - 30px))"
-              : "polygon(0 0, 50% 85px, 100% 0, 100% calc(100% - 85px), 50% 100%, 0 calc(100% - 85px))",
+              : "polygon(0 0, 50% 65px, 100% 0, 100% calc(100% - 65px), 50% 100%, 0 calc(100% - 65px))",
         }}
       >
         <div
@@ -44,7 +44,6 @@ export default function ParallexBanner(props) {
           placeholder="blur"
           sizes="100vw"
           fill
-          priority
         />
 
         <Container paddingVert={0} style={{ zIndex: 1, position: "relative" }}>
@@ -52,7 +51,7 @@ export default function ParallexBanner(props) {
             style={{
               padding: `${
                 size.width < Breakpoints.md ? "80" : "135"
-              }px 0 85px 0`,
+              }px 0 65px 0`,
               display: "flex",
               flexDirection: "column",
               justifyContent: "center",
@@ -79,7 +78,7 @@ export default function ParallexBanner(props) {
               backgroundColor={Colors.WHITE}
               color={Colors.GRAY}
               hoverColor={Colors.RED}
-              href="#search"
+              href="/overons"
             />
           </div>
         </Container>

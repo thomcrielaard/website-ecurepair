@@ -12,42 +12,45 @@ export default function SideContainer(props) {
         style={{
           width: "100%",
           display: "flex",
-          flexDirection: size.width < Breakpoints.sm ? "column" : "row",
-          justifyContent: "center",
-          alignItems: "center",
+          flexDirection:
+            size.width < Breakpoints.sm
+              ? props.reverse
+                ? "column-reverse"
+                : "column"
+              : "row",
+          justifyContent: "space-between",
+          alignItems: props.alignTop ? "flex-start" : "center",
+          gap: 50,
+          ...props.style,
         }}
       >
         <div
           style={{
             width:
               size.width < Breakpoints.sm
-                ? "90%"
+                ? "100%"
                 : props.contentLeft
-                ? "65%"
+                ? "63%"
                 : props.contentRight
-                ? "35%"
-                : "50%",
+                ? "33%"
+                : "48%",
           }}
         >
-          {props.resizeFlipped && size.width < Breakpoints.sm
-            ? props.right
-            : props.left}
+          {props.left}
         </div>
         <div
           style={{
             width:
               size.width < Breakpoints.sm
-                ? "90%"
+                ? "100%"
                 : props.contentLeft
-                ? "35%"
+                ? "33%"
                 : props.contentRight
-                ? "65%"
-                : "50%",
+                ? "63%"
+                : "48%",
           }}
         >
-          {props.resizeFlipped && size.width < Breakpoints.sm
-            ? props.left
-            : props.right}
+          {props.right}
         </div>
       </div>
     </>

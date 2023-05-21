@@ -29,7 +29,7 @@ export default function Footer(props) {
           clipPath:
             size.width < Breakpoints.md
               ? "polygon(0 0, 50% 30px, 100% 0, 100% calc(100% + 1px), 0 calc(100% + 1px))"
-              : "polygon(0 0, 50% 85px, 100% 0, 100% calc(100% + 1px), 0 calc(100% + 1px))",
+              : "polygon(0 0, 50% 65px, 100% 0, 100% calc(100% + 1px), 0 calc(100% + 1px))",
         }}
       >
         <Container paddingVert={0} backgroundColor={Colors.GRAY}>
@@ -63,7 +63,14 @@ export default function Footer(props) {
               <Link href="/">
                 <Logo width="200px" />
               </Link>
-              <div>
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  alignItems:
+                    size.width < Breakpoints.xs ? "center" : "flex-start",
+                }}
+              >
                 <FooterLink
                   text="info@carassist.nl"
                   href="mailto:info@carassist.nl"
@@ -71,7 +78,14 @@ export default function Footer(props) {
                 <FooterLink text="+31(0)26-2340042" href="tel:+31262340042" />
                 <FooterLink text="Ma-Vr. 9:00 - 18:00" href="/contact" />
               </div>
-              <div style={{ display: "flex", gap: 10 }}>
+              <div
+                style={{
+                  display: "flex",
+                  gap: 10,
+                  justifyContent:
+                    size.width < Breakpoints.xs ? "center" : "flex-start",
+                }}
+              >
                 <FooterIcon
                   icon={<Google width={15} />}
                   href="https://www.google.com/maps/place/Car+Assist+B.v./@51.9051848,5.9110414,14.25z/data=!4m10!1m2!2m1!1scar+assist!3m6!1s0x47c7a71efb895555:0xc42500fe1eda4cfe!8m2!3d51.9121874!4d5.9198848!15sCgpjYXIgYXNzaXN04AEA!16s%2Fg%2F11j1hyjwnv"
@@ -106,7 +120,14 @@ export default function Footer(props) {
               }}
             >
               <Title text="SNEL NAAR" color={Colors.WHITE} size="sm" />
-              <div>
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  alignItems:
+                    size.width < Breakpoints.xs ? "center" : "flex-start",
+                }}
+              >
                 <FooterLink text="Home" href="/" bar={router.pathname == "/"} />
                 <FooterLink
                   text="Over ons"
@@ -171,10 +192,22 @@ export default function Footer(props) {
               }}
             >
               <Title text="GEGEVENS" color={Colors.WHITE} size="sm" />
-              <div>
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  alignItems:
+                    size.width < Breakpoints.xs ? "center" : "flex-start",
+                }}
+              >
                 <FooterLink
                   text={
-                    <span>
+                    <span
+                      style={{
+                        textAlign:
+                          size.width < Breakpoints.xs ? "center" : "left",
+                      }}
+                    >
                       Handelsstraat 20-A
                       <br />
                       6851EH Huissen
@@ -183,7 +216,14 @@ export default function Footer(props) {
                   href="https://www.google.com/maps/place/Car+Assist+B.v./@51.9051848,5.9110414,14.25z/data=!4m10!1m2!2m1!1scar+assist!3m6!1s0x47c7a71efb895555:0xc42500fe1eda4cfe!8m2!3d51.9121874!4d5.9198848!15sCgpjYXIgYXNzaXN04AEA!16s%2Fg%2F11j1hyjwnv"
                 />
               </div>
-              <div>
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  alignItems:
+                    size.width < Breakpoints.xs ? "center" : "flex-start",
+                }}
+              >
                 <FooterLink text="Algemene voorwaarden" href="#" bar />
                 <FooterLink text="Privacyverklaring" href="#" bar />
               </div>

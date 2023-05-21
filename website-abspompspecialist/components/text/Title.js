@@ -7,6 +7,12 @@ import Colors from "@/styles/Colors";
 
 function calculateTitleFontSize(size, width) {
   switch (size) {
+    case "xxs":
+      return width < Breakpoints.sm
+        ? "1.1em"
+        : width < Breakpoints.lg
+        ? "1.2em"
+        : "1.25em";
     case "xs":
       return width < Breakpoints.sm
         ? "1.1em"
