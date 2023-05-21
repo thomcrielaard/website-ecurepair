@@ -77,7 +77,7 @@ export default function Cards(props) {
           >
             <Tools fill={`${Colors.WHITE}50`} height={100} />
             <Title
-              text="AUTO ELECTRONICA REVISIE"
+              text="ABS POMP REPARATIE"
               color={Colors.WHITE}
               align="center"
               size="md"
@@ -86,7 +86,7 @@ export default function Cards(props) {
               color={Colors.WHITE}
               align="center"
               style={{ margin: 0 }}
-              text="Car Assist heeft een uitgebreid assortiment met: ABS ECU, ECU, instrumentenpaneel, gasklephuis, TCU en nog een tal van andere elektronische onderdelen. Deze producten zijn voorzien van een diversiteit aan elektronische componenten die defect kunnen raken. "
+              text="Heeft uw ABS systeem problemen? Onze specialisten bieden snelle en efficiënte reparaties. Wij identificeren het probleem, repareren uw ABS pomp en zorgen ervoor dat u weer veilig de weg op kunt. Maak een afspraak voor uw ABS pomp reparatie. "
             />
           </div>
           <Button
@@ -147,7 +147,7 @@ export default function Cards(props) {
           >
             <Gears fill={`${Colors.WHITE}50`} height={100} />
             <Title
-              text="DIAGNOSE APPARATUUR"
+              text="ABS POMP REVISIE"
               color={Colors.WHITE}
               align="center"
               size="md"
@@ -156,7 +156,7 @@ export default function Cards(props) {
               color={Colors.WHITE}
               align="center"
               style={{ margin: 0 }}
-              text="Car Assist BV dé specialist in levering en ondersteuning van diverse merken diagnose apparatuur voor auto’s en trucks en speciale voertuigen. Dit maakt het mogelijk om, afhankelijk van de diagnosebehoefte van de werkplaats, advies op maatwerk te geven."
+              text="ABS Pomp Specialist biedt uitgebreide diensten voor ABS pomp revisies. Onze gekwalificeerde monteurs hebben jarenlange ervaring met ABS pompen van diverse automerken. We voeren een grondige inspectie uit en reviseren uw ABS pomp vakkundig."
             />
           </div>
           <Button

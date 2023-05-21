@@ -68,7 +68,7 @@ export default function ParallexBanner(props) {
             />
 
             <Text
-              text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget libero pretium, vestibulum ex sit amet, tincidunt metus. Donec eget auctor ipsum. Aliquam in erat id est lacinia pharetra id eget sem. Ut sit amet tellus at eros tempus accumsan. Nulla at nisi ac est maximus aliquam."
+              text="Bij ABS Pomp Specialist bieden we professionele reparatie en revisie van ABS pompen. We identificeren en lossen ABS problemen op en vervangen indien nodig uw ABS pomp. Met ons vakkundig team en moderne diagnose apparatuur zorgen we voor een efficiënte service."
               color={Colors.WHITE}
               align="center"
               slim

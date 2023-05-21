@@ -17,6 +17,7 @@ export default function Container(props) {
           width: "100%",
           ...props.style,
         }}
+        id={props.id}
       >
         <div
           style={{

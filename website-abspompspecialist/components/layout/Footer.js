@@ -151,7 +151,7 @@ export default function Footer(props) {
                 align={size.width < Breakpoints.xs ? "center" : "left"}
                 style={{ margin: 0 }}
                 color={Colors.MEDIUMWHITE}
-                text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend. Duis varius orci eget lacus hendrerit, rutrum pretium est laoreet. Sed tempor iaculis dolor. "
+                text="ABS Pomp Specialist is een toonaangevende expert op het gebied van ABS pomp reparatie en revisie. Wij bieden een snelle, efficiënte en hoogwaardige service voor al uw ABS gerelateerde problemen. Ons team van ervaren monteurs staat altijd klaar om u te helpen. Uw veiligheid en tevredenheid zijn onze topprioriteiten."
               />
             </div>
             <div

@@ -13,6 +13,7 @@ import BigBanner from "@/components/modules/BigBanner";
 import ProductCards from "@/components/modules/ProductCards";
 import ParallexBanner from "@/components/modules/ParallexBanner";
 import ErrorCodes from "@/components/modules/ErrorCodes";
+import Cards from "@/components/modules/Cards";
 
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
@@ -34,10 +35,12 @@ export default function Home() {
 
       <BigBanner />
 
-      <Container>
+      <Cards />
+
+      <Container id="search">
         <Title text="VIND JOUW MODEL" size="lg" align="center" />
         <Text
-          text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend. Duis varius orci eget lacus hendrerit, rutrum pretium est laoreet. Sed tempor iaculis dolor."
+          text="Zoek uw specifieke ABS pomp model op onze website. Voer eenvoudig het onderdeelnummer van uw ABS pomp in of zoek op uw model auto en ontdek de reparatiekosten. Wij bieden reparaties voor diverse automerken en modellen."
           align="center"
           slim
         />
@@ -96,7 +99,7 @@ export default function Home() {
         />
         <Text
           align="center"
-          text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend. Duis varius orci eget lacus hendrerit, rutrum pretium est laoreet. Sed tempor iaculis dolor."
+          text="Ontdek de meest voorkomende ABS pomp fouten voor verschillende automerken. Selecteer uw merk en krijg een overzicht van veelvoorkomende problemen. Klik op een probleem voor een uitgebreide beschrijving en mogelijke oplossingen."
           slim
         />
         <ErrorCodes />

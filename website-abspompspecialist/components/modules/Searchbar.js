@@ -13,7 +13,7 @@ export default function Searchbar(props) {
   const size = UseDimensions();
 
   return (
-    <div style={{ display: "flex", justifyContent: "center" }} id="search">
+    <div style={{ display: "flex", justifyContent: "center" }}>
       <div
         style={{
           display: "flex",

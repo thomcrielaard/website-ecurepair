@@ -8,7 +8,6 @@ import Colors from "@/styles/Colors";
 import Container from "@/components/containers/Container";
 import Text from "@/components/text/Text";
 import Button from "@/components/modules/Button";
-import Cards from "@/components/modules/Cards";
 
 import Header from "@/assets/img/header-home.jpg";
 
@@ -49,7 +48,7 @@ export default function BigBanner(props) {
           <Logo width={size.width < Breakpoints.xs ? "200px" : "300px"} />
 
           <Text
-            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend. Duis varius orci eget lacus hendrerit, rutrum pretium est laoreet. Sed tempor iaculis dolor."
+            text="Bent u op zoek naar een specialist in ABS pomp reparatie of revisie? ABS Pomp Specialist biedt u hoogwaardige, snelle en betrouwbare diensten. Ons team van ervaren technici zorgt ervoor dat u weer veilig de weg op kunt."
             color={Colors.WHITE}
             align="center"
             style={{ textShadow: "0px 0px 4px #000000" }}
@@ -69,8 +68,6 @@ export default function BigBanner(props) {
           />
         </Container>
       </div>
-
-      <Cards />
     </>
   );
 }
