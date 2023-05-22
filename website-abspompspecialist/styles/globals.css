@@ -144,6 +144,12 @@ a {
   cursor: pointer;
 }
 
+input:focus,
+textarea:focus {
+  outline: none !important;
+  border-bottom: 1px solid #e41515 !important;
+}
+
 .navbar-search::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: #cccccc80;
