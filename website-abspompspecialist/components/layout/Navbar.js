@@ -275,54 +275,13 @@ function MobileNavbar(props) {
               alignItems: "center",
             }}
           >
-            <Hamburger toggled={isOpen} toggle={setOpen} color={Colors.WHITE} />
-          </div>
-          {/* <div
-            style={{
-              width: "75%",
-              maxWidth: 300,
-              color: Colors.MEDIUMWHITE,
-              backgroundColor: `${Colors.WHITE}25`,
-              display: "flex",
-              alignItems: "center",
-              height: 42,
-            }}
-          >
-            <button
-              className="hover"
-              style={{
-                width: 48,
-                height: 28,
-                border: 0,
-                padding: 0,
-                backgroundColor: "transparent",
-                display: "flex",
-                justifyContent: "center",
-                alignItems: "center",
-              }}
-              onClick={() => {}}
-              aria-label="Onderdeel zoeken"
-            >
-              <MagnifyingGlass
-                width={size.width < Breakpoints.lg ? 14 : 18}
-                color={Colors.WHITE}
-              />
-            </button>
-            <input
-              className="navbar-search"
-              style={{
-                backgroundColor: "transparent",
-                height: 28,
-                padding: "6px 0",
-                border: 0,
-                fontFamily: "lato",
-                fontWeight: 500,
-                fontSize: "1em",
-                width: "100%",
-              }}
-              placeholder="Onderdelen zoeken"
+            <Hamburger
+              toggled={isOpen}
+              toggle={setOpen}
+              color={Colors.WHITE}
+              label="Toggle navigatiebalk"
             />
-          </div> */}
+          </div>
 
           <div
             style={{
