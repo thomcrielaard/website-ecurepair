@@ -45,11 +45,13 @@ const Logo = (props) => (
         color: props.color ?? "#FFFFFF",
         fontFamily: "lato",
         fontWeight: 800,
-        fontSize: `calc(${props.width} / 7)`,
-        letterSpacing: `calc(${props.width} / 50)`,
+        fontSize: `calc(${props.width} / 13)`,
+        letterSpacing: `calc(${props.width} / 100)`,
+        whiteSpace: "nowrap",
+        margin: `calc(${props.width} / 50) 0 calc(${props.width} / 75) 0`,
       }}
     >
-      CAR ASSIST
+      ABS POMP SPECIALIST
     </span>
     <span
       style={{
@@ -60,7 +62,7 @@ const Logo = (props) => (
         letterSpacing: `calc(${props.width} / 150)`,
       }}
     >
-      AUTOMOTIVE SOLUTIONS
+      REVISIE EN REPARATIE
     </span>
   </div>
 );

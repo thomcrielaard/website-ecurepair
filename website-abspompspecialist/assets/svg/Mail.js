@@ -5,6 +5,7 @@ const Mail = (props) => (
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 177.3 186.5"
     xmlSpace="preserve"
+    style={{ margin: "-10px" }}
     {...props}
   >
     <path

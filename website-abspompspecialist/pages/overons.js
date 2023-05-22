@@ -28,7 +28,7 @@ export default function OverOns() {
   return (
     <>
       <Head>
-        <title>ABS Specialist &#8211; Over ons</title>
+        <title>ABS Pomp Specialist &#8211; Over ons</title>
         <meta name="description" content="" />
       </Head>
 
