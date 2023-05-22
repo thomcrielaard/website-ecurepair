@@ -69,6 +69,7 @@ export default function OverOns() {
                 fill
                 sizes={`(min-width: ${Breakpoints.sm}) 45vw, 100vw`}
                 placeholder="blur"
+                priority
               />
             </div>
           }
