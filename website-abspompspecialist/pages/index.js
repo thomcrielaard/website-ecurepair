@@ -47,7 +47,13 @@ export default function Home() {
           align="center"
           slim
         />
-        <Searchbar />
+        <Text
+          text="Onze website is momenteel onder constructie. U kunt hier later terugkeren om uw model te zoeken, of u kunt direct contact met ons opnemen via de contactpagina."
+          align="center"
+          style={{ fontStyle: "italic" }}
+          slim
+        />
+        {/* <Searchbar />
         <ProductCards
           items={[
             {
@@ -88,7 +94,7 @@ export default function Home() {
           square
           button
           price
-        />
+        /> */}
       </Container>
 
       <ParallexBanner />
@@ -105,7 +111,13 @@ export default function Home() {
           text="Ontdek de meest voorkomende ABS pomp fouten voor verschillende automerken. Selecteer uw merk en krijg een overzicht van veelvoorkomende problemen. Klik op een probleem voor een uitgebreide beschrijving en mogelijke oplossingen."
           slim
         />
-        <ErrorCodes />
+        <Text
+          text="Onze website is momenteel onder constructie. U kunt hier later terugkeren om veelvoorkomende fouten te bekijken, of u kunt direct contact met ons opnemen via de contactpagina."
+          align="center"
+          style={{ fontStyle: "italic" }}
+          slim
+        />
+        {/* <ErrorCodes /> */}
       </Container>
 
       <Footer />

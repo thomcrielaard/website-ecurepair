@@ -31,7 +31,7 @@ export default function TextLink(props) {
             <div
               style={{
                 height: props.fontSize,
-                width: 2,
+                width: 2.5,
                 marginTop: 2,
                 backgroundColor: Colors.RED,
               }}

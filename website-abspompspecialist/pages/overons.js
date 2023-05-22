@@ -18,9 +18,10 @@ import Button from "@/components/modules/Button";
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 
-import Product1 from "@/assets/img/abs.jpg";
-import tmp from "@/assets/img/about-repair.jpg";
-import Product2 from "@/assets/img/airbag.jpg";
+import About from "@/assets/img/overons.png";
+import AboutRepair from "@/assets/img/about-repair.jpg";
+import AboutDiagnostics from "@/assets/img/about-diagnostics.jpg";
+import AboutRevision from "@/assets/img/about-revision.jpg";
 
 export default function OverOns() {
   const size = UseDimensions();
@@ -62,8 +63,8 @@ export default function OverOns() {
               }}
             >
               <Image
-                src={tmp}
-                alt="Monteur"
+                src={About}
+                alt="ABS Pomp"
                 style={{ objectFit: "cover" }}
                 fill
                 sizes={`(min-width: ${Breakpoints.sm}) 45vw, 100vw`}
@@ -117,17 +118,17 @@ export default function OverOns() {
                 {
                   title: "ABS Pomp Reparatie",
                   text: "Het functioneren van een ABS pomp is cruciaal voor de veiligheid van uw voertuig. Een defect kan niet alleen uw veiligheid in gevaar brengen, maar kan ook leiden tot verdere schade aan uw auto. Ons team van ervaren monteurs, gewapend met de benodigde technische kennis, is uiterst bedreven in het diagnosticeren en repareren van dergelijke defecten. Met uiterste precisie en toewijding werken zij om uw ABS pomp te herstellen, en zo uw voertuig weer in topconditie te brengen, voor een zorgeloze en veilige rijervaring.",
-                  img: tmp,
+                  img: AboutRepair,
                 },
                 {
                   title: "ABS Pomp Revisie",
                   text: "Er zijn situaties waarin een volledige revisie van uw ABS pomp de meest effectieve oplossing is om uw voertuig weer optimaal te laten functioneren. In dergelijke gevallen staan onze hoogopgeleide monteurs klaar met hun diepgaande expertise en de meest geavanceerde apparatuur. Ze zetten hun uitgebreide ervaring en diepgaande technische kennis in om de revisie van uw ABS pomp met de hoogste mate van precisie uit te voeren, en daarmee de veiligheid en betrouwbaarheid van uw voertuig te waarborgen.",
-                  img: tmp,
+                  img: AboutRevision,
                 },
                 {
                   title: "ABS Storing Diagnose",
                   text: "Zijn er aanwijzingen van een ABS storing, maar blijft de oorzaak onduidelijk? Onze hooggekwalificeerde monteurs maken gebruik van state-of-the-art diagnose apparatuur om de onderliggende problemen op te sporen. We stellen een nauwkeurige diagnose en bieden een doelgerichte oplossing om uw ABS systeem weer vlekkeloos te laten functioneren.",
-                  img: tmp,
+                  img: AboutDiagnostics,
                 },
               ]}
             />

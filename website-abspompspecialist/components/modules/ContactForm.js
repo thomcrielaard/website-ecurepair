@@ -61,9 +61,7 @@ export default function ContactForm(props) {
         style={{
           position: "absolute",
           backgroundColor: `${Colors.GRAY}F5`,
-          width: `calc(100% + ${
-            size.width < Breakpoints.md ? "4rem" : "8rem"
-          })`,
+          width: size.width / 2 + 1,
           left: size.width < Breakpoints.sm ? "-2rem" : 0,
           top:
             size.width < Breakpoints.sm
@@ -88,7 +86,7 @@ export default function ContactForm(props) {
       >
         <Title
           color={Colors.WHITE}
-          text="Formulier"
+          text="FORMULIER"
           size="lg"
           underline={true}
           align="center"
@@ -131,7 +129,7 @@ export default function ContactForm(props) {
             backgroundColor: Colors.GRAY,
             borderBottom: `1px solid ${Colors.GRAY}`,
             transition: "border .3s ease-in-out",
-            height: 250,
+            height: 300,
           }}
           placeholder="Waar kunnen we u mee helpen?"
           required

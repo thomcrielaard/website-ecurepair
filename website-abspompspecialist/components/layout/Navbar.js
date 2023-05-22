@@ -13,7 +13,7 @@ import Container from "@/components/containers/Container";
 import TextLink from "@/components/text/TextLink";
 
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
-import Background from "@/assets/img/about-repair.jpg";
+import Background from "@/assets/img/navbar-bg.jpg";
 
 export default function Navbar(props) {
   const size = UseDimensions();
@@ -40,6 +40,7 @@ export default function Navbar(props) {
 function DesktopNavbar(props) {
   const size = UseDimensions();
   const router = useRouter();
+  const [focusSearch, setFocusSearch] = React.useState(false);
 
   return (
     <>
@@ -146,13 +147,17 @@ function DesktopNavbar(props) {
               className="hover"
               style={{
                 width: size.width < Breakpoints.lg ? 48 : 56,
-                height: size.width < Breakpoints.lg ? 36 : 48,
+                height: size.width < Breakpoints.lg ? 36 : 50,
                 border: 0,
+                borderBottom: `1px solid ${
+                  focusSearch ? Colors.RED : "transparent"
+                }`,
                 padding: 0,
                 backgroundColor: "transparent",
                 display: "flex",
                 justifyContent: "center",
                 alignItems: "center",
+                transition: "all .3s ease-in-out",
               }}
               onClick={() => {}}
               aria-label="Onderdeel zoeken"
@@ -163,11 +168,16 @@ function DesktopNavbar(props) {
               />
             </button>
             <input
+              onFocus={() => setFocusSearch(true)}
+              onBlur={() => setFocusSearch(false)}
               className="navbar-search"
               style={{
                 backgroundColor: "transparent",
                 padding: size.width < Breakpoints.lg ? "8px 0" : "12px 0",
+                height: size.width < Breakpoints.lg ? 36 : 50,
                 border: 0,
+                borderBottom: "1px solid transparent",
+                transition: "all .3s ease-in-out",
                 fontFamily: "lato",
                 fontWeight: 500,
                 fontSize: size.width < Breakpoints.lg ? "1rem" : "1.25rem",
@@ -185,6 +195,7 @@ function DesktopNavbar(props) {
 function MobileNavbar(props) {
   const [isOpen, setOpen] = React.useState(false);
   const size = UseDimensions();
+  const [focusSearch, setFocusSearch] = React.useState(false);
 
   return (
     <>
@@ -266,7 +277,7 @@ function MobileNavbar(props) {
           >
             <Hamburger toggled={isOpen} toggle={setOpen} color={Colors.WHITE} />
           </div>
-          <div
+          {/* <div
             style={{
               width: "75%",
               maxWidth: 300,
@@ -289,7 +300,7 @@ function MobileNavbar(props) {
                 justifyContent: "center",
                 alignItems: "center",
               }}
-              onClick={() => alert("Hi")}
+              onClick={() => {}}
               aria-label="Onderdeel zoeken"
             >
               <MagnifyingGlass
@@ -301,11 +312,66 @@ function MobileNavbar(props) {
               className="navbar-search"
               style={{
                 backgroundColor: "transparent",
+                height: 28,
                 padding: "6px 0",
                 border: 0,
                 fontFamily: "lato",
                 fontWeight: 500,
                 fontSize: "1em",
+                width: "100%",
+              }}
+              placeholder="Onderdelen zoeken"
+            />
+          </div> */}
+
+          <div
+            style={{
+              width: "75%",
+              maxWidth: 300,
+              color: Colors.MEDIUMWHITE,
+              backgroundColor: `${Colors.WHITE}25`,
+              display: "flex",
+              alignItems: "center",
+            }}
+          >
+            <button
+              className="hover"
+              style={{
+                width: 48,
+                height: 36,
+                border: 0,
+                borderBottom: `1px solid ${
+                  focusSearch ? Colors.RED : "transparent"
+                }`,
+                padding: 0,
+                backgroundColor: "transparent",
+                display: "flex",
+                justifyContent: "center",
+                alignItems: "center",
+                transition: "all .3s ease-in-out",
+              }}
+              onClick={() => {}}
+              aria-label="Onderdeel zoeken"
+            >
+              <MagnifyingGlass
+                width={size.width < Breakpoints.lg ? 14 : 18}
+                color={Colors.WHITE}
+              />
+            </button>
+            <input
+              onFocus={() => setFocusSearch(true)}
+              onBlur={() => setFocusSearch(false)}
+              className="navbar-search"
+              style={{
+                backgroundColor: "transparent",
+                padding: "8px 0",
+                height: 36,
+                border: 0,
+                borderBottom: "1px solid transparent",
+                transition: "all .3s ease-in-out",
+                fontFamily: "lato",
+                fontWeight: 500,
+                fontSize: "1rem",
                 width: "100%",
               }}
               placeholder="Onderdelen zoeken"
