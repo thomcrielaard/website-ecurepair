@@ -102,8 +102,8 @@ export default function Cards(props) {
             color={Colors.RED}
             hoverColor={Colors.GRAY}
             backgroundColor={Colors.WHITE}
-            text="AFSPRAAK MAKEN"
-            href="/contact"
+            text="NU BELLEN"
+            href="tel:+31262340042"
           />
         </div>
         <div
@@ -172,8 +172,8 @@ export default function Cards(props) {
             color={Colors.GRAY}
             hoverColor={Colors.RED}
             backgroundColor={Colors.WHITE}
-            text="AFSPRAAK MAKEN"
-            href="/contact"
+            text="NU BELLEN"
+            href="tel:+31262340042"
           />
         </div>
       </Container>
