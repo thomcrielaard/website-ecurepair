@@ -29,7 +29,10 @@ export default function OverOns() {
     <>
       <Head>
         <title>ABS Pomp Specialist &#8211; Over ons</title>
-        <meta name="description" content="" />
+        <meta
+          name="description"
+          content="Bij ABS Pomp Specialist zijn we trots op onze toewijding aan uitmuntendheid en klanttevredenheid. Als toonaangevende expert op het gebied van ABS pomp reparatie en revisie, hebben we een team van ervaren monteurs die altijd klaar staan om u te helpen."
+        />
       </Head>
 
       <Navbar />
