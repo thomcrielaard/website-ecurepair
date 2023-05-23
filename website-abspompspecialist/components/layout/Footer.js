@@ -72,8 +72,8 @@ export default function Footer(props) {
                 }}
               >
                 <FooterLink
-                  text="info@carassist.nl"
-                  href="mailto:info@carassist.nl"
+                  text="info@abspompspecialist.nl"
+                  href="mailto:info@abspompspecialist.nl"
                 />
                 <FooterLink text="+31(0)26-2340042" href="tel:+31262340042" />
                 <FooterLink text="Ma-Vr. 9:00 - 18:00" href="/contact" />
@@ -98,7 +98,7 @@ export default function Footer(props) {
                 />
                 <FooterIcon
                   icon={<Mail width={40} />}
-                  href="mailto:info@carassist.nl"
+                  href="mailto:info@abspompspecialist.nl"
                   ariaLabel="Mail nu"
                 />
               </div>

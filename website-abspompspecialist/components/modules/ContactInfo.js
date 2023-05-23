@@ -75,8 +75,8 @@ export default function ContactInfo(props) {
             <div style={{ display: "flex", alignItems: "center", gap: 20 }}>
               <Mail width={34} color={Colors.GRAY} />
               <ContactLink
-                text="info@car-assist.nl"
-                href="mailto:info@car-assist.nl"
+                text="info@abspompspecialist.nl"
+                href="mailto:info@abspompspecialist.nl"
               />
             </div>
             <div style={{ display: "flex", alignItems: "center", gap: 20 }}>
