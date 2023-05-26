@@ -254,10 +254,7 @@ export default function Footer(props) {
                 textAlign: "center",
               }}
             >
-              &copy; Copyright Car Assist, All Rights Reserved. &nbsp;
-              <Link href="https://www.technolex.nl" target="_blank">
-                Powered by TechnolEx
-              </Link>
+              &copy; Copyright Car Assist, All Rights Reserved.
             </span>
             <span
               style={{
