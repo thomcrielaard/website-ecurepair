@@ -1,0 +1,49 @@
+{
+  "kind": "collectionType",
+  "collectionName": "foutomschrijvings",
+  "info": {
+    "singularName": "foutomschrijving",
+    "pluralName": "foutomschrijvings",
+    "displayName": "Foutomschrijving"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titel": {
+      "type": "string",
+      "required": true
+    },
+    "samenvatting": {
+      "type": "text",
+      "required": true
+    },
+    "omschrijving": {
+      "type": "richtext",
+      "required": true
+    },
+    "homepagina": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    },
+    "afbeelding": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "foutcodes": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::foutcode.foutcode",
+      "mappedBy": "foutomschrijving"
+    }
+  }
+}

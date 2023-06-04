@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "foutcodes",
+  "info": {
+    "singularName": "foutcode",
+    "pluralName": "foutcodes",
+    "displayName": "Foutcode"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "foutcode": {
+      "type": "string"
+    },
+    "abs_modules": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::abs-module.abs-module",
+      "inversedBy": "foutcodes"
+    },
+    "foutomschrijving": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::foutomschrijving.foutomschrijving",
+      "inversedBy": "foutcodes"
+    }
+  }
+}
