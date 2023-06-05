@@ -21,6 +21,12 @@
       "relation": "manyToMany",
       "target": "api::foutomschrijving.foutomschrijving",
       "mappedBy": "merks"
+    },
+    "foutcodes": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::foutcode.foutcode",
+      "mappedBy": "merk"
     }
   }
 }

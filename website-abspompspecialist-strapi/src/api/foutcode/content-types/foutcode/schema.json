@@ -4,7 +4,8 @@
   "info": {
     "singularName": "foutcode",
     "pluralName": "foutcodes",
-    "displayName": "Foutcode"
+    "displayName": "Foutcode",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -24,6 +25,12 @@
       "type": "relation",
       "relation": "manyToOne",
       "target": "api::foutomschrijving.foutomschrijving",
+      "inversedBy": "foutcodes"
+    },
+    "merk": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::merk.merk",
       "inversedBy": "foutcodes"
     }
   }
