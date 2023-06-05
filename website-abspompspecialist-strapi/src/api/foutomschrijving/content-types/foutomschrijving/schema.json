@@ -4,7 +4,8 @@
   "info": {
     "singularName": "foutomschrijving",
     "pluralName": "foutomschrijvings",
-    "displayName": "Foutomschrijving"
+    "displayName": "Foutomschrijving",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -29,21 +30,27 @@
       "required": true
     },
     "afbeelding": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
-      "type": "media",
-      "multiple": false,
-      "required": true
+      ]
     },
     "foutcodes": {
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::foutcode.foutcode",
       "mappedBy": "foutomschrijving"
+    },
+    "merks": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::merk.merk",
+      "inversedBy": "foutomschrijvings"
     }
   }
 }

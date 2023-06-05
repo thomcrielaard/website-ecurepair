@@ -15,6 +15,12 @@
     "naam": {
       "type": "string",
       "required": true
+    },
+    "foutomschrijvings": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::foutomschrijving.foutomschrijving",
+      "mappedBy": "merks"
     }
   }
 }
