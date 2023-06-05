@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "merks",
+  "info": {
+    "singularName": "merk",
+    "pluralName": "merks",
+    "displayName": "Merk",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "naam": {
+      "type": "string",
+      "required": true
+    },
+    "foutomschrijvings": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::foutomschrijving.foutomschrijving",
+      "mappedBy": "merks"
+    }
+  }
+}

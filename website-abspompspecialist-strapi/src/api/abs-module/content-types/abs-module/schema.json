@@ -1,0 +1,55 @@
+{
+  "kind": "collectionType",
+  "collectionName": "abs_modules",
+  "info": {
+    "singularName": "abs-module",
+    "pluralName": "abs-modules",
+    "displayName": "ABS Module",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "onderdeelnummer": {
+      "type": "string",
+      "required": true
+    },
+    "samenvatting": {
+      "type": "text",
+      "required": true
+    },
+    "prijs": {
+      "type": "decimal",
+      "required": true
+    },
+    "omschrijving": {
+      "type": "richtext",
+      "required": true
+    },
+    "afbeelding": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "autotypes": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::type.type",
+      "inversedBy": "abs_modules"
+    },
+    "foutcodes": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::foutcode.foutcode",
+      "mappedBy": "abs_modules"
+    }
+  }
+}
