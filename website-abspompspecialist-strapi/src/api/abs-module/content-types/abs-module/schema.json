@@ -14,7 +14,8 @@
   "attributes": {
     "onderdeelnummer": {
       "type": "string",
-      "required": true
+      "required": true,
+      "unique": true
     },
     "samenvatting": {
       "type": "text",
