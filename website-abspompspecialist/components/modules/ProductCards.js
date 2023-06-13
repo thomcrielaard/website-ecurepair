@@ -4,13 +4,16 @@ import Image from "next/image";
 import UseDimensions from "@/services/UseDimensions";
 import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
+import { BlurDataUrl } from "@/services/BlurDataUrl";
 
 import Button from "@/components/modules/Button";
 
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
+import { API_URL } from "@/pages/_app";
 
 export default function ProductCards(props) {
+  console.log(props.items);
   const size = UseDimensions();
 
   return (
@@ -22,7 +25,7 @@ export default function ProductCards(props) {
         marginBottom: 40,
       }}
     >
-      {props.items.map((item, key) => (
+      {props.items.slice(0, 4).map((item, key) => (
         <div
           key={key}
           style={{
@@ -50,8 +53,9 @@ export default function ProductCards(props) {
             <Image
               sizes={`(min-width: ${Breakpoints.lg}) 25vw, (min-width: ${Breakpoints.xs}) 50vw, 100vw`}
               placeholder="blur"
-              src={item.img}
-              alt={item.title}
+              blurDataURL={BlurDataUrl}
+              src={API_URL + item.attributes.afbeelding.data.attributes.url}
+              alt={item.attributes.titel}
               fill
               style={{ objectFit: "cover" }}
             />
@@ -68,12 +72,12 @@ export default function ProductCards(props) {
           >
             <div>
               <Title
-                text={item.title}
+                text={item.attributes.titel}
                 size="xs"
                 style={{ wordWrap: "break-word" }}
               />
               <Text
-                text={item.description}
+                text={item.attributes.samenvatting}
                 style={{
                   margin: "12px 0 0 0",
                   fontSize: 15,
@@ -92,7 +96,7 @@ export default function ProductCards(props) {
             >
               <Button
                 text="MEER LEZEN"
-                href={item.href}
+                href={`/fouten/${item.attributes.titel}`}
                 color={Colors.GRAY}
                 hoverColor={Colors.RED}
                 borderColor={Colors.LIGHTGRAY}

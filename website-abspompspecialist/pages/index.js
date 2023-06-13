@@ -1,5 +1,7 @@
 import React from "react";
 import Head from "next/head";
+import Axios from "axios";
+import { API_URL } from "./_app";
 
 import UseDimensions from "@/services/UseDimensions";
 
@@ -21,8 +23,9 @@ import Text from "@/components/text/Text";
 import Product1 from "@/assets/img/abs.jpg";
 import Product2 from "@/assets/img/airbag.jpg";
 
-export default function Home() {
+export default function Home({ brands }) {
   const size = UseDimensions();
+  console.log(brands);
 
   return (
     <>
@@ -111,16 +114,57 @@ export default function Home() {
           text="Ontdek de meest voorkomende ABS pomp fouten voor verschillende automerken. Selecteer uw merk en krijg een overzicht van veelvoorkomende problemen. Klik op een probleem voor een uitgebreide beschrijving en mogelijke oplossingen."
           slim
         />
-        <Text
-          text="Onze website is momenteel onder constructie. U kunt hier later terugkeren om veelvoorkomende fouten te bekijken, of u kunt direct contact met ons opnemen via de contactpagina."
-          align="center"
-          style={{ fontStyle: "italic" }}
-          slim
-        />
-        {/* <ErrorCodes /> */}
+        <ErrorCodes codes={brands} />
       </Container>
 
       <Footer />
     </>
   );
+}
+
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
+export async function getStaticProps() {
+  const { data: brandsData } = await Axios.get(
+    `${API_URL}/api/merks?&populate=foutomschrijvings.afbeelding`
+  );
+
+  // This will give you an array of all the merks
+  const allBrands = brandsData.data;
+
+  // Now, filter the merks that have at least one foutomschrijvings with homepagina = true
+  let brands = allBrands.filter((brand) => {
+    // foutomschrijvings is an array, so we can use the some() method
+    return brand.attributes.foutomschrijvings.data.some(
+      (foutomschrijvings) => foutomschrijvings.attributes.homepagina === true
+    );
+  });
+
+  // Now, update foutomschrijvings for each brand so it only contains foutomschrijvings with homepagina = true
+  brands = brands.map((brand) => {
+    const filteredFoutomschrijvings =
+      brand.attributes.foutomschrijvings.data.filter(
+        (foutomschrijvings) => foutomschrijvings.attributes.homepagina === true
+      );
+
+    // Shuffle the foutomschrijvings array
+    const shuffledFoutomschrijvings = shuffleArray(filteredFoutomschrijvings);
+
+    // Replace the foutomschrijvings data with the shuffled and filtered foutomschrijvings
+    brand.attributes.foutomschrijvings.data = shuffledFoutomschrijvings;
+
+    return brand;
+  });
+
+  return {
+    props: {
+      brands,
+    },
+  };
 }
