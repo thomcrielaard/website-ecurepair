@@ -25,7 +25,6 @@ import Product2 from "@/assets/img/airbag.jpg";
 
 export default function Home({ brands }) {
   const size = UseDimensions();
-  console.log(brands);
 
   return (
     <>

@@ -15,8 +15,6 @@ import Container from "@/components/containers/Container";
 function Error({ error }) {
   const size = UseDimensions();
 
-  console.log(error);
-
   return (
     <>
       <Head>
@@ -43,7 +41,7 @@ export async function getStaticPaths() {
 
   const paths = data.data.map((description) => {
     return {
-      params: { title: `${description.titel}` },
+      params: { title: `${description.attributes.titel}` },
     };
   });
 

@@ -13,7 +13,6 @@ import Text from "@/components/text/Text";
 import { API_URL } from "@/pages/_app";
 
 export default function ProductCards(props) {
-  console.log(props.items);
   const size = UseDimensions();
 
   return (
