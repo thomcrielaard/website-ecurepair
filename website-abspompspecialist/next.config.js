@@ -1,6 +1,23 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-}
+  swcMinify: true,
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "**.cdninstagram.com",
+      },
+      {
+        protocol: "https",
+        hostname: "strapi.abspompspecialist.nl",
+      },
+    ],
+  },
+  i18n: {
+    locales: ["nl"],
+    defaultLocale: "nl",
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;

@@ -13,7 +13,8 @@
   "pluginOptions": {},
   "attributes": {
     "foutcode": {
-      "type": "string"
+      "type": "string",
+      "unique": true
     },
     "abs_modules": {
       "type": "relation",

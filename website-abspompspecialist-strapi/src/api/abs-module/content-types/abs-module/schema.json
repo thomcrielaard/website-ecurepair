@@ -14,7 +14,8 @@
   "attributes": {
     "onderdeelnummer": {
       "type": "string",
-      "required": true
+      "required": true,
+      "unique": true
     },
     "samenvatting": {
       "type": "text",
@@ -49,6 +50,12 @@
       "type": "relation",
       "relation": "manyToMany",
       "target": "api::foutcode.foutcode",
+      "mappedBy": "abs_modules"
+    },
+    "foutomschrijvings": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::foutomschrijving.foutomschrijving",
       "mappedBy": "abs_modules"
     }
   }

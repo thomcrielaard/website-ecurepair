@@ -41,12 +41,11 @@ export default function Button(props) {
         transition: ".3s ease-in-out",
         padding: props.small ? "5px 15px" : "10px 25px",
         textAlign: "center",
-        border: 0,
         ...props.style,
       }}
       onMouseEnter={() => setHover(true)}
       onMouseLeave={() => setHover(false)}
-      scroll={props.scroll ?? true}
+      onClick={props.onClick}
     >
       {props.text}
     </button>

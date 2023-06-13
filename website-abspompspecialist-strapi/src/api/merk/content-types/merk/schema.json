@@ -14,7 +14,8 @@
   "attributes": {
     "naam": {
       "type": "string",
-      "required": true
+      "required": true,
+      "unique": true
     },
     "foutomschrijvings": {
       "type": "relation",

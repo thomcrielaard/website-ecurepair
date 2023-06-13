@@ -1,6 +1,8 @@
 import "@/styles/globals.css";
 import Head from "next/head";
 
+export const API_URL = "https://strapi.abspompspecialist.nl";
+
 export default function App({ Component, pageProps }) {
   return (
     <>

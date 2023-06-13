@@ -14,11 +14,12 @@
   "attributes": {
     "titel": {
       "type": "string",
-      "required": true
+      "required": true,
+      "unique": true
     },
     "samenvatting": {
       "type": "text",
-      "required": true
+      "required": false
     },
     "omschrijving": {
       "type": "richtext",
@@ -50,6 +51,12 @@
       "type": "relation",
       "relation": "manyToMany",
       "target": "api::merk.merk",
+      "inversedBy": "foutomschrijvings"
+    },
+    "abs_modules": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::abs-module.abs-module",
       "inversedBy": "foutomschrijvings"
     }
   }

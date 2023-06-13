@@ -13,16 +13,9 @@ import Fout2 from "@/assets/img/fout2.jpg";
 import Fout3 from "@/assets/img/fout3.jpg";
 import Fout4 from "@/assets/img/fout4.jpg";
 
-const items = [
-  { title: "AUDI", active: false },
-  { title: "BMW", active: true },
-  { title: "OPEL", active: false },
-  { title: "FORD", active: false },
-  { title: "VOLVO", active: false },
-];
-
 export default function ErrorCodes(props) {
   const size = UseDimensions();
+  const [active, setActive] = React.useState(0);
 
   return (
     <>
@@ -35,52 +28,25 @@ export default function ErrorCodes(props) {
           flexWrap: "wrap",
         }}
       >
-        {items.map((item, key) => (
+        {props.codes.map((brand, key) => (
           <Button
             key={key}
-            color={item.active ? Colors.WHITE : Colors.GRAY}
+            color={key == active ? Colors.WHITE : Colors.GRAY}
             hoverColor={Colors.WHITE}
-            borderColor={item.active ? Colors.RED : Colors.GRAY}
+            borderColor={key == active ? Colors.RED : Colors.GRAY}
             hoverBorderColor={Colors.RED}
-            backgroundColor={item.active ? Colors.RED : Colors.WHITE}
+            backgroundColor={key == active ? Colors.RED : Colors.WHITE}
             hoverBackgroundColor={Colors.RED}
-            text={item.title}
+            text={brand.attributes.naam}
+            onClick={() => setActive(key)}
+            isButton
           />
         ))}
       </div>
       <ProductCards
-        items={[
-          {
-            title: "Spanningsvoorziening pompunit",
-            description:
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
-            href: "#",
-            img: Fout1,
-          },
-          {
-            title: "Spanningsvoorziening pompunit",
-            description:
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
-            href: "#",
-            img: Fout2,
-          },
-          {
-            title: "Spanningsvoorziening pompunit",
-            description:
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
-            href: "#",
-            img: Fout3,
-          },
-          {
-            title: "Spanningsvoorziening pompunit",
-            description:
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
-            href: "#",
-            img: Fout4,
-          },
-        ]}
+        items={props.codes[active].attributes.foutomschrijvings.data}
         buttonText="ALLE FOUTCODES"
-        buttonLink="#"
+        buttonLink="/foutcodes"
       />
     </>
   );

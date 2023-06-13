@@ -184,6 +184,13 @@ textarea:focus {
   transform: skew(45deg);
 }
 
+.content {
+  font-family: "lato";
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
