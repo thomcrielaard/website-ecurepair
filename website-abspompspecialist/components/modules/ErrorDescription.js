@@ -25,7 +25,7 @@ export default function ErrorDescription(props) {
           size.width < Breakpoints.xl ? "space-between" : "space-evenly",
         gap: size.width < Breakpoints.md ? 50 : 30,
         flexDirection: size.width < Breakpoints.md ? "column" : "row",
-        alignItems: size.width < Breakpoints.md ? "center" : "flex-start",
+        alignItems: "center",
       }}
     >
       <div
