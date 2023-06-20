@@ -13,29 +13,33 @@ import Text from "@/components/text/Text";
 import { API_URL } from "@/pages/_app";
 
 export default function ProductCards(props) {
-  console.log(props.items);
   const size = UseDimensions();
 
   return (
     <div
       style={{
-        display: "flex",
-        justifyContent: "space-between",
-        flexWrap: "wrap",
-        marginBottom: 40,
+        display: "grid",
+        gridTemplateColumns:
+          size.width < Breakpoints.xs
+            ? "1fr"
+            : size.width < Breakpoints.lg
+            ? "1fr 1fr"
+            : "1fr 1fr 1fr 1fr",
+        width: "100%",
+        margin: "40px 0",
+        gap: "4%",
       }}
     >
       {props.items.slice(0, 4).map((item, key) => (
         <div
           key={key}
           style={{
-            marginTop: 40,
-            width:
-              size.width < Breakpoints.xs
-                ? "100%"
-                : size.width < Breakpoints.lg
-                ? "48%"
-                : "22%",
+            width: "100%",
+            // size.width < Breakpoints.xs
+            //   ? "100%"
+            //   : size.width < Breakpoints.lg
+            //   ? "48%"
+            //   : "22%",
             alignSelf: "stretch",
             boxShadow: "0px 0px 10px 0px rgba(0,0,0,0.15)",
             WebkitBoxShadow: "0px 0px 10px 0px rgba(0,0,0,0.15)",
