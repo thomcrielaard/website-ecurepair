@@ -1,30 +1,19 @@
 import Image from "next/image";
 import Head from "next/head";
+import Axios from "axios";
 
 import { API_URL } from "./_app";
 
 import UseDimensions from "@/services/UseDimensions";
-import Breakpoints from "@/styles/Breakpoints";
-import Colors from "@/styles/Colors";
 
 import Container from "@/components/containers/Container";
-import SideContainer from "@/components/containers/SideContainer";
 
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 
-import IconBar from "@/components/modules/IconBar";
-import ExpandableCards from "@/components/modules/ExpandableCards";
-import Button from "@/components/modules/Button";
-import ContactInfo from "@/components/modules/ContactInfo";
-import ContactForm from "@/components/modules/ContactForm";
-
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 
-import Product1 from "@/assets/img/abs.jpg";
-import tmp from "@/assets/img/about-repair.jpg";
-import Product2 from "@/assets/img/airbag.jpg";
 import ErrorCodesOverview from "@/components/modules/ErrorCodesOverview";
 
 function Foutcodes({ brands }) {
@@ -59,17 +48,11 @@ function Foutcodes({ brands }) {
 }
 
 export async function getStaticProps() {
-  const https = require("https");
-  const httpsAgent = new https.Agent({ rejectUnauthorized: false });
-  const res = await fetch(`${API_URL}/api/merks?sort[0]=naam&populate=deep,3`, {
-    method: "GET",
-    headers: {
-      "Content-type": "application/json",
-    },
-    agent: httpsAgent,
-  });
+  const data = await Axios.get(
+    `${API_URL}/api/merks?sort[0]=naam&populate=deep,3`
+  );
 
-  const brands = await res.json();
+  const brands = data.data;
 
   return {
     props: {

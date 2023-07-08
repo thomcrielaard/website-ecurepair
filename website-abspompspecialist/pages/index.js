@@ -22,10 +22,10 @@ import Text from "@/components/text/Text";
 
 import Product1 from "@/assets/img/abs.jpg";
 import Product2 from "@/assets/img/airbag.jpg";
+import shuffleArray from "@/services/ShuffleArray";
 
-export default function Home({ brands }) {
+export default function Home({ brands, modules }) {
   const size = UseDimensions();
-  console.log(brands);
 
   return (
     <>
@@ -50,54 +50,16 @@ export default function Home({ brands }) {
           align="center"
           slim
         />
-        <Text
-          text="Onze website is momenteel onder constructie. U kunt hier later terugkeren om uw model te zoeken, of u kunt direct contact met ons opnemen via de contactpagina."
-          align="center"
-          style={{ fontStyle: "italic" }}
-          slim
-        />
-        {/* <Searchbar />
+        <Searchbar />
         <ProductCards
-          items={[
-            {
-              title: "P8645271",
-              description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
-              price: 199.99,
-              href: "#",
-              img: Product1,
-            },
-            {
-              title: "P8645271",
-              description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
-              price: 199.99,
-              href: "#",
-              img: Product2,
-            },
-            {
-              title: "P8645271",
-              description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
-              price: 199.99,
-              href: "#",
-              img: Product1,
-            },
-            {
-              title: "P8645271",
-              description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
-              price: 199.99,
-              href: "#",
-              img: Product2,
-            },
-          ]}
+          items={modules}
           buttonText="ALLE MODELLEN"
           buttonLink="#"
           square
           button
           price
-        /> */}
+          short
+        />
       </Container>
 
       <ParallexBanner />
@@ -120,14 +82,6 @@ export default function Home({ brands }) {
       <Footer />
     </>
   );
-}
-
-function shuffleArray(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-  return array;
 }
 
 export async function getStaticProps() {
@@ -162,9 +116,18 @@ export async function getStaticProps() {
     return brand;
   });
 
+  const { data: modulesData } = await Axios.get(
+    `${API_URL}/api/abs-modules?populate=afbeelding`
+  );
+
+  const allModules = modulesData.data;
+
+  const modules = shuffleArray(allModules);
+
   return {
     props: {
       brands,
+      modules,
     },
   };
 }

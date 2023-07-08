@@ -22,10 +22,10 @@ import Text from "@/components/text/Text";
 
 import Product1 from "@/assets/img/abs.jpg";
 import Product2 from "@/assets/img/airbag.jpg";
+import shuffleArray from "@/services/ShuffleArray";
 
-export default function Home({ brands }) {
+export default function Reparaties({ modules }) {
   const size = UseDimensions();
-  console.log(brands);
 
   return (
     <>
@@ -37,74 +37,17 @@ export default function Home({ brands }) {
         />
       </Head>
 
-      <Navbar transparent />
+      <Navbar />
 
-      <Container>
-        <Title text="ONZE REPARATIES" size="lg" align="center" />
+      <Container id="search">
+        <Title text="VIND JOUW MODEL" size="lg" align="center" />
         <Text
           text="Zoek uw specifieke ABS pomp model op onze website. Voer eenvoudig het onderdeelnummer van uw ABS pomp in of zoek op uw model auto en ontdek de reparatiekosten. Wij bieden reparaties voor diverse automerken en modellen."
           align="center"
           slim
         />
         <Searchbar />
-        <ProductCards
-          items={[
-            {
-              title: "P8645271",
-              description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
-              price: 199.99,
-              href: "#",
-              img: Product1,
-            },
-            {
-              title: "P8645271",
-              description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
-              price: 199.99,
-              href: "#",
-              img: Product2,
-            },
-            {
-              title: "P8645271",
-              description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
-              price: 199.99,
-              href: "#",
-              img: Product1,
-            },
-            {
-              title: "P8645271",
-              description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ante tristique nunc pretium eleifend.",
-              price: 199.99,
-              href: "#",
-              img: Product2,
-            },
-          ]}
-          buttonText="ALLE MODELLEN"
-          buttonLink="#"
-          square
-          button
-          price
-        />
-      </Container>
-
-      <ParallexBanner />
-
-      <Container style={{ marginTop: "4rem" }}>
-        <Title
-          text="VEELVOORKOMENDE FOUTEN"
-          size="lg"
-          align="center"
-          underline
-        />
-        <Text
-          align="center"
-          text="Ontdek de meest voorkomende ABS pomp fouten voor verschillende automerken. Selecteer uw merk en krijg een overzicht van veelvoorkomende problemen. Klik op een probleem voor een uitgebreide beschrijving en mogelijke oplossingen."
-          slim
-        />
-        <ErrorCodes codes={brands} />
+        <ProductCards items={modules} square price />
       </Container>
 
       <Footer />
@@ -112,49 +55,16 @@ export default function Home({ brands }) {
   );
 }
 
-function shuffleArray(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-  return array;
-}
-
 export async function getStaticProps() {
-  const { data: brandsData } = await Axios.get(
-    `${API_URL}/api/merks?&populate=foutomschrijvings.afbeelding`
+  const { data: modulesData } = await Axios.get(
+    `${API_URL}/api/abs-modules?populate=afbeelding&sort[0]=id:desc`
   );
 
-  // This will give you an array of all the merks
-  const allBrands = brandsData.data;
-
-  // Now, filter the merks that have at least one foutomschrijvings with homepagina = true
-  let brands = allBrands.filter((brand) => {
-    // foutomschrijvings is an array, so we can use the some() method
-    return brand.attributes.foutomschrijvings.data.some(
-      (foutomschrijvings) => foutomschrijvings.attributes.homepagina === true
-    );
-  });
-
-  // Now, update foutomschrijvings for each brand so it only contains foutomschrijvings with homepagina = true
-  brands = brands.map((brand) => {
-    const filteredFoutomschrijvings =
-      brand.attributes.foutomschrijvings.data.filter(
-        (foutomschrijvings) => foutomschrijvings.attributes.homepagina === true
-      );
-
-    // Shuffle the foutomschrijvings array
-    const shuffledFoutomschrijvings = shuffleArray(filteredFoutomschrijvings);
-
-    // Replace the foutomschrijvings data with the shuffled and filtered foutomschrijvings
-    brand.attributes.foutomschrijvings.data = shuffledFoutomschrijvings;
-
-    return brand;
-  });
+  const modules = modulesData.data;
 
   return {
     props: {
-      brands,
+      modules,
     },
   };
 }
