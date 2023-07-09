@@ -49,7 +49,6 @@ export default function ErrorCodesOverview(props) {
             />
             <div>
               {brand.attributes.foutcodes.data.map((code) => {
-                console.log(code.attributes);
                 if (code.attributes.foutomschrijving.data != null)
                   return (
                     <TextLink

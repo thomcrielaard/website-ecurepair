@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import Axios from "axios";
+import { useRouter } from "next/router";
 import { API_URL } from "./../_app";
 
 import UseDimensions from "@/services/UseDimensions";
@@ -11,21 +12,68 @@ import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 
 import Searchbar from "@/components/modules/Searchbar";
-import BigBanner from "@/components/modules/BigBanner";
 import ProductCards from "@/components/modules/ProductCards";
-import ParallexBanner from "@/components/modules/ParallexBanner";
-import ErrorCodes from "@/components/modules/ErrorCodes";
-import Cards from "@/components/modules/Cards";
 
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 
-import Product1 from "@/assets/img/abs.jpg";
-import Product2 from "@/assets/img/airbag.jpg";
-import shuffleArray from "@/services/ShuffleArray";
+const filterModules = (modules, text, merk, model, type) => {
+  const filteredModules = modules.filter((item) => {
+    const { autotypes, omschrijving, samenvatting, onderdeelnummer } =
+      item.attributes;
 
-export default function Reparaties({ modules }) {
+    if (
+      type &&
+      type != "DEFAULT" &&
+      !autotypes.data.some((type_) => type_.id == type)
+    )
+      return false;
+    else if (
+      model &&
+      model != "DEFAULT" &&
+      !autotypes.data.some((type) => type.attributes.model.data.id == model)
+    )
+      return false;
+    else if (
+      merk &&
+      merk != "DEFAULT" &&
+      !autotypes.data.some(
+        (type) => type.attributes.model.data.attributes.merk.data.id == merk
+      )
+    )
+      return false;
+
+    // Filter based on search text
+    if (
+      !text ||
+      omschrijving.includes(text) ||
+      samenvatting.includes(text) ||
+      onderdeelnummer.includes(text?.split(" ").join("").split("-").join(""))
+    ) {
+      return true;
+    }
+
+    return false;
+  });
+
+  return filteredModules;
+};
+
+export default function Reparaties({ modules, merkModelType }) {
   const size = UseDimensions();
+  const router = useRouter();
+
+  const searchText = router.query.onderdeel;
+  const searchMerk = router.query.merk;
+  const searchModel = router.query.model;
+  const searchType = router.query.type;
+
+  const [filteredModules, setFilteredModules] = React.useState(
+    filterModules(modules, searchText, searchMerk, searchModel, searchType)
+  );
+
+  const updateModules = (text, merk, model, type) =>
+    setFilteredModules(filterModules(modules, text, merk, model, type));
 
   return (
     <>
@@ -46,8 +94,17 @@ export default function Reparaties({ modules }) {
           align="center"
           slim
         />
-        <Searchbar />
-        <ProductCards items={modules} square price />
+        <Searchbar
+          MMT={merkModelType}
+          text={searchText}
+          merk={searchMerk}
+          model={searchModel}
+          type={searchType}
+          updateModules={(text, merk, model, type) =>
+            updateModules(text, merk, model, type)
+          }
+        />
+        <ProductCards items={filteredModules} square price />
       </Container>
 
       <Footer />
@@ -57,14 +114,50 @@ export default function Reparaties({ modules }) {
 
 export async function getStaticProps() {
   const { data: modulesData } = await Axios.get(
-    `${API_URL}/api/abs-modules?populate=afbeelding&sort[0]=id:desc`
+    `${API_URL}/api/abs-modules?populate=afbeelding,autotypes,autotypes.model,autotypes.model.merk&sort[0]=id:desc`
   );
 
   const modules = modulesData.data;
 
+  // Get all brands, models and types
+  const { data: merks } = await Axios.get(`${API_URL}/api/merks`);
+
+  const merkModelType = await Promise.all(
+    merks.data.map(async (merk) => {
+      const { data: models } = await Axios.get(
+        `${API_URL}/api/models?filters[merk][id]=${merk.id}`
+      );
+
+      const modelsData = await Promise.all(
+        models.data.map(async (model) => {
+          const { data: types } = await Axios.get(
+            `${API_URL}/api/types?filters[model][id]=${model.id}`
+          );
+
+          return {
+            ...model,
+            attributes: {
+              ...model.attributes,
+              types: types.data,
+            },
+          };
+        })
+      );
+
+      return {
+        ...merk,
+        attributes: {
+          ...merk.attributes,
+          models: modelsData,
+        },
+      };
+    })
+  );
+
   return {
     props: {
       modules,
+      merkModelType,
     },
   };
 }

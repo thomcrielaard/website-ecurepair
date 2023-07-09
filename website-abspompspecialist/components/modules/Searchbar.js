@@ -8,9 +8,95 @@ import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 import Button from "@/components/modules/Button";
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
+import Clear from "@/assets/svg/Clear";
 
 export default function Searchbar(props) {
   const size = UseDimensions();
+
+  const inputRef = React.useRef(null);
+  const selectBrandRef = React.useRef(null);
+  const selectModelRef = React.useRef(null);
+  const selectTypeRef = React.useRef(null);
+
+  const [inputWidth, setInputWidth] = React.useState(160);
+  const [models, setModels] = React.useState([]);
+  const [types, setTypes] = React.useState([]);
+  const [barWidth, setBarWidth] = React.useState(0);
+
+  const updateModules = () => {
+    if (props.updateModules != undefined)
+      props.updateModules(
+        inputRef?.current.value,
+        selectBrandRef?.current.value,
+        selectModelRef?.current.value,
+        selectTypeRef.current.value
+      );
+  };
+
+  const changeMerk = (merk) => {
+    updateModules();
+    const selectedValue = merk;
+    const brand = props.MMT.find((item) => item.id === parseInt(selectedValue));
+    if (brand) {
+      setModels(brand.attributes.models);
+      setTypes([]);
+      setBarWidth(30);
+      selectModelRef.current.value = "DEFAULT";
+      selectTypeRef.current.value = "DEFAULT";
+    }
+  };
+
+  const changeModel = (model) => {
+    updateModules();
+    const selectedValue = model;
+    const model_ = models.find((item) => item.id === parseInt(selectedValue));
+    if (model_) {
+      setTypes(model_.attributes.types);
+      setBarWidth(65);
+      selectTypeRef.current.value = "DEFAULT";
+    }
+  };
+
+  const changeType = (type) => {
+    updateModules();
+    setBarWidth(100);
+  };
+
+  const handleInputChange = () => {
+    updateModules();
+    const inputValue = inputRef.current.value;
+    if (inputValue === "") {
+      setInputWidth(160);
+      return;
+    }
+    const canvas = document.createElement("canvas");
+    const context = canvas.getContext("2d");
+    context.font = "18px lato"; // Set the font size and family to match the input
+    const width = Math.ceil(context.measureText(inputValue).width);
+    setInputWidth(width + 8);
+  };
+
+  React.useEffect(() => {
+    if (inputRef.current && props.text) {
+      inputRef.current.value = props.text;
+      handleInputChange();
+    }
+
+    if (selectBrandRef.current && props.merk) {
+      changeMerk(props.merk);
+      selectBrandRef.current.value = props.merk;
+    }
+
+    if (selectModelRef.current && props.model) {
+      changeModel(props.model);
+      selectModelRef.current.value = props.model;
+    }
+
+    if (selectTypeRef.current && props.type) {
+      changeType(props.type);
+      selectTypeRef.current.value = props.type;
+    }
+  }, [props.text, props.merk, props.model, props.type]);
 
   return (
     <div style={{ display: "flex", justifyContent: "center" }}>
@@ -32,21 +118,12 @@ export default function Searchbar(props) {
             justifyContent: "space-between",
           }}
         >
-          <div
-            style={{
-              display: "flex",
-              gap:
-                size.width < Breakpoints.sm
-                  ? 5
-                  : size.width < Breakpoints.md
-                  ? 10
-                  : 40,
-              height: "100%",
-              flexDirection: size.width < Breakpoints.sm ? "column" : "row",
-            }}
-          >
-            <select
-              className="select-search"
+          <div style={{ paddingBottom: size.width < Breakpoints.sm ? 10 : 20 }}>
+            <input
+              type="text"
+              name="search"
+              placeholder="Onderdelen zoeken"
+              className="searchbar-input"
               style={{
                 width: "100%",
                 height: "100%",
@@ -56,119 +133,250 @@ export default function Searchbar(props) {
                 fontFamily: "lato",
                 fontSize: 18,
                 fontWeight: 600,
+                borderBottom: 0,
+                padding: "0 4px",
               }}
-              defaultValue={"DEFAULT"}
-            >
-              <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
-                Selecteer merk
-              </option>
-              <option value="opel" style={{ fontWeight: 500 }}>
-                Opel
-              </option>
-            </select>
-            {size.width < Breakpoints.sm && (
-              <div
-                style={{
-                  height: 1,
-                  width: "100%",
-                  backgroundColor: `${Colors.GRAY}50`,
-                  marginBottom: 10,
-                }}
-              />
-            )}
-            <select
-              className="select-search"
-              style={{
-                width: "100%",
-                height: "100%",
-                background: "transparent",
-                border: 0,
-                color: Colors.GRAY,
-                fontFamily: "lato",
-                fontSize: 18,
-                fontWeight: 600,
-              }}
-              defaultValue={"DEFAULT"}
-            >
-              <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
-                Selecteer model
-              </option>
-              <option value="astra" style={{ fontWeight: 500 }}>
-                Astra
-              </option>
-            </select>
-            {size.width < Breakpoints.sm && (
-              <div
-                style={{
-                  height: 1,
-                  width: "100%",
-                  backgroundColor: `${Colors.GRAY}50`,
-                  marginBottom: 10,
-                }}
-              />
-            )}
-            <select
-              className="select-search"
-              style={{
-                width: "100%",
-                height: "100%",
-                background: "transparent",
-                border: 0,
-                color: Colors.GRAY,
-                fontFamily: "lato",
-                fontSize: 18,
-                fontWeight: 600,
-              }}
-              defaultValue={"DEFAULT"}
-            >
-              <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
-                Selecteer type
-              </option>
-              <option value="opel" style={{ fontWeight: 500 }}>
-                H 2000 - 2006
-              </option>
-            </select>
-            {size.width < Breakpoints.sm && (
-              <div
-                style={{
-                  height: 1,
-                  width: "100%",
-                  backgroundColor: `${Colors.GRAY}50`,
-                }}
-              />
+              ref={inputRef}
+              onChange={handleInputChange}
+            />
+
+            {size.width >= Breakpoints.sm && (
+              <div style={{ display: "flex", width: "100%", marginTop: 2 }}>
+                <div
+                  style={{
+                    backgroundColor: Colors.RED,
+                    width: `min(${inputWidth}px, 100%)`,
+                    height: 2,
+                    transition: "all .3s ease-out",
+                  }}
+                />
+                <div
+                  style={{
+                    backgroundColor: `${Colors.RED}50`,
+                    flex: 1,
+                    height: 2,
+                  }}
+                />
+              </div>
             )}
           </div>
+
+          <div style={{ display: "flex", gap: 10 }}>
+            <div
+              style={{
+                display: "flex",
+                gap:
+                  size.width < Breakpoints.sm
+                    ? 5
+                    : size.width < Breakpoints.md
+                    ? 10
+                    : 40,
+                height: "100%",
+                flex: 1,
+                flexDirection: size.width < Breakpoints.sm ? "column" : "row",
+              }}
+            >
+              {size.width < Breakpoints.sm && (
+                <div
+                  style={{
+                    height: 1,
+                    width: "100%",
+                    backgroundColor: `${Colors.GRAY}50`,
+                    marginBottom: 10,
+                  }}
+                />
+              )}
+              <select
+                className="select-search hover"
+                ref={selectBrandRef}
+                name="merk"
+                style={{
+                  width: "100%",
+                  height: "100%",
+                  background: "transparent",
+                  border: 0,
+                  color: Colors.GRAY,
+                  fontFamily: "lato",
+                  fontSize: 18,
+                  fontWeight: 600,
+                }}
+                defaultValue={"DEFAULT"}
+                onChange={(event) => changeMerk(event.target.value)}
+              >
+                <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
+                  Merk
+                </option>
+                {props.MMT.map((brand, key) => (
+                  <option
+                    key={key}
+                    value={brand.id}
+                    style={{ fontWeight: 500 }}
+                  >
+                    {brand.attributes.naam}
+                  </option>
+                ))}
+              </select>
+              {size.width < Breakpoints.sm && (
+                <div
+                  style={{
+                    height: 1,
+                    width: "100%",
+                    backgroundColor: `${Colors.GRAY}50`,
+                    marginBottom: 10,
+                  }}
+                />
+              )}
+              <select
+                className={`select-search ${
+                  models.length === 0 ? "select-disabled" : "hover"
+                }`}
+                ref={selectModelRef}
+                style={{
+                  width: "100%",
+                  height: "100%",
+                  background: "transparent",
+                  border: 0,
+                  color: Colors.GRAY,
+                  fontFamily: "lato",
+                  fontSize: 18,
+                  fontWeight: 600,
+                }}
+                defaultValue={"DEFAULT"}
+                disabled={models.length === 0}
+                onChange={(event) => changeModel(event.target.value)}
+              >
+                <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
+                  Model
+                </option>
+                {models.map((model, key) => (
+                  <option
+                    key={key}
+                    value={model.id}
+                    style={{ fontWeight: 500 }}
+                  >
+                    {model.attributes.naam}
+                  </option>
+                ))}
+              </select>
+              {size.width < Breakpoints.sm && (
+                <div
+                  style={{
+                    height: 1,
+                    width: "100%",
+                    backgroundColor: `${Colors.GRAY}50`,
+                    marginBottom: 10,
+                  }}
+                />
+              )}
+              <select
+                className={`select-search ${
+                  types.length === 0 ? "select-disabled" : "hover"
+                }`}
+                ref={selectTypeRef}
+                style={{
+                  width: "100%",
+                  height: "100%",
+                  background: "transparent",
+                  border: 0,
+                  color: Colors.GRAY,
+                  fontFamily: "lato",
+                  fontSize: 18,
+                  fontWeight: 600,
+                }}
+                defaultValue={"DEFAULT"}
+                disabled={types.length === 0}
+                onChange={(event) => changeType(event.target.value)}
+              >
+                <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
+                  Type
+                </option>
+                {types.map((type, key) => (
+                  <option key={key} value={type.id} style={{ fontWeight: 500 }}>
+                    {type.attributes.naam}
+                  </option>
+                ))}
+              </select>
+              {size.width < Breakpoints.sm && (
+                <div
+                  style={{
+                    height: 1,
+                    width: "100%",
+                    backgroundColor: `${Colors.GRAY}50`,
+                  }}
+                />
+              )}
+            </div>
+
+            <button
+              className="hover"
+              style={{
+                border: 0,
+                backgroundColor: "transparent",
+                width: 12,
+                padding: 0,
+                marginLeft: "auto",
+                position: "relative",
+                zIndex: 1,
+              }}
+              onClick={() => {
+                setModels([]);
+                setTypes([]);
+
+                inputRef.current.value = "";
+                selectBrandRef.current.value = "DEFAULT";
+                selectModelRef.current.value = "DEFAULT";
+                selectTypeRef.current.value = "DEFAULT";
+
+                setBarWidth(0);
+                handleInputChange();
+              }}
+            >
+              <Clear width={12} color={Colors.GRAY} />
+            </button>
+          </div>
           {size.width >= Breakpoints.sm && (
-            <div style={{ display: "flex", width: "100%" }}>
+            <div style={{ display: "flex", width: "100%", marginTop: 2 }}>
               <div
                 style={{
                   backgroundColor: Colors.RED,
-                  width: "30%",
+                  width: `${barWidth}%`,
+                  transition: "all .3s ease-out",
                   height: 2,
                 }}
               />
               <div
                 style={{
                   backgroundColor: `${Colors.RED}50`,
-                  width: "70%",
+                  flex: 1,
                   height: 2,
                 }}
               />
             </div>
           )}
         </div>
-        <div style={{ display: "flex" }}>
-          <Button
-            text={
-              <div style={{ display: "flex", gap: 10 }}>
-                ZOEKEN <MagnifyingGlass width={20} fill={Colors.WHITE} />
-              </div>
-            }
-            borderColor={Colors.RED}
-            backgroundColor={Colors.RED}
-            color={Colors.WHITE}
-          />
-        </div>
+
+        {props.showButton && (
+          <div style={{ display: "flex" }}>
+            <Button
+              text={
+                <div
+                  style={{ display: "flex", alignSelf: "flex-start", gap: 10 }}
+                >
+                  ZOEKEN <MagnifyingGlass width={20} fill={Colors.WHITE} />
+                </div>
+              }
+              borderColor={Colors.RED}
+              backgroundColor={Colors.RED}
+              color={Colors.WHITE}
+              style={{ alignSelf: "center" }}
+              href={`/reparaties?onderdeel=${
+                inputRef.current?.value ?? "DEFAULT"
+              }&merk=${selectBrandRef.current?.value ?? "DEFAULT"}&model=${
+                selectModelRef.current?.value ?? "DEFAULT"
+              }&type=${selectTypeRef.current?.value ?? "DEFAULT"}`}
+            />
+          </div>
+        )}
       </div>
     </div>
   );

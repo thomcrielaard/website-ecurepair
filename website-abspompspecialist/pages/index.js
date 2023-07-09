@@ -24,7 +24,7 @@ import Product1 from "@/assets/img/abs.jpg";
 import Product2 from "@/assets/img/airbag.jpg";
 import shuffleArray from "@/services/ShuffleArray";
 
-export default function Home({ brands, modules }) {
+export default function Home({ popularBrands, modules, merkModelType }) {
   const size = UseDimensions();
 
   return (
@@ -50,11 +50,11 @@ export default function Home({ brands, modules }) {
           align="center"
           slim
         />
-        <Searchbar />
+        <Searchbar MMT={merkModelType} showButton />
         <ProductCards
           items={modules}
           buttonText="ALLE MODELLEN"
-          buttonLink="#"
+          buttonLink="/reparaties"
           square
           button
           price
@@ -76,7 +76,7 @@ export default function Home({ brands, modules }) {
           text="Ontdek de meest voorkomende ABS pomp fouten voor verschillende automerken. Selecteer uw merk en krijg een overzicht van veelvoorkomende problemen. Klik op een probleem voor een uitgebreide beschrijving en mogelijke oplossingen."
           slim
         />
-        <ErrorCodes codes={brands} />
+        <ErrorCodes codes={popularBrands} />
       </Container>
 
       <Footer />
@@ -85,15 +85,16 @@ export default function Home({ brands, modules }) {
 }
 
 export async function getStaticProps() {
+  // Get all foutomschrijvings
   const { data: brandsData } = await Axios.get(
-    `${API_URL}/api/merks?&populate=foutomschrijvings.afbeelding`
+    `${API_URL}/api/merks?&populate=foutomschrijvings.afbeelding,models`
   );
 
   // This will give you an array of all the merks
   const allBrands = brandsData.data;
 
   // Now, filter the merks that have at least one foutomschrijvings with homepagina = true
-  let brands = allBrands.filter((brand) => {
+  let popularBrands = allBrands.filter((brand) => {
     // foutomschrijvings is an array, so we can use the some() method
     return brand.attributes.foutomschrijvings.data.some(
       (foutomschrijvings) => foutomschrijvings.attributes.homepagina === true
@@ -101,7 +102,7 @@ export async function getStaticProps() {
   });
 
   // Now, update foutomschrijvings for each brand so it only contains foutomschrijvings with homepagina = true
-  brands = brands.map((brand) => {
+  popularBrands = popularBrands.map((brand) => {
     const filteredFoutomschrijvings =
       brand.attributes.foutomschrijvings.data.filter(
         (foutomschrijvings) => foutomschrijvings.attributes.homepagina === true
@@ -116,6 +117,7 @@ export async function getStaticProps() {
     return brand;
   });
 
+  // Get all ABS modules
   const { data: modulesData } = await Axios.get(
     `${API_URL}/api/abs-modules?populate=afbeelding`
   );
@@ -124,10 +126,46 @@ export async function getStaticProps() {
 
   const modules = shuffleArray(allModules);
 
+  // Get all brands, models and types
+  const { data: merks } = await Axios.get(`${API_URL}/api/merks`);
+
+  const merkModelType = await Promise.all(
+    merks.data.map(async (merk) => {
+      const { data: models } = await Axios.get(
+        `${API_URL}/api/models?filters[merk][id]=${merk.id}`
+      );
+
+      const modelsData = await Promise.all(
+        models.data.map(async (model) => {
+          const { data: types } = await Axios.get(
+            `${API_URL}/api/types?filters[model][id]=${model.id}`
+          );
+
+          return {
+            ...model,
+            attributes: {
+              ...model.attributes,
+              types: types.data,
+            },
+          };
+        })
+      );
+
+      return {
+        ...merk,
+        attributes: {
+          ...merk.attributes,
+          models: modelsData,
+        },
+      };
+    })
+  );
+
   return {
     props: {
-      brands,
+      popularBrands,
       modules,
+      merkModelType,
     },
   };
 }

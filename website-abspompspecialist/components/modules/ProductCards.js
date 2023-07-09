@@ -35,6 +35,14 @@ export default function ProductCards(props) {
 
   return (
     <>
+      {props.items.length === 0 && (
+        <Text
+          text="Geen onderdelen gevonden."
+          align="center"
+          style={{ marginTop: 50 }}
+          slim
+        />
+      )}
       <div
         style={{
           display: "grid",

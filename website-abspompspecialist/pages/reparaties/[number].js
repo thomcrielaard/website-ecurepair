@@ -11,6 +11,7 @@ import Footer from "@/components/layout/Footer";
 import Navbar from "@/components/layout/Navbar";
 import ErrorDescription from "@/components/modules/ErrorDescription";
 import Container from "@/components/containers/Container";
+import AbsDescription from "@/components/modules/AbsDescription";
 
 function Error({ absModule }) {
   const size = UseDimensions();
@@ -32,7 +33,7 @@ function Error({ absModule }) {
       <Navbar />
 
       <Container>
-        {/* <ErrorDescription error={error.attributes} /> */}
+        <AbsDescription abs={absModule.attributes} />
       </Container>
 
       <Footer />
@@ -57,7 +58,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps(context) {
   const { data } = await Axios.get(
-    `${API_URL}/api/abs-modules?filters[onderdeelnummer][$eq]=${context.params.number}&populate=afbeelding,foutcodes,autotypes`
+    `${API_URL}/api/abs-modules?filters[onderdeelnummer][$eq]=${context.params.number}&populate=afbeelding,foutcodes,foutcodes.foutomschrijving,autotypes`
   );
 
   const absModule = data.data[0];
