@@ -14,6 +14,7 @@ import TextLink from "@/components/text/TextLink";
 
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import Background from "@/assets/img/navbar-bg.jpg";
+import Link from "next/link";
 
 export default function Navbar(props) {
   const size = UseDimensions();
@@ -41,6 +42,8 @@ function DesktopNavbar(props) {
   const size = UseDimensions();
   const router = useRouter();
   const [focusSearch, setFocusSearch] = React.useState(false);
+
+  const inputRef = React.useRef(null);
 
   return (
     <>
@@ -143,7 +146,7 @@ function DesktopNavbar(props) {
               alignItems: "center",
             }}
           >
-            <button
+            <Link
               className="hover"
               style={{
                 width: size.width < Breakpoints.lg ? 48 : 56,
@@ -159,32 +162,36 @@ function DesktopNavbar(props) {
                 alignItems: "center",
                 transition: "all .3s ease-in-out",
               }}
-              onClick={() => {}}
               aria-label="Onderdeel zoeken"
+              href={`/reparaties?onderdeel=${inputRef?.current?.value}`}
             >
               <MagnifyingGlass
                 width={size.width < Breakpoints.lg ? 14 : 18}
                 color={Colors.WHITE}
               />
-            </button>
-            <input
-              onFocus={() => setFocusSearch(true)}
-              onBlur={() => setFocusSearch(false)}
-              className="navbar-search"
-              style={{
-                backgroundColor: "transparent",
-                padding: size.width < Breakpoints.lg ? "8px 0" : "12px 0",
-                height: size.width < Breakpoints.lg ? 36 : 50,
-                border: 0,
-                borderBottom: "1px solid transparent",
-                transition: "all .3s ease-in-out",
-                fontFamily: "lato",
-                fontWeight: 500,
-                fontSize: size.width < Breakpoints.lg ? "1rem" : "1.25rem",
-                width: "100%",
-              }}
-              placeholder="Onderdelen zoeken"
-            />
+            </Link>
+            <form method="GET" action="/reparaties" style={{ width: "100%" }}>
+              <input
+                ref={inputRef}
+                name="onderdeel"
+                onFocus={() => setFocusSearch(true)}
+                onBlur={() => setFocusSearch(false)}
+                className="navbar-search"
+                style={{
+                  backgroundColor: "transparent",
+                  padding: size.width < Breakpoints.lg ? "8px 0" : "12px 0",
+                  height: size.width < Breakpoints.lg ? 36 : 50,
+                  border: 0,
+                  borderBottom: "1px solid transparent",
+                  transition: "all .3s ease-in-out",
+                  fontFamily: "lato",
+                  fontWeight: 500,
+                  fontSize: size.width < Breakpoints.lg ? "1rem" : "1.25rem",
+                  width: "100%",
+                }}
+                placeholder="Onderdelen zoeken"
+              />
+            </form>
           </div>
         </div>
       </Container>

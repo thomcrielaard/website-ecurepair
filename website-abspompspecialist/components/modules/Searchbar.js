@@ -4,8 +4,6 @@ import UseDimensions from "@/services/UseDimensions";
 import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
 
-import Title from "@/components/text/Title";
-import Text from "@/components/text/Text";
 import Button from "@/components/modules/Button";
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import Clear from "@/assets/svg/Clear";
@@ -34,7 +32,6 @@ export default function Searchbar(props) {
   };
 
   const changeMerk = (merk) => {
-    updateModules();
     const selectedValue = merk;
     const brand = props.MMT.find((item) => item.id === parseInt(selectedValue));
     if (brand) {
@@ -44,22 +41,27 @@ export default function Searchbar(props) {
       selectModelRef.current.value = "DEFAULT";
       selectTypeRef.current.value = "DEFAULT";
     }
+    updateModules();
+    return brand ? brand.attributes.models : [];
   };
 
-  const changeModel = (model) => {
-    updateModules();
+  const changeModel = (model, modelsFromMerk = []) => {
+    const modelsToUse = modelsFromMerk.length > 0 ? modelsFromMerk : models;
     const selectedValue = model;
-    const model_ = models.find((item) => item.id === parseInt(selectedValue));
+    const model_ = modelsToUse.find(
+      (item) => item.id === parseInt(selectedValue)
+    );
     if (model_) {
       setTypes(model_.attributes.types);
       setBarWidth(65);
       selectTypeRef.current.value = "DEFAULT";
     }
+    updateModules();
   };
 
-  const changeType = (type) => {
-    updateModules();
+  const changeType = () => {
     setBarWidth(100);
+    updateModules();
   };
 
   const handleInputChange = () => {
@@ -82,18 +84,19 @@ export default function Searchbar(props) {
       handleInputChange();
     }
 
-    if (selectBrandRef.current && props.merk) {
-      changeMerk(props.merk);
+    let modelsFromMerk = [];
+    if (selectBrandRef.current && props.merk && props.merk != "DEFAULT") {
+      modelsFromMerk = changeMerk(props.merk);
       selectBrandRef.current.value = props.merk;
     }
 
-    if (selectModelRef.current && props.model) {
-      changeModel(props.model);
+    if (selectModelRef.current && props.model && props.model != "DEFAULT") {
+      changeModel(props.model, modelsFromMerk);
       selectModelRef.current.value = props.model;
     }
 
-    if (selectTypeRef.current && props.type) {
-      changeType(props.type);
+    if (selectTypeRef.current && props.type && props.type != "DEFAULT") {
+      changeType();
       selectTypeRef.current.value = props.type;
     }
   }, [props.text, props.merk, props.model, props.type]);
@@ -119,26 +122,51 @@ export default function Searchbar(props) {
           }}
         >
           <div style={{ paddingBottom: size.width < Breakpoints.sm ? 10 : 20 }}>
-            <input
-              type="text"
-              name="search"
-              placeholder="Onderdelen zoeken"
-              className="searchbar-input"
-              style={{
-                width: "100%",
-                height: "100%",
-                background: "transparent",
-                border: 0,
-                color: Colors.GRAY,
-                fontFamily: "lato",
-                fontSize: 18,
-                fontWeight: 600,
-                borderBottom: 0,
-                padding: "0 4px",
-              }}
-              ref={inputRef}
-              onChange={handleInputChange}
-            />
+            {props.showButton ? (
+              <form method="GET" action="/reparaties">
+                <input
+                  type="text"
+                  name="onderdeel"
+                  placeholder="Onderdelen zoeken"
+                  className="searchbar-input"
+                  style={{
+                    width: "100%",
+                    height: "100%",
+                    background: "transparent",
+                    border: 0,
+                    color: Colors.GRAY,
+                    fontFamily: "lato",
+                    fontSize: 18,
+                    fontWeight: 600,
+                    borderBottom: 0,
+                    padding: "0 4px",
+                  }}
+                  ref={inputRef}
+                  onChange={handleInputChange}
+                />
+              </form>
+            ) : (
+              <input
+                type="text"
+                name="search"
+                placeholder="Onderdelen zoeken"
+                className="searchbar-input"
+                style={{
+                  width: "100%",
+                  height: "100%",
+                  background: "transparent",
+                  border: 0,
+                  color: Colors.GRAY,
+                  fontFamily: "lato",
+                  fontSize: 18,
+                  fontWeight: 600,
+                  borderBottom: 0,
+                  padding: "0 4px",
+                }}
+                ref={inputRef}
+                onChange={handleInputChange}
+              />
+            )}
 
             {size.width >= Breakpoints.sm && (
               <div style={{ display: "flex", width: "100%", marginTop: 2 }}>
@@ -285,7 +313,7 @@ export default function Searchbar(props) {
                 }}
                 defaultValue={"DEFAULT"}
                 disabled={types.length === 0}
-                onChange={(event) => changeType(event.target.value)}
+                onChange={() => changeType()}
               >
                 <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
                   Type
