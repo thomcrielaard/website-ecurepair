@@ -137,12 +137,18 @@ export default function Footer(props) {
                 <FooterLink
                   text="Reparaties"
                   href="/reparaties"
-                  bar={router.pathname.includes("/reparaties")}
+                  bar={
+                    router.pathname.includes("/reparaties") ||
+                    router.pathname == "/reparatieformulier"
+                  }
                 />
                 <FooterLink
                   text="Foutcodes"
                   href="/foutcodes"
-                  bar={router.pathname.includes("/foutcodes")}
+                  bar={
+                    router.pathname.includes("/foutcodes") ||
+                    router.pathname.includes("/fouten/")
+                  }
                 />
                 <FooterLink
                   text="Contact"

@@ -11,21 +11,22 @@ import Footer from "@/components/layout/Footer";
 import Navbar from "@/components/layout/Navbar";
 import ErrorDescription from "@/components/modules/ErrorDescription";
 import Container from "@/components/containers/Container";
+import AbsDescription from "@/components/modules/AbsDescription";
 
-function Error({ error }) {
+function Error({ absModule }) {
   const size = UseDimensions();
 
   return (
     <>
       <Head>
-        <title>{`ABS Pomp Specialist \u2013 ${error.attributes.titel}`}</title>
-        <meta name="description" content={error.attributes.omschrijving} />
+        <title>{`ABS Pomp Specialist \u2013 Onderdeel ${absModule.attributes.onderdeelnummer}`}</title>
+        <meta name="description" content={absModule.attributes.omschrijving} />
       </Head>
 
       <Navbar />
 
       <Container>
-        <ErrorDescription error={error.attributes} />
+        <AbsDescription abs={absModule.attributes} />
       </Container>
 
       <Footer />
@@ -34,11 +35,11 @@ function Error({ error }) {
 }
 
 export async function getStaticPaths() {
-  const { data } = await Axios.get(`${API_URL}/api/foutomschrijvings`);
+  const { data } = await Axios.get(`${API_URL}/api/abs-modules`);
 
-  const paths = data.data.map((description) => {
+  const paths = data.data.map((module) => {
     return {
-      params: { title: `${description.attributes.titel}` },
+      params: { number: `${module.onderdeelnummer}` },
     };
   });
 
@@ -50,14 +51,14 @@ export async function getStaticPaths() {
 
 export async function getStaticProps(context) {
   const { data } = await Axios.get(
-    `${API_URL}/api/foutomschrijvings?filters[titel][$eq]=${context.params.title}&populate=afbeelding,foutcodes,abs_modules`
+    `${API_URL}/api/abs-modules?filters[onderdeelnummer][$eq]=${context.params.number}&populate=afbeelding,foutcodes,foutcodes.foutomschrijving,autotypes,autotypes.model,autotypes.model.merk`
   );
 
-  const error = data.data[0];
+  const absModule = data.data[0];
 
   return {
     props: {
-      error,
+      absModule,
     },
   };
 }

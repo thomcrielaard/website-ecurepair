@@ -144,10 +144,34 @@ a {
   cursor: pointer;
 }
 
+.select-disabled:hover {
+  cursor: not-allowed;
+}
+
 input:focus,
 textarea:focus {
   outline: none !important;
   border-bottom: 1px solid #e41515 !important;
+}
+
+.searchbar-input:focus {
+  border-bottom: 0px !important;
+}
+
+.searchbar-input::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #2a3039;
+  opacity: 1; /* Firefox */
+}
+
+.searchbar-input:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #2a3039;
+}
+
+.searchbar-input::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #2a3039;
 }
 
 .navbar-search::placeholder {

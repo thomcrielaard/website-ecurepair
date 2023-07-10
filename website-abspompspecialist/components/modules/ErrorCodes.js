@@ -8,11 +8,6 @@ import Button from "@/components/modules/Button";
 
 import ProductCards from "@/components/modules/ProductCards";
 
-import Fout1 from "@/assets/img/fout1.jpg";
-import Fout2 from "@/assets/img/fout2.jpg";
-import Fout3 from "@/assets/img/fout3.jpg";
-import Fout4 from "@/assets/img/fout4.jpg";
-
 export default function ErrorCodes(props) {
   const size = UseDimensions();
   const [active, setActive] = React.useState(0);
@@ -47,6 +42,7 @@ export default function ErrorCodes(props) {
         items={props.codes[active].attributes.foutomschrijvings.data}
         buttonText="ALLE FOUTCODES"
         buttonLink="/foutcodes"
+        short
       />
     </>
   );

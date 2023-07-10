@@ -23,6 +23,8 @@ import Text from "@/components/text/Text";
 import Product1 from "@/assets/img/abs.jpg";
 import Product2 from "@/assets/img/airbag.jpg";
 import shuffleArray from "@/services/ShuffleArray";
+import RepairForm from "@/components/modules/RepairForm";
+import Colors from "@/styles/Colors";
 
 export default function Home({ popularBrands, modules, merkModelType }) {
   const size = UseDimensions();
@@ -30,56 +32,22 @@ export default function Home({ popularBrands, modules, merkModelType }) {
   return (
     <>
       <Head>
-        <title>ABS Pomp Specialist &#8211; Home</title>
+        <title>ABS Pomp Specialist &#8211; Reparatieformulier</title>
         <meta
           name="description"
           content="ABS Pomp Specialist is een toonaangevende expert op het gebied van ABS pomp reparatie en revisie. Wij bieden een snelle, efficiënte en hoogwaardige service voor al uw ABS gerelateerde problemen. Ons team van ervaren monteurs staat altijd klaar om u te helpen. Uw veiligheid en tevredenheid zijn onze topprioriteiten."
         />
       </Head>
 
-      <Navbar transparent />
+      <div style={{ backgroundColor: `${Colors.GRAY}F5` }}>
+        <Navbar />
 
-      <BigBanner />
+        <Container>
+          <RepairForm />
+        </Container>
 
-      <Cards />
-
-      <Container id="search">
-        <Title text="VIND JOUW MODEL" size="lg" align="center" />
-        <Text
-          text="Zoek uw specifieke ABS pomp model op onze website. Voer eenvoudig het onderdeelnummer van uw ABS pomp in of zoek op uw model auto en ontdek de reparatiekosten. Wij bieden reparaties voor diverse automerken en modellen."
-          align="center"
-          slim
-        />
-        <Searchbar MMT={merkModelType} showButton />
-        <ProductCards
-          items={modules}
-          buttonText="ALLE MODELLEN"
-          buttonLink="/reparaties"
-          square
-          button
-          price
-          short
-        />
-      </Container>
-
-      <ParallexBanner />
-
-      <Container style={{ marginTop: "4rem" }}>
-        <Title
-          text="VEELVOORKOMENDE FOUTEN"
-          size="lg"
-          align="center"
-          underline
-        />
-        <Text
-          align="center"
-          text="Ontdek de meest voorkomende ABS pomp fouten voor verschillende automerken. Selecteer uw merk en krijg een overzicht van veelvoorkomende problemen. Klik op een probleem voor een uitgebreide beschrijving en mogelijke oplossingen."
-          slim
-        />
-        <ErrorCodes codes={popularBrands} />
-      </Container>
-
-      <Footer />
+        <Footer />
+      </div>
     </>
   );
 }

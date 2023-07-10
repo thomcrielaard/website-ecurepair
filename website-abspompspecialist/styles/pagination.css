@@ -1,0 +1,65 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0;
+  list-style-type: none;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 0;
+}
+
+.pagination .break a {
+  width: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .pagination {
+    gap: 15px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .pagination li.break {
+    display: none;
+  }
+}
+
+.pagination li a {
+  font-size: 18px;
+  font-family: "poppins";
+  font-weight: 500;
+  height: 40px;
+  width: 40px;
+  transition: 0.3s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagination
+  li:not(.previous):not(.next):not(.selected):not(.break)
+  a:not(:hover) {
+  border: 1px solid #2a3039;
+}
+
+.pagination li:not(.previous):not(.next) a:hover,
+.pagination li.selected a {
+  background-color: #e41515;
+  color: #fff;
+  cursor: pointer;
+}
+
+.pagination li.previous:not(.disabled) a:hover,
+.pagination li.next:not(.disabled) a:hover {
+  cursor: pointer;
+}
+
+.pagination li.disabled a {
+  cursor: not-allowed;
+  color: #aaa;
+}
+
+.pagination .disabled svg path {
+  fill: #aaa;
+}
