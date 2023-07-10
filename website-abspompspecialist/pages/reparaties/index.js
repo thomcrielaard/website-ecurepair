@@ -110,7 +110,7 @@ export default function Reparaties({ modules, merkModelType }) {
           style={{ display: "flex", justifyContent: "center", width: "100%" }}
         >
           <Button
-            text="Reparatieformulier"
+            text="REPARATIEFORMULIER"
             color={Colors.GRAY}
             borderColor={Colors.GRAY}
             hoverColor={Colors.RED}

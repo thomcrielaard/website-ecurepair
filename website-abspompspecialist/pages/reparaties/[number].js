@@ -19,13 +19,8 @@ function Error({ absModule }) {
   return (
     <>
       <Head>
-        <title>
-          ABS Pomp Specialist &#8211; {absModule.attributes.onderdeelnummer}
-        </title>
-        <meta
-          name="description"
-          content="Ontdek de meest voorkomende ABS pomp fouten voor verschillende automerken. Selecteer uw merk en krijg een overzicht van veelvoorkomende problemen. Klik op een probleem voor een uitgebreide beschrijving en mogelijke oplossingen."
-        />
+        <title>{`ABS Pomp Specialist \u2013 Onderdeel ${absModule.attributes.onderdeelnummer}`}</title>
+        <meta name="description" content={absModule.attributes.omschrijving} />
       </Head>
 
       <Navbar />
