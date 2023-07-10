@@ -14,6 +14,7 @@ import TextLink from "../text/TextLink";
 import Text from "../text/Text";
 import Image from "next/image";
 import Link from "next/link";
+import Chevron from "@/assets/svg/Chevron";
 
 export default function AbsDescription(props) {
   const size = UseDimensions();
@@ -71,6 +72,63 @@ export default function AbsDescription(props) {
         }}
       >
         <Title text={props.abs.onderdeelnummer} size="lg" />
+        {props.abs.autotypes.data.length > 0 &&
+          props.abs.autotypes.data.map((type, key) => (
+            <div key={key} style={{ display: "flex", gap: 10 }}>
+              <Link
+                style={{
+                  fontFamily: "poppins",
+                  fontWeight: 500,
+                  fontSize: 20,
+                  fontStyle: "italic",
+                  color: Colors.LIGHTGRAY,
+                  textDecoration: "underline",
+                }}
+                href={`/reparaties?merk=${type.attributes.model.data.attributes.merk.data.id}`}
+              >
+                {
+                  type.attributes.model.data.attributes.merk.data.attributes
+                    .naam
+                }
+              </Link>
+              <Chevron
+                width={10}
+                color={Colors.LIGHTGRAY}
+                style={{ rotate: "-90deg" }}
+              />
+              <Link
+                style={{
+                  fontFamily: "poppins",
+                  fontWeight: 500,
+                  fontSize: 20,
+                  fontStyle: "italic",
+                  color: Colors.LIGHTGRAY,
+                  textDecoration: "underline",
+                }}
+                href={`/reparaties?merk=${type.attributes.model.data.attributes.merk.data.id}&model=${type.attributes.model.data.id}`}
+              >
+                {type.attributes.model.data.attributes.naam}
+              </Link>
+              <Chevron
+                width={10}
+                color={Colors.LIGHTGRAY}
+                style={{ rotate: "-90deg" }}
+              />
+              <Link
+                style={{
+                  fontFamily: "poppins",
+                  fontWeight: 500,
+                  fontSize: 20,
+                  fontStyle: "italic",
+                  color: Colors.LIGHTGRAY,
+                  textDecoration: "underline",
+                }}
+                href={`/reparaties?merk=${type.attributes.model.data.attributes.merk.data.id}&model=${type.attributes.model.data.id}&type=${type.id}`}
+              >
+                {type.attributes.naam}
+              </Link>
+            </div>
+          ))}
         <span
           style={{
             fontSize: 32,
@@ -130,8 +188,8 @@ export default function AbsDescription(props) {
           )}
           <div style={{ alignSelf: "flex-end" }}>
             <Button
-              text={"AFSPRAAK MAKEN"}
-              href="/contact"
+              text={"REPARATIEFORMULIER"}
+              href="/reparatieformulier"
               color={Colors.WHITE}
               hoverColor={Colors.RED}
               borderColor={Colors.RED}

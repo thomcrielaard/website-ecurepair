@@ -15,8 +15,6 @@ import Container from "@/components/containers/Container";
 function Error({ error }) {
   const size = UseDimensions();
 
-  console.log(error);
-
   return (
     <>
       <Head>

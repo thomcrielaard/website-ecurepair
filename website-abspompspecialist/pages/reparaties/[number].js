@@ -16,8 +16,6 @@ import AbsDescription from "@/components/modules/AbsDescription";
 function Error({ absModule }) {
   const size = UseDimensions();
 
-  console.log(absModule);
-
   return (
     <>
       <Head>
@@ -58,7 +56,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps(context) {
   const { data } = await Axios.get(
-    `${API_URL}/api/abs-modules?filters[onderdeelnummer][$eq]=${context.params.number}&populate=afbeelding,foutcodes,foutcodes.foutomschrijving,autotypes`
+    `${API_URL}/api/abs-modules?filters[onderdeelnummer][$eq]=${context.params.number}&populate=afbeelding,foutcodes,foutcodes.foutomschrijving,autotypes,autotypes.model,autotypes.model.merk`
   );
 
   const absModule = data.data[0];
