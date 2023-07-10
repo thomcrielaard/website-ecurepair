@@ -16,6 +16,8 @@ import ProductCards from "@/components/modules/ProductCards";
 
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
+import Button from "@/components/modules/Button";
+import Colors from "@/styles/Colors";
 
 const filterModules = (modules, text, merk, model, type) => {
   const filteredModules = modules.filter((item) => {
@@ -104,6 +106,20 @@ export default function Reparaties({ modules, merkModelType }) {
             updateModules(text, merk, model, type)
           }
         />
+        <div
+          style={{ display: "flex", justifyContent: "center", width: "100%" }}
+        >
+          <Button
+            text="Reparatieformulier"
+            color={Colors.GRAY}
+            borderColor={Colors.GRAY}
+            hoverColor={Colors.RED}
+            hoverBorderColor={Colors.RED}
+            style={{ marginTop: 30 }}
+            href="/reparatieformulier"
+            target="_blank"
+          />
+        </div>
         <ProductCards items={filteredModules} square price />
       </Container>
 

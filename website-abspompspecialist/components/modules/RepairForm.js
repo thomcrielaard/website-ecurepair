@@ -11,7 +11,7 @@ import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 import Button from "./Button";
 
-export default function ContactForm(props) {
+export default function RepairForm(props) {
   const size = UseDimensions();
   const [loading, setLoading] = React.useState(false);
   const [showSuccess, setShowSuccess] = React.useState(false);
@@ -24,15 +24,22 @@ export default function ContactForm(props) {
     event.preventDefault();
 
     const data = {
+      brand: event.target.brand.value,
+      model: event.target.model.value,
+      type: event.target.type.value,
+      number: event.target.number.value,
+      license: event.target.license.value,
+      errorcode: event.target.errorcode.value,
+      description: event.target.description.value,
       name: event.target.name.value,
-      subject: event.target.subject.value,
+      contactperson: event.target.contactperson.value,
       email: event.target.email.value,
-      tel: event.target.tel.value,
-      text: event.target.text.value,
+      phone: event.target.phone.value,
+      btw: event.target.btw.value,
     };
 
     const JSONdata = JSON.stringify(data);
-    const endpoint = "/api/contact";
+    const endpoint = "/api/repair";
 
     const options = {
       method: "POST",
@@ -52,31 +59,11 @@ export default function ContactForm(props) {
   return (
     <div
       style={{
-        width: size.width < Breakpoints.sm ? "100%" : "50%",
-        position: "relative",
-        paddingLeft: size.width < Breakpoints.sm ? 0 : "4rem",
+        width: "100%",
+        margin: "0 auto",
+        maxWidth: 1000,
       }}
     >
-      <div
-        style={{
-          position: "absolute",
-          backgroundColor: `${Colors.GRAY}F5`,
-          width: size.width / 2 + 1,
-          left: size.width < Breakpoints.sm ? "-2rem" : 0,
-          top:
-            size.width < Breakpoints.sm
-              ? "-2rem"
-              : `calc(-4rem - ${size.width < Breakpoints.md ? "30" : "65"}px)`,
-          height:
-            size.width < Breakpoints.sm
-              ? "calc(100% + 2rem + 60"
-              : `calc(100% + 8rem + ${
-                  size.width < Breakpoints.md ? "60" : "130"
-                }px)`,
-          zIndex: -1,
-        }}
-      />
-
       <div
         style={{
           display: "flex",
@@ -86,7 +73,7 @@ export default function ContactForm(props) {
       >
         <Title
           color={Colors.WHITE}
-          text="FORMULIER"
+          text="REPARATIE FORMULIER"
           size="lg"
           underline={true}
           align="center"
@@ -101,19 +88,24 @@ export default function ContactForm(props) {
             flexWrap: "wrap",
           }}
         >
-          <Input name="name" placeholder="Naam *" required />
-          <Input name="subject" placeholder="Onderwerp *" required />
-          <Input name="email" placeholder="E-mail *" type="mail" required />
-          <Input
-            name="tel"
-            placeholder="Telefoonnummer"
-            required={false}
-            type="tel"
-          />
+          <div
+            style={{
+              width: "100%",
+              marginBottom: size.width < Breakpoints.xs ? 15 : 30,
+            }}
+          >
+            <Title color={Colors.WHITE} size="md" text="Autogegevens" />
+          </div>
+          <Input name="brand" placeholder="Automerk" />
+          <Input name="model" placeholder="Model" />
+          <Input name="type" placeholder="Uitvoering" />
+          <Input name="number" placeholder="Onderdeelnummer" />
+          <Input name="license" placeholder="Kenteken" />
+          <Input name="errorcode" placeholder="Fout / Foutcode *" required />
         </div>
         <textarea
-          name="text"
-          id="text"
+          name="description"
+          id="description"
           className="input"
           style={{
             padding: "15px 20px",
@@ -131,9 +123,60 @@ export default function ContactForm(props) {
             transition: "border .3s ease-in-out",
             height: 300,
           }}
-          placeholder="Waar kunnen we u mee helpen?"
-          required
+          placeholder="Omschrijving klacht / Overige opmerkingen"
         />
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "row",
+            justifyContent: "space-between",
+            flexWrap: "wrap",
+          }}
+        >
+          <div
+            style={{
+              width: "100%",
+              marginBottom: size.width < Breakpoints.xs ? 15 : 30,
+            }}
+          >
+            <Title color={Colors.WHITE} size="md" text="Klantgegevens" />
+          </div>
+          <Input name="name" placeholder="Naam / Bedrijfsnaam *" required />
+          <Input name="contactperson" placeholder="Contactpersoon" />
+          <Input name="email" placeholder="E-mail *" required type="email" />
+          <Input name="phone" placeholder="Telefoonnummer" />
+          <Input name="btw" placeholder="BTW nummer" width="100%" />
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              marginBottom: size.width < Breakpoints.xs ? 15 : 30,
+            }}
+          >
+            <input
+              type="checkbox"
+              id="terms"
+              required
+              style={{
+                marginRight: 10,
+              }}
+            />
+            <label
+              htmlFor="terms"
+              style={{
+                fontSize: 16,
+                fontFamily: "lato",
+                fontWeight: 600,
+                color: Colors.MEDIUMWHITE,
+              }}
+            >
+              Ik ga akkoord met de{" "}
+              <Link href="#" style={{ textDecoration: "underline" }}>
+                Algemene Voorwaarden
+              </Link>
+            </label>
+          </div>
+        </div>
         <div
           style={{
             display: "flex",
@@ -195,7 +238,7 @@ function Input(props) {
       style={{
         padding: "15px 20px",
         fontSize: 16,
-        width: size.width < Breakpoints.xl ? "100%" : "48%",
+        width: props.width ?? size.width < Breakpoints.xl ? "100%" : "48%",
         marginBottom: size.width < Breakpoints.xs ? 15 : 30,
         borderRadius: 0,
         fontFamily: "lato",

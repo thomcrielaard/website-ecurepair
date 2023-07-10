@@ -120,7 +120,10 @@ function DesktopNavbar(props) {
           <NavbarLink
             href="/reparaties"
             text="Reparaties"
-            active={router.pathname.includes("/reparaties")}
+            active={
+              router.pathname.includes("/reparaties") ||
+              router.pathname == "/reparatieformulier"
+            }
           />
           <NavbarLink
             href="/foutcodes"
