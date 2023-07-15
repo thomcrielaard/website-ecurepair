@@ -16,12 +16,6 @@
       "type": "string",
       "unique": true
     },
-    "abs_modules": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::abs-module.abs-module",
-      "inversedBy": "foutcodes"
-    },
     "foutomschrijving": {
       "type": "relation",
       "relation": "manyToOne",

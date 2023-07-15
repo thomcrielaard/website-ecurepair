@@ -29,34 +29,17 @@
       "type": "richtext",
       "required": true
     },
-    "afbeelding": {
-      "type": "media",
-      "multiple": false,
-      "required": true,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
-    },
-    "autotypes": {
+    "type": {
       "type": "relation",
-      "relation": "manyToMany",
+      "relation": "manyToOne",
       "target": "api::type.type",
       "inversedBy": "abs_modules"
     },
-    "foutcodes": {
+    "merk": {
       "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::foutcode.foutcode",
-      "mappedBy": "abs_modules"
-    },
-    "foutomschrijvings": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::foutomschrijving.foutomschrijving",
-      "mappedBy": "abs_modules"
+      "relation": "manyToOne",
+      "target": "api::merk.merk",
+      "inversedBy": "abs_modules"
     }
   }
 }

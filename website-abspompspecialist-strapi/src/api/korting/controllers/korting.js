@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * model controller
+ * korting controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::model.model');
+module.exports = createCoreController('api::korting.korting');

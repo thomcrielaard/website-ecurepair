@@ -17,16 +17,16 @@
       "required": true,
       "unique": true
     },
-    "foutomschrijvings": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::foutomschrijving.foutomschrijving",
-      "mappedBy": "merks"
-    },
     "foutcodes": {
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::foutcode.foutcode",
+      "mappedBy": "merk"
+    },
+    "abs_modules": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::abs-module.abs-module",
       "mappedBy": "merk"
     }
   }

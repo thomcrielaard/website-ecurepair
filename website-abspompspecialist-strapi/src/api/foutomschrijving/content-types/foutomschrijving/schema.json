@@ -46,18 +46,6 @@
       "relation": "oneToMany",
       "target": "api::foutcode.foutcode",
       "mappedBy": "foutomschrijving"
-    },
-    "merks": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::merk.merk",
-      "inversedBy": "foutomschrijvings"
-    },
-    "abs_modules": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::abs-module.abs-module",
-      "inversedBy": "foutomschrijvings"
     }
   }
 }
