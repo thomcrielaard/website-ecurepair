@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * model service
+ * korting service
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::model.model');
+module.exports = createCoreService('api::korting.korting');

@@ -16,16 +16,21 @@
       "type": "string",
       "required": true
     },
-    "model": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "api::model.model"
-    },
     "abs_modules": {
       "type": "relation",
-      "relation": "manyToMany",
+      "relation": "oneToMany",
       "target": "api::abs-module.abs-module",
-      "mappedBy": "autotypes"
+      "mappedBy": "type"
+    },
+    "afbeelding": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }

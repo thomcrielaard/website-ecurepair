@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * model router
+ * korting router
  */
 
 const { createCoreRouter } = require('@strapi/strapi').factories;
 
-module.exports = createCoreRouter('api::model.model');
+module.exports = createCoreRouter('api::korting.korting');
