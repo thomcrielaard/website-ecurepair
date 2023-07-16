@@ -1,10 +1,12 @@
 /* Lato font */
 @font-face {
+  font-display: swap;
   font-family: "lato";
   src: url("../assets/fonts/Lato-Black.ttf");
   font-weight: 800;
 }
 @font-face {
+  font-display: swap;
   font-family: "lato";
   src: url("../assets/fonts/Lato-BlackItalic.ttf");
   font-weight: 800;
@@ -12,11 +14,13 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: "lato";
   src: url("../assets/fonts/Lato-Bold.ttf");
   font-weight: 700;
 }
 @font-face {
+  font-display: swap;
   font-family: "lato";
   src: url("../assets/fonts/Lato-BoldItalic.ttf");
   font-weight: 700;
@@ -24,11 +28,13 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: "lato";
   src: url("../assets/fonts/Lato-Regular.ttf");
   font-weight: 600;
 }
 @font-face {
+  font-display: swap;
   font-family: "lato";
   src: url("../assets/fonts/Lato-Italic.ttf");
   font-weight: 600;
@@ -36,11 +42,13 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: "lato";
   src: url("../assets/fonts/Lato-Light.ttf");
   font-weight: 500;
 }
 @font-face {
+  font-display: swap;
   font-family: "lato";
   src: url("../assets/fonts/Lato-LightItalic.ttf");
   font-weight: 500;
@@ -48,11 +56,13 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: "lato";
   src: url("../assets/fonts/Lato-Thin.ttf");
   font-weight: 400;
 }
 @font-face {
+  font-display: swap;
   font-family: "lato";
   src: url("../assets/fonts/Lato-ThinItalic.ttf");
   font-weight: 400;
@@ -61,11 +71,13 @@
 
 /* Poppins font */
 @font-face {
+  font-display: swap;
   font-family: "poppins";
   src: url("../assets/fonts/Poppins-Black.ttf");
   font-weight: 800;
 }
 @font-face {
+  font-display: swap;
   font-family: "poppins";
   src: url("../assets/fonts/Poppins-BlackItalic.ttf");
   font-weight: 800;
@@ -73,11 +85,13 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: "poppins";
   src: url("../assets/fonts/Poppins-Bold.ttf");
   font-weight: 700;
 }
 @font-face {
+  font-display: swap;
   font-family: "poppins";
   src: url("../assets/fonts/Poppins-BoldItalic.ttf");
   font-weight: 700;
@@ -85,11 +99,13 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: "poppins";
   src: url("../assets/fonts/Poppins-Regular.ttf");
   font-weight: 600;
 }
 @font-face {
+  font-display: swap;
   font-family: "poppins";
   src: url("../assets/fonts/Poppins-Italic.ttf");
   font-weight: 600;
@@ -97,11 +113,13 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: "poppins";
   src: url("../assets/fonts/Poppins-Light.ttf");
   font-weight: 500;
 }
 @font-face {
+  font-display: swap;
   font-family: "poppins";
   src: url("../assets/fonts/Poppins-LightItalic.ttf");
   font-weight: 500;
@@ -109,11 +127,13 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: "poppins";
   src: url("../assets/fonts/Poppins-Thin.ttf");
   font-weight: 400;
 }
 @font-face {
+  font-display: swap;
   font-family: "poppins";
   src: url("../assets/fonts/Poppins-ThinItalic.ttf");
   font-weight: 400;

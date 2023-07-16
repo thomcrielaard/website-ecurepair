@@ -13,47 +13,31 @@ export default function Searchbar(props) {
 
   const inputRef = React.useRef(null);
   const selectBrandRef = React.useRef(null);
-  const selectModelRef = React.useRef(null);
   const selectTypeRef = React.useRef(null);
 
+  const [selectedMerk, setSelectedMerk] = React.useState(props.merk ?? null);
+  const [selectedType, setSelectedType] = React.useState(props.type ?? null);
   const [inputWidth, setInputWidth] = React.useState(160);
-  const [models, setModels] = React.useState([]);
   const [types, setTypes] = React.useState([]);
+
   const [barWidth, setBarWidth] = React.useState(0);
 
   const updateModules = () => {
     if (props.updateModules != undefined)
       props.updateModules(
-        inputRef?.current.value,
-        selectBrandRef?.current.value,
-        selectModelRef?.current.value,
-        selectTypeRef.current.value
+        inputRef.current?.value,
+        selectBrandRef.current?.value,
+        selectTypeRef.current?.value
       );
   };
 
   const changeMerk = (merk) => {
     const selectedValue = merk;
-    const brand = props.MMT.find((item) => item.id === parseInt(selectedValue));
+    const brand = props.MT.find((item) => item.id === parseInt(selectedValue));
     if (brand) {
-      setModels(brand.attributes.models);
-      setTypes([]);
-      setBarWidth(30);
-      selectModelRef.current.value = "DEFAULT";
-      selectTypeRef.current.value = "DEFAULT";
-    }
-    updateModules();
-    return brand ? brand.attributes.models : [];
-  };
-
-  const changeModel = (model, modelsFromMerk = []) => {
-    const modelsToUse = modelsFromMerk.length > 0 ? modelsFromMerk : models;
-    const selectedValue = model;
-    const model_ = modelsToUse.find(
-      (item) => item.id === parseInt(selectedValue)
-    );
-    if (model_) {
-      setTypes(model_.attributes.types);
-      setBarWidth(65);
+      setTypes(brand.types);
+      setBarWidth(48);
+      setSelectedType(null);
       selectTypeRef.current.value = "DEFAULT";
     }
     updateModules();
@@ -84,22 +68,23 @@ export default function Searchbar(props) {
       handleInputChange();
     }
 
-    let modelsFromMerk = [];
     if (selectBrandRef.current && props.merk && props.merk != "DEFAULT") {
-      modelsFromMerk = changeMerk(props.merk);
+      changeMerk(props.merk);
+      setSelectedMerk(props.merk);
       selectBrandRef.current.value = props.merk;
     }
 
-    if (selectModelRef.current && props.model && props.model != "DEFAULT") {
-      changeModel(props.model, modelsFromMerk);
-      selectModelRef.current.value = props.model;
-    }
-
     if (selectTypeRef.current && props.type && props.type != "DEFAULT") {
-      changeType();
-      selectTypeRef.current.value = props.type;
+      setSelectedType(props.type);
     }
-  }, [props.text, props.merk, props.model, props.type]);
+  }, [props.text, props.merk]);
+
+  React.useEffect(() => {
+    if (selectedType) {
+      selectTypeRef.current.value = selectedType;
+      changeType();
+    }
+  }, [selectedMerk]);
 
   return (
     <div style={{ display: "flex", justifyContent: "center" }}>
@@ -229,60 +214,18 @@ export default function Searchbar(props) {
                   fontWeight: 600,
                 }}
                 defaultValue={"DEFAULT"}
-                onChange={(event) => changeMerk(event.target.value)}
+                onChange={(e) => changeMerk(e.target.value)}
               >
                 <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
-                  Merk
+                  Selecteer merk
                 </option>
-                {props.MMT.map((brand, key) => (
+                {props.MT.map((brand, key) => (
                   <option
                     key={key}
                     value={brand.id}
                     style={{ fontWeight: 500 }}
                   >
-                    {brand.attributes.naam}
-                  </option>
-                ))}
-              </select>
-              {size.width < Breakpoints.sm && (
-                <div
-                  style={{
-                    height: 1,
-                    width: "100%",
-                    backgroundColor: `${Colors.GRAY}50`,
-                    marginBottom: 10,
-                  }}
-                />
-              )}
-              <select
-                className={`select-search ${
-                  models.length === 0 ? "select-disabled" : "hover"
-                }`}
-                ref={selectModelRef}
-                style={{
-                  width: "100%",
-                  height: "100%",
-                  background: "transparent",
-                  border: 0,
-                  color: Colors.GRAY,
-                  fontFamily: "lato",
-                  fontSize: 18,
-                  fontWeight: 600,
-                }}
-                defaultValue={"DEFAULT"}
-                disabled={models.length === 0}
-                onChange={(event) => changeModel(event.target.value)}
-              >
-                <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
-                  Model
-                </option>
-                {models.map((model, key) => (
-                  <option
-                    key={key}
-                    value={model.id}
-                    style={{ fontWeight: 500 }}
-                  >
-                    {model.attributes.naam}
+                    {brand.naam}
                   </option>
                 ))}
               </select>
@@ -313,14 +256,14 @@ export default function Searchbar(props) {
                 }}
                 defaultValue={"DEFAULT"}
                 disabled={types.length === 0}
-                onChange={() => changeType()}
+                onChange={(e) => changeType(e.target.value)}
               >
                 <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
-                  Type
+                  Selecteer onderdeel
                 </option>
                 {types.map((type, key) => (
                   <option key={key} value={type.id} style={{ fontWeight: 500 }}>
-                    {type.attributes.naam}
+                    {type.naam}
                   </option>
                 ))}
               </select>
@@ -340,24 +283,24 @@ export default function Searchbar(props) {
               style={{
                 border: 0,
                 backgroundColor: "transparent",
-                width: 12,
+                width: 18,
                 padding: 0,
                 marginLeft: "auto",
                 position: "relative",
                 zIndex: 1,
               }}
               onClick={() => {
-                setModels([]);
                 setTypes([]);
 
                 inputRef.current.value = "";
                 selectBrandRef.current.value = "DEFAULT";
-                selectModelRef.current.value = "DEFAULT";
+                setSelectedType(null);
                 selectTypeRef.current.value = "DEFAULT";
 
                 setBarWidth(0);
                 handleInputChange();
               }}
+              aria-label="Selectie wissen"
             >
               <Clear width={12} color={Colors.GRAY} />
             </button>
@@ -399,9 +342,9 @@ export default function Searchbar(props) {
               style={{ alignSelf: "center" }}
               href={`/reparaties?onderdeel=${
                 inputRef.current?.value ?? "DEFAULT"
-              }&merk=${selectBrandRef.current?.value ?? "DEFAULT"}&model=${
-                selectModelRef.current?.value ?? "DEFAULT"
-              }&type=${selectTypeRef.current?.value ?? "DEFAULT"}`}
+              }&merk=${selectBrandRef.current?.value ?? "DEFAULT"}&type=${
+                selectTypeRef.current?.value ?? "DEFAULT"
+              }`}
             />
           </div>
         )}

@@ -9,11 +9,10 @@ import UseDimensions from "../../services/UseDimensions";
 
 import Footer from "@/components/layout/Footer";
 import Navbar from "@/components/layout/Navbar";
-import ErrorDescription from "@/components/modules/ErrorDescription";
 import Container from "@/components/containers/Container";
 import AbsDescription from "@/components/modules/AbsDescription";
 
-function Error({ absModule }) {
+function Error({ absModule, discount }) {
   const size = UseDimensions();
 
   return (
@@ -26,7 +25,7 @@ function Error({ absModule }) {
       <Navbar />
 
       <Container>
-        <AbsDescription abs={absModule.attributes} />
+        <AbsDescription abs={absModule.attributes} discount={discount} />
       </Container>
 
       <Footer />
@@ -35,11 +34,13 @@ function Error({ absModule }) {
 }
 
 export async function getStaticPaths() {
-  const { data } = await Axios.get(`${API_URL}/api/abs-modules`);
+  const { data } = await Axios.get(
+    `${API_URL}/api/abs-modules?fields=onderdeelnummer`
+  );
 
   const paths = data.data.map((module) => {
     return {
-      params: { number: `${module.onderdeelnummer}` },
+      params: { number: `${module.attributes.onderdeelnummer}` },
     };
   });
 
@@ -50,8 +51,12 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps(context) {
+  const { data: discountData } = await Axios.get(`${API_URL}/api/korting`);
+
+  const discount = discountData.data.attributes;
+
   const { data } = await Axios.get(
-    `${API_URL}/api/abs-modules?filters[onderdeelnummer][$eq]=${context.params.number}&populate=afbeelding,foutcodes,foutcodes.foutomschrijving,autotypes,autotypes.model,autotypes.model.merk`
+    `${API_URL}/api/abs-modules?filters[onderdeelnummer][$eq]=${context.params.number}&populate=merk.foutcodes.foutomschrijving,type.afbeelding`
   );
 
   const absModule = data.data[0];
@@ -59,6 +64,7 @@ export async function getStaticProps(context) {
   return {
     props: {
       absModule,
+      discount,
     },
   };
 }

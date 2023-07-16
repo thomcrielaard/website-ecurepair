@@ -50,7 +50,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps(context) {
   const { data } = await Axios.get(
-    `${API_URL}/api/foutomschrijvings?filters[titel][$eq]=${context.params.title}&populate=afbeelding,foutcodes,abs_modules`
+    `${API_URL}/api/foutomschrijvings?filters[titel][$eq]=${context.params.title}&populate=afbeelding,foutcodes`
   );
 
   const error = data.data[0];

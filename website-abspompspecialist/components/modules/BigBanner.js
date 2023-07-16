@@ -22,10 +22,11 @@ export default function BigBanner(props) {
       <div
         style={{
           position: "relative",
+          background: Colors.GRAY,
         }}
       >
         <Image
-          style={{ zIndex: -1, objectFit: "cover" }}
+          style={{ zIndex: 1, objectFit: "cover" }}
           src={Header}
           alt={"Omslagfoto"}
           placeholder="blur"
@@ -43,6 +44,7 @@ export default function BigBanner(props) {
             justifyContent: "center",
             alignItems: "center",
             gap: 20,
+            zIndex: 2,
           }}
         >
           <Logo

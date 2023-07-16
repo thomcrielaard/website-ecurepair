@@ -32,14 +32,14 @@ export default function ErrorCodes(props) {
             hoverBorderColor={Colors.RED}
             backgroundColor={key == active ? Colors.RED : Colors.WHITE}
             hoverBackgroundColor={Colors.RED}
-            text={brand.attributes.naam}
+            text={brand.naam}
             onClick={() => setActive(key)}
             isButton
           />
         ))}
       </div>
       <ProductCards
-        items={props.codes[active].attributes.foutomschrijvings.data}
+        items={props.codes[active].foutomschrijvings}
         buttonText="ALLE FOUTCODES"
         buttonLink="/foutcodes"
         short

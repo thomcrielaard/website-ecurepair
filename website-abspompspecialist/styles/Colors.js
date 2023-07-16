@@ -7,7 +7,7 @@ const Colors = {
   RED: "#E41515",
   GRAY: "#2A3039",
   DARKGRAY: "#181B21",
-  LIGHTGRAY: "#777777",
+  LIGHTGRAY: "#666666",
 };
 
 export default Colors;
