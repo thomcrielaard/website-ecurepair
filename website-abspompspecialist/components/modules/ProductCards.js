@@ -88,7 +88,13 @@ export default function ProductCards(props) {
                   sizes={`(min-width: ${Breakpoints.lg}) 25vw, (min-width: ${Breakpoints.xs}) 50vw, 100vw`}
                   placeholder="blur"
                   blurDataURL={BlurDataUrl}
-                  src={API_URL + item.attributes.afbeelding.data.attributes.url}
+                  src={
+                    item.attributes.type
+                      ? API_URL +
+                        item.attributes.type.data.attributes.afbeelding.data
+                          .attributes.url
+                      : API_URL + item.attributes.afbeelding.data.attributes.url
+                  }
                   alt={item.attributes.onderdeelnummer ?? item.attributes.titel}
                   fill
                   style={{ objectFit: "cover" }}
@@ -144,16 +150,47 @@ export default function ProductCards(props) {
                     small
                   />
                   {props.price && (
-                    <span
+                    <div
                       style={{
-                        fontSize: 16,
-                        color: Colors.RED,
-                        fontFamily: "lato",
-                        fontWeight: 600,
+                        display: "flex",
+                        flexDirection: "column",
+                        alignItems: "flex-end",
+                        gap: 4,
                       }}
                     >
-                      €{item.attributes.prijs}
-                    </span>
+                      <span
+                        style={{
+                          fontSize: props.discount.ingeschakeld ? 14 : 16,
+                          textDecoration: props.discount.ingeschakeld
+                            ? "line-through"
+                            : "none",
+                          color: props.discount.ingeschakeld
+                            ? Colors.GRAY
+                            : Colors.RED,
+                          fontFamily: "lato",
+                          fontWeight: 600,
+                        }}
+                      >
+                        €{Number(item.attributes.prijs).toFixed(2)}
+                      </span>
+                      {props.discount.ingeschakeld && (
+                        <span
+                          style={{
+                            fontSize: 16,
+                            color: Colors.RED,
+                            fontFamily: "lato",
+                            fontWeight: 600,
+                          }}
+                        >
+                          €
+                          {Number(
+                            item.attributes.prijs -
+                              (item.attributes.prijs * props.discount.procent) /
+                                100
+                          ).toFixed(2)}
+                        </span>
+                      )}
+                    </div>
                   )}
                 </div>
               </div>

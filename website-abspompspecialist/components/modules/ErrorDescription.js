@@ -59,9 +59,6 @@ export default function ErrorDescription(props) {
         <div
           style={{
             display: "flex",
-            flexDirection: size.width < Breakpoints.xl ? "column" : "row",
-            gap: 50,
-            flexWrap: "nowrap",
           }}
         >
           {props.error.foutcodes.data.length > 0 && (
@@ -82,24 +79,6 @@ export default function ErrorDescription(props) {
                 >
                   {foutcode.attributes.foutcode}
                 </span>
-              ))}
-            </div>
-          )}
-          {props.error.abs_modules.data.length > 0 && (
-            <div>
-              <Title text="ONDERDELEN" size="xs" style={{ marginBottom: 10 }} />
-
-              {props.error.abs_modules.data.map((module, key) => (
-                <TextLink
-                  key={key}
-                  href={`/reparaties/${module.attributes.onderdeelnummer}`}
-                  text={module.attributes.onderdeelnummer}
-                  fontSize="1.2em"
-                  style={{
-                    textDecoration: "underline",
-                    lineHeight: "2em",
-                  }}
-                />
               ))}
             </div>
           )}

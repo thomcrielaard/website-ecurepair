@@ -46,7 +46,10 @@ export default function AbsDescription(props) {
           style={{ position: "relative", width: "100%", aspectRatio: "1/1" }}
         >
           <Image
-            src={API_URL + props.abs.afbeelding.data.attributes.url}
+            src={
+              API_URL +
+              props.abs.type.data.attributes.afbeelding.data.attributes.url
+            }
             alt={props.abs.onderdeelnummer}
             style={{ objectFit: "cover", border: `1px solid ${Colors.GRAY}` }}
             fill
@@ -72,73 +75,76 @@ export default function AbsDescription(props) {
         }}
       >
         <Title text={props.abs.onderdeelnummer} size="lg" />
-        {props.abs.autotypes.data.length > 0 &&
-          props.abs.autotypes.data.map((type, key) => (
-            <div key={key} style={{ display: "flex", gap: 10 }}>
-              <Link
-                style={{
-                  fontFamily: "poppins",
-                  fontWeight: 500,
-                  fontSize: 20,
-                  fontStyle: "italic",
-                  color: Colors.LIGHTGRAY,
-                  textDecoration: "underline",
-                }}
-                href={`/reparaties?merk=${type.attributes.model.data.attributes.merk.data.id}`}
-              >
-                {
-                  type.attributes.model.data.attributes.merk.data.attributes
-                    .naam
-                }
-              </Link>
-              <Chevron
-                width={10}
-                color={Colors.LIGHTGRAY}
-                style={{ rotate: "-90deg" }}
-              />
-              <Link
-                style={{
-                  fontFamily: "poppins",
-                  fontWeight: 500,
-                  fontSize: 20,
-                  fontStyle: "italic",
-                  color: Colors.LIGHTGRAY,
-                  textDecoration: "underline",
-                }}
-                href={`/reparaties?merk=${type.attributes.model.data.attributes.merk.data.id}&model=${type.attributes.model.data.id}`}
-              >
-                {type.attributes.model.data.attributes.naam}
-              </Link>
-              <Chevron
-                width={10}
-                color={Colors.LIGHTGRAY}
-                style={{ rotate: "-90deg" }}
-              />
-              <Link
-                style={{
-                  fontFamily: "poppins",
-                  fontWeight: 500,
-                  fontSize: 20,
-                  fontStyle: "italic",
-                  color: Colors.LIGHTGRAY,
-                  textDecoration: "underline",
-                }}
-                href={`/reparaties?merk=${type.attributes.model.data.attributes.merk.data.id}&model=${type.attributes.model.data.id}&type=${type.id}`}
-              >
-                {type.attributes.naam}
-              </Link>
-            </div>
-          ))}
-        <span
+        <div style={{ display: "flex", gap: 10 }}>
+          <Link
+            style={{
+              fontFamily: "poppins",
+              fontWeight: 500,
+              fontSize: 20,
+              fontStyle: "italic",
+              color: Colors.LIGHTGRAY,
+              textDecoration: "underline",
+            }}
+            href={`/reparaties?merk=${props.abs.merk.data.id}`}
+          >
+            {props.abs.merk.data.attributes.naam}
+          </Link>
+          <Chevron
+            width={10}
+            color={Colors.LIGHTGRAY}
+            style={{ rotate: "-90deg" }}
+          />
+          <Link
+            style={{
+              fontFamily: "poppins",
+              fontWeight: 500,
+              fontSize: 20,
+              fontStyle: "italic",
+              color: Colors.LIGHTGRAY,
+              textDecoration: "underline",
+            }}
+            href={`/reparaties?merk=${props.abs.merk.data.id}&type=${props.abs.type.data.id}`}
+          >
+            {props.abs.type.data.attributes.naam}
+          </Link>
+        </div>
+        <div
           style={{
-            fontSize: 32,
-            color: Colors.RED,
-            fontFamily: "lato",
-            fontWeight: 500,
+            display: "flex",
+            alignItems: "center",
+            gap: 10,
           }}
         >
-          €{props.abs.prijs}
-        </span>
+          {props.discount.ingeschakeld && (
+            <span
+              style={{
+                fontSize: 32,
+                color: Colors.RED,
+                fontFamily: "lato",
+                fontWeight: 500,
+              }}
+            >
+              €
+              {Number(
+                props.abs.prijs -
+                  (props.abs.prijs * props.discount.procent) / 100
+              ).toFixed(2)}
+            </span>
+          )}
+          <span
+            style={{
+              fontSize: props.discount.ingeschakeld ? 26 : 32,
+              textDecoration: props.discount.ingeschakeld
+                ? "line-through"
+                : "none",
+              color: props.discount.ingeschakeld ? Colors.GRAY : Colors.RED,
+              fontFamily: "lato",
+              fontWeight: 500,
+            }}
+          >
+            €{Number(props.abs.prijs).toFixed(2)}
+          </span>
+        </div>
         <div className="content">
           <ReactMarkdown>{props.abs.omschrijving}</ReactMarkdown>
         </div>
@@ -151,14 +157,14 @@ export default function AbsDescription(props) {
             gap: 15,
           }}
         >
-          {props.abs.foutcodes.data.length > 0 && (
+          {props.abs.merk.data.attributes.foutcodes.data.length > 0 && (
             <div>
               <Title
                 text="MOGELIJKE FOUTCODES"
                 size="xs"
                 style={{ marginBottom: 10 }}
               />
-              {props.abs.foutcodes.data.map((foutcode) => {
+              {props.abs.merk.data.attributes.foutcodes.data.map((foutcode) => {
                 if (foutcode.attributes.foutomschrijving.data != null)
                   return (
                     <TextLink
@@ -167,7 +173,9 @@ export default function AbsDescription(props) {
                       fontSize="1.1em"
                       style={{
                         textDecoration: "underline",
-                        lineHeight: "1.5em",
+                        lineHeight: "2em",
+                        fontSize: "1.2em",
+                        display: "block",
                       }}
                     />
                   );

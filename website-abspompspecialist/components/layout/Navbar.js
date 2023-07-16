@@ -74,6 +74,7 @@ function DesktopNavbar(props) {
             placeholder="blur"
             alt="Navbar"
             style={{ objectFit: "cover", zIndex: -1 }}
+            priority
           />
           <div
             style={{

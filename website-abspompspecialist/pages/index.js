@@ -20,11 +20,15 @@ import Cards from "@/components/modules/Cards";
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 
-import Product1 from "@/assets/img/abs.jpg";
-import Product2 from "@/assets/img/airbag.jpg";
 import shuffleArray from "@/services/ShuffleArray";
 
-export default function Home({ popularBrands, modules, merkModelType }) {
+export default function Home({
+  popularBrands,
+  modules,
+  merkType,
+  types,
+  discount,
+}) {
   const size = UseDimensions();
 
   return (
@@ -50,11 +54,12 @@ export default function Home({ popularBrands, modules, merkModelType }) {
           align="center"
           slim
         />
-        <Searchbar MMT={merkModelType} showButton />
+        <Searchbar MT={merkType} types={types} showButton />
         <ProductCards
           items={modules}
           buttonText="ALLE MODELLEN"
           buttonLink="/reparaties"
+          discount={discount}
           square
           button
           price
@@ -85,41 +90,48 @@ export default function Home({ popularBrands, modules, merkModelType }) {
 }
 
 export async function getStaticProps() {
+  const { data: discountData } = await Axios.get(`${API_URL}/api/korting`);
+
+  const discount = discountData.data.attributes;
+
   // Get all foutomschrijvings
   const { data: brandsData } = await Axios.get(
-    `${API_URL}/api/merks?&populate=foutomschrijvings.afbeelding,models`
+    `${API_URL}/api/merks?&populate=foutcodes.foutomschrijving.afbeelding`
   );
+  const allBrands = brandsData.data; // navigate to the 'data' field in the response
 
-  // This will give you an array of all the merks
-  const allBrands = brandsData.data;
+  const popularBrands = allBrands
+    .map((brand) => {
+      // Get array of types
+      const foutomschrijvings = brand.attributes.foutcodes.data
+        .filter(
+          (code) =>
+            code.attributes.foutomschrijving.data &&
+            code.attributes.foutomschrijving.data.attributes.homepagina
+        ) // filter out if foutomschrijving does not exist
+        .map((code) => ({
+          id: code.attributes.foutomschrijving.data.id,
+          attributes: code.attributes.foutomschrijving.data.attributes,
+        }))
+        // Remove duplicates based on 'title' property
+        .filter(
+          (value, index, self) =>
+            index === self.findIndex((t) => t.id === value.id)
+        );
 
-  // Now, filter the merks that have at least one foutomschrijvings with homepagina = true
-  let popularBrands = allBrands.filter((brand) => {
-    // foutomschrijvings is an array, so we can use the some() method
-    return brand.attributes.foutomschrijvings.data.some(
-      (foutomschrijvings) => foutomschrijvings.attributes.homepagina === true
-    );
-  });
+      if (!foutomschrijvings.length) {
+        return null;
+      }
 
-  // Now, update foutomschrijvings for each brand so it only contains foutomschrijvings with homepagina = true
-  popularBrands = popularBrands.map((brand) => {
-    const filteredFoutomschrijvings =
-      brand.attributes.foutomschrijvings.data.filter(
-        (foutomschrijvings) => foutomschrijvings.attributes.homepagina === true
-      );
-
-    // Shuffle the foutomschrijvings array
-    const shuffledFoutomschrijvings = shuffleArray(filteredFoutomschrijvings);
-
-    // Replace the foutomschrijvings data with the shuffled and filtered foutomschrijvings
-    brand.attributes.foutomschrijvings.data = shuffledFoutomschrijvings;
-
-    return brand;
-  });
+      // Deconstruct merk attributes, exclude abs_modules and return with types and merk id
+      const { foutcodes, ...otherAttributes } = brand.attributes;
+      return { id: brand.id, ...otherAttributes, foutomschrijvings };
+    })
+    .filter(Boolean);
 
   // Get all ABS modules
   const { data: modulesData } = await Axios.get(
-    `${API_URL}/api/abs-modules?populate=afbeelding`
+    `${API_URL}/api/abs-modules?populate=type.afbeelding`
   );
 
   const allModules = modulesData.data;
@@ -127,45 +139,35 @@ export async function getStaticProps() {
   const modules = shuffleArray(allModules);
 
   // Get all brands, models and types
-  const { data: merks } = await Axios.get(`${API_URL}/api/merks`);
-
-  const merkModelType = await Promise.all(
-    merks.data.map(async (merk) => {
-      const { data: models } = await Axios.get(
-        `${API_URL}/api/models?filters[merk][id]=${merk.id}`
-      );
-
-      const modelsData = await Promise.all(
-        models.data.map(async (model) => {
-          const { data: types } = await Axios.get(
-            `${API_URL}/api/types?filters[model][id]=${model.id}`
-          );
-
-          return {
-            ...model,
-            attributes: {
-              ...model.attributes,
-              types: types.data,
-            },
-          };
-        })
-      );
-
-      return {
-        ...merk,
-        attributes: {
-          ...merk.attributes,
-          models: modelsData,
-        },
-      };
-    })
+  const res = await Axios.get(
+    `${API_URL}/api/merks?populate=abs_modules,abs_modules.type&sort[0]=naam:asc`
   );
+  const merksData = res.data.data; // navigate to the 'data' field in the response
+
+  const merkType = merksData.map((merk) => {
+    // Get array of types
+    const types = merk.attributes.abs_modules.data
+      .map((module) => ({
+        id: module.attributes.type.data.id,
+        naam: module.attributes.type.data.attributes.naam,
+      }))
+      // Remove duplicates based on 'naam' property
+      .filter(
+        (value, index, self) =>
+          index === self.findIndex((t) => t.naam === value.naam)
+      );
+
+    // Deconstruct merk attributes, exclude abs_modules and return with types and merk id
+    const { abs_modules, ...otherAttributes } = merk.attributes;
+    return { id: merk.id, ...otherAttributes, types };
+  });
 
   return {
     props: {
       popularBrands,
       modules,
-      merkModelType,
+      merkType,
+      discount,
     },
   };
 }

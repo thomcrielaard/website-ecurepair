@@ -19,30 +19,13 @@ import Text from "@/components/text/Text";
 import Button from "@/components/modules/Button";
 import Colors from "@/styles/Colors";
 
-const filterModules = (modules, text, merk, model, type) => {
+const filterModules = (modules, text, merk, type) => {
   const filteredModules = modules.filter((item) => {
-    const { autotypes, omschrijving, samenvatting, onderdeelnummer } =
-      item.attributes;
+    const { omschrijving, samenvatting, onderdeelnummer } = item.attributes;
 
-    if (
-      type &&
-      type != "DEFAULT" &&
-      !autotypes.data.some((type_) => type_.id == type)
-    )
+    if (type && type != "DEFAULT" && item.attributes.type.data.id != type)
       return false;
-    else if (
-      model &&
-      model != "DEFAULT" &&
-      !autotypes.data.some((type) => type.attributes.model.data.id == model)
-    )
-      return false;
-    else if (
-      merk &&
-      merk != "DEFAULT" &&
-      !autotypes.data.some(
-        (type) => type.attributes.model.data.attributes.merk.data.id == merk
-      )
-    )
+    else if (merk && merk != "DEFAULT" && item.attributes.merk.data.id != merk)
       return false;
 
     // Filter based on search text
@@ -61,21 +44,20 @@ const filterModules = (modules, text, merk, model, type) => {
   return filteredModules;
 };
 
-export default function Reparaties({ modules, merkModelType }) {
+export default function Reparaties({ modules, merkType, discount }) {
   const size = UseDimensions();
   const router = useRouter();
 
   const searchText = router.query.onderdeel;
   const searchMerk = router.query.merk;
-  const searchModel = router.query.model;
   const searchType = router.query.type;
 
   const [filteredModules, setFilteredModules] = React.useState(
-    filterModules(modules, searchText, searchMerk, searchModel, searchType)
+    filterModules(modules, searchText, searchMerk, searchType)
   );
 
-  const updateModules = (text, merk, model, type) =>
-    setFilteredModules(filterModules(modules, text, merk, model, type));
+  const updateModules = (text, merk, type) =>
+    setFilteredModules(filterModules(modules, text, merk, type));
 
   return (
     <>
@@ -97,14 +79,11 @@ export default function Reparaties({ modules, merkModelType }) {
           slim
         />
         <Searchbar
-          MMT={merkModelType}
+          MT={merkType}
           text={searchText}
           merk={searchMerk}
-          model={searchModel}
           type={searchType}
-          updateModules={(text, merk, model, type) =>
-            updateModules(text, merk, model, type)
-          }
+          updateModules={(text, merk, type) => updateModules(text, merk, type)}
         />
         <div
           style={{ display: "flex", justifyContent: "center", width: "100%" }}
@@ -120,7 +99,12 @@ export default function Reparaties({ modules, merkModelType }) {
             target="_blank"
           />
         </div>
-        <ProductCards items={filteredModules} square price />
+        <ProductCards
+          items={filteredModules}
+          discount={discount}
+          square
+          price
+        />
       </Container>
 
       <Footer />
@@ -129,51 +113,45 @@ export default function Reparaties({ modules, merkModelType }) {
 }
 
 export async function getStaticProps() {
+  const { data: discountData } = await Axios.get(`${API_URL}/api/korting`);
+
+  const discount = discountData.data.attributes;
+
   const { data: modulesData } = await Axios.get(
-    `${API_URL}/api/abs-modules?populate=afbeelding,autotypes,autotypes.model,autotypes.model.merk&sort[0]=id:desc`
+    `${API_URL}/api/abs-modules?populate=type.afbeelding,merk&sort[0]=id:desc`
   );
 
   const modules = modulesData.data;
 
   // Get all brands, models and types
-  const { data: merks } = await Axios.get(`${API_URL}/api/merks`);
-
-  const merkModelType = await Promise.all(
-    merks.data.map(async (merk) => {
-      const { data: models } = await Axios.get(
-        `${API_URL}/api/models?filters[merk][id]=${merk.id}`
-      );
-
-      const modelsData = await Promise.all(
-        models.data.map(async (model) => {
-          const { data: types } = await Axios.get(
-            `${API_URL}/api/types?filters[model][id]=${model.id}`
-          );
-
-          return {
-            ...model,
-            attributes: {
-              ...model.attributes,
-              types: types.data,
-            },
-          };
-        })
-      );
-
-      return {
-        ...merk,
-        attributes: {
-          ...merk.attributes,
-          models: modelsData,
-        },
-      };
-    })
+  const res = await Axios.get(
+    `${API_URL}/api/merks?populate=abs_modules,abs_modules.type&sort[0]=naam:asc`
   );
+  const merksData = res.data.data; // navigate to the 'data' field in the response
+
+  const merkType = merksData.map((merk) => {
+    // Get array of types
+    const types = merk.attributes.abs_modules.data
+      .map((module) => ({
+        id: module.attributes.type.data.id,
+        naam: module.attributes.type.data.attributes.naam,
+      }))
+      // Remove duplicates based on 'naam' property
+      .filter(
+        (value, index, self) =>
+          index === self.findIndex((t) => t.naam === value.naam)
+      );
+
+    // Deconstruct merk attributes, exclude abs_modules and return with types and merk id
+    const { abs_modules, ...otherAttributes } = merk.attributes;
+    return { id: merk.id, ...otherAttributes, types };
+  });
 
   return {
     props: {
       modules,
-      merkModelType,
+      merkType,
+      discount,
     },
   };
 }
