@@ -59,15 +59,7 @@ export default function BigBanner(props) {
         />
 
         <Container innerClassName={styles.BigBannerContainer}>
-          <Logo
-            width={
-              size.width < Breakpoints.xs
-                ? "200px"
-                : size.width < Breakpoints.lg
-                ? "300px"
-                : "400px"
-            }
-          />
+          <Logo responsive />
 
           <Text
             text="Bent u op zoek naar een specialist in ABS pomp reparatie of revisie? ABS Pomp Specialist biedt u hoogwaardige, snelle en betrouwbare diensten. Ons team van ervaren technici zorgt ervoor dat u weer veilig de weg op kunt."

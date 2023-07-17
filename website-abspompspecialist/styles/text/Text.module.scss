@@ -1,0 +1,55 @@
+@import "@/styles/_config";
+
+.TextContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+  .Text {
+    font-size: 18px;
+    color: colors(GRAY);
+    font-family: "lato";
+    font-weight: 600;
+    white-space: pre-wrap;
+    line-height: 1.5;
+    text-align: left;
+  }
+
+  @include sm {
+    .Text {
+      text-align: center;
+    }
+  }
+
+  &.left {
+    justify-content: flex-start;
+
+    .Text {
+      text-align: left;
+    }
+  }
+
+  &.center {
+    justify-content: center;
+
+    .Text {
+      text-align: center;
+    }
+  }
+
+  &.right {
+    justify-content: flex-end;
+
+    .Text {
+      text-align: right;
+    }
+  }
+}
+
+.TextWrapper {
+  max-width: 1000px;
+}
+
+.TextWrapperSlim {
+  max-width: 750px;
+}

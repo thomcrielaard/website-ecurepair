@@ -1,0 +1,111 @@
+@import "@/styles/_config";
+
+.Title {
+  color: colors(GRAY);
+  font-weight: 700;
+  font-family: "lato";
+  text-align: left;
+  white-space: pre-wrap;
+  margin: 0;
+
+  &.center {
+    text-align: center;
+  }
+
+  &.xxs {
+    font-size: 1.25em;
+
+    @include lg {
+      font-size: 1.2em;
+    }
+
+    @include sm {
+      font-size: 1.1em;
+    }
+  }
+
+  &.xs {
+    font-size: 1.4em;
+
+    @include xl {
+      font-size: 1.3em;
+    }
+
+    @include lg {
+      font-size: 1.2em;
+    }
+
+    @include sm {
+      font-size: 1.1em;
+    }
+  }
+
+  &.sm {
+    font-size: 1.5em;
+
+    @include sm {
+      font-size: 1.4em;
+    }
+  }
+
+  &.md {
+    font-size: 2em;
+
+    @include xl {
+      font-size: 1.75em;
+    }
+
+    @include lg {
+      font-size: 1.6em;
+    }
+
+    @include sm {
+      font-size: 1.5em;
+    }
+  }
+
+  &.lg {
+    font-size: 2.5em;
+
+    @include xl {
+      font-size: 2.25em;
+    }
+
+    @include lg {
+      font-size: 2.1em;
+    }
+
+    @include sm {
+      font-size: 1.75em;
+    }
+  }
+
+  &.xl {
+    font-size: 3em;
+
+    @include xl {
+      font-size: 2.75em;
+    }
+
+    @include sm {
+      font-size: 2.5em;
+    }
+  }
+}
+
+.TitleBar {
+  width: 125px;
+  height: 4px;
+  background-color: colors(RED);
+  margin: 15px 0;
+}
+
+.TitleBarContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  &.left {
+    justify-content: flex-start;
+  }
+}

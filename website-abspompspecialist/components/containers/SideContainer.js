@@ -2,9 +2,6 @@ import * as React from "react";
 
 import styles from "@/styles/containers/SideContainer.module.scss";
 
-import UseDimensions from "../../services/UseDimensions";
-import Breakpoints from "../../styles/Breakpoints";
-
 export default function SideContainer(props) {
   const size = UseDimensions();
 

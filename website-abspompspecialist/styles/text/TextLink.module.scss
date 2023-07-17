@@ -1,0 +1,19 @@
+@import "@/styles/_config";
+
+.TextLink {
+  font-size: 1rem;
+  font-weight: normal;
+  transition: all 0.3s ease-in-out;
+}
+
+.TextLinkBar {
+  width: 2.5px;
+  margin-top: 2px;
+  background-color: colors(RED);
+}
+
+.TextLinkBarContainer {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}

@@ -443,8 +443,6 @@ function NavbarLink(props) {
           ? "1rem"
           : "1.25rem"
       }
-      fontWeight={600}
-      fontFamily="lato"
       bar={props.active}
     />
   );

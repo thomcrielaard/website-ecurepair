@@ -302,7 +302,6 @@ function FooterLink(props) {
         </div>
       }
       href={props.href}
-      font="lato"
       color={Colors.MEDIUMWHITE}
       style={{ lineHeight: 2 }}
       hoverColor={Colors.WHITE}

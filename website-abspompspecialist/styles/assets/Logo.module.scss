@@ -1,0 +1,75 @@
+@import "@/styles/_config";
+
+.LogoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+
+  &.LogoResponsive {
+    width: 400px;
+
+    @include lg {
+      width: 300px;
+    }
+
+    @include xs {
+      width: 200px;
+    }
+  }
+}
+
+.LogoCaption,
+.LogoSubcaption {
+  color: colors(WHITE);
+  font-family: "lato";
+  white-space: nowrap;
+}
+
+.LogoCaption {
+  font-weight: 800;
+  font-size: 16px;
+  letter-spacing: 2px;
+  margin: 4px 0 3px 0;
+}
+
+.LogoSubcaption {
+  font-weight: 600;
+  font-size: 8px;
+  letter-spacing: calc(4px / 3);
+}
+
+.LogoResponsive {
+  .LogoCaption {
+    font-size: 30px;
+    letter-spacing: 4px;
+    margin: 8px 0 5px 0;
+
+    @include lg {
+      font-size: 22px;
+      letter-spacing: 3px;
+      margin: 6px 0 4px 0;
+    }
+
+    @include xs {
+      font-size: 16px;
+      letter-spacing: 2px;
+      margin: 4px 0 3px 0;
+    }
+  }
+
+  .LogoSubcaption {
+    font-size: 16px;
+    letter-spacing: calc(8px / 3);
+
+    @include lg {
+      font-size: 12px;
+      letter-spacing: 2px;
+    }
+
+    @include xs {
+      font-size: 8px;
+      letter-spacing: calc(4px / 3);
+    }
+  }
+}

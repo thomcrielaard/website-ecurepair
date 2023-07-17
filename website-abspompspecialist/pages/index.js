@@ -71,7 +71,7 @@ export default function Home({
 
       <Container style={{ marginTop: "4rem" }}>
         <Title
-          text="VEELVOORKOMENDE FOUTEN"
+          text="VEEL VOORKOMENDE FOUTEN"
           size="lg"
           align="center"
           underline
