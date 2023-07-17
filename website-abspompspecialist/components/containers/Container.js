@@ -1,5 +1,7 @@
 import * as React from "react";
 
+import styles from "@/styles/containers/Container.module.scss";
+
 import UseDimensions from "../../services/UseDimensions";
 import Breakpoints from "../../styles/Breakpoints";
 
@@ -9,27 +11,20 @@ export default function Container(props) {
   return (
     <>
       <div
+        className={`${styles.ContainerWrapper} ${props.className}`}
         style={{
-          display: "flex",
-          flexDirection: "row",
-          justifyContent: "center",
           backgroundColor: props.backgroundColor,
-          width: "100%",
           ...props.style,
         }}
         id={props.id}
       >
         <div
+          className={`${styles.Container} ${props.innerClassName}`}
           style={{
-            padding:
-              props.padding ??
-              (size.width < Breakpoints.sm
-                ? `${props.paddingVert ?? "4rem"} 2rem`
-                : size.width < Breakpoints.md
-                ? `${props.paddingVert ?? "4rem"} 4rem`
-                : `${props.paddingVert ?? "4rem"} 8rem`),
-            width: "100%",
-            maxWidth: 2000,
+            paddingTop: props.paddingVert ?? props.padding,
+            paddingBottom: props.paddingVert ?? props.padding,
+            paddingLeft: props.padding,
+            paddingRight: props.padding,
             ...props.innerStyle,
           }}
         >

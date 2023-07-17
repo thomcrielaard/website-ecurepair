@@ -230,8 +230,18 @@ export default function Footer(props) {
                     size.width < Breakpoints.xs ? "center" : "flex-start",
                 }}
               >
-                <FooterLink text="Algemene voorwaarden" href="#" bar />
-                <FooterLink text="Privacyverklaring" href="#" bar />
+                <FooterLink
+                  text="Algemene voorwaarden"
+                  href="/algemene-voorwaarden.pdf"
+                  bar
+                  blank
+                />
+                <FooterLink
+                  text="Privacyverklaring"
+                  href="/privacystatement.pdf"
+                  bar
+                  blank
+                />
               </div>
             </div>
           </div>
@@ -279,6 +289,7 @@ export default function Footer(props) {
 function FooterLink(props) {
   return (
     <TextLink
+      target={props.blank && "_blank"}
       fontSize={18}
       text={
         <div style={{ display: "flex", alignItems: "center", gap: 6 }}>

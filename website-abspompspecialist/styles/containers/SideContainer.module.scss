@@ -1,0 +1,52 @@
+@import "@/styles/_config";
+
+.SideContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 50;
+
+  &.SideContainerAlignTop {
+    align-items: flex-start;
+  }
+
+  @include sm {
+    flex-direction: column;
+
+    &.SideContainerReverse {
+      flex-direction: column-reverse;
+    }
+  }
+}
+
+.SideContainerLeft,
+.SideContainerRight {
+  width: 48%;
+}
+
+.SideContainerContentLeft {
+  .SideContainerLeft {
+    width: 63%;
+  }
+  .SideContainerRight {
+    width: 33%;
+  }
+}
+
+.SideContainerContentRight {
+  .SideContainerLeft {
+    width: 33%;
+  }
+  .SideContainerRight {
+    width: 63%;
+  }
+}
+
+@include sm {
+  .SideContainerLeft,
+  .SideContainerRight {
+    width: 100%;
+  }
+}

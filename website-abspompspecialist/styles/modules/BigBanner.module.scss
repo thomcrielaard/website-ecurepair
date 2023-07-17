@@ -1,0 +1,103 @@
+@import "@/styles/_config";
+
+.BigBanner {
+  position: relative;
+  background: colors(GRAY);
+}
+
+.BigBannerImage {
+  z-index: 1;
+  object-fit: cover;
+}
+
+.BigBannerContainer {
+  height: 80vh;
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  z-index: 2;
+
+  @include sm {
+    height: inherit;
+    padding-top: 6rem;
+    padding-bottom: 0;
+    min-height: 0;
+  }
+}
+
+.BigBannerSearchContainer {
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  bottom: -3rem;
+  z-index: 3;
+  width: 75%;
+  display: flex;
+  justify-content: space-between;
+  background-color: colors(GRAY);
+  padding: 3.5rem 5rem;
+  box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.25);
+  gap: 15px;
+
+  select,
+  input {
+    width: 100%;
+    border: 0;
+    background-color: colors(WHITE, 0.3);
+    border-bottom: 1px solid colors(LIGHTGRAY);
+    transition: all 0.3s ease-in-out;
+    font-family: "lato";
+    font-weight: 500;
+    font-size: 1.25rem;
+    padding: 0 10px;
+    border-radius: 2px;
+  }
+
+  select option {
+    &:not(:disabled) {
+      color: colors(GRAY);
+    }
+    font-weight: 500;
+  }
+
+  select:focus {
+    outline: none;
+    border-bottom: 1px solid colors(RED);
+  }
+
+  select:disabled:hover {
+    cursor: not-allowed;
+  }
+
+  input::placeholder {
+    color: colors(WHITE);
+  }
+
+  @include lg {
+    width: 100%;
+  }
+
+  @include md {
+    padding: 3.5rem 2rem;
+
+    select,
+    input {
+      font-size: 1.1rem;
+    }
+  }
+
+  @include sm {
+    position: relative;
+    flex-direction: column;
+    padding: 2rem;
+
+    select,
+    input {
+      height: 40px;
+      font-size: 1.15rem;
+    }
+  }
+}

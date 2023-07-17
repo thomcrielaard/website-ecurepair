@@ -43,7 +43,7 @@ export default function Home({
 
       <Navbar transparent />
 
-      <BigBanner />
+      <BigBanner MT={merkType} types={types} showButton />
 
       <Cards />
 

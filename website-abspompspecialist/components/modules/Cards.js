@@ -68,10 +68,10 @@ export default function Cards(props) {
               alignItems: "center",
               padding:
                 size.width < Breakpoints.lg
-                  ? "50px 25px"
+                  ? "80px 50px 25px"
                   : size.width < Breakpoints.xl
-                  ? "50px"
-                  : "50px 100px",
+                  ? "80px 50px 50px"
+                  : "80px 50px 100px",
               gap: 30,
             }}
           >
@@ -138,10 +138,10 @@ export default function Cards(props) {
                 size.width < Breakpoints.md
                   ? "100px 25px 50px 25px"
                   : size.width < Breakpoints.lg
-                  ? "50px 25px"
+                  ? "80px 50px 25px"
                   : size.width < Breakpoints.xl
-                  ? "50px"
-                  : "50px 100px",
+                  ? "80px 50px 50px"
+                  : "80px 50px 100px",
               gap: 30,
             }}
           >

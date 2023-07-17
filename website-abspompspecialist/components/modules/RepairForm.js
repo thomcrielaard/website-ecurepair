@@ -171,7 +171,11 @@ export default function RepairForm(props) {
               }}
             >
               Ik ga akkoord met de{" "}
-              <Link href="#" style={{ textDecoration: "underline" }}>
+              <Link
+                href="/algemene-voorwaarden.pdf"
+                style={{ textDecoration: "underline" }}
+                target="_blank"
+              >
                 Algemene Voorwaarden
               </Link>
             </label>
