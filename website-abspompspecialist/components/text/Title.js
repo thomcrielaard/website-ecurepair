@@ -9,7 +9,7 @@ export default function Title(props) {
         className={`
         ${styles.Title} 
         ${styles[props.size]} 
-        ${styles[props.align]}`}
+        ${styles[props.align] || ""}`}
         style={{
           color: props.color,
           ...props.style,
@@ -18,7 +18,10 @@ export default function Title(props) {
         {props.text}
       </h1>
       {props.underline && (
-        <div className={styles.TitleBarContainer}>
+        <div
+          className={`${styles.TitleBarContainer} 
+          ${styles[props.align] || ""}`}
+        >
           <div className={styles.TitleBar} />
         </div>
       )}

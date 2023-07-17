@@ -5,10 +5,10 @@ import styles from "@/styles/assets/Logo.module.scss";
 const Logo = (props) => (
   <div
     className={`${styles.LogoContainer} 
-    ${props.responsive && styles.LogoResponsive}`}
+    ${props.responsive ? styles.LogoResponsive : ""}`}
   >
     <svg
-      className={props.className}
+      className={props.className || ""}
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 300 75"
     >

@@ -15,7 +15,7 @@ export default function TextLink(props) {
       <Link
         href={props.href}
         target={props.target}
-        className={styles.TextLink}
+        className={`${styles.TextLink} ${props.className || ""}`}
         style={{
           color: hover ? props.hoverColor : props.color,
           fontSize: props.fontSize,
@@ -25,14 +25,7 @@ export default function TextLink(props) {
         onClick={props.onClick}
       >
         <div className={styles.TextLinkBarContainer}>
-          {props.bar && (
-            <div
-              className={styles.TextLinkBar}
-              style={{
-                height: props.fontSize,
-              }}
-            />
-          )}
+          {props.bar && <div className={styles.TextLinkBar} />}
           {props.text}
         </div>
       </Link>

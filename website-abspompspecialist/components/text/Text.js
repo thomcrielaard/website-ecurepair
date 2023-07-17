@@ -5,7 +5,7 @@ import styles from "@/styles/text/Text.module.scss";
 export default function Text(props) {
   return (
     <div
-      className={`${styles.TextContainer} ${styles[props.align]}`}
+      className={`${styles.TextContainer} ${styles[props.align] || ""}`}
       ref={props.forwardRef}
     >
       <div className={props.slim ? styles.TextWrapperSlim : styles.TextWrapper}>
