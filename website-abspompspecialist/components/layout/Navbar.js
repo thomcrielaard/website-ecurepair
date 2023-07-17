@@ -139,18 +139,7 @@ function MobileNavExpanded(props) {
         ${props.open && styles.NavbarMobileOpen}`}
         paddingVert="30px"
       >
-        <div
-          className={styles.NavbarMobileNavWrapper}
-          style={{
-            width: "100%",
-            display: "flex",
-            flexDirection: "column",
-            alignItems: "left",
-            marginTop: 80,
-            gap: 30,
-            paddingLeft: 10,
-          }}
-        >
+        <div className={styles.NavbarMobileNavWrapper}>
           <NavbarLink href="/" text="Home" active={router.pathname == "/"} />
           <NavbarLink
             href="/overons"
@@ -178,12 +167,7 @@ function MobileNavExpanded(props) {
       {size.width >= Breakpoints.xs && props.open && (
         <div
           onClick={() => props.setOpen(false)}
-          style={{
-            height: "100%",
-            position: "fixed",
-            width: "100%",
-            zIndex: 997,
-          }}
+          className={styles.NavbarMobileNavBackground}
         />
       )}
     </>
