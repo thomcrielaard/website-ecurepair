@@ -1,6 +1,8 @@
 import * as React from "react";
 import Image from "next/image";
 
+import styles from "@/styles/modules/BigBanner.module.scss";
+
 import UseDimensions from "@/services/UseDimensions";
 import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
@@ -16,17 +18,38 @@ import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 
 export default function BigBanner(props) {
   const size = UseDimensions();
+  const [types, setTypes] = React.useState([]);
+
+  const selectTypeRef = React.useRef(null);
+
+  const [inputValue, setInputValue] = React.useState(null);
+  const [brandValue, setBrandValue] = React.useState(null);
+  const [typeValue, setTypeValue] = React.useState(null);
+
+  const handleInputChange = (text) => {
+    setInputValue(text);
+  };
+
+  const changeMerk = (merk) => {
+    const selectedValue = merk;
+    const brand = props.MT.find((item) => item.id === parseInt(selectedValue));
+    if (brand) {
+      setBrandValue(merk);
+      setTypes(brand.types);
+      setTypeValue(null);
+      selectTypeRef.current.value = "DEFAULT";
+    }
+  };
+
+  const changeType = (type) => {
+    setTypeValue(type);
+  };
 
   return (
     <>
-      <div
-        style={{
-          position: "relative",
-          background: Colors.GRAY,
-        }}
-      >
+      <div className={styles.BigBanner}>
         <Image
-          style={{ zIndex: 1, objectFit: "cover" }}
+          className={styles.BigBannerImage}
           src={Header}
           alt={"Omslagfoto"}
           placeholder="blur"
@@ -35,18 +58,7 @@ export default function BigBanner(props) {
           priority
         />
 
-        <Container
-          innerStyle={{
-            height: "100vh",
-            minHeight: 700,
-            display: "flex",
-            flexDirection: "column",
-            justifyContent: "center",
-            alignItems: "center",
-            gap: 20,
-            zIndex: 2,
-          }}
-        >
+        <Container innerClassName={styles.BigBannerContainer}>
           <Logo
             width={
               size.width < Breakpoints.xs
@@ -64,20 +76,65 @@ export default function BigBanner(props) {
             style={{ textShadow: "0px 0px 4px #000000" }}
             slim
           />
+        </Container>
+
+        <div className={styles.BigBannerSearchContainer}>
+          <input
+            type="text"
+            placeholder="Onderdeelnummer"
+            onChange={(e) => handleInputChange(e.target.value)}
+          />
+
+          <select
+            defaultValue={"DEFAULT"}
+            onChange={(e) => changeMerk(e.target.value)}
+          >
+            <option value="DEFAULT" disabled>
+              Selecteer merk
+            </option>
+            {props.MT.map((brand, key) => (
+              <option key={key} value={brand.id}>
+                {brand.naam}
+              </option>
+            ))}
+          </select>
+
+          <select
+            defaultValue={"DEFAULT"}
+            disabled={types.length === 0}
+            ref={selectTypeRef}
+          >
+            <option
+              value="DEFAULT"
+              disabled
+              onChange={(e) => changeType(e.target.value)}
+            >
+              Selecteer onderdeel
+            </option>
+            {types.map((type, key) => (
+              <option key={key} value={type.id}>
+                {type.naam}
+              </option>
+            ))}
+          </select>
 
           <Button
             text={
-              <div style={{ display: "flex", gap: 10 }}>
-                MODEL ZOEKEN <MagnifyingGlass width={20} fill={Colors.WHITE} />
+              <div
+                style={{ display: "flex", alignSelf: "flex-start", gap: 10 }}
+              >
+                ZOEKEN <MagnifyingGlass width={20} fill={Colors.WHITE} />
               </div>
             }
             borderColor={Colors.RED}
             backgroundColor={Colors.RED}
             color={Colors.WHITE}
-            href="#search"
-            scroll={false}
+            style={{ alignSelf: "center" }}
+            href={`/reparaties?onderdeel=${inputValue ?? "DEFAULT"}&merk=${
+              brandValue ?? "DEFAULT"
+            }&type=${typeValue ?? "DEFAULT"}`}
           />
-        </Container>
+        </div>
       </div>
     </>
   );

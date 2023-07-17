@@ -1,5 +1,7 @@
 import * as React from "react";
 
+import styles from "@/styles/containers/SideContainer.module.scss";
+
 import UseDimensions from "../../services/UseDimensions";
 import Breakpoints from "../../styles/Breakpoints";
 
@@ -9,49 +11,17 @@ export default function SideContainer(props) {
   return (
     <>
       <div
+        className={`${styles.SideContainer} 
+        ${props.reverse && styles.SideContainerReverse} 
+        ${props.contentRight && styles.SideContainerContentRight} 
+        ${props.contentLeft && styles.SideContainerContentLeft}
+        ${props.alignTop && styles.SideContainerAlignTop}`}
         style={{
-          width: "100%",
-          display: "flex",
-          flexDirection:
-            size.width < Breakpoints.sm
-              ? props.reverse
-                ? "column-reverse"
-                : "column"
-              : "row",
-          justifyContent: "space-between",
-          alignItems: props.alignTop ? "flex-start" : "center",
-          gap: 50,
           ...props.style,
         }}
       >
-        <div
-          style={{
-            width:
-              size.width < Breakpoints.sm
-                ? "100%"
-                : props.contentLeft
-                ? "63%"
-                : props.contentRight
-                ? "33%"
-                : "48%",
-          }}
-        >
-          {props.left}
-        </div>
-        <div
-          style={{
-            width:
-              size.width < Breakpoints.sm
-                ? "100%"
-                : props.contentLeft
-                ? "33%"
-                : props.contentRight
-                ? "63%"
-                : "48%",
-          }}
-        >
-          {props.right}
-        </div>
+        <div className={styles.SideContainerLeft}>{props.left}</div>
+        <div className={styles.SideContainerRight}>{props.right}</div>
       </div>
     </>
   );

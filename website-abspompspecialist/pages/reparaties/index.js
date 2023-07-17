@@ -33,7 +33,9 @@ const filterModules = (modules, text, merk, type) => {
       !text ||
       omschrijving.includes(text) ||
       samenvatting.includes(text) ||
-      onderdeelnummer.includes(text?.split(" ").join("").split("-").join(""))
+      onderdeelnummer.includes(
+        text?.split(" ").join("").split("-").join("").split(".").join("")
+      )
     ) {
       return true;
     }

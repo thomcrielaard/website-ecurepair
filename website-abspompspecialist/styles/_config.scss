@@ -1,0 +1,50 @@
+@mixin xs {
+  @media (max-width: 576px) {
+    @content;
+  }
+}
+
+@mixin sm {
+  @media (max-width: 768px) {
+    @content;
+  }
+}
+
+@mixin md {
+  @media (max-width: 992px) {
+    @content;
+  }
+}
+
+@mixin lg {
+  @media (max-width: 1200px) {
+    @content;
+  }
+}
+
+@mixin xl {
+  @media (max-width: 1400px) {
+    @content;
+  }
+}
+
+@function colors($key, $opacity: 1) {
+  $colors: (
+    WHITE: #ffffff,
+    LIGHTWHITE: #eeeeee,
+    MEDIUMWHITE: #cccccc,
+    BLACK: #000000,
+    RED: #e41515,
+    GRAY: #2a3039,
+    DARKGRAY: #181b21,
+    LIGHTGRAY: #666666,
+  );
+
+  $color: map-get($colors, $key);
+
+  @if $opacity != 1 {
+    @return rgba($color, $opacity);
+  } @else {
+    @return $color;
+  }
+}
