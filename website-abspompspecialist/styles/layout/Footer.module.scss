@@ -1,0 +1,173 @@
+@import "@/styles/_config";
+
+.FooterBackground {
+  position: relative;
+  clip-path: polygon(
+    0 0,
+    50% 65px,
+    100% 0,
+    100% calc(100% + 1px),
+    0 calc(100% + 1px)
+  );
+
+  @include md {
+    clip-path: polygon(
+      0 0,
+      50% 30px,
+      100% 0,
+      100% calc(100% + 1px),
+      0 calc(100% + 1px)
+    );
+  }
+}
+
+.FooterContainer {
+  padding: 150px 0 40px 0;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+
+  @include xl {
+    gap: 50px;
+  }
+
+  @include md {
+    padding: 100px 0 40px 0;
+  }
+}
+
+.FooterWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 24%;
+  align-items: flex-start;
+
+  p {
+    text-align: left !important;
+    margin: 0;
+  }
+
+  @include xl {
+    max-width: initial;
+    width: 40%;
+  }
+
+  @include xs {
+    width: 100%;
+    align-items: center;
+    p {
+      text-align: center !important;
+    }
+  }
+}
+
+.FooterLinksWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  @include xs {
+    align-items: center;
+  }
+}
+
+.FooterIconsWrapper {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+
+  @include xs {
+    justify-content: center;
+  }
+}
+
+.FooterSitelinksWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 24%;
+  align-items: flex-start;
+
+  @include xl {
+    max-width: initial;
+    width: 250px;
+  }
+
+  @include xs {
+    width: 100%;
+    align-items: center;
+  }
+}
+
+.FooterSitelinksInnerWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  @include xs {
+    align-items: center;
+  }
+}
+
+.FooterSpanResponsive {
+  text-align: left;
+
+  @include xs {
+    text-align: center;
+  }
+}
+
+.FooterSeparator {
+  border: 0;
+  background-color: colors(LIGHTGRAY);
+  height: 1px;
+  width: 100%;
+}
+
+.FooterCopyrightWrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 10px 0 15px 0;
+}
+
+.FooterCopyright {
+  font-size: 15;
+  color: colors(MEDIUMWHITE);
+  font-weight: 600;
+  font-family: "lato";
+  text-align: center;
+}
+
+.FooterLink {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.FooterLinkBar {
+  width: 10px;
+  height: 2px;
+  background-color: colors(RED);
+}
+
+.FooterIcon {
+  background-color: colors(LIGHTGRAY);
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.3s ease-in-out;
+
+  &:hover {
+    background-color: colors(RED);
+  }
+
+  svg,
+  path {
+    fill: colors(WHITE);
+  }
+}
