@@ -1,0 +1,35 @@
+@import "@/styles/_config";
+
+.ContactFormWrapper {
+  width: 50%;
+  position: relative;
+  padding-left: 4rem;
+
+  @include sm {
+    width: 100%;
+    padding-left: 0;
+  }
+}
+
+.ContactFormBackground {
+  position: absolute;
+  background-color: colors(GRAY, 0.96);
+  width: calc(100vw / 2 + 1px);
+  left: 0;
+  top: calc(-4rem - 65px);
+  height: calc(100% + 8rem + 130px);
+  z-index: -1;
+
+  @include md {
+    top: calc(-4rem - 30px);
+    height: calc(100% + 8rem + 60px);
+    width: 100vw;
+  }
+
+  @include sm {
+    left: -2rem;
+    top: -2rem;
+    height: calc(100% + 2rem + 100px);
+    min-width: 300px;
+  }
+}

@@ -20,6 +20,7 @@ export default function Button(props) {
       className={`hover ${styles.Button} 
       ${props.small && "small"} 
       ${props.className || ""}`}
+      style={style}
       onClick={props.onClick}
     >
       {props.text}

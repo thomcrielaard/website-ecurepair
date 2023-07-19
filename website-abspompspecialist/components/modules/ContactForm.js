@@ -1,6 +1,8 @@
 import * as React from "react";
 import { Comment } from "react-loader-spinner";
 
+import styles from "@/styles/modules/ContactForm.module.scss";
+
 import UseDimensions from "../../services/UseDimensions";
 import Breakpoints from "@/styles/Breakpoints";
 
@@ -49,32 +51,8 @@ export default function ContactForm(props) {
   };
 
   return (
-    <div
-      style={{
-        width: size.width < Breakpoints.sm ? "100%" : "50%",
-        position: "relative",
-        paddingLeft: size.width < Breakpoints.sm ? 0 : "4rem",
-      }}
-    >
-      <div
-        style={{
-          position: "absolute",
-          backgroundColor: `${Colors.GRAY}F5`,
-          width: size.width / 2 + 1,
-          left: size.width < Breakpoints.sm ? "-2rem" : 0,
-          top:
-            size.width < Breakpoints.sm
-              ? "-2rem"
-              : `calc(-4rem - ${size.width < Breakpoints.md ? "30" : "65"}px)`,
-          height:
-            size.width < Breakpoints.sm
-              ? "calc(100% + 2rem + 60"
-              : `calc(100% + 8rem + ${
-                  size.width < Breakpoints.md ? "60" : "130"
-                }px)`,
-          zIndex: -1,
-        }}
-      />
+    <div className={styles.ContactFormWrapper}>
+      <div className={styles.ContactFormBackground} />
 
       <div
         style={{
