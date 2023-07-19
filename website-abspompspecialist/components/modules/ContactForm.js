@@ -1,5 +1,4 @@
 import * as React from "react";
-import Link from "next/link";
 import { Comment } from "react-loader-spinner";
 
 import UseDimensions from "../../services/UseDimensions";

@@ -148,6 +148,11 @@
   position: fixed;
   width: 100%;
   z-index: 997;
+  display: none;
+
+  @include sm {
+    display: initial;
+  }
 }
 
 .NavbarSearchContainer {

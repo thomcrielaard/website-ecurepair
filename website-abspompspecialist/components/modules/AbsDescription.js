@@ -1,8 +1,11 @@
 import * as React from "react";
+import Image from "next/image";
+import Link from "next/link";
 import { API_URL } from "@/pages/_app";
 import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 
-import UseDimensions from "@/services/UseDimensions";
+import styles from "@/styles/modules/AbsDescription.module.scss";
+
 import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
 import { BlurDataUrl } from "@/services/BlurDataUrl";
@@ -11,46 +14,21 @@ import Button from "@/components/modules/Button";
 
 import Title from "../text/Title";
 import TextLink from "../text/TextLink";
-import Image from "next/image";
-import Link from "next/link";
+
 import Chevron from "@/assets/svg/Chevron";
 
 export default function AbsDescription(props) {
-  const size = UseDimensions();
-
   return (
-    <div
-      style={{
-        display: "flex",
-        justifyContent:
-          size.width < Breakpoints.xl ? "space-between" : "space-evenly",
-        gap: size.width < Breakpoints.md ? 50 : 30,
-        flexDirection: size.width < Breakpoints.md ? "column" : "row",
-        alignItems: "center",
-      }}
-    >
-      <div
-        style={{
-          width:
-            size.width < Breakpoints.xs
-              ? "100%"
-              : size.width < Breakpoints.md
-              ? "80%"
-              : size.width < Breakpoints.xl
-              ? "50%"
-              : "40%",
-        }}
-      >
-        <div
-          style={{ position: "relative", width: "100%", aspectRatio: "1/1" }}
-        >
+    <div className={styles.AbsDescriptionContainer}>
+      <div className={styles.AbsDescriptionSideContainer}>
+        <div className={styles.AbsDescriptionImageWrapper}>
           <Image
+            className={styles.AbsDescriptionImage}
             src={
               API_URL +
               props.abs.type.data.attributes.afbeelding.data.attributes.url
             }
             alt={props.abs.onderdeelnummer}
-            style={{ objectFit: "cover", border: `1px solid ${Colors.GRAY}` }}
             fill
             sizes={`(min-width: ${Breakpoints.md}) 33vw, (min-width: ${Breakpoints.xs}) 85vw, 95vw`}
             placeholder="blur"
@@ -59,31 +37,12 @@ export default function AbsDescription(props) {
         </div>
       </div>
       <div
-        style={{
-          display: "flex",
-          flexDirection: "column",
-          gap: 10,
-          width:
-            size.width < Breakpoints.xs
-              ? "100%"
-              : size.width < Breakpoints.md
-              ? "80%"
-              : size.width < Breakpoints.xl
-              ? "50%"
-              : "40%",
-        }}
+        className={`${styles.AbsDescriptionSideContainer} ${styles.AbsDescriptionTextContainer}`}
       >
         <Title text={props.abs.onderdeelnummer} size="lg" />
-        <div style={{ display: "flex", gap: 10 }}>
+        <div className={styles.AbsDescriptionTitleWrapper}>
           <Link
-            style={{
-              fontFamily: "poppins",
-              fontWeight: 500,
-              fontSize: 20,
-              fontStyle: "italic",
-              color: Colors.LIGHTGRAY,
-              textDecoration: "underline",
-            }}
+            className={styles.AbsDescriptionQuicklink}
             href={`/reparaties?merk=${props.abs.merk.data.id}`}
           >
             {props.abs.merk.data.attributes.naam}
@@ -94,68 +53,32 @@ export default function AbsDescription(props) {
             style={{ rotate: "-90deg" }}
           />
           <Link
-            style={{
-              fontFamily: "poppins",
-              fontWeight: 500,
-              fontSize: 20,
-              fontStyle: "italic",
-              color: Colors.LIGHTGRAY,
-              textDecoration: "underline",
-            }}
+            className={styles.AbsDescriptionQuicklink}
             href={`/reparaties?merk=${props.abs.merk.data.id}&type=${props.abs.type.data.id}`}
           >
             {props.abs.type.data.attributes.naam}
           </Link>
         </div>
-        <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: 10,
-          }}
-        >
+        <div className={styles.AbsDescriptionPriceWrapper}>
+          <span className={styles.AbsDescriptionPrice}>
+            €
+            {Number(
+              props.discount.ingeschakeld
+                ? props.abs.prijs -
+                    (props.abs.prijs * props.discount.procent) / 100
+                : props.abs.prijs
+            ).toFixed(2)}
+          </span>
           {props.discount.ingeschakeld && (
-            <span
-              style={{
-                fontSize: 32,
-                color: Colors.RED,
-                fontFamily: "lato",
-                fontWeight: 500,
-              }}
-            >
-              €
-              {Number(
-                props.abs.prijs -
-                  (props.abs.prijs * props.discount.procent) / 100
-              ).toFixed(2)}
+            <span className={styles.AbsDescriptionOldPrice}>
+              €{Number(props.abs.prijs).toFixed(2)}
             </span>
           )}
-          <span
-            style={{
-              fontSize: props.discount.ingeschakeld ? 26 : 32,
-              textDecoration: props.discount.ingeschakeld
-                ? "line-through"
-                : "none",
-              color: props.discount.ingeschakeld ? Colors.GRAY : Colors.RED,
-              fontFamily: "lato",
-              fontWeight: 500,
-            }}
-          >
-            €{Number(props.abs.prijs).toFixed(2)}
-          </span>
         </div>
         <div className="content">
           <ReactMarkdown>{props.abs.omschrijving}</ReactMarkdown>
         </div>
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "space-between",
-            marginTop: 15,
-            flexWrap: "wrap",
-            gap: 15,
-          }}
-        >
+        <div className={styles.AbsDescriptionErrorWrapper}>
           {props.abs.merk.data.attributes.foutcodes.data.length > 0 && (
             <div>
               <Title
@@ -169,24 +92,12 @@ export default function AbsDescription(props) {
                     <TextLink
                       href={`/fouten/${foutcode.attributes.foutomschrijving.data.attributes.titel}`}
                       text={foutcode.attributes.foutcode}
-                      fontSize="1.1em"
-                      style={{
-                        textDecoration: "underline",
-                        lineHeight: "2em",
-                        fontSize: "1.2em",
-                        display: "block",
-                      }}
+                      className={`${styles.AbsDescriptionError} ${styles.AbsDescriptionErrorLink}`}
                     />
                   );
                 else
                   return (
-                    <span
-                      style={{
-                        lineHeight: "1.5em",
-                        fontSize: "1.1em",
-                        display: "block",
-                      }}
-                    >
+                    <span className={styles.AbsDescriptionError}>
                       {foutcode.attributes.foutcode}
                     </span>
                   );

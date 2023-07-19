@@ -3,8 +3,6 @@ import Image from "next/image";
 
 import styles from "@/styles/modules/BigBanner.module.scss";
 
-import UseDimensions from "@/services/UseDimensions";
-import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
 
 import Container from "@/components/containers/Container";
@@ -17,7 +15,6 @@ import Logo from "@/assets/svg/Logo";
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 
 export default function BigBanner(props) {
-  const size = UseDimensions();
   const [types, setTypes] = React.useState([]);
 
   const selectTypeRef = React.useRef(null);

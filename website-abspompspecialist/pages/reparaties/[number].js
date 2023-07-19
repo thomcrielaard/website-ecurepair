@@ -18,7 +18,7 @@ function Error({ absModule, discount }) {
   return (
     <>
       <Head>
-        <title>{`ABS Pomp Specialist \u2013 Onderdeel ${absModule.attributes.onderdeelnummer}`}</title>
+        <title>{`ABS Pomp Specialist \u2013 ABS Module ${absModule.attributes.onderdeelnummer}`}</title>
         <meta name="description" content={absModule.attributes.omschrijving} />
       </Head>
 

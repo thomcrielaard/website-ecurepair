@@ -1,0 +1,31 @@
+@import "@/styles/_config";
+
+.Button {
+  width: fit-content;
+  background-color: var(--backgroundColor);
+  border: 1px solid var(--borderColor);
+  color: var(--color);
+  font-family: "poppins";
+  font-weight: 500;
+  font-size: 1em;
+  letter-spacing: 5px;
+  transition: 0.3s ease-in-out;
+  text-align: center;
+  padding: 10px 25px;
+
+  @include sm {
+    letter-spacing: 3px;
+  }
+
+  &:hover {
+    background-color: var(--hoverBackgroundColor);
+    border: 1px solid var(--hoverBorderColor);
+    color: var(--hoverColor);
+  }
+
+  &.small {
+    font-size: 12px;
+    letter-spacing: 2px !important;
+    padding: 5px 15px;
+  }
+}

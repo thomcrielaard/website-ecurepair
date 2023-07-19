@@ -164,7 +164,7 @@ function MobileNavExpanded(props) {
         </div>
       </Container>
 
-      {size.width >= Breakpoints.xs && props.open && (
+      {props.open && (
         <div
           onClick={() => props.setOpen(false)}
           className={styles.NavbarMobileNavBackground}
