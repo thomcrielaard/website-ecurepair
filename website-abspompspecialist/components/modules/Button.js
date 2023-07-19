@@ -12,7 +12,7 @@ export default function Button(props) {
 
   return props.isButton ? (
     <button
-      className="hover"
+      className={`hover ${props.className || ""}`}
       style={{
         width: "fit-content",
         backgroundColor:
@@ -51,7 +51,7 @@ export default function Button(props) {
     </button>
   ) : (
     <Link
-      className="hover"
+      className={`hover ${props.className || ""}`}
       href={props.href ?? ""}
       style={{
         width: "fit-content",

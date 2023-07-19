@@ -1,0 +1,109 @@
+@import "@/styles/_config";
+
+.CardsContainer {
+  margin-bottom: calc(4rem + 75px);
+
+  @include md {
+    margin-bottom: calc(4rem + 35px);
+  }
+
+  @include xs {
+    margin-bottom: calc(4rem + 60px);
+  }
+}
+
+.CardsInnerContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+
+  @include md {
+    flex-direction: column;
+  }
+
+  @include sm {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+.CardWrapper {
+  position: relative;
+  width: 50%;
+
+  @include md {
+    width: 100%;
+  }
+}
+
+.Card {
+  position: relative;
+  height: calc(100% + 75px);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 80px 50px 100px;
+  gap: 30px;
+
+  p {
+    margin: 0 !important;
+  }
+
+  &.CardLeft {
+    background-color: colors(RED);
+    z-index: 1;
+    clip-path: polygon(
+      0 0,
+      calc(100% + 1px) 0,
+      calc(100% + 1px) 100%,
+      0 calc(100% - 75px)
+    );
+  }
+
+  &.CardRight {
+    background-color: colors(GRAY);
+    clip-path: polygon(
+      0 0,
+      calc(100% + 1px) 0,
+      calc(100% + 1px) calc(100% - 75px),
+      0 100%
+    );
+  }
+
+  @include xl {
+    padding: 80px 50px 50px;
+  }
+
+  @include lg {
+    padding: 80px 50px 25px;
+  }
+
+  @include md {
+    height: calc(100% + 35px);
+    clip-path: polygon(
+      0 0,
+      100% 0,
+      100% calc(100% - 30px),
+      50% 100%,
+      0 calc(100% - 30px)
+    ) !important;
+  }
+
+  @include sm {
+    height: calc(100% + 60px);
+  }
+}
+
+.CardButton {
+  position: absolute;
+  bottom: -62px;
+  left: 50%;
+  transform: translateX(-50%);
+  box-shadow: 0px 3px 6px colors(BLACK, 0.16);
+  width: 255px !important;
+  z-index: 2;
+}

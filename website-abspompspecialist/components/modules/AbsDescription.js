@@ -11,7 +11,6 @@ import Button from "@/components/modules/Button";
 
 import Title from "../text/Title";
 import TextLink from "../text/TextLink";
-import Text from "../text/Text";
 import Image from "next/image";
 import Link from "next/link";
 import Chevron from "@/assets/svg/Chevron";
