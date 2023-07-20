@@ -17,7 +17,7 @@ import Link from "next/link";
 import Phone from "@/assets/svg/Phone";
 import Mail from "@/assets/svg/Mail";
 
-export default function Footer(props) {
+export default function Footer() {
   const router = useRouter();
 
   return (
@@ -136,18 +136,18 @@ export default function Footer(props) {
   );
 }
 
-function FooterLink(props) {
+function FooterLink({ text, href, bar, blank = false }) {
   return (
     <TextLink
-      target={props.blank && "_blank"}
+      target={blank && "_blank"}
       fontSize={18}
       text={
         <div className={styles.FooterLink}>
-          {props.bar && <div className={styles.FooterLinkBar} />}
-          {props.text}
+          {bar && <div className={styles.FooterLinkBar} />}
+          {text}
         </div>
       }
-      href={props.href}
+      href={href}
       color={Colors.MEDIUMWHITE}
       style={{ lineHeight: 2 }}
       hoverColor={Colors.WHITE}
@@ -155,14 +155,10 @@ function FooterLink(props) {
   );
 }
 
-function FooterIcon(props) {
+function FooterIcon({ icon, href, ariaLabel }) {
   return (
-    <Link
-      className={styles.FooterIcon}
-      href={props.href}
-      aria-label={props.ariaLabel}
-    >
-      {props.icon}
+    <Link className={styles.FooterIcon} href={href} aria-label={ariaLabel}>
+      {icon}
     </Link>
   );
 }

@@ -3,9 +3,6 @@ import { Comment } from "react-loader-spinner";
 
 import styles from "@/styles/modules/ContactForm.module.scss";
 
-import UseDimensions from "../../services/UseDimensions";
-import Breakpoints from "@/styles/Breakpoints";
-
 import Colors from "@/styles/Colors";
 
 import Title from "@/components/text/Title";
@@ -13,7 +10,6 @@ import Text from "@/components/text/Text";
 import Button from "./Button";
 
 export default function ContactForm(props) {
-  const size = UseDimensions();
   const [loading, setLoading] = React.useState(false);
   const [showSuccess, setShowSuccess] = React.useState(false);
   const [message, setMessage] = React.useState("");
@@ -54,13 +50,7 @@ export default function ContactForm(props) {
     <div className={styles.ContactFormWrapper}>
       <div className={styles.ContactFormBackground} />
 
-      <div
-        style={{
-          display: "flex",
-          alignItems: size.width < Breakpoints.sm ? "center" : "flex-start",
-          flexDirection: "column",
-        }}
-      >
+      <div className={styles.ContactFormTitleWrapper}>
         <Title
           color={Colors.WHITE}
           text="FORMULIER"
@@ -70,54 +60,20 @@ export default function ContactForm(props) {
         />
       </div>
       <form onSubmit={handleSubmit} style={{ marginTop: 30 }}>
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "row",
-            justifyContent: "space-between",
-            flexWrap: "wrap",
-          }}
-        >
+        <div className={styles.ContactForm}>
           <Input name="name" placeholder="Naam *" required />
           <Input name="subject" placeholder="Onderwerp *" required />
-          <Input name="email" placeholder="E-mail *" type="mail" required />
-          <Input
-            name="tel"
-            placeholder="Telefoonnummer"
-            required={false}
-            type="tel"
-          />
+          <Input name="email" placeholder="E-mail *" type="email" required />
+          <Input name="tel" placeholder="Telefoonnummer" type="tel" />
         </div>
         <textarea
           name="text"
           id="text"
-          className="input"
-          style={{
-            padding: "15px 20px",
-            fontSize: 16,
-            width: "100%",
-            maxWidth: "100%",
-            marginBottom: size.width < Breakpoints.xs ? 15 : 30,
-            borderRadius: 0,
-            fontFamily: "lato",
-            fontWeight: 600,
-            border: 0,
-            color: Colors.MEDIUMWHITE,
-            backgroundColor: Colors.GRAY,
-            borderBottom: `1px solid ${Colors.GRAY}`,
-            transition: "border .3s ease-in-out",
-            height: 300,
-          }}
+          className={`input ${styles.ContactFormInput} ${styles.ContactFormTextarea}`}
           placeholder="Waar kunnen we u mee helpen?"
           required
         />
-        <div
-          style={{
-            display: "flex",
-            justifyContent:
-              size.width < Breakpoints.sm ? "center" : "flex-start",
-          }}
-        >
+        <div className={styles.ContactFormButtonWrapper}>
           {!(loading || showSuccess) && (
             <Button
               isButton
@@ -133,14 +89,7 @@ export default function ContactForm(props) {
             />
           )}
           {loading && (
-            <div
-              style={{
-                height: 60,
-                width: 175,
-                display: "flex",
-                justifyContent: "flex-start",
-              }}
-            >
+            <div className={styles.ContactFormCommentWrapper}>
               <Comment
                 height="50"
                 width="50"
@@ -161,28 +110,12 @@ export default function ContactForm(props) {
 }
 
 function Input(props) {
-  const size = UseDimensions();
-
   return (
     <input
       type={props.type ?? "text"}
       name={props.name}
       id={props.name}
-      className="input"
-      style={{
-        padding: "15px 20px",
-        fontSize: 16,
-        width: size.width < Breakpoints.xl ? "100%" : "48%",
-        marginBottom: size.width < Breakpoints.xs ? 15 : 30,
-        borderRadius: 0,
-        fontFamily: "lato",
-        fontWeight: 600,
-        border: 0,
-        color: Colors.MEDIUMWHITE,
-        backgroundColor: Colors.GRAY,
-        borderBottom: `1px solid ${Colors.GRAY}`,
-        transition: "all .3s ease-in-out",
-      }}
+      className={`input ${styles.ContactFormInput}`}
       placeholder={props.placeholder}
       required={props.required}
     />

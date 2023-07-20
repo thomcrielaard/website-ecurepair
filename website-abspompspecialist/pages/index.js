@@ -96,7 +96,7 @@ export async function getStaticProps() {
 
   // Get all foutomschrijvings
   const { data: brandsData } = await Axios.get(
-    `${API_URL}/api/merks?&populate=foutcodes.foutomschrijving.afbeelding`
+    `${API_URL}/api/merks?&populate=foutcodes.foutomschrijving.afbeelding&sort=naam`
   );
   const allBrands = brandsData.data; // navigate to the 'data' field in the response
 

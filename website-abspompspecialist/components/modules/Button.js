@@ -18,7 +18,7 @@ export default function Button(props) {
   return props.isButton ? (
     <button
       className={`hover ${styles.Button} 
-      ${props.small && "small"} 
+      ${props.small && styles.small} 
       ${props.className || ""}`}
       style={style}
       onClick={props.onClick}
@@ -29,7 +29,7 @@ export default function Button(props) {
     <Link
       href={props.href ?? ""}
       className={`hover ${styles.Button} 
-      ${props.small && "small"} 
+      ${props.small && styles.small} 
       ${props.className || ""}`}
       style={style}
       scroll={props.scroll ?? true}

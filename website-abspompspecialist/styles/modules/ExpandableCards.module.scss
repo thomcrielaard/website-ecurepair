@@ -1,0 +1,55 @@
+@import "@/styles/_config";
+
+.ExpandableCardsContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.ExpandableCard {
+  position: relative;
+  width: 100%;
+  padding: 50px 30px;
+}
+
+.ExpandableCardOverlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: colors(BLACK, 0.62);
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.ExpandableCardWrapper {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.ExpandableCardTitle {
+  font-family: "poppins";
+  font-weight: 500;
+}
+
+.ExpandableCardBar {
+  background-color: colors(MEDIUMWHITE, 0.62);
+  height: 30px;
+  width: 0.5px;
+  margin-right: 8px;
+  margin-left: 2px;
+}
+
+.ExpandableCardSubtitle {
+  font-size: 14px;
+  color: colors(MEDIUMWHITE, 0.62);
+}
+
+.ExpandableCardContentWrapper {
+  overflow: hidden;
+  transition: max-height 0.3s ease-in-out;
+  padding: 0 20px;
+  box-shadow: 0px 0px 10px 0px colors(GRAY, 0.19);
+}

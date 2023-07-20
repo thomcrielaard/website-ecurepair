@@ -92,13 +92,14 @@ export default function OverOns() {
               />
               <Text
                 text="Ons aanbod van diensten omvat een breed spectrum van ABS gerelateerde problemen. Van diagnose tot reparatie en revisie, wij zorgen ervoor dat uw ABS systeem perfect functioneert. Wij hebben de ervaring en de kennis om de meest uitdagende ABS problemen aan te pakken."
-                style={{ marginBottom: 40 }}
+                style={{ marginBottom: 20 }}
               />
               <div
                 style={{
                   display: "flex",
                   justifyContent:
                     size.width < Breakpoints.sm ? "center" : "left",
+                  marginBottom: 40,
                 }}
               >
                 <Button
@@ -107,6 +108,7 @@ export default function OverOns() {
                   color={Colors.WHITE}
                   hoverColor={Colors.RED}
                   borderColor={Colors.RED}
+                  hoverBorderColor={Colors.RED}
                   backgroundColor={Colors.RED}
                   hoverBackgroundColor={Colors.WHITE}
                 />

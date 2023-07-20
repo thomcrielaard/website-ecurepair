@@ -1,54 +1,60 @@
 @import "@/styles/_config";
 
-.ContactFormWrapper {
-  width: 50%;
-  position: relative;
-  padding-left: 4rem;
-
-  @include sm {
-    width: 100%;
-    padding-left: 0;
-  }
+.RepairFormWrapper {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1000px;
 }
 
-.ContactFormBackground {
-  position: absolute;
-  background-color: colors(GRAY, 0.96);
-  width: calc(100vw / 2 + 1px);
-  left: 0;
-  top: calc(-4rem - 65px);
-  height: calc(100% + 8rem + 130px);
-  z-index: -1;
-
-  @include md {
-    top: calc(-4rem - 30px);
-    height: calc(100% + 8rem + 60px);
-    width: 100vw;
-  }
-
-  @include sm {
-    left: -2rem;
-    top: -2rem;
-    height: calc(100% + 2rem + 100px);
-    min-width: 300px;
-  }
-}
-
-.ContactFormTitleWrapper {
+.RepairFormTitleWrapper {
   display: flex;
-  align-items: flex-start;
   flex-direction: column;
+  align-items: flex-start;
 
   @include sm {
     align-items: center;
   }
 }
 
-.ContactForm {
+.RepairForm {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   flex-wrap: wrap;
+}
+
+.RepairFormSubtitleWrapper {
+  width: 100%;
+  margin-bottom: 30px;
+
+  @include xs {
+    margin-bottom: 15px;
+  }
+}
+
+.RepairFormCheckboxWrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+
+  @include xs {
+    margin-bottom: 15px;
+  }
+
+  input {
+    margin-right: 10px;
+  }
+
+  label {
+    font-size: 16px;
+    font-family: "lato";
+    font-weight: 600;
+    color: colors(MEDIUMWHITE);
+  }
+
+  a {
+    text-decoration: underline;
+  }
 }
 
 .ContactFormInput {
@@ -66,6 +72,10 @@
   border-bottom: 1px solid colors(GRAY);
   transition: border 0.3s ease-in-out;
 
+  &.ContactFormInputFullWidth {
+    width: 100%;
+  }
+
   &.ContactFormTextarea {
     height: 300px;
     width: 100%;
@@ -80,7 +90,7 @@
   }
 }
 
-.ContactFormButtonWrapper {
+.RepairFormButtonWrapper {
   display: flex;
   justify-content: flex-start;
 
@@ -89,7 +99,7 @@
   }
 }
 
-.ContactFormCommentWrapper {
+.RepairFormCommentWrapper {
   height: 60px;
   width: 175px;
   display: flex;

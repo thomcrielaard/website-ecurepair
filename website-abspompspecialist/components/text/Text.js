@@ -10,7 +10,7 @@ export default function Text(props) {
     >
       <div className={props.slim ? styles.TextWrapperSlim : styles.TextWrapper}>
         <p
-          className={styles.Text}
+          className={`${styles.Text} ${props.className || ""}`}
           style={{
             fontSize: props.fontSize,
             color: props.color,

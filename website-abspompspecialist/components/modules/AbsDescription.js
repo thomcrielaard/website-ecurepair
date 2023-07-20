@@ -111,6 +111,7 @@ export default function AbsDescription(props) {
               color={Colors.WHITE}
               hoverColor={Colors.RED}
               borderColor={Colors.RED}
+              hoverBorderColor={Colors.RED}
               backgroundColor={Colors.RED}
               hoverBackgroundColor={Colors.WHITE}
               target="_blank"

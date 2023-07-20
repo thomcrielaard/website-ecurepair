@@ -2,6 +2,7 @@ import * as React from "react";
 import Link from "next/link";
 import { Comment } from "react-loader-spinner";
 
+import styles from "@/styles/modules/RepairForm.module.scss";
 import UseDimensions from "../../services/UseDimensions";
 import Breakpoints from "@/styles/Breakpoints";
 
@@ -57,20 +58,8 @@ export default function RepairForm(props) {
   };
 
   return (
-    <div
-      style={{
-        width: "100%",
-        margin: "0 auto",
-        maxWidth: 1000,
-      }}
-    >
-      <div
-        style={{
-          display: "flex",
-          alignItems: size.width < Breakpoints.sm ? "center" : "flex-start",
-          flexDirection: "column",
-        }}
-      >
+    <div className={styles.RepairFormWrapper}>
+      <div className={styles.RepairFormTitleWrapper}>
         <Title
           color={Colors.WHITE}
           text="REPARATIE FORMULIER"
@@ -80,20 +69,8 @@ export default function RepairForm(props) {
         />
       </div>
       <form onSubmit={handleSubmit} style={{ marginTop: 30 }}>
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "row",
-            justifyContent: "space-between",
-            flexWrap: "wrap",
-          }}
-        >
-          <div
-            style={{
-              width: "100%",
-              marginBottom: size.width < Breakpoints.xs ? 15 : 30,
-            }}
-          >
+        <div className={styles.RepairForm}>
+          <div className={styles.RepairFormSubtitleWrapper}>
             <Title color={Colors.WHITE} size="md" text="Autogegevens" />
           </div>
           <Input name="brand" placeholder="Automerk" />
@@ -106,88 +83,29 @@ export default function RepairForm(props) {
         <textarea
           name="description"
           id="description"
-          className="input"
-          style={{
-            padding: "15px 20px",
-            fontSize: 16,
-            width: "100%",
-            maxWidth: "100%",
-            marginBottom: size.width < Breakpoints.xs ? 15 : 30,
-            borderRadius: 0,
-            fontFamily: "lato",
-            fontWeight: 600,
-            border: 0,
-            color: Colors.MEDIUMWHITE,
-            backgroundColor: Colors.GRAY,
-            borderBottom: `1px solid ${Colors.GRAY}`,
-            transition: "border .3s ease-in-out",
-            height: 300,
-          }}
           placeholder="Omschrijving klacht / Overige opmerkingen"
+          className={`input ${styles.ContactFormInput} ${styles.ContactFormTextarea}`}
         />
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "row",
-            justifyContent: "space-between",
-            flexWrap: "wrap",
-          }}
-        >
-          <div
-            style={{
-              width: "100%",
-              marginBottom: size.width < Breakpoints.xs ? 15 : 30,
-            }}
-          >
+        <div className={styles.RepairForm}>
+          <div className={styles.RepairFormSubtitleWrapper}>
             <Title color={Colors.WHITE} size="md" text="Klantgegevens" />
           </div>
           <Input name="name" placeholder="Naam / Bedrijfsnaam *" required />
           <Input name="contactperson" placeholder="Contactpersoon" />
           <Input name="email" placeholder="E-mail *" required type="email" />
           <Input name="phone" placeholder="Telefoonnummer" />
-          <Input name="btw" placeholder="BTW nummer" width="100%" />
-          <div
-            style={{
-              display: "flex",
-              alignItems: "center",
-              marginBottom: size.width < Breakpoints.xs ? 15 : 30,
-            }}
-          >
-            <input
-              type="checkbox"
-              id="terms"
-              required
-              style={{
-                marginRight: 10,
-              }}
-            />
-            <label
-              htmlFor="terms"
-              style={{
-                fontSize: 16,
-                fontFamily: "lato",
-                fontWeight: 600,
-                color: Colors.MEDIUMWHITE,
-              }}
-            >
+          <Input name="btw" placeholder="BTW nummer" full />
+          <div className={styles.RepairFormCheckboxWrapper}>
+            <input type="checkbox" id="terms" required />
+            <label htmlFor="terms">
               Ik ga akkoord met de{" "}
-              <Link
-                href="/algemene-voorwaarden.pdf"
-                style={{ textDecoration: "underline" }}
-                target="_blank"
-              >
+              <Link href="/algemene-voorwaarden.pdf" target="_blank">
                 Algemene Voorwaarden
               </Link>
             </label>
           </div>
         </div>
-        <div
-          style={{
-            display: "flex",
-            justifyContent:
-              size.width < Breakpoints.sm ? "center" : "flex-start",
-          }}
-        >
+        <div className={styles.RepairFormButtonWrapper}>
           {!(loading || showSuccess) && (
             <Button
               isButton
@@ -203,14 +121,7 @@ export default function RepairForm(props) {
             />
           )}
           {loading && (
-            <div
-              style={{
-                height: 60,
-                width: 175,
-                display: "flex",
-                justifyContent: "flex-start",
-              }}
-            >
+            <div className={styles.RepairFormCommentWrapper}>
               <Comment
                 height="50"
                 width="50"
@@ -231,28 +142,14 @@ export default function RepairForm(props) {
 }
 
 function Input(props) {
-  const size = UseDimensions();
-
   return (
     <input
       type={props.type ?? "text"}
       name={props.name}
       id={props.name}
-      className="input"
-      style={{
-        padding: "15px 20px",
-        fontSize: 16,
-        width: props.width ?? size.width < Breakpoints.xl ? "100%" : "48%",
-        marginBottom: size.width < Breakpoints.xs ? 15 : 30,
-        borderRadius: 0,
-        fontFamily: "lato",
-        fontWeight: 600,
-        border: 0,
-        color: Colors.MEDIUMWHITE,
-        backgroundColor: Colors.GRAY,
-        borderBottom: `1px solid ${Colors.GRAY}`,
-        transition: "all .3s ease-in-out",
-      }}
+      className={`${styles.ContactFormInput} 
+      ${props.full && styles.ContactFormInputFullWidth} 
+      input`}
       placeholder={props.placeholder}
       required={props.required}
     />
