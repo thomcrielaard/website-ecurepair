@@ -1,6 +1,8 @@
 import Image from "next/image";
 import Head from "next/head";
 
+import styles from "@/styles/pages/overons.module.scss";
+
 import UseDimensions from "@/services/UseDimensions";
 import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
@@ -45,7 +47,8 @@ export default function OverOns() {
             <>
               <Title
                 text="WIE WIJ ZIJN"
-                align={size.width < Breakpoints.sm ? "center" : "left"}
+                className={styles.OverOnsTitleResponsive}
+                containerClassName={styles.OverOnsTitleBarResponsive}
                 size="lg"
                 underline
               />
@@ -86,7 +89,8 @@ export default function OverOns() {
             <>
               <Title
                 text="WAT WIJ DOEN"
-                align={size.width < Breakpoints.sm ? "center" : "left"}
+                className={styles.OverOnsTitleResponsive}
+                containerClassName={styles.OverOnsTitleBarResponsive}
                 size="lg"
                 underline
               />
@@ -94,14 +98,7 @@ export default function OverOns() {
                 text="Ons aanbod van diensten omvat een breed spectrum van ABS gerelateerde problemen. Van diagnose tot reparatie en revisie, wij zorgen ervoor dat uw ABS systeem perfect functioneert. Wij hebben de ervaring en de kennis om de meest uitdagende ABS problemen aan te pakken."
                 style={{ marginBottom: 20 }}
               />
-              <div
-                style={{
-                  display: "flex",
-                  justifyContent:
-                    size.width < Breakpoints.sm ? "center" : "left",
-                  marginBottom: 40,
-                }}
-              >
+              <div className={styles.OverOnsButtonWrapper}>
                 <Button
                   href="/contact"
                   text="AFSPRAAK MAKEN"

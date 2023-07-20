@@ -5,6 +5,8 @@ import Breakpoints from "@/styles/Breakpoints";
 
 import Container from "@/components/containers/Container";
 
+import styles from "@/styles/pages/contact.module.scss";
+
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 
@@ -26,13 +28,7 @@ export default function Contact() {
 
       <Navbar />
 
-      <Container
-        innerStyle={{
-          display: "flex",
-          flexWrap: "wrap",
-          gap: size.width < Breakpoints.sm ? "6rem" : 0,
-        }}
-      >
+      <Container className={styles.ContactFormContainer}>
         <ContactInfo />
         <ContactForm />
       </Container>

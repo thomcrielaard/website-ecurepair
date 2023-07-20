@@ -115,17 +115,15 @@ export default function Searchbar(props) {
               />
             )}
 
-            {size.width >= Breakpoints.sm && (
-              <div className={styles.SearchbarIndicationbar}>
-                <div
-                  className={styles.SearchbarIndication}
-                  style={{
-                    width: `min(${inputWidth}px, 100%)`,
-                  }}
-                />
-                <div className={styles.SearchbarIndicationFill} />
-              </div>
-            )}
+            <div className={styles.SearchbarIndicationbar}>
+              <div
+                className={styles.SearchbarIndication}
+                style={{
+                  width: `min(${inputWidth}px, 100%)`,
+                }}
+              />
+              <div className={styles.SearchbarIndicationFill} />
+            </div>
           </div>
 
           <div className={styles.SearchbarSelectContainer}>
