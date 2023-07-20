@@ -1,7 +1,8 @@
 import * as React from "react";
 
+import styles from "@/styles/modules/Searchbar.module.scss";
+
 import UseDimensions from "@/services/UseDimensions";
-import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
 
 import Button from "@/components/modules/Button";
@@ -9,8 +10,6 @@ import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import Clear from "@/assets/svg/Clear";
 
 export default function Searchbar(props) {
-  const size = UseDimensions();
-
   const inputRef = React.useRef(null);
   const selectBrandRef = React.useRef(null);
   const selectTypeRef = React.useRef(null);
@@ -87,45 +86,17 @@ export default function Searchbar(props) {
   }, [selectedMerk]);
 
   return (
-    <div style={{ display: "flex", justifyContent: "center" }}>
-      <div
-        style={{
-          display: "flex",
-          justifyContent: "space-between",
-          flexDirection: size.width < Breakpoints.sm ? "column" : "row",
-          width: "100%",
-          maxWidth: 750,
-          gap: 30,
-        }}
-      >
-        <div
-          style={{
-            width: "100%",
-            display: "flex",
-            flexDirection: "column",
-            justifyContent: "space-between",
-          }}
-        >
-          <div style={{ paddingBottom: size.width < Breakpoints.sm ? 10 : 20 }}>
+    <div className={styles.SearchbarContainer}>
+      <div className={styles.SearchbarWrapper}>
+        <div className={styles.Searchbar}>
+          <div className={styles.SearchbarFormWrapper}>
             {props.showButton ? (
               <form method="GET" action="/reparaties">
                 <input
                   type="text"
                   name="onderdeel"
                   placeholder="Onderdelen zoeken"
-                  className="searchbar-input"
-                  style={{
-                    width: "100%",
-                    height: "100%",
-                    background: "transparent",
-                    border: 0,
-                    color: Colors.GRAY,
-                    fontFamily: "lato",
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderBottom: 0,
-                    padding: "0 4px",
-                  }}
+                  className={`${styles.SearchbarInput} searchbar-input`}
                   ref={inputRef}
                   onChange={handleInputChange}
                 />
@@ -135,160 +106,70 @@ export default function Searchbar(props) {
                 type="text"
                 name="search"
                 placeholder="Onderdelen zoeken"
-                className="searchbar-input"
-                style={{
-                  width: "100%",
-                  height: "100%",
-                  background: "transparent",
-                  border: 0,
-                  color: Colors.GRAY,
-                  fontFamily: "lato",
-                  fontSize: 18,
-                  fontWeight: 600,
-                  borderBottom: 0,
-                  padding: "0 4px",
-                }}
+                className={`${styles.SearchbarInput} searchbar-input`}
                 ref={inputRef}
                 onChange={handleInputChange}
               />
             )}
 
-            {size.width >= Breakpoints.sm && (
-              <div style={{ display: "flex", width: "100%", marginTop: 2 }}>
-                <div
-                  style={{
-                    backgroundColor: Colors.RED,
-                    width: `min(${inputWidth}px, 100%)`,
-                    height: 2,
-                    transition: "all .3s ease-out",
-                  }}
-                />
-                <div
-                  style={{
-                    backgroundColor: `${Colors.RED}50`,
-                    flex: 1,
-                    height: 2,
-                  }}
-                />
-              </div>
-            )}
+            <div className={styles.SearchbarIndicationbar}>
+              <div
+                className={styles.SearchbarIndication}
+                style={{
+                  width: `min(${inputWidth}px, 100%)`,
+                }}
+              />
+              <div className={styles.SearchbarIndicationFill} />
+            </div>
           </div>
 
-          <div style={{ display: "flex", gap: 10 }}>
-            <div
-              style={{
-                display: "flex",
-                gap:
-                  size.width < Breakpoints.sm
-                    ? 5
-                    : size.width < Breakpoints.md
-                    ? 10
-                    : 40,
-                height: "100%",
-                flex: 1,
-                flexDirection: size.width < Breakpoints.sm ? "column" : "row",
-              }}
-            >
-              {size.width < Breakpoints.sm && (
-                <div
-                  style={{
-                    height: 1,
-                    width: "100%",
-                    backgroundColor: `${Colors.GRAY}50`,
-                    marginBottom: 10,
-                  }}
-                />
-              )}
+          <div className={styles.SearchbarSelectContainer}>
+            <div className={styles.SearchbarSelectWrapper}>
+              <div className={styles.SearchbarMobileSeparator} />
+
               <select
-                className="select-search hover"
+                className={`${styles.SearchbarInput} select-search hover`}
                 ref={selectBrandRef}
                 name="merk"
-                style={{
-                  width: "100%",
-                  height: "100%",
-                  background: "transparent",
-                  border: 0,
-                  color: Colors.GRAY,
-                  fontFamily: "lato",
-                  fontSize: 18,
-                  fontWeight: 600,
-                }}
                 defaultValue={"DEFAULT"}
                 onChange={(e) => changeMerk(e.target.value)}
               >
-                <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
+                <option value="DEFAULT" disabled>
                   Selecteer merk
                 </option>
                 {props.MT.map((brand, key) => (
-                  <option
-                    key={key}
-                    value={brand.id}
-                    style={{ fontWeight: 500 }}
-                  >
+                  <option key={key} value={brand.id}>
                     {brand.naam}
                   </option>
                 ))}
               </select>
-              {size.width < Breakpoints.sm && (
-                <div
-                  style={{
-                    height: 1,
-                    width: "100%",
-                    backgroundColor: `${Colors.GRAY}50`,
-                    marginBottom: 10,
-                  }}
-                />
-              )}
+
+              <div className={styles.SearchbarMobileSeparator} />
+
               <select
-                className={`select-search ${
-                  types.length === 0 ? "select-disabled" : "hover"
-                }`}
+                className={`select-search 
+                ${styles.SearchbarInput} 
+                ${types.length === 0 ? "select-disabled" : "hover"}`}
                 ref={selectTypeRef}
-                style={{
-                  width: "100%",
-                  height: "100%",
-                  background: "transparent",
-                  border: 0,
-                  color: Colors.GRAY,
-                  fontFamily: "lato",
-                  fontSize: 18,
-                  fontWeight: 600,
-                }}
                 defaultValue={"DEFAULT"}
                 disabled={types.length === 0}
                 onChange={(e) => changeType(e.target.value)}
               >
-                <option value="DEFAULT" disabled style={{ fontWeight: 500 }}>
+                <option value="DEFAULT" disabled>
                   Selecteer onderdeel
                 </option>
                 {types.map((type, key) => (
-                  <option key={key} value={type.id} style={{ fontWeight: 500 }}>
+                  <option key={key} value={type.id}>
                     {type.naam}
                   </option>
                 ))}
               </select>
-              {size.width < Breakpoints.sm && (
-                <div
-                  style={{
-                    height: 1,
-                    width: "100%",
-                    backgroundColor: `${Colors.GRAY}50`,
-                  }}
-                />
-              )}
+
+              <div className={styles.SearchbarMobileSeparator} />
             </div>
 
             <button
-              className="hover"
-              style={{
-                border: 0,
-                backgroundColor: "transparent",
-                width: 18,
-                padding: 0,
-                marginLeft: "auto",
-                position: "relative",
-                zIndex: 1,
-              }}
+              className={`${styles.SearchbarClear} hover`}
               onClick={() => {
                 setTypes([]);
 
@@ -305,34 +186,22 @@ export default function Searchbar(props) {
               <Clear width={12} color={Colors.GRAY} />
             </button>
           </div>
-          {size.width >= Breakpoints.sm && (
-            <div style={{ display: "flex", width: "100%", marginTop: 2 }}>
-              <div
-                style={{
-                  backgroundColor: Colors.RED,
-                  width: `${barWidth}%`,
-                  transition: "all .3s ease-out",
-                  height: 2,
-                }}
-              />
-              <div
-                style={{
-                  backgroundColor: `${Colors.RED}50`,
-                  flex: 1,
-                  height: 2,
-                }}
-              />
-            </div>
-          )}
+          <div className={styles.SearchbarIndicationbar}>
+            <div
+              className={styles.SearchbarIndication}
+              style={{
+                width: `${barWidth}%`,
+              }}
+            />
+            <div className={styles.SearchbarIndicationFill} />
+          </div>
         </div>
 
         {props.showButton && (
           <div style={{ display: "flex" }}>
             <Button
               text={
-                <div
-                  style={{ display: "flex", alignSelf: "flex-start", gap: 10 }}
-                >
+                <div className={styles.SearchbarButton}>
                   ZOEKEN <MagnifyingGlass width={20} fill={Colors.WHITE} />
                 </div>
               }
@@ -340,11 +209,10 @@ export default function Searchbar(props) {
               backgroundColor={Colors.RED}
               color={Colors.WHITE}
               style={{ alignSelf: "center" }}
-              href={`/reparaties?onderdeel=${
-                inputRef.current?.value ?? "DEFAULT"
-              }&merk=${selectBrandRef.current?.value ?? "DEFAULT"}&type=${
-                selectTypeRef.current?.value ?? "DEFAULT"
-              }`}
+              href={`/reparaties?
+              onderdeel=${inputRef.current?.value ?? "DEFAULT"}
+              &merk=${selectBrandRef.current?.value ?? "DEFAULT"}
+              &type=${selectTypeRef.current?.value ?? "DEFAULT"}`}
             />
           </div>
         )}

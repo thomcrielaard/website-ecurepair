@@ -1,33 +1,19 @@
 import * as React from "react";
 import Image from "next/image";
 
-import UseDimensions from "@/services/UseDimensions";
+import styles from "@/styles/modules/ExpandableCards.module.scss";
+
 import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
-
-import Container from "@/components/containers/Container";
 
 import Text from "@/components/text/Text";
 import Title from "@/components/text/Title";
 
-import Button from "@/components/modules/Button";
-
-import Tools from "@/assets/svg/Tools";
-import Gears from "@/assets/svg/Gears";
 import Chevron from "@/assets/svg/Chevron";
 
 export default function ExpandableCards(props) {
-  const size = UseDimensions();
-
   return (
-    <div
-      style={{
-        width: "100%",
-        display: "flex",
-        flexDirection: "column",
-        gap: 50,
-      }}
-    >
+    <div className={styles.ExpandableCardsContainer}>
       {props.cards.map((card, key) => (
         <ExpandableCard
           key={key}
@@ -42,16 +28,12 @@ export default function ExpandableCards(props) {
 }
 
 function ExpandableCard(props) {
-  const size = UseDimensions();
   const [open, setOpen] = React.useState(false);
   const textRef = React.useRef();
 
   return (
-    <div onClick={() => setOpen(!open)}>
-      <div
-        style={{ position: "relative", width: "100%", padding: "50px 35px" }}
-        className="hover"
-      >
+    <div onClick={() => setOpen(!open)} className="hover">
+      <div className={styles.ExpandableCard}>
         <Image
           style={{ objectFit: "cover", zIndex: -2 }}
           sizes={`(min-width: ${Breakpoints.sm}) 45vw, 100vw`}
@@ -60,45 +42,19 @@ function ExpandableCard(props) {
           src={props.img}
           alt={props.title}
         />
-        <div
-          style={{
-            position: "absolute",
-            width: "100%",
-            height: "100%",
-            backgroundColor: `${Colors.BLACK}A0`,
-            top: 0,
-            left: 0,
-            zIndex: -1,
-          }}
-        />
-        <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
+        <div className={styles.ExpandableCardOverlay} />
+        <div className={styles.ExpandableCardWrapper}>
           <span
-            style={{
-              color: `${Colors.MEDIUMWHITE}A0`,
-              fontFamily: "poppins",
-              fontWeight: 500,
-              fontSize: 14,
-            }}
+            className={`${styles.ExpandableCardTitle} ${styles.ExpandableCardSubtitle}`}
           >
             00{props.number + 1}
           </span>
-          <div
-            style={{
-              backgroundColor: `${Colors.MEDIUMWHITE}A0`,
-              height: 30,
-              width: 0.5,
-              marginRight: 8,
-              marginLeft: 2,
-            }}
-          />
+          <div className={styles.ExpandableCardBar} />
           <Title
             text={props.title}
             size="xxs"
-            style={{
-              fontFamily: "poppins",
-              fontWeight: 500,
-            }}
             color={Colors.WHITE}
+            className={styles.ExpandableCardTitle}
           />
           <Chevron
             width={14}
@@ -113,13 +69,9 @@ function ExpandableCard(props) {
       </div>
 
       <div
+        className={styles.ExpandableCardContentWrapper}
         style={{
           maxHeight: open ? textRef.current?.offsetHeight : 0,
-          overflow: "hidden",
-          transition: "max-height .3s ease-in-out",
-          padding: "0 20px",
-          boxShadow: `0px 0px 10px 0px ${Colors.GRAY}30`,
-          WebkitBoxShadow: `0px 0px 10px 0px ${Colors.GRAY}30`,
         }}
       >
         <div>

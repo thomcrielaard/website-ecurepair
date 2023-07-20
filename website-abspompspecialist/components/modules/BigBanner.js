@@ -3,8 +3,6 @@ import Image from "next/image";
 
 import styles from "@/styles/modules/BigBanner.module.scss";
 
-import UseDimensions from "@/services/UseDimensions";
-import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
 
 import Container from "@/components/containers/Container";
@@ -17,7 +15,6 @@ import Logo from "@/assets/svg/Logo";
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 
 export default function BigBanner(props) {
-  const size = UseDimensions();
   const [types, setTypes] = React.useState([]);
 
   const selectTypeRef = React.useRef(null);
@@ -59,15 +56,7 @@ export default function BigBanner(props) {
         />
 
         <Container innerClassName={styles.BigBannerContainer}>
-          <Logo
-            width={
-              size.width < Breakpoints.xs
-                ? "200px"
-                : size.width < Breakpoints.lg
-                ? "300px"
-                : "400px"
-            }
-          />
+          <Logo responsive />
 
           <Text
             text="Bent u op zoek naar een specialist in ABS pomp reparatie of revisie? ABS Pomp Specialist biedt u hoogwaardige, snelle en betrouwbare diensten. Ons team van ervaren technici zorgt ervoor dat u weer veilig de weg op kunt."

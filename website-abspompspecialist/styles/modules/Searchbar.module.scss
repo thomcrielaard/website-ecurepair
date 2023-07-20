@@ -1,0 +1,122 @@
+@import "@/styles/_config";
+
+.SearchbarContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.SearchbarWrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%;
+  max-width: 750px;
+  gap: 30px;
+
+  @include sm {
+    flex-direction: column;
+  }
+}
+
+.Searchbar {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.SearchbarFormWrapper {
+  padding-bottom: 20px;
+
+  @include sm {
+    padding-bottom: 10px;
+  }
+}
+
+.SearchbarInput {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border: 0;
+  color: colors(GRAY);
+  font-family: "lato";
+  font-size: 18px;
+  font-weight: 600;
+  padding: 0 4px;
+
+  option {
+    font-weight: 500;
+  }
+}
+
+.SearchbarIndicationbar {
+  display: flex;
+  width: 100%;
+  margin-top: 2px;
+
+  @include sm {
+    display: none;
+  }
+}
+
+.SearchbarIndication {
+  background-color: colors(RED);
+  height: 2px;
+  transition: width 0.3s ease-in-out;
+}
+
+.SearchbarIndicationFill {
+  background-color: colors(RED, 0.29);
+  flex: 1;
+  height: 2px;
+}
+
+.SearchbarMobileSeparator {
+  height: 1px;
+  width: 100%;
+  background-color: colors(GRAY, 0.29);
+  margin-bottom: 10px;
+  display: none;
+
+  @include sm {
+    display: initial;
+  }
+}
+
+.SearchbarSelectContainer {
+  display: flex;
+  gap: 10px;
+}
+
+.SearchbarSelectWrapper {
+  display: flex;
+  height: 100%;
+  flex: 1;
+  flex-direction: row;
+  gap: 40px;
+
+  @include md {
+    gap: 10px;
+  }
+
+  @include sm {
+    gap: 5px;
+    flex-direction: column;
+  }
+}
+
+.SearchbarClear {
+  border: 0;
+  background: transparent;
+  width: 18px;
+  padding: 0;
+  margin-left: auto;
+  position: relative;
+  z-index: 1;
+}
+
+.SearchbarButton {
+  display: flex;
+  align-self: flex-start;
+  gap: 10px;
+}

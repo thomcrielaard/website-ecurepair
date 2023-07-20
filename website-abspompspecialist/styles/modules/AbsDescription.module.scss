@@ -1,0 +1,105 @@
+@import "@/styles/_config";
+
+.AbsDescriptionContainer {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 30px;
+  flex-direction: row;
+  align-items: center;
+
+  @include xl {
+    justify-content: space-between;
+  }
+
+  @include md {
+    gap: 50px;
+    flex-direction: column;
+  }
+}
+
+.AbsDescriptionSideContainer {
+  width: 40%;
+
+  @include xl {
+    width: 50%;
+  }
+
+  @include md {
+    width: 80%;
+  }
+
+  @include xs {
+    width: 100%;
+  }
+}
+
+.AbsDescriptionTextContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.AbsDescriptionImageWrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1/1;
+}
+
+.AbsDescriptionImage {
+  object-fit: cover;
+  border: 1px solid colors(GRAY);
+}
+
+.AbsDescriptionTitleWrapper {
+  display: flex;
+  gap: 10px;
+}
+
+.AbsDescriptionQuicklink {
+  font-family: "poppins";
+  font-weight: 500;
+  font-style: italic;
+  color: colors(LIGHTGRAY);
+  text-decoration: underline;
+}
+
+.AbsDescriptionPriceWrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: -16px;
+
+  span {
+    font-family: "lato";
+    font-weight: 500;
+  }
+}
+
+.AbsDescriptionPrice {
+  font-size: 32px;
+  color: colors(RED);
+}
+
+.AbsDescriptionErrorWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.AbsDescriptionError {
+  font-size: 1.2em;
+  line-height: 2em;
+  display: block;
+
+  &.AbsDescriptionErrorLink {
+    text-decoration: underline;
+  }
+}
+
+.AbsDescriptionOldPrice {
+  text-decoration: line-through;
+  color: colors(GRAY);
+  font-size: 26px;
+}

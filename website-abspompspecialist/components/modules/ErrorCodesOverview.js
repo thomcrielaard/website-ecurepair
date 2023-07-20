@@ -1,51 +1,20 @@
 import * as React from "react";
 
-import UseDimensions from "@/services/UseDimensions";
-import Breakpoints from "@/styles/Breakpoints";
-import Colors from "@/styles/Colors";
+import styles from "@/styles/modules/ErrorCodesOverview.module.scss";
 
-import Button from "@/components/modules/Button";
-
-import ProductCards from "@/components/modules/ProductCards";
-
-import Fout1 from "@/assets/img/fout1.jpg";
-import Fout2 from "@/assets/img/fout2.jpg";
-import Fout3 from "@/assets/img/fout3.jpg";
-import Fout4 from "@/assets/img/fout4.jpg";
 import Title from "../text/Title";
 import TextLink from "../text/TextLink";
 
 export default function ErrorCodesOverview(props) {
-  const size = UseDimensions();
-
   return (
-    <div style={{ display: "flex", justifyContent: "center", width: "100%" }}>
-      <div
-        style={{
-          columnCount: 2,
-          columnGap: 150,
-          width: "100%",
-          maxWidth: 1500,
-        }}
-      >
+    <div className={styles.ErrorCodesOverviewWrapper}>
+      <div className={styles.ErrorCodesOverviewContainer}>
         {props.brands.map((brand, key) => (
-          <div
-            key={key}
-            style={{
-              width: size.width < Breakpoints.md ? "100%" : "50%",
-              breakInside: "avoid-column",
-              marginBottom: 20,
-            }}
-          >
+          <div key={key} className={styles.ErrorCodesOverviewBrandContainer}>
             <Title
               size="xs"
               text={brand.attributes.naam}
-              style={{
-                marginTop: 0,
-                marginBottom: 10,
-                overflowWrap: "break-word",
-                wordWrap: "break-word",
-              }}
+              className={styles.ErrorCodesOverviewTitle}
             />
             <div>
               {brand.attributes.foutcodes.data.map((code) => {
@@ -54,22 +23,12 @@ export default function ErrorCodesOverview(props) {
                     <TextLink
                       href={`/fouten/${code.attributes.foutomschrijving.data.attributes.titel}`}
                       text={code.attributes.foutcode}
-                      fontSize="1.1em"
-                      style={{
-                        textDecoration: "underline",
-                        lineHeight: "1.5em",
-                      }}
+                      className={styles.ErrorCodesOverviewCode}
                     />
                   );
                 else
                   return (
-                    <span
-                      style={{
-                        lineHeight: "1.5em",
-                        fontSize: "1.1em",
-                        display: "block",
-                      }}
-                    >
+                    <span className={styles.ErrorCodesOverviewCode}>
                       {code.attributes.foutcode}
                     </span>
                   );

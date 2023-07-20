@@ -1,0 +1,107 @@
+@import "@/styles/_config";
+
+.RepairFormWrapper {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.RepairFormTitleWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  @include sm {
+    align-items: center;
+  }
+}
+
+.RepairForm {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.RepairFormSubtitleWrapper {
+  width: 100%;
+  margin-bottom: 30px;
+
+  @include xs {
+    margin-bottom: 15px;
+  }
+}
+
+.RepairFormCheckboxWrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+
+  @include xs {
+    margin-bottom: 15px;
+  }
+
+  input {
+    margin-right: 10px;
+  }
+
+  label {
+    font-size: 16px;
+    font-family: "lato";
+    font-weight: 600;
+    color: colors(MEDIUMWHITE);
+  }
+
+  a {
+    text-decoration: underline;
+  }
+}
+
+.ContactFormInput {
+  padding: 15px 20px;
+  font-size: 16px;
+  width: 48%;
+  max-width: 100%;
+  margin-bottom: 30px;
+  border-radius: 0;
+  font-family: "lato";
+  font-weight: 600;
+  border: 0;
+  color: colors(MEDIUMWHITE);
+  background-color: colors(GRAY);
+  border-bottom: 1px solid colors(GRAY);
+  transition: border 0.3s ease-in-out;
+
+  &.ContactFormInputFullWidth {
+    width: 100%;
+  }
+
+  &.ContactFormTextarea {
+    height: 300px;
+    width: 100%;
+  }
+
+  @include xl {
+    width: 100%;
+  }
+
+  @include xs {
+    margin-bottom: 15px;
+  }
+}
+
+.RepairFormButtonWrapper {
+  display: flex;
+  justify-content: flex-start;
+
+  @include sm {
+    justify-content: center;
+  }
+}
+
+.RepairFormCommentWrapper {
+  height: 60px;
+  width: 175px;
+  display: flex;
+  justify-content: flex-start;
+}

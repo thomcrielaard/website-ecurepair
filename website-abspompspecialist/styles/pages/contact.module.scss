@@ -1,0 +1,11 @@
+@import "@/styles/_config";
+
+.ContactFormContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+
+  @include sm {
+    gap: 6rem;
+  }
+}

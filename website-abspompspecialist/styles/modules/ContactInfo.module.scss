@@ -1,0 +1,67 @@
+@import "@/styles/_config";
+
+.ContactInfoContainer {
+  width: 50%;
+
+  @include sm {
+    width: 100%;
+  }
+}
+
+.ContactInfoTitleResponsive {
+  text-align: left !important;
+
+  @include sm {
+    text-align: center !important;
+  }
+}
+
+.ContactInfoTitleBar {
+  justify-content: flex-start !important;
+
+  @include sm {
+    justify-content: center !important;
+  }
+}
+
+.ContactInfoWrapper {
+  display: flex;
+  padding-top: 20px;
+  gap: 60px;
+  flex-direction: row;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  padding-right: 10px;
+
+  @include sm {
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+}
+
+.ContactInfoRow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ContactInfoIconsWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.ContactInfoIconsRow {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.ContactInfoSpan {
+  font-size: 18px;
+  color: colors(LIGHTGRAY);
+  font-family: "lato";
+  font-weight: 600;
+  white-space: pre-wrap;
+  line-height: 1.5;
+  text-decoration: none;
+}

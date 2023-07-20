@@ -4,8 +4,6 @@ import Axios from "axios";
 
 import { API_URL } from "./_app";
 
-import UseDimensions from "@/services/UseDimensions";
-
 import Container from "@/components/containers/Container";
 
 import Navbar from "@/components/layout/Navbar";
@@ -17,8 +15,6 @@ import Text from "@/components/text/Text";
 import ErrorCodesOverview from "@/components/modules/ErrorCodesOverview";
 
 function Foutcodes({ brands }) {
-  const size = UseDimensions();
-
   return (
     <>
       <Head>

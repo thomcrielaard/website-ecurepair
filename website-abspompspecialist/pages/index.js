@@ -3,8 +3,6 @@ import Head from "next/head";
 import Axios from "axios";
 import { API_URL } from "./_app";
 
-import UseDimensions from "@/services/UseDimensions";
-
 import Container from "@/components/containers/Container";
 
 import Navbar from "@/components/layout/Navbar";
@@ -29,8 +27,6 @@ export default function Home({
   types,
   discount,
 }) {
-  const size = UseDimensions();
-
   return (
     <>
       <Head>
@@ -71,7 +67,7 @@ export default function Home({
 
       <Container style={{ marginTop: "4rem" }}>
         <Title
-          text="VEELVOORKOMENDE FOUTEN"
+          text="VEEL VOORKOMENDE FOUTEN"
           size="lg"
           align="center"
           underline
@@ -96,7 +92,7 @@ export async function getStaticProps() {
 
   // Get all foutomschrijvings
   const { data: brandsData } = await Axios.get(
-    `${API_URL}/api/merks?&populate=foutcodes.foutomschrijving.afbeelding`
+    `${API_URL}/api/merks?&populate=foutcodes.foutomschrijving.afbeelding&sort=naam`
   );
   const allBrands = brandsData.data; // navigate to the 'data' field in the response
 

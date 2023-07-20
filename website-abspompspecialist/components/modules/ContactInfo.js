@@ -1,44 +1,27 @@
 import * as React from "react";
 import Link from "next/link";
 
-import UseDimensions from "../../services/UseDimensions";
-import Breakpoints from "@/styles/Breakpoints";
+import styles from "@/styles/modules/ContactInfo.module.scss";
 
 import Colors from "@/styles/Colors";
-import Gears from "@/assets/svg/Gears";
-import Shield from "@/assets/svg/Shield";
-import Rocket from "@/assets/svg/Rocket";
 
 import Title from "@/components/text/Title";
-import Text from "@/components/text/Text";
 import Location from "@/assets/svg/Location";
 import Mail from "@/assets/svg/Mail";
 import Phone from "@/assets/svg/Phone";
 
 export default function ContactInfo(props) {
-  const size = UseDimensions();
-
   return (
-    <div
-      style={{
-        width: size.width < Breakpoints.sm ? "100%" : "50%",
-      }}
-    >
+    <div className={styles.ContactInfoContainer}>
       <Title
         text="GEGEVENS"
         underline
         size="lg"
-        align={size.width < Breakpoints.sm ? "center" : "left"}
+        align={"center"}
+        className={styles.ContactInfoTitleResponsive}
+        containerClassName={styles.ContactInfoTitleBar}
       />
-      <div
-        style={{
-          display: "flex",
-          paddingTop: 20,
-          gap: 60,
-          flexDirection: size.width < Breakpoints.lg ? "column" : "row",
-          alignItems: size.width < Breakpoints.sm ? "center" : "flex-start",
-        }}
-      >
+      <div className={styles.ContactInfoWrapper}>
         <div style={{ maxWidth: 200 }}>
           <Title size="xs" text="OPENINGSTIJDEN" style={{ marginBottom: 10 }} />
           <InfoRow left="Ma" right="9:00 - 18:00" />
@@ -55,33 +38,41 @@ export default function ContactInfo(props) {
             text="ABS POMP SPECIALIST"
             style={{ marginBottom: 10 }}
           />
-          <div style={{ display: "flex", flexDirection: "column", gap: 15 }}>
-            <div style={{ display: "flex", alignItems: "center", gap: 20 }}>
+          <div className={styles.ContactInfoIconsWrapper}>
+            <div className={styles.ContactInfoIconsRow}>
               <Location width={14} color={Colors.GRAY} />
               <div>
-                <ContactLink
-                  text="Handelstraat 20-A"
+                <Link
+                  className={styles.ContactInfoSpan}
                   target="_blank"
                   href="https://www.google.com/maps/place/Car+Assist+B.v./@51.7704101,4.9493124,9z/data=!4m10!1m2!2m1!1scar+assist!3m6!1s0x47c7a71efb895555:0xc42500fe1eda4cfe!8m2!3d51.9121874!4d5.9198848!15sCgpjYXIgYXNzaXN04AEA!16s%2Fg%2F11j1hyjwnv"
-                />
+                >
+                  Handelstraat 20-A
+                </Link>
                 <br />
-                <ContactLink
-                  text="6851EH Huissen"
+                <Link
+                  className={styles.ContactInfoSpan}
                   target="_blank"
                   href="https://www.google.com/maps/place/Car+Assist+B.v./@51.7704101,4.9493124,9z/data=!4m10!1m2!2m1!1scar+assist!3m6!1s0x47c7a71efb895555:0xc42500fe1eda4cfe!8m2!3d51.9121874!4d5.9198848!15sCgpjYXIgYXNzaXN04AEA!16s%2Fg%2F11j1hyjwnv"
-                />
+                >
+                  6851EH Huissen
+                </Link>
               </div>
             </div>
-            <div style={{ display: "flex", alignItems: "center", gap: 20 }}>
+            <div className={styles.ContactInfoIconsRow}>
               <Mail width={34} color={Colors.GRAY} />
-              <ContactLink
-                text="info@abspompspecialist.nl"
+              <Link
+                className={styles.ContactInfoSpan}
                 href="mailto:info@abspompspecialist.nl"
-              />
+              >
+                info@abspompspecialist.nl
+              </Link>
             </div>
-            <div style={{ display: "flex", alignItems: "center", gap: 20 }}>
+            <div className={styles.ContactInfoIconsRow}>
               <Phone width={14} color={Colors.GRAY} />
-              <ContactLink text="+31(0)26 2340042" href="tel:+31262340042" />
+              <Link className={styles.ContactInfoSpan} href="tel:+31262340042">
+                +31(0)26 2340042
+              </Link>
             </div>
           </div>
         </div>
@@ -92,46 +83,9 @@ export default function ContactInfo(props) {
 
 function InfoRow(props) {
   return (
-    <div style={{ display: "flex", justifyContent: "space-between" }}>
-      <Span text={props.left + ":"} />
-      <Span text={props.right} />
+    <div className={styles.ContactInfoRow}>
+      <span className={styles.ContactInfoSpan}>{`${props.left}:`}</span>
+      <span className={styles.ContactInfoSpan}>{props.right}</span>
     </div>
-  );
-}
-
-function Span(props) {
-  return (
-    <span
-      style={{
-        fontSize: 18,
-        color: Colors.LIGHTGRAY,
-        fontFamily: "lato",
-        fontWeight: 600,
-        whiteSpace: "pre-wrap",
-        lineHeight: 1.5,
-      }}
-    >
-      {props.text}
-    </span>
-  );
-}
-
-function ContactLink(props) {
-  return (
-    <Link
-      target={props.target}
-      style={{
-        fontSize: 18,
-        color: Colors.LIGHTGRAY,
-        fontFamily: "lato",
-        fontWeight: 600,
-        whiteSpace: "pre-wrap",
-        lineHeight: 1.5,
-        textDecoration: "none",
-      }}
-      href={props.href}
-    >
-      {props.text}
-    </Link>
   );
 }

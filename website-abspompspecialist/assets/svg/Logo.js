@@ -1,18 +1,16 @@
 import * as React from "react";
 
+import styles from "@/styles/assets/Logo.module.scss";
+
 const Logo = (props) => (
   <div
-    style={{
-      width: props.width,
-      display: "flex",
-      flexDirection: "column",
-      alignItems: "center",
-    }}
+    className={`${styles.LogoContainer} 
+    ${props.responsive ? styles.LogoResponsive : ""}`}
   >
     <svg
+      className={props.className || ""}
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 300 75"
-      width={props.width}
     >
       <path
         fill="#E41515"
@@ -41,25 +39,17 @@ const Logo = (props) => (
       />
     </svg>
     <span
+      className={styles.LogoCaption}
       style={{
-        color: props.color ?? "#FFFFFF",
-        fontFamily: "lato",
-        fontWeight: 800,
-        fontSize: `calc(${props.width} / 13)`,
-        letterSpacing: `calc(${props.width} / 100)`,
-        whiteSpace: "nowrap",
-        margin: `calc(${props.width} / 50) 0 calc(${props.width} / 75) 0`,
+        color: props.color,
       }}
     >
       ABS POMP SPECIALIST
     </span>
     <span
+      className={styles.LogoSubcaption}
       style={{
-        color: props.color ?? "#FFFFFF",
-        fontFamily: "lato",
-        fontWeight: 600,
-        fontSize: `calc(${props.width} / 25)`,
-        letterSpacing: `calc(${props.width} / 150)`,
+        color: props.color,
       }}
     >
       REVISIE EN REPARATIE

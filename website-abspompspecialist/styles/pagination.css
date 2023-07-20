@@ -37,9 +37,11 @@
   align-items: center;
 }
 
-.pagination
-  li:not(.previous):not(.next):not(.selected):not(.break)
-  a:not(:hover) {
+.pagination li:not(.previous):not(.next) {
+  border: 1px solid #e41515;
+}
+
+.pagination li:not(.previous):not(.next):not(.selected):not(.break) {
   border: 1px solid #2a3039;
 }
 

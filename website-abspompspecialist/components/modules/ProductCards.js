@@ -1,6 +1,8 @@
 import * as React from "react";
 import Image from "next/image";
 
+import styles from "@/styles/modules/ProductCards.module.scss";
+
 import UseDimensions from "@/services/UseDimensions";
 import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
@@ -43,46 +45,14 @@ export default function ProductCards(props) {
           slim
         />
       )}
-      <div
-        style={{
-          display: "grid",
-          gridTemplateColumns:
-            size.width < Breakpoints.xs
-              ? "1fr"
-              : size.width < Breakpoints.lg
-              ? "1fr 1fr"
-              : "1fr 1fr 1fr 1fr",
-          width: "100%",
-          margin: "40px 0",
-          gap: `${
-            size.width < Breakpoints.xs
-              ? "30px"
-              : size.width < Breakpoints.lg
-              ? "40px"
-              : "50px"
-          } 4%`,
-        }}
-      >
+      <div className={styles.ProductCardsContainer}>
         {currentItems
           .slice(0, props.short ? 4 : props.items.length)
           .map((item, key) => (
-            <div
-              key={key}
-              style={{
-                width: "100%",
-                alignSelf: "stretch",
-                boxShadow: "0px 0px 10px 0px rgba(0,0,0,0.15)",
-                WebkitBoxShadow: "0px 0px 10px 0px rgba(0,0,0,0.15)",
-                display: "flex",
-                flexDirection: "column",
-              }}
-            >
+            <div key={key} className={styles.ProductCard}>
               <div
-                style={{
-                  width: "100%",
-                  aspectRatio: props.square ? "6/5  " : "5/3",
-                  position: "relative",
-                }}
+                className={`${styles.ProductCardImageWrapper} 
+                ${props.square && styles.square}`}
               >
                 <Image
                   sizes={`(min-width: ${Breakpoints.lg}) 25vw, (min-width: ${Breakpoints.xs}) 50vw, 100vw`}
@@ -100,16 +70,7 @@ export default function ProductCards(props) {
                   style={{ objectFit: "cover" }}
                 />
               </div>
-              <div
-                style={{
-                  display: "flex",
-                  flexDirection: "column",
-                  justifyContent: "space-between",
-                  padding: 20,
-                  gap: 15,
-                  flexGrow: 1,
-                }}
-              >
+              <div className={styles.ProductCardTextWrapper}>
                 <div>
                   <Title
                     text={
@@ -120,22 +81,11 @@ export default function ProductCards(props) {
                   />
                   <Text
                     text={item.attributes.samenvatting}
-                    style={{
-                      margin: "12px 0 0 0",
-                      fontSize: 15,
-                      color: Colors.LIGHTGRAY,
-                    }}
+                    className={styles.ProductCardText}
                     align="left"
                   />
                 </div>
-                <div
-                  style={{
-                    display: "flex",
-                    justifyContent: "space-between",
-                    alignItems: "center",
-                    gap: 10,
-                  }}
-                >
+                <div className={styles.ProductCardBottomWrapper}>
                   <Button
                     text="MEER LEZEN"
                     href={
@@ -150,38 +100,18 @@ export default function ProductCards(props) {
                     small
                   />
                   {props.price && (
-                    <div
-                      style={{
-                        display: "flex",
-                        flexDirection: "column",
-                        alignItems: "flex-end",
-                        gap: 4,
-                      }}
-                    >
+                    <div className={styles.ProductCardPriceWrapper}>
                       <span
-                        style={{
-                          fontSize: props.discount.ingeschakeld ? 14 : 16,
-                          textDecoration: props.discount.ingeschakeld
-                            ? "line-through"
-                            : "none",
-                          color: props.discount.ingeschakeld
-                            ? Colors.GRAY
-                            : Colors.RED,
-                          fontFamily: "lato",
-                          fontWeight: 600,
-                        }}
+                        className={
+                          props.discount.ingeschakeld
+                            ? styles.ProductCardDiscountPrice
+                            : styles.ProductCardPrice
+                        }
                       >
                         €{Number(item.attributes.prijs).toFixed(2)}
                       </span>
                       {props.discount.ingeschakeld && (
-                        <span
-                          style={{
-                            fontSize: 16,
-                            color: Colors.RED,
-                            fontFamily: "lato",
-                            fontWeight: 600,
-                          }}
-                        >
+                        <span className={styles.ProductCardPrice}>
                           €
                           {Number(
                             item.attributes.prijs -
@@ -197,15 +127,8 @@ export default function ProductCards(props) {
             </div>
           ))}
       </div>
-      {props.buttonText != undefined && (
-        <div
-          style={{
-            width: "100%",
-            marginTop: 40,
-            display: "flex",
-            justifyContent: "center",
-          }}
-        >
+      {props.buttonText && (
+        <div className={styles.ProductCardButtonWrapper}>
           <Button
             text={props.buttonText}
             href={props.buttonLink}
@@ -220,15 +143,7 @@ export default function ProductCards(props) {
         <ReactPaginate
           breakLabel="..."
           nextLabel={
-            <div
-              style={{
-                display: "flex",
-                justifyContent: "center",
-                alignItems: "center",
-                height: "100%",
-                width: "100%",
-              }}
-            >
+            <div className={styles.PaginateLabel}>
               <Chevron
                 width={12}
                 color={Colors.BLACK}
@@ -243,15 +158,7 @@ export default function ProductCards(props) {
           marginPagesDisplayed={size.width < Breakpoints.xs ? 0 : 1}
           pageCount={pageCount}
           previousLabel={
-            <div
-              style={{
-                display: "flex",
-                justifyContent: "center",
-                alignItems: "center",
-                height: "100%",
-                width: "100%",
-              }}
-            >
+            <div className={styles.PaginateLabel}>
               <Chevron
                 width={12}
                 color={Colors.BLACK}

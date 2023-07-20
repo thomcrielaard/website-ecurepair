@@ -1,0 +1,27 @@
+@import "@/styles/_config";
+
+.OverOnsTitleResponsive {
+  text-align: left !important;
+
+  @include sm {
+    text-align: center !important;
+  }
+}
+
+.OverOnsTitleBarResponsive {
+  justify-content: flex-start !important;
+
+  @include sm {
+    justify-content: center !important;
+  }
+}
+
+.OverOnsButtonWrapper {
+  display: flex;
+  justify-content: left;
+  margin-bottom: 40px;
+
+  @include sm {
+    justify-content: center;
+  }
+}

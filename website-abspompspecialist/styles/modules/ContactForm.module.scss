@@ -1,0 +1,97 @@
+@import "@/styles/_config";
+
+.ContactFormWrapper {
+  width: 50%;
+  position: relative;
+  padding-left: 4rem;
+
+  @include sm {
+    width: 100%;
+    padding-left: 0;
+  }
+}
+
+.ContactFormBackground {
+  position: absolute;
+  background-color: colors(GRAY, 0.96);
+  width: calc(100vw / 2 + 1px);
+  left: 0;
+  top: calc(-4rem - 65px);
+  height: calc(100% + 8rem + 130px);
+  z-index: -1;
+
+  @include md {
+    top: calc(-4rem - 30px);
+    height: calc(100% + 8rem + 60px);
+    width: 100vw;
+  }
+
+  @include sm {
+    left: -2rem;
+    top: -2rem;
+    height: calc(100% + 2rem + 100px);
+    min-width: 300px;
+  }
+}
+
+.ContactFormTitleWrapper {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+
+  @include sm {
+    align-items: center;
+  }
+}
+
+.ContactForm {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.ContactFormInput {
+  padding: 15px 20px;
+  font-size: 16px;
+  width: 48%;
+  max-width: 100%;
+  margin-bottom: 30px;
+  border-radius: 0;
+  font-family: "lato";
+  font-weight: 600;
+  border: 0;
+  color: colors(MEDIUMWHITE);
+  background-color: colors(GRAY);
+  border-bottom: 1px solid colors(GRAY);
+  transition: border 0.3s ease-in-out;
+
+  &.ContactFormTextarea {
+    height: 300px;
+    width: 100%;
+  }
+
+  @include xl {
+    width: 100%;
+  }
+
+  @include xs {
+    margin-bottom: 15px;
+  }
+}
+
+.ContactFormButtonWrapper {
+  display: flex;
+  justify-content: flex-start;
+
+  @include sm {
+    justify-content: center;
+  }
+}
+
+.ContactFormCommentWrapper {
+  height: 60px;
+  width: 175px;
+  display: flex;
+  justify-content: flex-start;
+}
