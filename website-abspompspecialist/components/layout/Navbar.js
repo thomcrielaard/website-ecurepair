@@ -8,8 +8,6 @@ import { Spin as Hamburger } from "hamburger-react";
 import styles from "@/styles/layout/Navbar.module.scss";
 
 import Colors from "@/styles/Colors";
-import Breakpoints from "@/styles/Breakpoints";
-import UseDimensions from "@/services/UseDimensions";
 
 import Container from "@/components/containers/Container";
 
@@ -129,7 +127,6 @@ export default function Navbar(props) {
 }
 
 function MobileNavExpanded(props) {
-  const size = UseDimensions();
   const router = useRouter();
 
   return (

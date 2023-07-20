@@ -3,8 +3,6 @@ import Link from "next/link";
 import { Comment } from "react-loader-spinner";
 
 import styles from "@/styles/modules/RepairForm.module.scss";
-import UseDimensions from "../../services/UseDimensions";
-import Breakpoints from "@/styles/Breakpoints";
 
 import Colors from "@/styles/Colors";
 
@@ -13,7 +11,6 @@ import Text from "@/components/text/Text";
 import Button from "./Button";
 
 export default function RepairForm(props) {
-  const size = UseDimensions();
   const [loading, setLoading] = React.useState(false);
   const [showSuccess, setShowSuccess] = React.useState(false);
   const [message, setMessage] = React.useState("");

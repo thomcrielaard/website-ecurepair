@@ -3,7 +3,6 @@ import Head from "next/head";
 
 import styles from "@/styles/pages/overons.module.scss";
 
-import UseDimensions from "@/services/UseDimensions";
 import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
 
@@ -26,8 +25,6 @@ import AboutDiagnostics from "@/assets/img/about-diagnostics.jpg";
 import AboutRevision from "@/assets/img/about-revision.jpg";
 
 export default function OverOns() {
-  const size = UseDimensions();
-
   return (
     <>
       <Head>

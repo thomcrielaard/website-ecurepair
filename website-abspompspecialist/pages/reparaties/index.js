@@ -4,8 +4,6 @@ import Axios from "axios";
 import { useRouter } from "next/router";
 import { API_URL } from "./../_app";
 
-import UseDimensions from "@/services/UseDimensions";
-
 import Container from "@/components/containers/Container";
 
 import Navbar from "@/components/layout/Navbar";
@@ -47,7 +45,6 @@ const filterModules = (modules, text, merk, type) => {
 };
 
 export default function Reparaties({ modules, merkType, discount }) {
-  const size = UseDimensions();
   const router = useRouter();
 
   const searchText = router.query.onderdeel;

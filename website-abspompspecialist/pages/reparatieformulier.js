@@ -1,8 +1,6 @@
 import React from "react";
 import Head from "next/head";
 
-import UseDimensions from "@/services/UseDimensions";
-
 import Container from "@/components/containers/Container";
 
 import Navbar from "@/components/layout/Navbar";
@@ -12,8 +10,6 @@ import RepairForm from "@/components/modules/RepairForm";
 import Colors from "@/styles/Colors";
 
 export default function Reparatieformulier() {
-  const size = UseDimensions();
-
   return (
     <>
       <Head>

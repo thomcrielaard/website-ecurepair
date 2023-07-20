@@ -28,7 +28,7 @@ export default function Contact() {
 
       <Navbar />
 
-      <Container className={styles.ContactFormContainer}>
+      <Container innerClassName={styles.ContactFormContainer}>
         <ContactInfo />
         <ContactForm />
       </Container>

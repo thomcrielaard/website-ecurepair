@@ -3,7 +3,6 @@ import * as React from "react";
 import styles from "@/styles/modules/Searchbar.module.scss";
 
 import UseDimensions from "@/services/UseDimensions";
-import Breakpoints from "@/styles/Breakpoints";
 import Colors from "@/styles/Colors";
 
 import Button from "@/components/modules/Button";
@@ -11,8 +10,6 @@ import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import Clear from "@/assets/svg/Clear";
 
 export default function Searchbar(props) {
-  const size = UseDimensions();
-
   const inputRef = React.useRef(null);
   const selectBrandRef = React.useRef(null);
   const selectTypeRef = React.useRef(null);

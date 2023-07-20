@@ -3,8 +3,6 @@ import Head from "next/head";
 import Axios from "axios";
 import { API_URL } from "./_app";
 
-import UseDimensions from "@/services/UseDimensions";
-
 import Container from "@/components/containers/Container";
 
 import Navbar from "@/components/layout/Navbar";
@@ -29,8 +27,6 @@ export default function Home({
   types,
   discount,
 }) {
-  const size = UseDimensions();
-
   return (
     <>
       <Head>

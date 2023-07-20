@@ -3,18 +3,12 @@ import { API_URL } from "../_app";
 import Axios from "axios";
 import Head from "next/head";
 
-import Colors from "../../styles/Colors";
-import Breakpoints from "../../styles/Breakpoints";
-import UseDimensions from "../../services/UseDimensions";
-
 import Footer from "@/components/layout/Footer";
 import Navbar from "@/components/layout/Navbar";
 import Container from "@/components/containers/Container";
 import AbsDescription from "@/components/modules/AbsDescription";
 
 function Error({ absModule, discount }) {
-  const size = UseDimensions();
-
   return (
     <>
       <Head>
