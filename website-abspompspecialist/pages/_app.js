@@ -10,7 +10,7 @@ export default function App({ Component, pageProps }) {
       <Head>
         <link
           rel="shortcut icon"
-          href="/icon.svg"
+          href="/icon.png"
           preserveAspectRatio="xMidYMid meet"
         />
       </Head>
