@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "products",
+  "info": {
+    "singularName": "product",
+    "pluralName": "products",
+    "displayName": "Product"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "onderdeelnummer": {
+      "type": "string"
+    },
+    "samenvatting": {
+      "type": "text"
+    },
+    "prijs": {
+      "type": "decimal"
+    },
+    "omschrijving": {
+      "type": "richtext"
+    },
+    "model": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::model.model",
+      "inversedBy": "products"
+    },
+    "onderdeel": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::onderdeel.onderdeel",
+      "inversedBy": "products"
+    }
+  }
+}

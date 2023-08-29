@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_nieuwsbericht_afbeeldings",
+  "info": {
+    "displayName": "afbeelding"
+  },
+  "options": {},
+  "attributes": {
+    "afbeelding": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

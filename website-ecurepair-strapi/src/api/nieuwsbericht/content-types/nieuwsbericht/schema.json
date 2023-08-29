@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "nieuwsberichts",
+  "info": {
+    "singularName": "nieuwsbericht",
+    "pluralName": "nieuwsberichts",
+    "displayName": "Nieuwsbericht"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "samenvatting": {
+      "type": "text"
+    },
+    "bericht": {
+      "type": "dynamiczone",
+      "components": [
+        "nieuwsbericht.text",
+        "nieuwsbericht.afbeelding"
+      ]
+    }
+  }
+}

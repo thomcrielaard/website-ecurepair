@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "models",
+  "info": {
+    "singularName": "model",
+    "pluralName": "models",
+    "displayName": "Model"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "naam": {
+      "type": "string"
+    },
+    "merk": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::merk.merk",
+      "inversedBy": "models"
+    },
+    "products": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::product.product",
+      "mappedBy": "model"
+    }
+  }
+}

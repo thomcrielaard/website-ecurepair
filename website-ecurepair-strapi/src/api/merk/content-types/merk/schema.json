@@ -17,16 +17,10 @@
       "required": true,
       "unique": true
     },
-    "foutcodes": {
+    "models": {
       "type": "relation",
       "relation": "oneToMany",
-      "target": "api::foutcode.foutcode",
-      "mappedBy": "merk"
-    },
-    "abs_modules": {
-      "type": "relation",
-      "relation": "oneToMany",
-      "target": "api::abs-module.abs-module",
+      "target": "api::model.model",
       "mappedBy": "merk"
     }
   }
