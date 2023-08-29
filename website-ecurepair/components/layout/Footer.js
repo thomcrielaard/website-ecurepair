@@ -31,8 +31,8 @@ export default function Footer() {
               </Link>
               <div className={styles.FooterLinksWrapper}>
                 <FooterLink
-                  text="info@abspompspecialist.nl"
-                  href="mailto:info@abspompspecialist.nl"
+                  text="info@ecurepair.nl"
+                  href="mailto:info@ecurepair.nl"
                 />
                 <FooterLink text="+31(0)26-2340042" href="tel:+31262340042" />
                 <FooterLink text="Ma-Vr. 9:00 - 18:00" href="/contact" />
@@ -50,7 +50,7 @@ export default function Footer() {
                 />
                 <FooterIcon
                   icon={<Mail width={40} />}
-                  href="mailto:info@abspompspecialist.nl"
+                  href="mailto:info@ecurepair.nl"
                   ariaLabel="Mail nu"
                 />
               </div>
@@ -91,7 +91,7 @@ export default function Footer() {
               <Title text="OVER ONS" color={Colors.WHITE} size="sm" />
               <Text
                 color={Colors.MEDIUMWHITE}
-                text="ABS Pomp Specialist is een toonaangevende expert op het gebied van ABS pomp reparatie en revisie. Wij bieden een snelle, efficiënte en hoogwaardige service voor al uw ABS gerelateerde problemen. Ons team van ervaren monteurs staat altijd klaar om u te helpen. Uw veiligheid en tevredenheid zijn onze topprioriteiten."
+                text="ECU Repair specialiseert zich in auto-elektronica reparaties. Van ECU's tot tellerklokken en mechatronics, onze toegewijde experts bieden vertrouwde oplossingen voor uw voertuig, met jarenlange ervaring en een onwrikbaar streven naar kwaliteit en klanttevredenheid."
               />
             </div>
             <div className={styles.FooterSitelinksWrapper}>

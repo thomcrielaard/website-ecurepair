@@ -1,7 +1,7 @@
 export default async function handler(req, res) {
-  const noreply = "noreply@abspompspecialist.nl";
+  const noreply = "noreply@ecurepair.nl";
   const pass = "Ln1*8x04w";
-  const reply = "info@abspompspecialist.nl";
+  const reply = "info@ecurepair.nl";
   const SMTPHost = "65.108.41.135";
   const SMTPPort = 465;
 

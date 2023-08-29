@@ -44,7 +44,7 @@ const Logo = (props) => (
         color: props.color,
       }}
     >
-      ABS POMP SPECIALIST
+      ECU REPAIR
     </span>
     <span
       className={styles.LogoSubcaption}

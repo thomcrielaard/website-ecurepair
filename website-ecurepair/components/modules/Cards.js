@@ -13,6 +13,8 @@ import Button from "@/components/modules/Button";
 
 import Tools from "@/assets/svg/Tools";
 import Gears from "@/assets/svg/Gears";
+import Chip from "@/assets/svg/Chip";
+import Tachometer from "@/assets/svg/Tachometer";
 
 export default function Cards(props) {
   return (
@@ -24,9 +26,9 @@ export default function Cards(props) {
       >
         <div className={styles.CardWrapper}>
           <div className={`${styles.Card} ${styles.CardLeft}`}>
-            <Tools fill={`${Colors.WHITE}50`} height={100} />
+            <Chip fill={`${Colors.WHITE}50`} height={75} />
             <Title
-              text="ABS POMP REPARATIE"
+              text="ECU DIAGNOSTIEK"
               color={Colors.WHITE}
               align="center"
               size="md"
@@ -34,7 +36,7 @@ export default function Cards(props) {
             <Text
               color={Colors.WHITE}
               align="center"
-              text="Heeft uw ABS systeem problemen? Onze specialisten bieden snelle en efficiënte reparaties. Wij identificeren het probleem, repareren uw ABS pomp en zorgen ervoor dat u weer veilig de weg op kunt. Maak een afspraak voor uw ABS pomp reparatie. "
+              text="De Electronic Control Unit (ECU) is het brein van uw auto. Onze expertise in ECU-diagnostiek en reparatie garandeert dat uw voertuig efficiënt blijft presteren. Plan een inspectie voor optimale voertuigprestaties."
             />
           </div>
           <Button
@@ -48,9 +50,9 @@ export default function Cards(props) {
         </div>
         <div className={styles.CardWrapper}>
           <div className={`${styles.Card} ${styles.CardRight}`}>
-            <Gears fill={`${Colors.WHITE}50`} height={100} />
+            <Tachometer fill={`${Colors.WHITE}50`} height={75} />
             <Title
-              text="ABS POMP REVISIE"
+              text="TELLERKLOK REVISIE"
               color={Colors.WHITE}
               align="center"
               size="md"
@@ -58,7 +60,7 @@ export default function Cards(props) {
             <Text
               color={Colors.WHITE}
               align="center"
-              text="ABS Pomp Specialist biedt uitgebreide diensten voor ABS pomp revisies. Onze gekwalificeerde monteurs hebben jarenlange ervaring met ABS pompen van diverse automerken. We voeren een grondige inspectie uit en reviseren uw ABS pomp vakkundig."
+              text="Een goed functionerende tellerklok is essentieel voor veilig rijden. Ons team heeft diepgaande kennis in het herstellen van tellerklokken, waarborgend dat u altijd nauwkeurige informatie krijgt. Maak nu een afspraak."
             />
           </div>
           <Button

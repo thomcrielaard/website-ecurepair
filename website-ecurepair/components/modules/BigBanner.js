@@ -59,7 +59,7 @@ export default function BigBanner(props) {
           <Logo responsive />
 
           <Text
-            text="Bent u op zoek naar een specialist in ABS pomp reparatie of revisie? ABS Pomp Specialist biedt u hoogwaardige, snelle en betrouwbare diensten. Ons team van ervaren technici zorgt ervoor dat u weer veilig de weg op kunt."
+            text="Welkom bij ECU Repair, dé specialist in geavanceerde autoreparaties. Of het nu gaat om ECU's, tellerklokken, mechatronics of contactslotreparaties, ons deskundige team staat klaar om u te helpen met oplossingen en service op maat. Ontdek wat wij voor u kunnen betekenen."
             color={Colors.WHITE}
             align="center"
             style={{ textShadow: "0px 0px 4px #000000" }}
@@ -81,11 +81,11 @@ export default function BigBanner(props) {
             <option value="DEFAULT" disabled>
               Selecteer merk
             </option>
-            {props.MT.map((brand, key) => (
+            {/* {props.MT.map((brand, key) => (
               <option key={key} value={brand.id}>
                 {brand.naam}
               </option>
-            ))}
+            ))} */}
           </select>
 
           <select

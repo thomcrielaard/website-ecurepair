@@ -9,26 +9,29 @@ import Rocket from "@/assets/svg/Rocket";
 
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
+import Star from "@/assets/svg/Star";
+import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
+import Lightbulb from "@/assets/svg/Lightbulb";
 
 export default function IconBar() {
   return (
     <div className={styles.IconBar}>
       <Icon
-        icon={<Shield width={22} color={Colors.RED} />}
-        title="Betrouwbaar"
-        text="Wij staan voor kwaliteit"
+        icon={<Lightbulb width={16} color={Colors.RED} />}
+        title="Innovatief"
+        text="Altijd voorop in technologie"
       />
       <hr className={styles.IconBarSeparator} />
       <Icon
-        icon={<Gears width={30} color={Colors.RED} />}
-        title="Ervaren"
-        text="Jarenlange ervaring in ABS systemen"
+        icon={<MagnifyingGlass width={20} color={Colors.RED} />}
+        title="Precisie"
+        text="Wij kijken naar elk detail"
       />
       <hr className={styles.IconBarSeparator} />
       <Icon
-        icon={<Rocket width={22} color={Colors.RED} />}
-        title="Efficiënt"
-        text="Snelle service, snelle resultaten"
+        icon={<Star width={22} color={Colors.RED} />}
+        title="Kwaliteit"
+        text="Service van topklasse"
       />
     </div>
   );

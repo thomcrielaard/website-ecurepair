@@ -76,7 +76,7 @@ export default function Navbar(props) {
           />
           <NavbarLink
             href="/foutcodes"
-            text="Foutcodes"
+            text="Nieuws"
             active={
               router.pathname.includes("/foutcodes") ||
               router.pathname.includes("/fouten/")

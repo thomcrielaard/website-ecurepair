@@ -20,15 +20,15 @@ import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 
 import About from "@/assets/img/overons.png";
-import AboutRepair from "@/assets/img/about-repair.jpg";
-import AboutDiagnostics from "@/assets/img/about-diagnostics.jpg";
-import AboutRevision from "@/assets/img/about-revision.jpg";
+import AboutECU from "@/assets/img/about-ecu.jpg";
+import AboutTachometer from "@/assets/img/about-tachometer.jpg";
+import AboutMechatronics from "@/assets/img/about-mechatronics.jpg";
 
 export default function OverOns() {
   return (
     <>
       <Head>
-        <title>ABS Pomp Specialist &#8211; Over ons</title>
+        <title>ECU Repair &#8211; Over ons</title>
         <meta
           name="description"
           content="Bij ABS Pomp Specialist zijn we trots op onze toewijding aan uitmuntendheid en klanttevredenheid. Als toonaangevende expert op het gebied van ABS pomp reparatie en revisie, hebben we een team van ervaren monteurs die altijd klaar staan om u te helpen."
@@ -49,9 +49,9 @@ export default function OverOns() {
                 size="lg"
                 underline
               />
-              <Text text="Bij ABS Pomp Specialist zijn we trots op onze toewijding aan uitmuntendheid en klanttevredenheid. Als toonaangevende expert op het gebied van ABS pomp reparatie en revisie, hebben we een team van ervaren monteurs die altijd klaar staan om u te helpen." />
-              <Text text="Onze missie is simpel: wij streven ernaar om u een snelle, efficiënte en hoogwaardige service te bieden voor al uw ABS gerelateerde problemen. Met onze diepgaande technische kennis en uitgebreide ervaring, zijn wij in staat om de hoogste kwaliteit van werk te leveren bij elke opdracht die we ondernemen." />
-              <Text text="We begrijpen dat betrouwbaarheid van uw auto essentieel is, en dat is de reden waarom wij alles in het werk stellen om ervoor te zorgen dat uw voertuig veilig en effectief functioneert na onze interventie." />
+              <Text text="ECU Repair is ontstaan uit een passie voor autotechnologie en een drive om elk voertuig zo efficiënt mogelijk te laten functioneren. Al sinds onze oprichting hebben we ons gewijd aan het onderzoeken, diagnosticeren en repareren van geavanceerde auto-elektronica systemen. We hebben een team van toegewijde professionals die continu hun kennis bijspijkeren om aan de eisen van de zich snel ontwikkelende auto-industrie te voldoen." />
+              <Text text="Ons hoofddoel is om eigenaars van voertuigen de zekerheid te bieden dat hun auto in de best mogelijke handen is. We begrijpen de complexiteit van moderne auto-elektronica en het belang van deze systemen voor de algehele prestaties van het voertuig. Daarom werken we er onophoudelijk aan om ervoor te zorgen dat elk systeem, van de ECU tot de tellerklok, nauwkeurig en effectief functioneert." />
+              <Text text="De tevredenheid van onze klanten staat voorop. Door een combinatie van geavanceerde apparatuur, uitgebreide training en een klantgerichte aanpak, streven we ernaar om elke keer weer topkwaliteit te leveren." />
             </>
           }
           right={
@@ -92,7 +92,7 @@ export default function OverOns() {
                 underline
               />
               <Text
-                text="Ons aanbod van diensten omvat een breed spectrum van ABS gerelateerde problemen. Van diagnose tot reparatie en revisie, wij zorgen ervoor dat uw ABS systeem perfect functioneert. Wij hebben de ervaring en de kennis om de meest uitdagende ABS problemen aan te pakken."
+                text="Bij ECU Repair is het onze missie om ervoor te zorgen dat uw auto vlekkeloos werkt. Met een gespecialiseerd team hebben we ons gericht op de technische aspecten van auto-elektronica, zodat u veilig en met vertrouwen de weg op kunt. Of u nu problemen heeft met uw ECU, tellerklok, mechatronics of contactslot, wij staan klaar om u te helpen met geavanceerde oplossingen en ongeëvenaarde expertise."
                 style={{ marginBottom: 20 }}
               />
               <div className={styles.OverOnsButtonWrapper}>
@@ -113,19 +113,19 @@ export default function OverOns() {
             <ExpandableCards
               cards={[
                 {
-                  title: "ABS Pomp Reparatie",
-                  text: "Het functioneren van een ABS pomp is cruciaal voor de veiligheid van uw voertuig. Een defect kan niet alleen uw veiligheid in gevaar brengen, maar kan ook leiden tot verdere schade aan uw auto. Ons team van ervaren monteurs, gewapend met de benodigde technische kennis, is uiterst bedreven in het diagnosticeren en repareren van dergelijke defecten. Met uiterste precisie en toewijding werken zij om uw ABS pomp te herstellen, en zo uw voertuig weer in topconditie te brengen, voor een zorgeloze en veilige rijervaring.",
-                  img: AboutRepair,
+                  title: "ECU Diagnose",
+                  text: "De Electronic Control Unit (ECU) is het brein van uw auto. Als deze niet optimaal werkt, kan dit leiden tot een verminderde prestatie en zelfs tot storingen. Een goed functionerende ECU is essentieel voor zaken als brandstofefficiëntie, motorprestaties en andere vitale functies van het voertuig. Wij bij ECU Repair begrijpen het belang van deze component en bieden een grondige diagnostiek en reparatieservice. We maken gebruik van geavanceerde technologieën en methoden om ervoor te zorgen dat uw ECU in perfecte staat verkeert en uw auto naar behoren presteert.",
+                  img: AboutECU,
                 },
                 {
-                  title: "ABS Pomp Revisie",
-                  text: "Er zijn situaties waarin een volledige revisie van uw ABS pomp de meest effectieve oplossing is om uw voertuig weer optimaal te laten functioneren. In dergelijke gevallen staan onze hoogopgeleide monteurs klaar met hun diepgaande expertise en de meest geavanceerde apparatuur. Ze zetten hun uitgebreide ervaring en diepgaande technische kennis in om de revisie van uw ABS pomp met de hoogste mate van precisie uit te voeren, en daarmee de veiligheid en betrouwbaarheid van uw voertuig te waarborgen.",
-                  img: AboutRevision,
+                  title: "Tellerklok Reparaties",
+                  text: "Een defecte tellerklok kan niet alleen voor verwarring zorgen tijdens het rijden, maar ook essentiële informatie over uw voertuig verbergen. Van verlichtingsproblemen en incorrecte snelheidsweergaves tot andere elektronische storingen, een goed functionerende tellerklok is cruciaal voor een veilige rijervaring. Ons team van experts bij ECU Repair heeft jarenlange ervaring in het snel en efficiënt diagnosticeren en oplossen van deze problemen. Wij gebruiken de nieuwste technologieën en technieken om ervoor te zorgen dat u altijd een nauwkeurige en betrouwbare lezing van uw dashboard krijgt.",
+                  img: AboutTachometer,
                 },
                 {
-                  title: "ABS Storing Diagnose",
-                  text: "Zijn er aanwijzingen van een ABS storing, maar blijft de oorzaak onduidelijk? Onze hooggekwalificeerde monteurs maken gebruik van state-of-the-art diagnose apparatuur om de onderliggende problemen op te sporen. We stellen een nauwkeurige diagnose en bieden een doelgerichte oplossing om uw ABS systeem weer vlekkeloos te laten functioneren.",
-                  img: AboutDiagnostics,
+                  title: "Mechatronics Onderhoud",
+                  text: "Mechatronics speelt een sleutelrol in de automatische transmissie van uw auto. Elk falen of defect binnen dit systeem kan resulteren in een minder soepel schakelgedrag en andere gerelateerde problemen. Bij ECU Repair nemen we geen genoegen met half werk. Ons team is gespecialiseerd in het uitvoeren van een grondige inspectie van mechatronic componenten. We identificeren de kern van het probleem en zorgen voor een efficiënte oplossing, zodat uw rijervaring altijd optimaal is. Met geavanceerde tools en een diepgaande kennis van auto-elektronica, streven we ernaar om de hoogste kwaliteit onderhoud en reparatie te bieden voor uw voertuig.",
+                  img: AboutMechatronics,
                 },
               ]}
             />
@@ -140,15 +140,14 @@ export default function OverOns() {
           alignTop
           left={
             <>
-              <Text text="Onze reis begon jaren geleden met een missie om de best mogelijke service te bieden voor ABS pomp reparatie en revisie. Door de jaren heen hebben we een schat aan ervaring opgedaan en hebben we ons stevig gevestigd als een van de leidende spelers in de branche." />
-              <Text text="In 2008 werd ABS Pomp Specialist opgericht met als doel een gespecialiseerde service te bieden voor ABS pomp reparaties en revisies. Onze vastberadenheid om een superieure service te leveren heeft ons snel doen groeien en vandaag de dag zijn we trots op ons sterke team van gekwalificeerde monteurs en onze uitbreide klantenbasis. We streven ernaar om altijd de beste oplossingen te bieden en we werken continu aan het verbeteren en uitbreiden van onze diensten." />
-              <Text text="In onze groei hebben we nooit het belang van de klant uit het oog verloren. Het centraal stellen van de klant, het respecteren van hun behoeften en het bieden van transparante en betrouwbare diensten is de kern van onze bedrijfsfilosofie. We streven ernaar om meer dan alleen een dienstverlener te zijn; we zijn een vertrouwde partner in uw voertuigveiligheid. Deze klantgerichte benadering heeft onze groei versterkt en ons geholpen duurzame relaties op te bouwen." />
+              <Text text="In 2008, tijdens de snelle ontwikkelingen in de auto-elektronica sector, werd ECU Repair geboren. Onze visie was helder: een rol spelen in de niche van auto-elektronica reparaties. Ons team bestond uit een handvol gepassioneerde professionals met een gedeelde ambitie: toonaangevend worden op het gebied van reparatie en onderhoud van motormanagementeenheden, ofwel ECU's. We zagen al snel het belang in van specialisatie in een industrie die steeds technischer en complexer werd." />
+              <Text text="Naarmate de jaren verstreken, breidden we onze expertise uit. Het ging niet meer alleen om ECU's, maar ook om andere cruciale auto-elektronische onderdelen zoals tellerklokken, mechatronics en contactsloten. Voortdurende training en het up-to-date blijven met de nieuwste technologische trends stonden centraal in onze groei. Onze technici werden niet alleen experts in hun vakgebied, maar ook consultants voor klanten die op zoek waren naar betrouwbaar advies in een gecompliceerd technisch landschap." />
             </>
           }
           right={
             <>
-              <Text text="Naast onze technische expertise en onze uitstekende klantenservice, zijn innovatie en het voortdurend op de hoogte blijven van technologische ontwikkelingen altijd belangrijke pijlers van ons bedrijf geweest. In een wereld die snel evolueert, erkennen we het belang van het blijven investeren in de nieuwste technologieën en het continu opleiden van ons team. Dit stelt ons in staat om een breed scala aan diensten te bieden, van het diagnosticeren van ABS-storingen tot het repareren van ABS-pompen, en om problemen met de hoogst mogelijke efficiëntie aan te pakken. Dit verlangen om voorop te blijven lopen in de branche maakt deel uit van onze bedrijfscultuur en draagt in grote mate bij aan de kwaliteit en betrouwbaarheid van onze diensten." />
-              <Text text="We hebben ons succes te danken aan onze niet aflatende inzet voor klanttevredenheid, onze technische expertise en ons streven naar uitmuntendheid. We zijn trots op de erkenning die we hebben ontvangen voor onze hoogwaardige diensten, maar we blijven niet stilstaan. We kijken uit naar vele jaren van verdere groei en succes, en we blijven ons inzetten om de beste ABS pomp reparatie- en revisiediensten in de branche te leveren." />
+              <Text text="Wat ECU Repair echter onderscheidde van vele anderen, was niet alleen onze technische capaciteit, maar ook de relaties die we opbouwden. We waardeerden elke klant, groot of klein, en streefden ernaar om meer te bieden dan alleen reparatieservices. Eerlijkheid, transparantie en het bieden van duurzame oplossingen vormden de hoeksteen van onze klantrelaties. Onze reputatie groeide, grotendeels door mond-tot-mondreclame en positieve referenties van tevreden klanten." />
+              <Text text="Terwijl we terugkijken op ons traject, zijn we trots op wat we hebben bereikt, maar we kijken ook enthousiast naar de toekomst. De auto-elektronica industrie blijft evolueren, en ECU Repair is vastbesloten om aan het roer van deze veranderingen te staan. We blijven investeren in technologie, opleiding en, het belangrijkste, onze klanten. Hierdoor verzekeren we ons van een plek aan de top in de komende jaren en blijven we de betrouwbare partner die onze klanten van ons verwachten." />
             </>
           }
         />

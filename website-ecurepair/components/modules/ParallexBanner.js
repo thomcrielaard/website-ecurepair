@@ -38,7 +38,7 @@ export default function ParallexBanner() {
             />
 
             <Text
-              text="Bij ABS Pomp Specialist bieden we professionele reparatie en revisie van ABS pompen. We identificeren en lossen ABS problemen op en vervangen indien nodig uw ABS pomp. Met ons vakkundig team en moderne diagnose apparatuur zorgen we voor een efficiënte service."
+              text="Bij ECU Repair staan we voor toonaangevende expertise in auto-onderdeel reparaties. Of het nu gaat om ECU's, tellerklokken, mechatronics of contactsloten, ons team van deskundige monteurs heeft de ervaring en kennis om u te helpen. Onze klantgerichte benadering garandeert tevredenheid bij elke service."
               color={Colors.WHITE}
               align="center"
               slim

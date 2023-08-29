@@ -33,11 +33,7 @@ export default function ContactInfo(props) {
           <InfoRow left="Zon" right="Gesloten" />
         </div>
         <div>
-          <Title
-            size="xs"
-            text="ABS POMP SPECIALIST"
-            style={{ marginBottom: 10 }}
-          />
+          <Title size="xs" text="ECU REPAIR" style={{ marginBottom: 10 }} />
           <div className={styles.ContactInfoIconsWrapper}>
             <div className={styles.ContactInfoIconsRow}>
               <Location width={14} color={Colors.GRAY} />
@@ -63,9 +59,9 @@ export default function ContactInfo(props) {
               <Mail width={34} color={Colors.GRAY} />
               <Link
                 className={styles.ContactInfoSpan}
-                href="mailto:info@abspompspecialist.nl"
+                href="mailto:info@ecurepair.nl"
               >
-                info@abspompspecialist.nl
+                info@ecurepair.nl
               </Link>
             </div>
             <div className={styles.ContactInfoIconsRow}>
