@@ -61,7 +61,7 @@ export default function Reparaties({ modules, merkType, discount }) {
   return (
     <>
       <Head>
-        <title>ABS Pomp Specialist &#8211; Reparaties</title>
+        <title>ECU Repair &#8211; Reparaties</title>
         <meta
           name="description"
           content="ABS Pomp Specialist is een toonaangevende expert op het gebied van ABS pomp reparatie en revisie. Wij bieden een snelle, efficiënte en hoogwaardige service voor al uw ABS gerelateerde problemen. Ons team van ervaren monteurs staat altijd klaar om u te helpen. Uw veiligheid en tevredenheid zijn onze topprioriteiten."

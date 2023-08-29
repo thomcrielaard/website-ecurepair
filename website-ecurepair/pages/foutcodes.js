@@ -18,7 +18,7 @@ function Foutcodes({ brands }) {
   return (
     <>
       <Head>
-        <title>ABS Pomp Specialist &#8211; Foutcodes</title>
+        <title>ECU Repair Specialist &#8211; Foutcodes</title>
         <meta
           name="description"
           content="Ontdek de meest voorkomende ABS pomp fouten voor verschillende automerken. Selecteer uw merk en krijg een overzicht van veelvoorkomende problemen. Klik op een probleem voor een uitgebreide beschrijving en mogelijke oplossingen."
@@ -28,13 +28,13 @@ function Foutcodes({ brands }) {
       <Navbar />
 
       <Container>
-        <Title text="ALLE FOUTCODES" size="lg" align="center" />
+        {/* <Title text="ALLE FOUTCODES" size="lg" align="center" />
         <Text
           align="center"
           text="Ontdek de meest voorkomende ABS pomp foutcodes voor verschillende automerken. Kijk bij uw merk en krijg een overzicht van veelvoorkomende foutcodes. Klik op een foutcode voor een uitgebreide beschrijving en mogelijke oplossingen."
           slim
         />
-        <div style={{ height: 20 }} />
+        <div style={{ height: 20 }} /> */}
         {/* <ErrorCodesOverview brands={brands.data} /> */}
       </Container>
 
