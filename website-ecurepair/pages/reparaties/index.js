@@ -45,18 +45,18 @@ const filterModules = (modules, text, merk, type) => {
 };
 
 export default function Reparaties({ modules, merkType, discount }) {
-  const router = useRouter();
+  // const router = useRouter();
 
-  const searchText = router.query.onderdeel;
-  const searchMerk = router.query.merk;
-  const searchType = router.query.type;
+  // const searchText = router.query.onderdeel;
+  // const searchMerk = router.query.merk;
+  // const searchType = router.query.type;
 
-  const [filteredModules, setFilteredModules] = React.useState(
-    filterModules(modules, searchText, searchMerk, searchType)
-  );
+  // const [filteredModules, setFilteredModules] = React.useState(
+  //   filterModules(modules, searchText, searchMerk, searchType)
+  // );
 
-  const updateModules = (text, merk, type) =>
-    setFilteredModules(filterModules(modules, text, merk, type));
+  // const updateModules = (text, merk, type) =>
+  //   setFilteredModules(filterModules(modules, text, merk, type));
 
   return (
     <>
@@ -70,7 +70,7 @@ export default function Reparaties({ modules, merkType, discount }) {
 
       <Navbar />
 
-      <Container id="search">
+      {/* <Container id="search">
         <Title text="VIND JOUW MODEL" size="lg" align="center" />
         <Text
           text="Zoek uw specifieke ABS pomp model op onze website. Voer eenvoudig het onderdeelnummer van uw ABS pomp in of zoek op uw model auto en ontdek de reparatiekosten. Wij bieden reparaties voor diverse automerken en modellen."
@@ -104,7 +104,7 @@ export default function Reparaties({ modules, merkType, discount }) {
           square
           price
         />
-      </Container>
+      </Container> */}
 
       <Footer />
     </>
@@ -112,39 +112,43 @@ export default function Reparaties({ modules, merkType, discount }) {
 }
 
 export async function getStaticProps() {
-  const { data: discountData } = await Axios.get(`${API_URL}/api/korting`);
+  // const { data: discountData } = await Axios.get(`${API_URL}/api/korting`);
 
-  const discount = discountData.data.attributes;
+  // const discount = discountData.data.attributes;
 
-  const { data: modulesData } = await Axios.get(
-    `${API_URL}/api/abs-modules?populate=type.afbeelding,merk&sort[0]=id:desc`
-  );
+  // const { data: modulesData } = await Axios.get(
+  //   `${API_URL}/api/abs-modules?populate=type.afbeelding,merk&sort[0]=id:desc`
+  // );
 
-  const modules = modulesData.data;
+  // const modules = modulesData.data;
 
-  // Get all brands, models and types
-  const res = await Axios.get(
-    `${API_URL}/api/merks?populate=abs_modules,abs_modules.type&sort[0]=naam:asc`
-  );
-  const merksData = res.data.data; // navigate to the 'data' field in the response
+  // // Get all brands, models and types
+  // const res = await Axios.get(
+  //   `${API_URL}/api/merks?populate=abs_modules,abs_modules.type&sort[0]=naam:asc`
+  // );
+  // const merksData = res.data.data; // navigate to the 'data' field in the response
 
-  const merkType = merksData.map((merk) => {
-    // Get array of types
-    const types = merk.attributes.abs_modules.data
-      .map((module) => ({
-        id: module.attributes.type.data.id,
-        naam: module.attributes.type.data.attributes.naam,
-      }))
-      // Remove duplicates based on 'naam' property
-      .filter(
-        (value, index, self) =>
-          index === self.findIndex((t) => t.naam === value.naam)
-      );
+  // const merkType = merksData.map((merk) => {
+  //   // Get array of types
+  //   const types = merk.attributes.abs_modules.data
+  //     .map((module) => ({
+  //       id: module.attributes.type.data.id,
+  //       naam: module.attributes.type.data.attributes.naam,
+  //     }))
+  //     // Remove duplicates based on 'naam' property
+  //     .filter(
+  //       (value, index, self) =>
+  //         index === self.findIndex((t) => t.naam === value.naam)
+  //     );
 
-    // Deconstruct merk attributes, exclude abs_modules and return with types and merk id
-    const { abs_modules, ...otherAttributes } = merk.attributes;
-    return { id: merk.id, ...otherAttributes, types };
-  });
+  //   // Deconstruct merk attributes, exclude abs_modules and return with types and merk id
+  //   const { abs_modules, ...otherAttributes } = merk.attributes;
+  //   return { id: merk.id, ...otherAttributes, types };
+  // });
+
+  const modules = null;
+  const merkType = null;
+  const discount = null;
 
   return {
     props: {

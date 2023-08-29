@@ -35,7 +35,7 @@ function Foutcodes({ brands }) {
           slim
         />
         <div style={{ height: 20 }} />
-        <ErrorCodesOverview brands={brands.data} />
+        {/* <ErrorCodesOverview brands={brands.data} /> */}
       </Container>
 
       <Footer />
@@ -44,11 +44,13 @@ function Foutcodes({ brands }) {
 }
 
 export async function getStaticProps() {
-  const data = await Axios.get(
-    `${API_URL}/api/merks?sort[0]=naam&populate=deep,3`
-  );
+  // const data = await Axios.get(
+  //   `${API_URL}/api/merks?sort[0]=naam&populate=deep,3`
+  // );
 
-  const brands = data.data;
+  // const brands = data.data;
+
+  const brands = [];
 
   return {
     props: {

@@ -28,13 +28,15 @@ function Error({ error }) {
 }
 
 export async function getStaticPaths() {
-  const { data } = await Axios.get(`${API_URL}/api/foutomschrijvings`);
+  // const { data } = await Axios.get(`${API_URL}/api/foutomschrijvings`);
 
-  const paths = data.data.map((description) => {
-    return {
-      params: { title: `${description.attributes.titel}` },
-    };
-  });
+  // const paths = data.data.map((description) => {
+  //   return {
+  //     params: { title: `${description.attributes.titel}` },
+  //   };
+  // });
+
+  const paths = [];
 
   return {
     paths,

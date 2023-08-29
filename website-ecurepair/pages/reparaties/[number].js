@@ -28,15 +28,16 @@ function Error({ absModule, discount }) {
 }
 
 export async function getStaticPaths() {
-  const { data } = await Axios.get(
-    `${API_URL}/api/abs-modules?fields=onderdeelnummer`
-  );
+  // const { data } = await Axios.get(
+  //   `${API_URL}/api/abs-modules?fields=onderdeelnummer`
+  // );
 
-  const paths = data.data.map((module) => {
-    return {
-      params: { number: `${module.attributes.onderdeelnummer}` },
-    };
-  });
+  // const paths = data.data.map((module) => {
+  //   return {
+  //     params: { number: `${module.attributes.onderdeelnummer}` },
+  //   };
+  // });
+  const paths = [];
 
   return {
     paths,
