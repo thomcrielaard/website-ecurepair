@@ -4,7 +4,8 @@
   "info": {
     "singularName": "onderdeel",
     "pluralName": "onderdeels",
-    "displayName": "Onderdeel"
+    "displayName": "Onderdeel",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,7 +13,9 @@
   "pluginOptions": {},
   "attributes": {
     "naam": {
-      "type": "string"
+      "type": "string",
+      "required": true,
+      "unique": true
     },
     "products": {
       "type": "relation",

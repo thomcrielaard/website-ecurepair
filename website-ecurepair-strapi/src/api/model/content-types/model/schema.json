@@ -4,7 +4,8 @@
   "info": {
     "singularName": "model",
     "pluralName": "models",
-    "displayName": "Model"
+    "displayName": "Model",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,7 +13,9 @@
   "pluginOptions": {},
   "attributes": {
     "naam": {
-      "type": "string"
+      "type": "string",
+      "required": true,
+      "unique": true
     },
     "merk": {
       "type": "relation",

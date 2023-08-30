@@ -4,7 +4,8 @@
   "info": {
     "singularName": "nieuwsbericht",
     "pluralName": "nieuwsberichts",
-    "displayName": "Nieuwsbericht"
+    "displayName": "Nieuwsbericht",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,7 +13,9 @@
   "pluginOptions": {},
   "attributes": {
     "titel": {
-      "type": "string"
+      "type": "string",
+      "required": true,
+      "unique": true
     },
     "samenvatting": {
       "type": "text"

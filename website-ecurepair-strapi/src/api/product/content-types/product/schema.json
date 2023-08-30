@@ -4,7 +4,8 @@
   "info": {
     "singularName": "product",
     "pluralName": "products",
-    "displayName": "Product"
+    "displayName": "Product",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,7 +13,9 @@
   "pluginOptions": {},
   "attributes": {
     "onderdeelnummer": {
-      "type": "string"
+      "type": "string",
+      "required": true,
+      "unique": true
     },
     "samenvatting": {
       "type": "text"
@@ -34,6 +37,17 @@
       "relation": "manyToOne",
       "target": "api::onderdeel.onderdeel",
       "inversedBy": "products"
+    },
+    "afbeelding": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
     }
   }
 }
