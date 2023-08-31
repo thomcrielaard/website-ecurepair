@@ -26,6 +26,16 @@
         "nieuwsbericht.text",
         "nieuwsbericht.afbeelding"
       ]
+    },
+    "omslagfoto": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
