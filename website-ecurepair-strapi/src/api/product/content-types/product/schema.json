@@ -26,12 +26,6 @@
     "omschrijving": {
       "type": "richtext"
     },
-    "model": {
-      "type": "relation",
-      "relation": "manyToOne",
-      "target": "api::model.model",
-      "inversedBy": "products"
-    },
     "onderdeel": {
       "type": "relation",
       "relation": "manyToOne",

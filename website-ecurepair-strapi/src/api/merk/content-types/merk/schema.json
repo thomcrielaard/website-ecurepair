@@ -17,11 +17,11 @@
       "required": true,
       "unique": true
     },
-    "models": {
+    "onderdeels": {
       "type": "relation",
-      "relation": "oneToMany",
-      "target": "api::model.model",
-      "mappedBy": "merk"
+      "relation": "manyToMany",
+      "target": "api::onderdeel.onderdeel",
+      "mappedBy": "merks"
     }
   }
 }
