@@ -17,10 +17,10 @@
       "required": true,
       "unique": true
     },
-    "onderdeels": {
+    "products": {
       "type": "relation",
       "relation": "manyToMany",
-      "target": "api::onderdeel.onderdeel",
+      "target": "api::product.product",
       "mappedBy": "merks"
     }
   }

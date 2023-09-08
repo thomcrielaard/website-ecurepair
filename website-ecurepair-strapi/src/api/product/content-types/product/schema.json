@@ -42,6 +42,12 @@
         "videos",
         "audios"
       ]
+    },
+    "merks": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::merk.merk",
+      "inversedBy": "products"
     }
   }
 }

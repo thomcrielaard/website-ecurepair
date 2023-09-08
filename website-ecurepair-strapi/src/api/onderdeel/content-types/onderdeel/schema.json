@@ -22,12 +22,6 @@
       "relation": "oneToMany",
       "target": "api::product.product",
       "mappedBy": "onderdeel"
-    },
-    "merks": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::merk.merk",
-      "inversedBy": "onderdeels"
     }
   }
 }
