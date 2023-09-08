@@ -15,13 +15,12 @@ import Logo from "@/assets/svg/Logo";
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 
 export default function BigBanner(props) {
-  const [types, setTypes] = React.useState([]);
-
-  const selectTypeRef = React.useRef(null);
+  const selectPartRef = React.useRef(null);
 
   const [inputValue, setInputValue] = React.useState(null);
   const [brandValue, setBrandValue] = React.useState(null);
-  const [typeValue, setTypeValue] = React.useState(null);
+  const [partValue, setPartValue] = React.useState(null);
+  const [parts, setParts] = React.useState([]);
 
   const handleInputChange = (text) => {
     setInputValue(text);
@@ -29,17 +28,17 @@ export default function BigBanner(props) {
 
   const changeMerk = (merk) => {
     const selectedValue = merk;
-    const brand = props.MT.find((item) => item.id === parseInt(selectedValue));
+    const brand = props.MP.find((item) => item.id === parseInt(selectedValue));
     if (brand) {
       setBrandValue(merk);
-      setTypes(brand.types);
-      setTypeValue(null);
-      selectTypeRef.current.value = "DEFAULT";
+      setParts(brand.parts);
+      setPartValue(null);
+      selectPartRef.current.value = "DEFAULT";
     }
   };
 
-  const changeType = (type) => {
-    setTypeValue(type);
+  const changePart = (part) => {
+    setPartValue(part);
   };
 
   return (
@@ -59,7 +58,7 @@ export default function BigBanner(props) {
           <Logo responsive />
 
           <Text
-            text="Welkom bij ECU Repair, dé specialist in geavanceerde autoreparaties. Of het nu gaat om ECU's, tellerklokken, mechatronics of contactslotreparaties, ons deskundige team staat klaar om u te helpen met oplossingen en service op maat. Ontdek wat wij voor u kunnen betekenen."
+            text="Welkom bij ECU Repair, dé specialist in geavanceerde autoreparaties. Of het nu gaat om ECU's, tellerklokken, mechatronics of Mercedes contactslotreparaties, ons deskundige team staat klaar om u te helpen met oplossingen en service op maat. Ontdek wat wij voor u kunnen betekenen."
             color={Colors.WHITE}
             align="center"
             style={{ textShadow: "0px 0px 4px #000000" }}
@@ -81,28 +80,25 @@ export default function BigBanner(props) {
             <option value="DEFAULT" disabled>
               Selecteer merk
             </option>
-            {/* {props.MT.map((brand, key) => (
+            {props.MP.map((brand, key) => (
               <option key={key} value={brand.id}>
                 {brand.naam}
               </option>
-            ))} */}
+            ))}
           </select>
 
           <select
             defaultValue={"DEFAULT"}
-            disabled={types.length === 0}
-            ref={selectTypeRef}
+            disabled={parts.length === 0}
+            ref={selectPartRef}
+            onChange={(e) => changePart(e.target.value)}
           >
-            <option
-              value="DEFAULT"
-              disabled
-              onChange={(e) => changeType(e.target.value)}
-            >
+            <option value="DEFAULT" disabled>
               Selecteer onderdeel
             </option>
-            {types.map((type, key) => (
-              <option key={key} value={type.id}>
-                {type.naam}
+            {parts.map((part, key) => (
+              <option key={key} value={part.id}>
+                {part.naam}
               </option>
             ))}
           </select>
@@ -119,9 +115,9 @@ export default function BigBanner(props) {
             backgroundColor={Colors.RED}
             color={Colors.WHITE}
             style={{ alignSelf: "center" }}
-            href={`/reparaties?onderdeel=${inputValue ?? "DEFAULT"}&merk=${
-              brandValue ?? "DEFAULT"
-            }&type=${typeValue ?? "DEFAULT"}`}
+            href={`/onderdelen?${
+              inputValue && inputValue != "" ? `onderdeel=${inputValue}&` : ""
+            }merk=${brandValue ?? "DEFAULT"}&part=${partValue ?? "DEFAULT"}`}
           />
         </div>
       </div>

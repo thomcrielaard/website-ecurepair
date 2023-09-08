@@ -65,18 +65,43 @@ export default function Footer() {
                   bar={router.pathname == "/overons"}
                 />
                 <FooterLink
-                  text="Reparaties"
-                  href="/reparaties"
+                  text="DSG"
+                  href="/dsg"
+                  bar={router.pathname == "/dsg"}
+                />
+                <FooterLink
+                  text="ECU reparatie"
+                  href="/ecu-reparatie"
+                  bar={router.pathname == "/ecu-reparatie"}
+                />
+                <FooterLink
+                  text="Mechatronics"
+                  href="/mechatronics"
+                  bar={router.pathname == "/mechatronics"}
+                />
+                <FooterLink
+                  text="Mercedes contactsloten"
+                  href="/mercedes-contactsloten"
+                  bar={router.pathname == "/mercedes-contactsloten"}
+                />
+                <FooterLink
+                  text="Tellerklokken"
+                  href="/tellerklokken"
+                  bar={router.pathname == "/tellerklokken"}
+                />
+                <FooterLink
+                  text="Onderdelen"
+                  href="/onderdelen"
                   bar={
-                    router.pathname.includes("/reparaties") ||
+                    router.pathname.includes("/onderdelen") ||
                     router.pathname == "/reparatieformulier"
                   }
                 />
                 <FooterLink
-                  text="Foutcodes"
-                  href="/foutcodes"
+                  text="Nieuws"
+                  href="/nieuws"
                   bar={
-                    router.pathname.includes("/foutcodes") ||
+                    router.pathname.includes("/nieuws") ||
                     router.pathname.includes("/fouten/")
                   }
                 />

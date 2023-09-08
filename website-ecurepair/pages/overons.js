@@ -64,7 +64,7 @@ export default function OverOns() {
             >
               <Image
                 src={About}
-                alt="ABS Pomp"
+                alt="ECU"
                 style={{ objectFit: "cover" }}
                 fill
                 sizes={`(min-width: ${Breakpoints.sm}) 45vw, 100vw`}
@@ -92,7 +92,7 @@ export default function OverOns() {
                 underline
               />
               <Text
-                text="Bij ECU Repair is het onze missie om ervoor te zorgen dat uw auto vlekkeloos werkt. Met een gespecialiseerd team hebben we ons gericht op de technische aspecten van auto-elektronica, zodat u veilig en met vertrouwen de weg op kunt. Of u nu problemen heeft met uw ECU, tellerklok, mechatronics of contactslot, wij staan klaar om u te helpen met geavanceerde oplossingen en ongeëvenaarde expertise."
+                text="Bij ECU Repair is het onze missie om ervoor te zorgen dat uw auto vlekkeloos werkt. Met een gespecialiseerd team hebben we ons gericht op de technische aspecten van auto-elektronica, zodat u veilig en met vertrouwen de weg op kunt. Of u nu problemen heeft met uw ECU, tellerklok, mechatronics of Mercedes contactslot, wij staan klaar om u te helpen met geavanceerde oplossingen en ongeëvenaarde expertise."
                 style={{ marginBottom: 20 }}
               />
               <div className={styles.OverOnsButtonWrapper}>
@@ -141,7 +141,7 @@ export default function OverOns() {
           left={
             <>
               <Text text="In 2008, tijdens de snelle ontwikkelingen in de auto-elektronica sector, werd ECU Repair geboren. Onze visie was helder: een rol spelen in de niche van auto-elektronica reparaties. Ons team bestond uit een handvol gepassioneerde professionals met een gedeelde ambitie: toonaangevend worden op het gebied van reparatie en onderhoud van motormanagementeenheden, ofwel ECU's. We zagen al snel het belang in van specialisatie in een industrie die steeds technischer en complexer werd." />
-              <Text text="Naarmate de jaren verstreken, breidden we onze expertise uit. Het ging niet meer alleen om ECU's, maar ook om andere cruciale auto-elektronische onderdelen zoals tellerklokken, mechatronics en contactsloten. Voortdurende training en het up-to-date blijven met de nieuwste technologische trends stonden centraal in onze groei. Onze technici werden niet alleen experts in hun vakgebied, maar ook consultants voor klanten die op zoek waren naar betrouwbaar advies in een gecompliceerd technisch landschap." />
+              <Text text="Naarmate de jaren verstreken, breidden we onze expertise uit. Het ging niet meer alleen om ECU's, maar ook om andere cruciale auto-elektronische onderdelen zoals tellerklokken, mechatronics en Mercedes contactsloten. Voortdurende training en het up-to-date blijven met de nieuwste technologische trends stonden centraal in onze groei. Onze technici werden niet alleen experts in hun vakgebied, maar ook consultants voor klanten die op zoek waren naar betrouwbaar advies in een gecompliceerd technisch landschap." />
             </>
           }
           right={

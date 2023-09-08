@@ -38,7 +38,7 @@ export default function ParallexBanner() {
             />
 
             <Text
-              text="Bij ECU Repair staan we voor toonaangevende expertise in auto-onderdeel reparaties. Of het nu gaat om ECU's, tellerklokken, mechatronics of contactsloten, ons team van deskundige monteurs heeft de ervaring en kennis om u te helpen. Onze klantgerichte benadering garandeert tevredenheid bij elke service."
+              text="Bij ECU Repair staan we voor toonaangevende expertise in auto-onderdeel reparaties. Of het nu gaat om ECU's, tellerklokken, mechatronics of Mercedes contactsloten, ons team van deskundige monteurs heeft de ervaring en kennis om u te helpen. Onze klantgerichte benadering garandeert tevredenheid bij elke service."
               color={Colors.WHITE}
               align="center"
               slim

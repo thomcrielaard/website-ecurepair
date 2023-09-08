@@ -2,7 +2,6 @@ import * as React from "react";
 
 import styles from "@/styles/modules/Searchbar.module.scss";
 
-import UseDimensions from "@/services/UseDimensions";
 import Colors from "@/styles/Colors";
 
 import Button from "@/components/modules/Button";
@@ -12,43 +11,65 @@ import Clear from "@/assets/svg/Clear";
 export default function Searchbar(props) {
   const inputRef = React.useRef(null);
   const selectBrandRef = React.useRef(null);
-  const selectTypeRef = React.useRef(null);
+  const selectPartRef = React.useRef(null);
 
   const [selectedMerk, setSelectedMerk] = React.useState(props.merk ?? null);
-  const [selectedType, setSelectedType] = React.useState(props.type ?? null);
+  const [selectedPart, setSelectedPart] = React.useState(props.part ?? null);
   const [inputWidth, setInputWidth] = React.useState(160);
-  const [types, setTypes] = React.useState([]);
-
   const [barWidth, setBarWidth] = React.useState(0);
+
+  const [parts, setParts] = React.useState(props.initialParts ?? []);
+
+  React.useEffect(() => {
+    if (inputRef.current && props.text) {
+      inputRef.current.value = props.text;
+      handleInputChange();
+    }
+
+    if (selectBrandRef.current && props.merk && props.merk != "DEFAULT") {
+      setSelectedMerk(props.merk);
+      changeMerk(props.merk, props.part);
+      selectBrandRef.current.value = props.merk;
+    }
+
+    if (selectPartRef.current && props.part && props.part != "DEFAULT") {
+      setSelectedPart(props.part);
+      changePart();
+      selectPartRef.current.value = props.part;
+      console.log(selectPartRef.current.value);
+    }
+    updateModules();
+  }, [props.text, props.merk, props.part]);
 
   const updateModules = () => {
     if (props.updateModules != undefined)
       props.updateModules(
         inputRef.current?.value,
         selectBrandRef.current?.value,
-        selectTypeRef.current?.value
+        selectPartRef.current?.value
       );
   };
 
-  const changeMerk = (merk) => {
+  const changeMerk = (merk, clearPart = true) => {
     const selectedValue = merk;
-    const brand = props.MT.find((item) => item.id === parseInt(selectedValue));
+    const brand = props.MP.find((item) => item.id === parseInt(selectedValue));
     if (brand) {
-      setTypes(brand.types);
+      setParts(brand.parts);
       setBarWidth(48);
-      setSelectedType(null);
-      selectTypeRef.current.value = "DEFAULT";
+      if (clearPart) {
+        setSelectedPart(null);
+        selectPartRef.current.value = "DEFAULT";
+      }
+      updateModules();
     }
-    updateModules();
   };
 
-  const changeType = () => {
+  const changePart = () => {
     setBarWidth(100);
     updateModules();
   };
 
   const handleInputChange = () => {
-    updateModules();
     const inputValue = inputRef.current.value;
     if (inputValue === "") {
       setInputWidth(160);
@@ -59,31 +80,8 @@ export default function Searchbar(props) {
     context.font = "18px lato"; // Set the font size and family to match the input
     const width = Math.ceil(context.measureText(inputValue).width);
     setInputWidth(width + 8);
+    updateModules();
   };
-
-  React.useEffect(() => {
-    if (inputRef.current && props.text) {
-      inputRef.current.value = props.text;
-      handleInputChange();
-    }
-
-    if (selectBrandRef.current && props.merk && props.merk != "DEFAULT") {
-      changeMerk(props.merk);
-      setSelectedMerk(props.merk);
-      selectBrandRef.current.value = props.merk;
-    }
-
-    if (selectTypeRef.current && props.type && props.type != "DEFAULT") {
-      setSelectedType(props.type);
-    }
-  }, [props.text, props.merk]);
-
-  React.useEffect(() => {
-    if (selectedType) {
-      selectTypeRef.current.value = selectedType;
-      changeType();
-    }
-  }, [selectedMerk]);
 
   return (
     <div className={styles.SearchbarContainer}>
@@ -91,7 +89,7 @@ export default function Searchbar(props) {
         <div className={styles.Searchbar}>
           <div className={styles.SearchbarFormWrapper}>
             {props.showButton ? (
-              <form method="GET" action="/reparaties">
+              <form method="GET" action="/onderdelen">
                 <input
                   type="text"
                   name="onderdeel"
@@ -137,7 +135,7 @@ export default function Searchbar(props) {
                 <option value="DEFAULT" disabled>
                   Selecteer merk
                 </option>
-                {props.MT.map((brand, key) => (
+                {props.MP.map((brand, key) => (
                   <option key={key} value={brand.id}>
                     {brand.naam}
                   </option>
@@ -149,18 +147,18 @@ export default function Searchbar(props) {
               <select
                 className={`select-search 
                 ${styles.SearchbarInput} 
-                ${types.length === 0 ? "select-disabled" : "hover"}`}
-                ref={selectTypeRef}
+                ${parts.length === 0 ? "select-disabled" : "hover"}`}
+                ref={selectPartRef}
                 defaultValue={"DEFAULT"}
-                disabled={types.length === 0}
-                onChange={(e) => changeType(e.target.value)}
+                disabled={parts.length === 0}
+                onChange={(e) => changePart(e.target.value)}
               >
                 <option value="DEFAULT" disabled>
                   Selecteer onderdeel
                 </option>
-                {types.map((type, key) => (
-                  <option key={key} value={type.id}>
-                    {type.naam}
+                {parts.map((part, key) => (
+                  <option key={key} value={part.id}>
+                    {part.naam}
                   </option>
                 ))}
               </select>
@@ -171,15 +169,17 @@ export default function Searchbar(props) {
             <button
               className={`${styles.SearchbarClear} hover`}
               onClick={() => {
-                setTypes([]);
+                setParts([]);
 
                 inputRef.current.value = "";
                 selectBrandRef.current.value = "DEFAULT";
-                setSelectedType(null);
-                selectTypeRef.current.value = "DEFAULT";
+                selectPartRef.current.value = "DEFAULT";
+                setSelectedMerk(null);
+                setSelectedPart(null);
 
                 setBarWidth(0);
                 handleInputChange();
+                updateModules();
               }}
               aria-label="Selectie wissen"
             >
@@ -209,10 +209,13 @@ export default function Searchbar(props) {
               backgroundColor={Colors.RED}
               color={Colors.WHITE}
               style={{ alignSelf: "center" }}
-              href={`/reparaties?
-              onderdeel=${inputRef.current?.value ?? "DEFAULT"}
-              &merk=${selectBrandRef.current?.value ?? "DEFAULT"}
-              &type=${selectTypeRef.current?.value ?? "DEFAULT"}`}
+              href={`/onderdelen?${
+                inputRef.current?.value && inputRef.current.value != ""
+                  ? `onderdeel=${inputRef.current.value}&`
+                  : ""
+              }merk=${selectedMerk ?? "DEFAULT"}&part=${
+                selectedPart ?? "DEFAULT"
+              }`}
             />
           </div>
         )}

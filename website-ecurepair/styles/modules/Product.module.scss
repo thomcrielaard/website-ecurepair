@@ -1,6 +1,6 @@
 @import "@/styles/_config";
 
-.AbsDescriptionContainer {
+.ProductContainer {
   display: flex;
   justify-content: space-evenly;
   gap: 30px;
@@ -17,7 +17,7 @@
   }
 }
 
-.AbsDescriptionSideContainer {
+.ProductSideContainer {
   width: 40%;
 
   @include xl {
@@ -33,29 +33,29 @@
   }
 }
 
-.AbsDescriptionTextContainer {
+.ProductTextContainer {
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
 
-.AbsDescriptionImageWrapper {
+.ProductImageWrapper {
   position: relative;
   width: 100%;
   aspect-ratio: 1/1;
 }
 
-.AbsDescriptionImage {
+.ProductImage {
   object-fit: cover;
   border: 1px solid colors(GRAY);
 }
 
-.AbsDescriptionTitleWrapper {
+.ProductTitleWrapper {
   display: flex;
   gap: 10px;
 }
 
-.AbsDescriptionQuicklink {
+.ProductQuicklink {
   font-family: "poppins";
   font-weight: 500;
   font-style: italic;
@@ -63,7 +63,7 @@
   text-decoration: underline;
 }
 
-.AbsDescriptionPriceWrapper {
+.ProductPriceWrapper {
   display: flex;
   align-items: center;
   gap: 10px;
@@ -75,12 +75,12 @@
   }
 }
 
-.AbsDescriptionPrice {
+.ProductPrice {
   font-size: 32px;
   color: colors(RED);
 }
 
-.AbsDescriptionErrorWrapper {
+.ProductErrorWrapper {
   display: flex;
   justify-content: space-between;
   margin-top: 15px;
@@ -88,17 +88,17 @@
   gap: 20px;
 }
 
-.AbsDescriptionError {
+.ProductError {
   font-size: 1.2em;
   line-height: 2em;
   display: block;
 
-  &.AbsDescriptionErrorLink {
+  &.ProductErrorLink {
     text-decoration: underline;
   }
 }
 
-.AbsDescriptionOldPrice {
+.ProductOldPrice {
   text-decoration: line-through;
   color: colors(GRAY);
   font-size: 26px;

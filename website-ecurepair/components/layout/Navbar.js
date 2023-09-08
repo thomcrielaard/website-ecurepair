@@ -15,6 +15,7 @@ import TextLink from "@/components/text/TextLink";
 
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import Background from "@/assets/img/navbar-bg.jpg";
+import Chevron from "@/assets/svg/Chevron";
 
 export default function Navbar(props) {
   const router = useRouter();
@@ -61,26 +62,47 @@ export default function Navbar(props) {
       >
         <div className={styles.NavbarWrapper}>
           <NavbarLink href="/" text="Home" active={router.pathname == "/"} />
+          <div className={styles.NavbarDropdownWrapper}>
+            <NavbarLink
+              href="/overons"
+              active={
+                router.pathname == "/overons" ||
+                router.pathname == "/dsg" ||
+                router.pathname == "/ecu-reparatie" ||
+                router.pathname == "/mechatronics" ||
+                router.pathname == "/mercedes-contactsloten" ||
+                router.pathname == "/tellerklokken"
+              }
+              text={
+                <div className={styles.NavbarDropdownButton}>
+                  Over ons <Chevron width={14} />
+                </div>
+              }
+            />
+            <div className={styles.NavbarDropdown}>
+              <NavbarLink href="/overons" text="Over ons" />
+              <NavbarLink href="/dsg" text="DSG" />
+              <NavbarLink href="/ecu-reparatie" text="ECU reparatie" />
+              <NavbarLink href="/mechatronics" text="Mechatronics" />
+              <NavbarLink
+                href="/mercedes-contactsloten"
+                text="Mercedes contactsloten"
+              />
+              <NavbarLink href="/tellerklokken" text="Tellerklokken" />
+            </div>
+          </div>
           <NavbarLink
-            href="/overons"
-            text="Over ons"
-            active={router.pathname == "/overons"}
-          />
-          <NavbarLink
-            href="/reparaties"
-            text="Reparaties"
+            href="/onderdelen"
+            text="Onderdelen"
             active={
-              router.pathname.includes("/reparaties") ||
+              router.pathname.includes("/onderdelen") ||
               router.pathname == "/reparatieformulier"
             }
           />
           <NavbarLink
-            href="/foutcodes"
+            href="/nieuws"
             text="Nieuws"
-            active={
-              router.pathname.includes("/foutcodes") ||
-              router.pathname.includes("/fouten/")
-            }
+            active={router.pathname.includes("/nieuws")}
           />
           <NavbarLink
             href="/contact"
@@ -102,14 +124,14 @@ export default function Navbar(props) {
               ${styles.NavbarSearchButton} 
               ${focusSearch && styles.FocusSearch}`}
               aria-label="Onderdeel zoeken"
-              href={`/reparaties?onderdeel=${inputRef?.current?.value}`}
+              href={`/onderdelen?onderdeel=${inputRef?.current?.value}`}
             >
               <MagnifyingGlass
                 className={styles.NavbarSearchIcon}
                 color={Colors.WHITE}
               />
             </Link>
-            <form method="GET" action="/reparaties">
+            <form method="GET" action="/onderdelen">
               <input
                 ref={inputRef}
                 name="onderdeel"
@@ -128,6 +150,7 @@ export default function Navbar(props) {
 
 function MobileNavExpanded(props) {
   const router = useRouter();
+  const [dropdown, setDropdown] = React.useState(false);
 
   return (
     <>
@@ -138,15 +161,34 @@ function MobileNavExpanded(props) {
       >
         <div className={styles.NavbarMobileNavWrapper}>
           <NavbarLink href="/" text="Home" active={router.pathname == "/"} />
+          <button
+            href="#"
+            onClick={() => setDropdown(!dropdown)}
+            className={`${styles.NavbarDropdownButtonMobile} ${styles.NavbarLink}`}
+          >
+            <div className={styles.NavbarDropdownButton}>
+              Over ons <Chevron width={14} />
+            </div>
+          </button>
+          <div
+            className={`${styles.NavbarDropdownMobile} ${
+              dropdown ? styles.NavbarDropdownActive : ""
+            }`}
+          >
+            <NavbarLink href="/overons" text="Over ons" />
+            <NavbarLink href="/dsg" text="DSG" />
+            <NavbarLink href="/ecu-reparatie" text="ECU reparatie" />
+            <NavbarLink href="/mechatronics" text="Mechatronics" />
+            <NavbarLink
+              href="/mercedes-contactsloten"
+              text="Mercedes contactsloten"
+            />
+            <NavbarLink href="/tellerklokken" text="Tellerklokken" />
+          </div>
           <NavbarLink
-            href="/overons"
-            text="Over ons"
-            active={router.pathname == "/overons"}
-          />
-          <NavbarLink
-            href="/reparaties"
-            text="Reparaties"
-            active={router.pathname.includes("/reparaties")}
+            href="/onderdelen"
+            text="Onderdelen"
+            active={router.pathname.includes("/onderdelen")}
           />
           <NavbarLink
             href="/foutcodes"

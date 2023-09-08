@@ -1,6 +1,6 @@
 @import "@/styles/_config";
 
-.ProductCardsContainer {
+.ItemCardsContainer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   width: 100%;
@@ -18,7 +18,7 @@
   }
 }
 
-.ProductCard {
+.ItemCard {
   width: 100%;
   align-self: stretch;
   box-shadow: 0px 0px 10px 0px colors(BLACK, 0.15);
@@ -26,7 +26,7 @@
   flex-direction: column;
 }
 
-.ProductCardImageWrapper {
+.ItemCardImageWrapper {
   width: 100%;
   position: relative;
   aspect-ratio: 5/3;
@@ -36,7 +36,7 @@
   }
 }
 
-.ProductCardTextWrapper {
+.ItemCardTextWrapper {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -45,44 +45,44 @@
   flex-grow: 1;
 }
 
-.ProductCardText {
+.ItemCardText {
   margin: 12px 0 0 0;
   font-size: 15px !important;
   color: colors(LIGHTGRAY);
 }
 
-.ProductCardBottomWrapper {
+.ItemCardBottomWrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 10px;
 }
 
-.ProductCardPriceWrapper {
+.ItemCardPriceWrapper {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
   gap: 4px;
 }
 
-.ProductCardPrice,
-.ProductCardDiscountPrice {
+.ItemCardPrice,
+.ItemCardDiscountPrice {
   font-family: "lato";
   font-weight: 600;
 }
 
-.ProductCardPrice {
+.ItemCardPrice {
   font-size: 16px;
   color: colors(RED);
 }
 
-.ProductCardDiscountPrice {
+.ItemCardDiscountPrice {
   text-decoration: line-through;
   color: colors(GRAY);
   font-size: 14px;
 }
 
-.ProductCardButtonWrapper {
+.ItemCardButtonWrapper {
   width: 100%;
   margin-top: 40px;
   display: flex;

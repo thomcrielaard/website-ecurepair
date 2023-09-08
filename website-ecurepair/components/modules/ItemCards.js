@@ -1,7 +1,7 @@
 import * as React from "react";
 import Image from "next/image";
 
-import styles from "@/styles/modules/ProductCards.module.scss";
+import styles from "@/styles/modules/ItemCards.module.scss";
 
 import UseDimensions from "@/services/UseDimensions";
 import Breakpoints from "@/styles/Breakpoints";
@@ -16,7 +16,7 @@ import { API_URL } from "@/pages/_app";
 import ReactPaginate from "react-paginate";
 import Chevron from "@/assets/svg/Chevron";
 
-export default function ProductCards(props) {
+export default function ItemCards(props) {
   const size = UseDimensions();
   const itemsPerPage = 8;
 
@@ -45,13 +45,13 @@ export default function ProductCards(props) {
           slim
         />
       )}
-      <div className={styles.ProductCardsContainer}>
+      <div className={styles.ItemCardsContainer}>
         {currentItems
           .slice(0, props.short ? 4 : props.items.length)
           .map((item, key) => (
-            <div key={key} className={styles.ProductCard}>
+            <div key={key} className={styles.ItemCard}>
               <div
-                className={`${styles.ProductCardImageWrapper} 
+                className={`${styles.ItemCardImageWrapper} 
                 ${props.square && styles.square}`}
               >
                 <Image
@@ -59,18 +59,16 @@ export default function ProductCards(props) {
                   placeholder="blur"
                   blurDataURL={BlurDataUrl}
                   src={
-                    item.attributes.type
-                      ? API_URL +
-                        item.attributes.type.data.attributes.afbeelding.data
-                          .attributes.url
-                      : API_URL + item.attributes.afbeelding.data.attributes.url
+                    item.attributes.afbeelding
+                      ? API_URL + item.attributes.afbeelding.data.attributes.url
+                      : API_URL + item.attributes.omslagfoto.data.attributes.url
                   }
                   alt={item.attributes.onderdeelnummer ?? item.attributes.titel}
                   fill
                   style={{ objectFit: "cover" }}
                 />
               </div>
-              <div className={styles.ProductCardTextWrapper}>
+              <div className={styles.ItemCardTextWrapper}>
                 <div>
                   <Title
                     text={
@@ -81,17 +79,17 @@ export default function ProductCards(props) {
                   />
                   <Text
                     text={item.attributes.samenvatting}
-                    className={styles.ProductCardText}
+                    className={styles.ItemCardText}
                     align="left"
                   />
                 </div>
-                <div className={styles.ProductCardBottomWrapper}>
+                <div className={styles.ItemCardBottomWrapper}>
                   <Button
                     text="MEER LEZEN"
                     href={
                       item.attributes.onderdeelnummer != undefined
-                        ? `/reparaties/${item.attributes.onderdeelnummer}`
-                        : `/fouten/${item.attributes.titel}`
+                        ? `/onderdelen/${item.attributes.onderdeelnummer}`
+                        : `/nieuws/${item.attributes.titel}`
                     }
                     color={Colors.GRAY}
                     hoverColor={Colors.RED}
@@ -100,18 +98,18 @@ export default function ProductCards(props) {
                     small
                   />
                   {props.price && (
-                    <div className={styles.ProductCardPriceWrapper}>
+                    <div className={styles.ItemCardPriceWrapper}>
                       <span
                         className={
                           props.discount.ingeschakeld
-                            ? styles.ProductCardDiscountPrice
-                            : styles.ProductCardPrice
+                            ? styles.ItemCardDiscountPrice
+                            : styles.ItemCardPrice
                         }
                       >
                         €{Number(item.attributes.prijs).toFixed(2)}
                       </span>
                       {props.discount.ingeschakeld && (
-                        <span className={styles.ProductCardPrice}>
+                        <span className={styles.ItemCardPrice}>
                           €
                           {Number(
                             item.attributes.prijs -
@@ -128,7 +126,7 @@ export default function ProductCards(props) {
           ))}
       </div>
       {props.buttonText && (
-        <div className={styles.ProductCardButtonWrapper}>
+        <div className={styles.ItemCardButtonWrapper}>
           <Button
             text={props.buttonText}
             href={props.buttonLink}

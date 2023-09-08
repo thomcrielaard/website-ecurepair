@@ -232,3 +232,78 @@
     width: 14px;
   }
 }
+
+.NavbarDropdownButton {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+
+  path {
+    fill: colors(WHITE);
+    transition: fill 0.3s ease-in-out;
+  }
+
+  &:hover path {
+    fill: colors(RED);
+  }
+}
+
+.NavbarDropdown {
+  display: flex;
+  opacity: 0;
+  pointer-events: none;
+  position: absolute;
+  flex-direction: column;
+  gap: 10px;
+  background-color: colors(DARKGRAY, 0.985);
+  top: 85px;
+  margin-left: -30px;
+  transition: all 0.3s ease-in-out;
+  padding: 20px 30px 25px 30px;
+}
+
+.ShowNavbar .NavbarDropdown {
+  top: 106px !important;
+  padding: 10px 30px 25px 30px;
+}
+
+.NavbarDropdownWrapper {
+  height: 106px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.NavbarDropdownWrapper:hover .NavbarDropdown {
+  opacity: 1; /* Makes it visible */
+  pointer-events: all; /* Makes it interactive */
+}
+
+.NavbarDropdownButtonMobile {
+  background: transparent;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  transition: all 0.3s ease-in-out;
+}
+
+.NavbarDropdownButtonMobile:hover {
+  color: colors(RED);
+  cursor: pointer;
+}
+
+.NavbarDropdownMobile {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 0 20px;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+  margin-top: -20px;
+  margin-bottom: -10px;
+
+  &.NavbarDropdownActive {
+    max-height: 270px;
+  }
+}

@@ -10,9 +10,8 @@ import Footer from "@/components/layout/Footer";
 
 import Searchbar from "@/components/modules/Searchbar";
 import BigBanner from "@/components/modules/BigBanner";
-import ProductCards from "@/components/modules/ProductCards";
+import ItemCards from "@/components/modules/ItemCards";
 import ParallexBanner from "@/components/modules/ParallexBanner";
-import ErrorCodes from "@/components/modules/ErrorCodes";
 import Cards from "@/components/modules/Cards";
 
 import Title from "@/components/text/Title";
@@ -20,13 +19,9 @@ import Text from "@/components/text/Text";
 
 import shuffleArray from "@/services/ShuffleArray";
 
-export default function Home({
-  popularBrands,
-  modules,
-  merkType,
-  types,
-  discount,
-}) {
+export default function Home({ products, merkPart, discount, news }) {
+  console.log(merkPart);
+
   return (
     <>
       <Head>
@@ -39,7 +34,7 @@ export default function Home({
 
       <Navbar transparent />
 
-      <BigBanner MT={merkType} types={types} showButton />
+      <BigBanner MP={merkPart} />
 
       <Cards />
 
@@ -50,17 +45,17 @@ export default function Home({
           align="center"
           slim
         />
-        {/* <Searchbar MT={merkType} types={types} showButton />
-        <ProductCards
-          items={modules}
-          buttonText="ALLE MODELLEN"
-          buttonLink="/reparaties"
+        <Searchbar MP={merkPart} showButton />
+        <ItemCards
+          items={products}
+          buttonText="ALLE ONDERDELEN"
+          buttonLink="/onderdelen"
           discount={discount}
           square
           button
           price
           short
-        /> */}
+        />
       </Container>
 
       <ParallexBanner />
@@ -72,7 +67,12 @@ export default function Home({
           text="Duik dieper in de fascinerende wereld van auto-elektronica. Van handige tips tot het laatste nieuws, lees hier onze nieuwste artikelen en blijf geïnformeerd."
           slim
         />
-        {/* <ErrorCodes codes={popularBrands} /> */}
+        <ItemCards
+          items={news}
+          buttonText="ALLE BERICHTEN"
+          buttonLink="/nieuws"
+          short
+        />
       </Container>
 
       <Footer />
@@ -80,85 +80,58 @@ export default function Home({
   );
 }
 
-// export async function getStaticProps() {
-//   const { data: discountData } = await Axios.get(`${API_URL}/api/korting`);
+export async function getStaticProps() {
+  // Get discount
+  const { data: discountData } = await Axios.get(`${API_URL}/api/korting`);
 
-//   const discount = discountData.data.attributes;
+  const discount = discountData.data.attributes;
 
-//   // Get all foutomschrijvings
-//   const { data: brandsData } = await Axios.get(
-//     `${API_URL}/api/merks?&populate=foutcodes.foutomschrijving.afbeelding&sort=naam`
-//   );
-//   const allBrands = brandsData.data; // navigate to the 'data' field in the response
+  // Get all products
+  const { data: productsData } = await Axios.get(
+    `${API_URL}/api/products?populate=afbeelding`
+  );
 
-//   const popularBrands = allBrands
-//     .map((brand) => {
-//       // Get array of types
-//       const foutomschrijvings = brand.attributes.foutcodes.data
-//         .filter(
-//           (code) =>
-//             code.attributes.foutomschrijving.data &&
-//             code.attributes.foutomschrijving.data.attributes.homepagina
-//         ) // filter out if foutomschrijving does not exist
-//         .map((code) => ({
-//           id: code.attributes.foutomschrijving.data.id,
-//           attributes: code.attributes.foutomschrijving.data.attributes,
-//         }))
-//         // Remove duplicates based on 'title' property
-//         .filter(
-//           (value, index, self) =>
-//             index === self.findIndex((t) => t.id === value.id)
-//         );
+  const allProducts = productsData.data;
 
-//       if (!foutomschrijvings.length) {
-//         return null;
-//       }
+  const products = shuffleArray(allProducts);
 
-//       // Deconstruct merk attributes, exclude abs_modules and return with types and merk id
-//       const { foutcodes, ...otherAttributes } = brand.attributes;
-//       return { id: brand.id, ...otherAttributes, foutomschrijvings };
-//     })
-//     .filter(Boolean);
+  // Get all brands, models and types
+  const res = await Axios.get(
+    `${API_URL}/api/merks?populate=products.onderdeel&sort[0]=naam:asc`
+  );
+  const merksData = res.data.data; // navigate to the 'data' field in the response
 
-//   // Get all ABS modules
-//   const { data: modulesData } = await Axios.get(
-//     `${API_URL}/api/abs-modules?populate=type.afbeelding`
-//   );
+  const merkPart = merksData.map((merk) => {
+    // Get array of parts
+    const parts = merk.attributes.products.data
+      .map((part) => ({
+        id: part.attributes.onderdeel.data.id,
+        naam: part.attributes.onderdeel.data.attributes.naam,
+      }))
+      // Remove duplicates based on 'naam' property
+      .filter(
+        (value, index, self) =>
+          index === self.findIndex((t) => t.naam === value.naam)
+      );
 
-//   const allModules = modulesData.data;
+    // Deconstruct merk attributes, exclude parts and return with parts and merk id
+    const { onderdeels, ...otherAttributes } = merk.attributes;
+    return { id: merk.id, ...otherAttributes, parts };
+  });
 
-//   const modules = shuffleArray(allModules);
+  // Get all nieuwsberichten
+  const { data: newsData } = await Axios.get(
+    `${API_URL}/api/nieuwsberichts?populate=omslagfoto&sort=id:desc`
+  );
 
-//   // Get all brands, models and types
-//   const res = await Axios.get(
-//     `${API_URL}/api/merks?populate=abs_modules,abs_modules.type&sort[0]=naam:asc`
-//   );
-//   const merksData = res.data.data; // navigate to the 'data' field in the response
+  const news = newsData.data;
 
-//   const merkType = merksData.map((merk) => {
-//     // Get array of types
-//     const types = merk.attributes.abs_modules.data
-//       .map((module) => ({
-//         id: module.attributes.type.data.id,
-//         naam: module.attributes.type.data.attributes.naam,
-//       }))
-//       // Remove duplicates based on 'naam' property
-//       .filter(
-//         (value, index, self) =>
-//           index === self.findIndex((t) => t.naam === value.naam)
-//       );
-
-//     // Deconstruct merk attributes, exclude abs_modules and return with types and merk id
-//     const { abs_modules, ...otherAttributes } = merk.attributes;
-//     return { id: merk.id, ...otherAttributes, types };
-//   });
-
-//   return {
-//     props: {
-//       popularBrands,
-//       modules,
-//       merkType,
-//       discount,
-//     },
-//   };
-// }
+  return {
+    props: {
+      merkPart,
+      products,
+      discount,
+      news,
+    },
+  };
+}
