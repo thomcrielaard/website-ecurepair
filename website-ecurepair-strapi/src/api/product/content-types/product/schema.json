@@ -18,13 +18,16 @@
       "unique": true
     },
     "samenvatting": {
-      "type": "text"
+      "type": "text",
+      "required": true
     },
     "prijs": {
-      "type": "decimal"
+      "type": "decimal",
+      "required": true
     },
     "omschrijving": {
-      "type": "richtext"
+      "type": "richtext",
+      "required": true
     },
     "onderdeel": {
       "type": "relation",
@@ -35,7 +38,7 @@
     "afbeelding": {
       "type": "media",
       "multiple": false,
-      "required": false,
+      "required": true,
       "allowedTypes": [
         "images",
         "files",
