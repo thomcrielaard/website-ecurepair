@@ -133,5 +133,6 @@ export async function getStaticProps() {
       discount,
       news,
     },
+    revalidate: 10,
   };
 }
