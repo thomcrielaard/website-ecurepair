@@ -40,42 +40,6 @@ export default function Nieuwsberichten({ items }) {
         <ItemCards items={items} />
       </Container>
 
-      {/* <Container id="search">
-        <Title text="VIND JOUW MODEL" size="lg" align="center" />
-        <Text
-          text="Zoek uw specifieke ABS pomp model op onze website. Voer eenvoudig het onderdeelnummer van uw ABS pomp in of zoek op uw model auto en ontdek de reparatiekosten. Wij bieden reparaties voor diverse automerken en modellen."
-          align="center"
-          slim
-        />
-        <Searchbar
-          MT={merkType}
-          text={searchText}
-          merk={searchMerk}
-          type={searchType}
-          updateModules={(text, merk, type) => updateModules(text, merk, type)}
-        />
-        <div
-          style={{ display: "flex", justifyContent: "center", width: "100%" }}
-        >
-          <Button
-            text="REPARATIEFORMULIER"
-            color={Colors.GRAY}
-            borderColor={Colors.GRAY}
-            hoverColor={Colors.RED}
-            hoverBorderColor={Colors.RED}
-            style={{ marginTop: 30 }}
-            href="/reparatieformulier"
-            target="_blank"
-          />
-        </div>
-        <ItemCards
-          items={filteredModules}
-          discount={discount}
-          square
-          price
-        />
-      </Container> */}
-
       <Footer />
     </>
   );
@@ -93,5 +57,6 @@ export async function getStaticProps() {
     props: {
       items,
     },
+    revalidate: 10,
   };
 }

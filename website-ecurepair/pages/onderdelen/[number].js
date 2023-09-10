@@ -60,6 +60,7 @@ export async function getStaticProps(context) {
       product,
       discount,
     },
+    revalidate: 10,
   };
 }
 

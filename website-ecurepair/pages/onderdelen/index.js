@@ -169,5 +169,6 @@ export async function getStaticProps() {
       discount,
       initialParts,
     },
+    revalidate: 10,
   };
 }
