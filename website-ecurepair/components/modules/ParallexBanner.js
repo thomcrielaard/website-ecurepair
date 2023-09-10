@@ -12,16 +12,14 @@ import Title from "@/components/text/Title";
 
 import Button from "@/components/modules/Button";
 
-import Banner from "@/assets/img/parallex.jpg";
-
-export default function ParallexBanner() {
+export default function ParallexBanner(props) {
   return (
     <>
       <div className={styles.ParallexBannerContainer}>
         <div className={styles.ParallexBannerOverlay} />
         <Image
           style={{ zIndex: -1, objectFit: "cover" }}
-          src={Banner}
+          src={props.image}
           alt={"Banner"}
           placeholder="blur"
           sizes="100vw"
@@ -31,25 +29,20 @@ export default function ParallexBanner() {
         <Container paddingVert={0} style={{ zIndex: 1, position: "relative" }}>
           <div className={styles.ParallexBannerWrapper}>
             <Title
-              text="WAT WIJ DOEN"
+              text={props.title}
               color={Colors.WHITE}
               size="xl"
               align="center"
             />
 
-            <Text
-              text="Bij ECU Repair staan we voor toonaangevende expertise in auto-onderdeel reparaties. Of het nu gaat om ECU's, tellerklokken, mechatronics of Mercedes contactsloten, ons team van deskundige monteurs heeft de ervaring en kennis om u te helpen. Onze klantgerichte benadering garandeert tevredenheid bij elke service."
-              color={Colors.WHITE}
-              align="center"
-              slim
-            />
+            <Text text={props.text} color={Colors.WHITE} align="center" slim />
 
             <Button
-              text="MEER OVER ONS"
+              text={props.buttonText}
               backgroundColor={Colors.WHITE}
               color={Colors.GRAY}
               hoverColor={Colors.RED}
-              href="/overons"
+              href={props.url}
             />
           </div>
         </Container>

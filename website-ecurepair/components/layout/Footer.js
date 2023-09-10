@@ -65,9 +65,9 @@ export default function Footer() {
                   bar={router.pathname == "/overons"}
                 />
                 <FooterLink
-                  text="DSG"
-                  href="/dsg"
-                  bar={router.pathname == "/dsg"}
+                  text="DSG reparatie"
+                  href="/dsg-reparatie"
+                  bar={router.pathname == "/dsg-reparatie"}
                 />
                 <FooterLink
                   text="ECU reparatie"

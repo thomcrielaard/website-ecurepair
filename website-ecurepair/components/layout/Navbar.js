@@ -67,7 +67,7 @@ export default function Navbar(props) {
               href="/overons"
               active={
                 router.pathname == "/overons" ||
-                router.pathname == "/dsg" ||
+                router.pathname == "/dsg-reparatie" ||
                 router.pathname == "/ecu-reparatie" ||
                 router.pathname == "/mechatronics" ||
                 router.pathname == "/mercedes-contactsloten" ||
@@ -81,7 +81,7 @@ export default function Navbar(props) {
             />
             <div className={styles.NavbarDropdown}>
               <NavbarLink href="/overons" text="Over ons" />
-              <NavbarLink href="/dsg" text="DSG" />
+              <NavbarLink href="/dsg-reparatie" text="DSG reparatie" />
               <NavbarLink href="/ecu-reparatie" text="ECU reparatie" />
               <NavbarLink href="/mechatronics" text="Mechatronics" />
               <NavbarLink
@@ -176,7 +176,7 @@ function MobileNavExpanded(props) {
             }`}
           >
             <NavbarLink href="/overons" text="Over ons" />
-            <NavbarLink href="/dsg" text="DSG" />
+            <NavbarLink href="/dsg-reparatie" text="DSG reparatie" />
             <NavbarLink href="/ecu-reparatie" text="ECU reparatie" />
             <NavbarLink href="/mechatronics" text="Mechatronics" />
             <NavbarLink

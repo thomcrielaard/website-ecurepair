@@ -19,6 +19,8 @@ import Text from "@/components/text/Text";
 
 import shuffleArray from "@/services/ShuffleArray";
 
+import Banner from "@/assets/img/parallex.jpg";
+
 export default function Home({ products, merkPart, discount, news }) {
   console.log(merkPart);
 
@@ -58,7 +60,15 @@ export default function Home({ products, merkPart, discount, news }) {
         />
       </Container>
 
-      <ParallexBanner />
+      <ParallexBanner
+        image={Banner}
+        title={"WAT WIJ DOEN"}
+        text={
+          "Bij ECU Repair staan we voor toonaangevende expertise in auto-onderdeel reparaties. Of het nu gaat om ECU's, tellerklokken, mechatronics of Mercedes contactsloten, ons team van deskundige monteurs heeft de ervaring en kennis om u te helpen. Onze klantgerichte benadering garandeert tevredenheid bij elke service."
+        }
+        buttonText={"MEER OVER ONS"}
+        buttonLink={"/overons"}
+      />
 
       <Container style={{ marginTop: "4rem" }}>
         <Title text="NIEUWS & UPDATES" size="lg" align="center" underline />
