@@ -22,8 +22,6 @@ import shuffleArray from "@/services/ShuffleArray";
 import Banner from "@/assets/img/parallex.jpg";
 
 export default function Home({ products, merkPart, discount, news }) {
-  console.log(merkPart);
-
   return (
     <>
       <Head>

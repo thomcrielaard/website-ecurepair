@@ -36,7 +36,6 @@ export default function Searchbar(props) {
       setSelectedPart(props.part);
       changePart();
       selectPartRef.current.value = props.part;
-      console.log(selectPartRef.current.value);
     }
     updateModules();
   }, [props.text, props.merk, props.part]);

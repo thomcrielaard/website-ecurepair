@@ -18,8 +18,6 @@ import TextLink from "../text/TextLink";
 import Chevron from "@/assets/svg/Chevron";
 
 export default function Product(props) {
-  console.log(props.product.merks);
-
   return (
     <div className={styles.ProductContainer}>
       <div className={styles.ProductSideContainer}>
