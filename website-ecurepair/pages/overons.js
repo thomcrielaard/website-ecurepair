@@ -31,7 +31,7 @@ export default function OverOns() {
         <title>ECU Repair &#8211; Over ons</title>
         <meta
           name="description"
-          content="Bij ABS Pomp Specialist zijn we trots op onze toewijding aan uitmuntendheid en klanttevredenheid. Als toonaangevende expert op het gebied van ABS pomp reparatie en revisie, hebben we een team van ervaren monteurs die altijd klaar staan om u te helpen."
+          content="ECU Repair: Experts in auto-elektronica sinds 2008. Gedreven door passie en expertise, leveren wij topkwaliteit reparaties en onderhoud voor uw voertuig. Ontdek ons verhaal."
         />
       </Head>
 

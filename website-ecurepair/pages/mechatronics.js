@@ -30,7 +30,7 @@ export default function Mechatronics() {
         <title>ECU Repair &#8211; Mechatronics</title>
         <meta
           name="description"
-          content="Bij ABS Pomp Specialist zijn we trots op onze toewijding aan uitmuntendheid en klanttevredenheid. Als toonaangevende expert op het gebied van ABS pomp reparatie en revisie, hebben we een team van ervaren monteurs die altijd klaar staan om u te helpen."
+          content="ECU Repair: Specialist in Mechatronic reparaties. Bij schakelproblemen, 'sleutel'-symbool of foutcodes P17BF/P189C, bieden wij snelle diagnose & oplossingen."
         />
       </Head>
 

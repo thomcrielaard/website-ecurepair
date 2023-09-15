@@ -30,7 +30,7 @@ export default function DsgReparatie() {
         <title>ECU Repair &#8211; DSG reparatie</title>
         <meta
           name="description"
-          content="Bij ABS Pomp Specialist zijn we trots op onze toewijding aan uitmuntendheid en klanttevredenheid. Als toonaangevende expert op het gebied van ABS pomp reparatie en revisie, hebben we een team van ervaren monteurs die altijd klaar staan om u te helpen."
+          content="ECU Repair is dé DSG expert met 15+ jaar ervaring. Van revisie tot reparatie en vervanging van DSG-6 en DSG-7. Betrouwbare service voor alle DSG problemen."
         />
       </Head>
 

@@ -30,7 +30,7 @@ export default function EcuReparatie() {
         <title>ECU Repair &#8211; ECU reparatie</title>
         <meta
           name="description"
-          content="Bij ABS Pomp Specialist zijn we trots op onze toewijding aan uitmuntendheid en klanttevredenheid. Als toonaangevende expert op het gebied van ABS pomp reparatie en revisie, hebben we een team van ervaren monteurs die altijd klaar staan om u te helpen."
+          content="Specialisten in ECU reparatie, revisie & diagnose. Expertise met het ELTECH testplatform voor accurate ECU analyses. Van startproblemen tot complexe ECU defecten."
         />
       </Head>
 

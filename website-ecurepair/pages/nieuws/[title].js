@@ -12,7 +12,7 @@ function Item({ item }) {
   return (
     <>
       <Head>
-        <title>{`ABS Pomp Specialist \u2013 ${item.attributes.titel}`}</title>
+        <title>{`ECU Repair \u2013 ${item.attributes.titel}`}</title>
         <meta name="description" content={item.attributes.samenvatting} />
       </Head>
 

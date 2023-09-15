@@ -16,7 +16,7 @@ export default function Reparatieformulier() {
         <title>ECU Repair &#8211; Reparatieformulier</title>
         <meta
           name="description"
-          content="ABS Pomp Specialist is een toonaangevende expert op het gebied van ABS pomp reparatie en revisie. Wij bieden een snelle, efficiënte en hoogwaardige service voor al uw ABS gerelateerde problemen. Ons team van ervaren monteurs staat altijd klaar om u te helpen. Uw veiligheid en tevredenheid zijn onze topprioriteiten."
+          content="Vul het Reparatieformulier in met uw autogegevens en beschrijf het probleem. Wij nemen spoedig contact op om uw auto-elektronica issue te adresseren."
         />
       </Head>
 
