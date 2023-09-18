@@ -88,8 +88,11 @@ export default function ItemCards(props) {
                     text="MEER LEZEN"
                     href={
                       item.attributes.onderdeelnummer != undefined
-                        ? `/onderdelen/${item.attributes.onderdeelnummer}`
-                        : `/nieuws/${item.attributes.titel}`
+                        ? `/onderdelen/${item.attributes.onderdeelnummer.replace(
+                            " ",
+                            "%20"
+                          )}`
+                        : `/nieuws/${item.attributes.titel.replace(" ", "%20")}`
                     }
                     color={Colors.GRAY}
                     hoverColor={Colors.RED}

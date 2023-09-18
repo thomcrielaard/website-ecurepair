@@ -38,8 +38,8 @@ export default function Product(props) {
       >
         <Title text={props.product.onderdeelnummer} size="lg" />
         <div className={styles.ProductTitleWrapper}>
-          {props.product.merks.data.map((brand) => (
-            <>
+          {props.product.merks.data.map((brand, key) => (
+            <React.Fragment key={key}>
               <Link
                 className={styles.ProductQuicklink}
                 href={`/onderdelen?merk=${brand.id}`}
@@ -57,7 +57,7 @@ export default function Product(props) {
               >
                 {props.product.onderdeel.data.attributes.naam}
               </Link>
-            </>
+            </React.Fragment>
           ))}
         </div>
         <div className={styles.ProductPriceWrapper}>
@@ -80,34 +80,6 @@ export default function Product(props) {
           <ReactMarkdown>{props.product.omschrijving}</ReactMarkdown>
         </div>
         <div className={styles.ProductErrorWrapper}>
-          {/* 
-          {props.product.merk.data.attributes.foutcodes.data.length > 0 && (
-            <div>
-              <Title
-                text="MOGELIJKE FOUTCODES"
-                size="xs"
-                style={{ marginBottom: 10 }}
-              />
-              {props.product.merk.data.attributes.foutcodes.data.map(
-                (foutcode) => {
-                  if (foutcode.attributes.foutomschrijving.data != null)
-                    return (
-                      <TextLink
-                        href={`/fouten/${foutcode.attributes.foutomschrijving.data.attributes.titel}`}
-                        text={foutcode.attributes.foutcode}
-                        className={`${styles.ProductError} ${styles.ProductErrorLink}`}
-                      />
-                    );
-                  else
-                    return (
-                      <span className={styles.ProductError}>
-                        {foutcode.attributes.foutcode}
-                      </span>
-                    );
-                }
-              )}
-            </div>
-          )} */}
           <div style={{ alignSelf: "flex-end" }}>
             <Button
               text={"REPARATIEFORMULIER"}
