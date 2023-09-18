@@ -24,8 +24,6 @@ const filterModules = (modules, text, merk, part) => {
     samenvatting = samenvatting.toLowerCase();
     onderdeelnummer = onderdeelnummer.toLowerCase();
 
-    console.log(item);
-
     if (part && part != "DEFAULT" && item.attributes.onderdeel.data?.id != part)
       return false;
     else if (
