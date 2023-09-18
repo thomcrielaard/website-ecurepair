@@ -30,6 +30,8 @@ export default function Searchbar(props) {
       setSelectedMerk(props.merk);
       changeMerk(props.merk, props.part);
       selectBrandRef.current.value = props.merk;
+    } else {
+      setParts([]);
     }
 
     if (selectPartRef.current && props.part && props.part != "DEFAULT") {
@@ -212,8 +214,8 @@ export default function Searchbar(props) {
                 inputRef.current?.value && inputRef.current.value != ""
                   ? `onderdeel=${inputRef.current.value}&`
                   : ""
-              }merk=${selectedMerk ?? "DEFAULT"}&part=${
-                selectedPart ?? "DEFAULT"
+              }merk=${selectBrandRef.current?.value ?? "DEFAULT"}&part=${
+                selectPartRef.current?.value ?? "DEFAULT"
               }`}
             />
           </div>
