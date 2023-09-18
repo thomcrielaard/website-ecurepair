@@ -19,7 +19,10 @@ import Colors from "@/styles/Colors";
 
 const filterModules = (modules, text, merk, part) => {
   const filteredModules = modules.filter((item) => {
-    const { omschrijving, samenvatting, onderdeelnummer } = item.attributes;
+    let { omschrijving, samenvatting, onderdeelnummer } = item.attributes;
+    omschrijving = omschrijving.toLowerCase();
+    samenvatting = samenvatting.toLowerCase();
+    onderdeelnummer = onderdeelnummer.toLowerCase();
 
     if (part && part != "DEFAULT" && item.attributes.onderdeel.data.id != part)
       return false;
@@ -33,10 +36,17 @@ const filterModules = (modules, text, merk, part) => {
     // Filter based on search text
     if (
       !text ||
-      omschrijving.includes(text) ||
-      samenvatting.includes(text) ||
+      omschrijving.includes(text.toLowerCase()) ||
+      samenvatting.includes(text.toLowerCase()) ||
       onderdeelnummer.includes(
-        text?.split(" ").join("").split("-").join("").split(".").join("")
+        text
+          ?.split(" ")
+          .join("")
+          .split("-")
+          .join("")
+          .split(".")
+          .join("")
+          .toLowerCase()
       )
     ) {
       return true;
