@@ -21,10 +21,6 @@
       "type": "text",
       "required": true
     },
-    "prijs": {
-      "type": "decimal",
-      "required": true
-    },
     "omschrijving": {
       "type": "richtext",
       "required": true
