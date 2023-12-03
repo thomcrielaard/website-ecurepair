@@ -58,12 +58,7 @@ const filterModules = (modules, text, merk, part) => {
   return filteredModules;
 };
 
-export default function Onderdelen({
-  products,
-  merkPart,
-  discount,
-  initialParts,
-}) {
+export default function Onderdelen({ products, merkPart, initialParts }) {
   const router = useRouter();
 
   const searchText = router.query.onderdeel;
@@ -118,7 +113,7 @@ export default function Onderdelen({
             target="_blank"
           />
         </div>
-        <ItemCards items={filteredModules} discount={discount} square price />
+        <ItemCards items={filteredModules} square />
       </Container>
 
       <Footer />
@@ -127,11 +122,6 @@ export default function Onderdelen({
 }
 
 export async function getStaticProps() {
-  // Get discount
-  const { data: discountData } = await Axios.get(`${API_URL}/api/korting`);
-
-  const discount = discountData.data.attributes;
-
   // Get all products
   const { data: productsData } = await Axios.get(
     `${API_URL}/api/products?populate=afbeelding,onderdeel,merks`
@@ -176,7 +166,6 @@ export async function getStaticProps() {
     props: {
       merkPart,
       products,
-      discount,
       initialParts,
     },
     revalidate: 10,

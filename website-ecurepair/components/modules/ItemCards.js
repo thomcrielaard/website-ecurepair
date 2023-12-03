@@ -100,7 +100,7 @@ export default function ItemCards(props) {
                     hoverBorderColor={Colors.RED}
                     small
                   />
-                  {props.price && (
+                  {/* {props.price && (
                     <div className={styles.ItemCardPriceWrapper}>
                       <span
                         className={
@@ -122,7 +122,7 @@ export default function ItemCards(props) {
                         </span>
                       )}
                     </div>
-                  )}
+                  )} */}
                 </div>
               </div>
             </div>

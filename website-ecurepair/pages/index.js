@@ -21,7 +21,7 @@ import shuffleArray from "@/services/ShuffleArray";
 
 import Banner from "@/assets/img/parallex.jpg";
 
-export default function Home({ products, merkPart, discount, news }) {
+export default function Home({ products, merkPart, news }) {
   return (
     <>
       <Head>
@@ -50,10 +50,8 @@ export default function Home({ products, merkPart, discount, news }) {
           items={products}
           buttonText="ALLE ONDERDELEN"
           buttonLink="/onderdelen"
-          discount={discount}
           square
           button
-          price
           short
         />
       </Container>
@@ -89,11 +87,6 @@ export default function Home({ products, merkPart, discount, news }) {
 }
 
 export async function getStaticProps() {
-  // Get discount
-  const { data: discountData } = await Axios.get(`${API_URL}/api/korting`);
-
-  const discount = discountData.data.attributes;
-
   // Get all products
   const { data: productsData } = await Axios.get(
     `${API_URL}/api/products?populate=afbeelding`
@@ -138,7 +131,6 @@ export async function getStaticProps() {
     props: {
       merkPart,
       products,
-      discount,
       news,
     },
     revalidate: 10,

@@ -60,7 +60,7 @@ export default function Product(props) {
             </React.Fragment>
           ))}
         </div>
-        <div className={styles.ProductPriceWrapper}>
+        {/* <div className={styles.ProductPriceWrapper}>
           <span className={styles.ProductPrice}>
             €
             {Number(
@@ -75,7 +75,7 @@ export default function Product(props) {
               €{Number(props.product.prijs).toFixed(2)}
             </span>
           )}
-        </div>
+        </div> */}
         <div className="content">
           <ReactMarkdown>{props.product.omschrijving}</ReactMarkdown>
         </div>

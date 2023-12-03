@@ -8,7 +8,7 @@ import Navbar from "@/components/layout/Navbar";
 import Container from "@/components/containers/Container";
 import Product from "@/components/modules/Product";
 
-function Error({ product, discount }) {
+function Error({ product }) {
   return (
     <>
       <Head>
@@ -19,7 +19,7 @@ function Error({ product, discount }) {
       <Navbar />
 
       <Container>
-        <Product product={product.attributes} discount={discount} />
+        <Product product={product.attributes} />
       </Container>
 
       <Footer />
@@ -45,10 +45,6 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps(context) {
-  const { data: discountData } = await Axios.get(`${API_URL}/api/korting`);
-
-  const discount = discountData.data.attributes;
-
   const { data } = await Axios.get(
     `${API_URL}/api/products?filters[onderdeelnummer][$eq]=${context.params.number}&populate=merks,onderdeel,afbeelding`
   );
@@ -58,7 +54,6 @@ export async function getStaticProps(context) {
   return {
     props: {
       product,
-      discount,
     },
     revalidate: 10,
   };
