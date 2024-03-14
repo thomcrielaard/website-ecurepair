@@ -24,11 +24,11 @@ export default function ContactInfo(props) {
       <div className={styles.ContactInfoWrapper}>
         <div style={{ maxWidth: 200 }}>
           <Title size="xs" text="OPENINGSTIJDEN" style={{ marginBottom: 10 }} />
-          <InfoRow left="Ma" right="9:00 - 18:00" />
-          <InfoRow left="Di" right="9:00 - 18:00" />
-          <InfoRow left="Wo" right="9:00 - 18:00" />
-          <InfoRow left="Do" right="9:00 - 18:00" />
-          <InfoRow left="Vrij" right="9:00 - 18:00" />
+          <InfoRow left="Ma" right="10:00 - 16:00" />
+          <InfoRow left="Di" right="10:00 - 16:00" />
+          <InfoRow left="Wo" right="10:00 - 16:00" />
+          <InfoRow left="Do" right="10:00 - 16:00" />
+          <InfoRow left="Vrij" right="10:00 - 16:00" />
           <InfoRow left="Zat" right="Gesloten" />
           <InfoRow left="Zon" right="Gesloten" />
         </div>
