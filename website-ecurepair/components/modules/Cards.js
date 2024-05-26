@@ -45,7 +45,7 @@ export default function Cards(props) {
             hoverColor={Colors.GRAY}
             backgroundColor={Colors.WHITE}
             text="NU BELLEN"
-            href="tel:+31262340042"
+            href="tel:+31850602759"
           />
         </div>
         <div className={styles.CardWrapper}>
@@ -69,7 +69,7 @@ export default function Cards(props) {
             hoverColor={Colors.RED}
             backgroundColor={Colors.WHITE}
             text="NU BELLEN"
-            href="tel:+31262340042"
+            href="tel:+31850602759"
           />
         </div>
       </Container>

@@ -66,8 +66,8 @@ export default function ContactInfo(props) {
             </div>
             <div className={styles.ContactInfoIconsRow}>
               <Phone width={14} color={Colors.GRAY} />
-              <Link className={styles.ContactInfoSpan} href="tel:+31262340042">
-                +31(0)26 2340042
+              <Link className={styles.ContactInfoSpan} href="tel:+31850602759">
+                +31(0)85 0602759
               </Link>
             </div>
           </div>
