@@ -1,3 +1,5 @@
+import CookieBanner from "@/components/modules/CookieBanner";
+import GoogleAnalytics from "@/components/modules/GoogleAnalytics";
 import "@/styles/globals.css";
 import "@/styles/pagination.css";
 import Head from "next/head";
@@ -14,7 +16,9 @@ export default function App({ Component, pageProps }) {
           preserveAspectRatio="xMidYMid meet"
         />
       </Head>
+      <GoogleAnalytics GA_MEASUREMENT_ID="G-LQZEPWRDLE" />
       <Component {...pageProps} />
+      <CookieBanner />
     </>
   );
 }

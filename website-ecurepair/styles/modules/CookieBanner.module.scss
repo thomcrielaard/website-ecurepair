@@ -1,0 +1,41 @@
+@import "@/styles/_config";
+
+.Banner {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: colors(GRAY);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 10px;
+  max-width: 400px;
+  gap: 10px;
+  box-shadow: 0px 0px 10px 5px #00000040;
+
+  @include xs {
+    max-width: initial;
+    width: 100%;
+  }
+}
+
+.RejectButton {
+  background-color: transparent;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.ButtonWrapper {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
