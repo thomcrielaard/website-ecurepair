@@ -94,10 +94,12 @@ export default function Navbar(props) {
           <NavbarLink
             href="/onderdelen"
             text="Onderdelen"
-            active={
-              router.pathname.includes("/onderdelen") ||
-              router.pathname == "/reparatieformulier"
-            }
+            active={router.pathname.includes("/onderdelen")}
+          />
+          <NavbarLink
+            href="/reparatieformulier"
+            text="Reparatieformulier"
+            active={router.pathname == "/reparatieformulier"}
           />
           <NavbarLink
             href="/nieuws"
@@ -191,9 +193,14 @@ function MobileNavExpanded(props) {
             active={router.pathname.includes("/onderdelen")}
           />
           <NavbarLink
-            href="/foutcodes"
-            text="Foutcodes"
-            active={router.pathname.includes("/foutcodes")}
+            href="/reparatieformulier"
+            text="Reparatieformulier"
+            active={router.pathname == "/reparatieformulier"}
+          />
+          <NavbarLink
+            href="/nieuws"
+            text="Nieuws"
+            active={router.pathname.includes("/nieuws")}
           />
           <NavbarLink
             href="/contact"

@@ -94,4 +94,8 @@
   width: 175px;
   display: flex;
   justify-content: flex-start;
+
+  @include md {
+    width: 100%;
+  }
 }
