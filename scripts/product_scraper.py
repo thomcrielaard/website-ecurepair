@@ -69,10 +69,21 @@ class ProductScraper:
 
                         faults.append(fault_info)
 
+                                        # Extract fault information
+                    car_tags = soup2.select('div#t_cars table tr')
+                    cars = []
+
+                    for tr in car_tags:
+                        car_description = tr.select_one('td').get_text(strip=True)
+                        car_description = ' '.join(car_description.split())
+                        
+                        cars.append(car_description)
+
                     products.append({
                         'product_url': product_url,
                         'part_numbers': part_numbers,
-                        'faults': faults
+                        'faults': faults,
+                        'cars': cars
                     })
                 else:
                     print(f"Failed to retrieve the webpage. Status code: {response2.status_code}")

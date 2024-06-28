@@ -5,8 +5,10 @@ import Head from "next/head";
 
 import Footer from "@/components/layout/Footer";
 import Navbar from "@/components/layout/Navbar";
+
 import Container from "@/components/containers/Container";
 import Product from "@/components/modules/Product";
+import ProductAttributes from "@/components/modules/ProductAttributes";
 
 function Error({ product }) {
   return (
@@ -20,6 +22,7 @@ function Error({ product }) {
 
       <Container>
         <Product product={product.attributes} />
+        <ProductAttributes />
       </Container>
 
       <Footer />
