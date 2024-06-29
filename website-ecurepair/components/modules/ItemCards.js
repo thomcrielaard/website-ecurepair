@@ -92,10 +92,9 @@ export default function ItemCards(props) {
                     text="MEER LEZEN"
                     href={
                       item.attributes.onderdeelnummer != undefined
-                        ? `/onderdelen/${item.attributes.onderdeelnummer.replace(
-                            " ",
-                            "%20"
-                          )}`
+                        ? `/onderdelen/${item.attributes.onderdeelnummer
+                            .replace(/\//g, "%2F")
+                            .replace(/ /g, "%20")}`
                         : `/nieuws/${item.attributes.titel.replace(" ", "%20")}`
                     }
                     color={Colors.GRAY}
