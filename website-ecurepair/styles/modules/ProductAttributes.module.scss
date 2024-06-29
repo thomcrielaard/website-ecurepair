@@ -1,0 +1,41 @@
+@import "@/styles/_config";
+
+.ProductAttributes {
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 75px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 75px;
+
+  @include md {
+    width: 80%;
+    gap: 50px;
+    margin-top: 50px;
+  }
+
+  @include xs {
+    width: 100%;
+  }
+}
+
+.ListItem {
+  font-size: 18px;
+  color: colors(GRAY);
+  font-family: "lato";
+  font-weight: 600;
+  white-space: pre-wrap;
+  line-height: 1.5;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.FaultCode {
+  color: colors(RED);
+  font-weight: bold;
+}
+
+.Bold {
+  font-weight: bold;
+}

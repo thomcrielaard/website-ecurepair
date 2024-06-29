@@ -5,14 +5,18 @@ import Head from "next/head";
 
 import Footer from "@/components/layout/Footer";
 import Navbar from "@/components/layout/Navbar";
+
 import Container from "@/components/containers/Container";
 import Product from "@/components/modules/Product";
+import ProductAttributes from "@/components/modules/ProductAttributes";
 
 function Error({ product }) {
+  console.log(product.attributes);
+
   return (
     <>
       <Head>
-        <title>{`ECU Repair \u2013 Onderdeel ${product.attributes.onderdeelnummer}`}</title>
+        <title>{`${product.attributes.onderdeelnummer} \u2013 Reparatie en Revisie`}</title>
         <meta name="description" content={product.attributes.omschrijving} />
       </Head>
 
@@ -20,6 +24,10 @@ function Error({ product }) {
 
       <Container>
         <Product product={product.attributes} />
+        <ProductAttributes
+          errors={product.attributes.fouten}
+          cars={product.attributes.autos}
+        />
       </Container>
 
       <Footer />
