@@ -1,0 +1,88 @@
+{
+  "Key is not recognisedMotor cannot be switched offNo Terminal 15The automatic gearbox automatically switches to the \"P\" when stopping or starting.The instrument cluster does not turn on and the engine can not be started.no ignition available": [
+    "Key is not recognised",
+    "Motor cannot be switched off",
+    "No Terminal 15",
+    "The automatic gearbox automatically switches to the \"P\" when stopping or starting.",
+    "The instrument cluster does not turn on and the engine can not be started.",
+    "no ignition available"
+  ],
+  "The instrument cluster does not turn on and the engine can not be started.no ignition availableno rotary release": [
+    "The instrument cluster does not turn on and the engine can not be started.",
+    "no ignition available",
+    "no rotary release"
+  ],
+  "Electronic steering column lock (ELV) defective.The electronic lock of the steering column does not unlock.": [
+    "Electronic steering column lock (ELV) defective.",
+    "The electronic lock of the steering column does not unlock."
+  ],
+  "Motor cannot be switched offThe gearbox automatically switches to P when the vehicle stops": [
+    "Motor cannot be switched off",
+    "The gearbox automatically switches to P when the vehicle stops"
+  ],
+  "Ecu fails when coldElectronic steering column lock (ELV) defective.No Terminal 15No communication possible with the ecuThe electronic lock of the steering column does not unlock.The instrument cluster does not turn on and the engine can not be started.defective keyno ignition availableno rotary release": [
+    "Ecu fails when cold",
+    "Electronic steering column lock (ELV) defective.",
+    "No Terminal 15",
+    "No communication possible with the ecu",
+    "The electronic lock of the steering column does not unlock.",
+    "The instrument cluster does not turn on and the engine can not be started.",
+    "defective key",
+    "no ignition available",
+    "no rotary release"
+  ],
+  "Motor cannot be switched offThe automatic gearbox automatically switches to the \"P\" when stopping or starting.defective key": [
+    "Motor cannot be switched off",
+    "The automatic gearbox automatically switches to the \"P\" when stopping or starting.",
+    "defective key"
+  ],
+  "Ecu fails when coldNo Terminal 15No communication possible with the ecuThe instrument cluster does not turn on and the engine can not be started.defective keyno ignition availableno rotary release": [
+    "Ecu fails when cold",
+    "No Terminal 15",
+    "No communication possible with the ecu",
+    "The instrument cluster does not turn on and the engine can not be started.",
+    "defective key",
+    "no ignition available",
+    "no rotary release"
+  ],
+  "Electronic steering column lock (ELV) defective.No Terminal 15The electronic lock of the steering column does not unlock.The instrument cluster does not turn on and the engine can not be started.defective keyno ignition availableno rotary release": [
+    "Electronic steering column lock (ELV) defective.",
+    "No Terminal 15",
+    "The electronic lock of the steering column does not unlock.",
+    "The instrument cluster does not turn on and the engine can not be started.",
+    "defective key",
+    "no ignition available",
+    "no rotary release"
+  ],
+  "Key is not recognisedNo Terminal 15The instrument cluster does not turn on and the engine can not be started.defective keyno ignition available": [
+    "Key is not recognised",
+    "No Terminal 15",
+    "The instrument cluster does not turn on and the engine can not be started.",
+    "defective key",
+    "no ignition available"
+  ],
+  "Electronic steering column lock (ELV) defective.No Terminal 15The electronic lock of the steering column does not unlock.The instrument cluster does not turn on and the engine can not be started.defective keyno ignition available": [
+    "Electronic steering column lock (ELV) defective.",
+    "No Terminal 15",
+    "The electronic lock of the steering column does not unlock.",
+    "The instrument cluster does not turn on and the engine can not be started.",
+    "defective key",
+    "no ignition available"
+  ],
+  "Electronic steering column lock (ELV) defective.No Terminal 15The electronic lock of the steering column does not unlock.The instrument cluster does not turn on and the engine can not be started.no ignition available": [
+    "Electronic steering column lock (ELV) defective.",
+    "No Terminal 15",
+    "The electronic lock of the steering column does not unlock.",
+    "The instrument cluster does not turn on and the engine can not be started.",
+    "no ignition available"
+  ],
+  "No Terminal 15No communication possible with the ecuThe instrument cluster does not turn on and the engine can not be started.defective keyecu fails when coldno ignition availableno rotary release": [
+    "No Terminal 15",
+    "No communication possible with the ecu",
+    "The instrument cluster does not turn on and the engine can not be started.",
+    "defective key",
+    "ecu fails when cold",
+    "no ignition available",
+    "no rotary release"
+  ]
+}
