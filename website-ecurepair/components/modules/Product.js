@@ -17,8 +17,6 @@ import Title from "../text/Title";
 import Chevron from "@/assets/svg/Chevron";
 
 export default function Product(props) {
-  console.log(props.product);
-
   return (
     <div className={styles.ProductContainer}>
       <div className={styles.ProductSideContainer}>

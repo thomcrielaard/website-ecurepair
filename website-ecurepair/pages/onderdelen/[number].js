@@ -11,8 +11,6 @@ import Product from "@/components/modules/Product";
 import ProductAttributes from "@/components/modules/ProductAttributes";
 
 function Error({ product }) {
-  console.log(product.attributes);
-
   return (
     <>
       <Head>
