@@ -104,57 +104,50 @@ const cars = [
 ];
 
 import * as React from "react";
-import Image from "next/image";
-import Link from "next/link";
-import { API_URL } from "@/pages/_app";
-import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 
 import styles from "@/styles/modules/ProductAttributes.module.scss";
 
-import Breakpoints from "@/styles/Breakpoints";
-import Colors from "@/styles/Colors";
-import { BlurDataUrl } from "@/services/BlurDataUrl";
-
-import Button from "@/components/modules/Button";
-
 import Title from "../text/Title";
 
-import Chevron from "@/assets/svg/Chevron";
 import Text from "../text/Text";
 
-export default function ProductAttributes(props) {
+export default function ProductAttributes({ errors, cars }) {
   return (
     <div className={styles.ProductAttributes}>
-      <div>
-        <Title text="Foutcodes" align="left" size="lg" underline />
-        <Text
-          text="Hieronder vindt u de fouten en foutcodes die bij ons bekend zijn en die wij voor u kunnen verhelpen. Heeft u een vraag of een andere foutcode? Vul dan het reparatieformulier in en wij kijken hoe wij u alsnog van dienst kunnen zijn!"
-          align="left"
-        />
-        {faults.map((fault, key) => (
-          <li className={styles.ListItem} key={key}>
-            {fault.fault_code && (
-              <>
-                <span className={styles.FaultCode}>{fault.fault_code}</span>
-                <span className={styles.Bold}>{" - "}</span>
-              </>
-            )}
-            {fault.fault_description}
-          </li>
-        ))}
-      </div>
-      <div>
-        <Title text="Merken en modellen" align="left" size="lg" underline />
-        <Text
-          text="Hieronder vindt u de merken en modellen waarin dit onderdeel voorkomt. Mocht u dit onderdeel in een ander merk of model aantreffen, neem dan gerust contact met ons op! Wij zijn u graag van dienst. "
-          align="left"
-        />
-        {cars.map((car, key) => (
-          <li className={styles.ListItem} key={key}>
-            {car}
-          </li>
-        ))}
-      </div>
+      {errors && (
+        <div>
+          <Title text="Foutcodes" align="left" size="lg" underline />
+          <Text
+            text="Hieronder vindt u de fouten en foutcodes die bij ons bekend zijn en die wij voor u kunnen verhelpen. Heeft u een vraag of een andere foutcode? Vul dan het reparatieformulier in en wij kijken hoe wij u alsnog van dienst kunnen zijn!"
+            align="left"
+          />
+          {errors.map((error, key) => (
+            <li className={styles.ListItem} key={key}>
+              {error.code && (
+                <>
+                  <span className={styles.FaultCode}>{error.code}</span>
+                  <span className={styles.Bold}>{" - "}</span>
+                </>
+              )}
+              {error.omschrijving}
+            </li>
+          ))}
+        </div>
+      )}
+      {cars && (
+        <div>
+          <Title text="Merken en modellen" align="left" size="lg" underline />
+          <Text
+            text="Hieronder vindt u de merken en modellen waarin dit onderdeel voorkomt. Mocht u dit onderdeel in een ander merk of model aantreffen, neem dan gerust contact met ons op! Wij zijn u graag van dienst. "
+            align="left"
+          />
+          {cars.map((car, key) => (
+            <li className={styles.ListItem} key={key}>
+              {car.model}
+            </li>
+          ))}
+        </div>
+      )}
     </div>
   );
 }
