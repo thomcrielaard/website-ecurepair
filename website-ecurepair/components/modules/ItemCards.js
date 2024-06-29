@@ -59,9 +59,13 @@ export default function ItemCards(props) {
                   placeholder="blur"
                   blurDataURL={BlurDataUrl}
                   src={
-                    item.attributes.afbeelding
-                      ? API_URL + item.attributes.afbeelding.data.attributes.url
-                      : API_URL + item.attributes.omslagfoto.data.attributes.url
+                    API_URL +
+                    (item.attributes.onderdeelnummer != undefined
+                      ? item.attributes.afbeelding.data
+                        ? item.attributes.afbeelding.data.attributes.url
+                        : item.attributes.onderdeel.data.attributes.afbeeldingen
+                            .data[0].attributes.url
+                      : item.attributes.omslagfoto.data.attributes.url)
                   }
                   alt={item.attributes.onderdeelnummer ?? item.attributes.titel}
                   fill

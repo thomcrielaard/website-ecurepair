@@ -89,7 +89,7 @@ export default function Home({ products, merkPart, news }) {
 export async function getStaticProps() {
   // Get all products
   const { data: productsData } = await Axios.get(
-    `${API_URL}/api/products?populate=afbeelding`
+    `${API_URL}/api/products?populate=afbeelding,onderdeel.afbeeldingen`
   );
 
   const allProducts = productsData.data;
