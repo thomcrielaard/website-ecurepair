@@ -124,7 +124,7 @@ export default function Onderdelen({ products, merkPart, initialParts }) {
 export async function getStaticProps() {
   // Get all products
   const { data: productsData } = await Axios.get(
-    `${API_URL}/api/products?populate=afbeelding,onderdeel,merks`
+    `${API_URL}/api/products?populate=afbeelding,onderdeel.afbeeldingen,merks`
   );
 
   const products = productsData.data;

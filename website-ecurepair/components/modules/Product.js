@@ -13,18 +13,25 @@ import { BlurDataUrl } from "@/services/BlurDataUrl";
 import Button from "@/components/modules/Button";
 
 import Title from "../text/Title";
-import TextLink from "../text/TextLink";
 
 import Chevron from "@/assets/svg/Chevron";
 
 export default function Product(props) {
+  console.log(props.product);
+
   return (
     <div className={styles.ProductContainer}>
       <div className={styles.ProductSideContainer}>
         <div className={styles.ProductImageWrapper}>
           <Image
             className={styles.ProductImage}
-            src={API_URL + props.product.afbeelding.data.attributes.url}
+            src={
+              API_URL +
+              (props.product.afbeelding.data
+                ? props.product.afbeelding.data.attributes.url
+                : props.product.onderdeel.data.attributes.afbeeldingen.data[0]
+                    .attributes.url)
+            }
             alt={props.product.onderdeelnummer}
             fill
             sizes={`(min-width: ${Breakpoints.md}) 33vw, (min-width: ${Breakpoints.xs}) 85vw, 95vw`}

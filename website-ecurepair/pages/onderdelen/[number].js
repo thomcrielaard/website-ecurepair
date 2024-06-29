@@ -54,7 +54,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps(context) {
   const { data } = await Axios.get(
-    `${API_URL}/api/products?filters[onderdeelnummer][$eq]=${context.params.number}&populate=merks,onderdeel,afbeelding`
+    `${API_URL}/api/products?filters[onderdeelnummer][$eq]=${context.params.number}&populate=merks,onderdeel,afbeelding,onderdeel.afbeeldingen`
   );
 
   const product = data.data[0];
