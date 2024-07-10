@@ -1,0 +1,872 @@
+[
+  {
+    "part_name": "EPS3 Mercedes Power Shift (GS2)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/eps3+mercedes+power+shift+gs2-647897.ts1636450436.jpg",
+    "product_link": "https://ecu.eu/mercedes-truck/gearbox-control-6470/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29-6471",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0014461609-wabco-4461640052-139671.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 001 446 16 09",
+              "A0014461609"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 005 2",
+              "4461640052"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 1832 L/NR 4X2 (Actros, 930) Year of manufacture 2003",
+          "MERCEDES 4144 B 8X4/4 (Actros, 933) Year of manufacture 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0014461709-wabco-4461640042-139666.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 001 446 17 09",
+              "A0014461709"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 004 2",
+              "4461640042"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0014463909-wabco-139667.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 001 446 39 09",
+              "A0014463909"
+            ]
+          },
+          {
+            "title": "Wabco",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0014464009-wabco-4461640212-146383.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 001 446 40 09",
+              "A0014464009"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 021 2",
+              "4461640212"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 4144 K 8X4/4 (Actros, 932) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0014464109-wabco-4461640202-154243.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 001 446 41 09",
+              "A0014464109"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 020 2",
+              "4461640202"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 1841 LS 4X2 (Actros, 934) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0014465709-wabco-4461640252-147150.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 001 446 57 09",
+              "A0014465709"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 025 2",
+              "4461640252"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 3241 K 8X4/4 (Actros, 932) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0014465909-wabco-4461640312-135570.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 001 446 59 09",
+              "A0014465909"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 031 2",
+              "4461640312"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 1841 AK 4x4 (Actros, 932) Year of manufacture 2006",
+          "MERCEDES 2541 L/NR 6X2 (Actros, 930) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0014466309-a0022605763-wabco-4461640302-4213511330-147791.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 001 446 63 09",
+              "A0014466309"
+            ]
+          },
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 002 260 57 63",
+              "A0022605763"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 030 2",
+              "4461640302"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "421 351 133 0",
+              "4213511330"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 2541 L 6X2 (Actros, 930) Year of manufacture 2006 - 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0014466909-wabco-4461640332-123448.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 001 446 69 09",
+              "A0014466909"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 033 2",
+              "4461640332"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 1841 LSNRL 4X2 (Actros, 934) Year of manufacture 2007",
+          "MERCEDES 1844 LS 4X2 (Actros, 934) Year of manufacture 2008",
+          "MERCEDES 1851 AK 4X4 (Actros, 932) Year of manufacture 2007",
+          "MERCEDES 2651 L 6X4 (Actros, 930) Year of manufacture 2007",
+          "MERCEDES 3236 B 8x4 (Actros, 933) Year of manufacture 2007",
+          "MERCEDES 3241 K 8X4/4 (Actros, 932) Year of manufacture 2007",
+          "MERCEDES 4151 K 8X4 (Actros, 932) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0014467009-wabco-4461640322-139665.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 001 446 70 09",
+              "A0014467009"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 032 2",
+              "4461640322"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 1848 AK 4X4 (Actros, 932) Year of manufacture 2006",
+          "MERCEDES 2036 K 4X2 (Actros, 932) Year of manufacture 2008",
+          "MERCEDES 2551 L 6X2 (Actros, 930) Year of manufacture 2008",
+          "MERCEDES 2632 K 6X4 (Actros, 932) Year of manufacture 2007",
+          "MERCEDES 2646 K 6X4 (Actros, 932) Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0014467609-wabco-4461640342-150080.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 001 446 76 09",
+              "A0014467609"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 034 2",
+              "4461640342"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 2546 L 6X2 (Actros, 930) Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0014468109-wabco-139668.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 001 446 81 09",
+              "A0014468109"
+            ]
+          },
+          {
+            "title": "Wabco",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0024460709-a0022608363-wabco-4461642012-4213511560-139636.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 002 446 07 09",
+              "A0024460709"
+            ]
+          },
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 002 260 83 63",
+              "A0022608363"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 201 2",
+              "4461642012"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "421 351 156 0",
+              "4213511560"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 1846 LS 4X2 (Actros, 934) Year of manufacture 2009",
+          "MERCEDES 2546 L 6X2 (Actros, 930) Year of manufacture 2009",
+          "MERCEDES 2636 L 6X4 (Actros, 930) Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0024460909-wabco-4461640432-146220.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 002 446 09 09",
+              "A0024460909"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 043 2",
+              "4461640432"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 2544 L 6X2 (Actros, 930) Year of manufacture 2008",
+          "MERCEDES 2632 6X4 (Actros, 930) Year of manufacture 2008",
+          "MERCEDES 2641 K 6X4 (Actros, 932) Year of manufacture 2008",
+          "MERCEDES 2648 LK 6X4 (Actros, 932) Year of manufacture 2009",
+          "MERCEDES 3341 AK 6X6 (Actros, 932) Year of manufacture 2010",
+          "MERCEDES 4141 B 8X4/4 (Actros, 932) Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0024462009-wabco-139670.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 002 446 20 09",
+              "A0024462009"
+            ]
+          },
+          {
+            "title": "Wabco",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0024463309-wabco-4461640482-146473.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 002 446 33 09",
+              "A0024463309"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 048 2",
+              "4461640482"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 2541 L 6X2 (Actros, 930) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0024466209-a0032600563-wabco-4461642022-4213511660-141344.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 002 446 62 09",
+              "A0024466209"
+            ]
+          },
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 003 260 05 63",
+              "A0032600563"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 202 2",
+              "4461642022"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "421 351 166 0",
+              "4213511660"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 1844 L 4X2 (Actros, 930) Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0024466809-wabco-4461640522-140662.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 002 446 68 09",
+              "A0024466809"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 052 2",
+              "4461640522"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 1848 AK 4X4 (Actros, 932) Year of manufacture 2013",
+          "MERCEDES 2044 AS 4X4 (Actros, 934) Year of manufacture 2011",
+          "MERCEDES 2644 L 6X4 (Actros, 930) Year of manufacture 2013",
+          "MERCEDES 2644 LS 6X4 (Actros, 934) Year of manufacture 2013",
+          "MERCEDES 2646 K 6X4 (Actros, 932) Year of manufacture 2013",
+          "MERCEDES 2655 K 6X4 (Actros, 932) Year of manufacture 2011",
+          "MERCEDES 3241 B 8X4/4 (Actros, 933) Year of manufacture 2012 - 2013",
+          "MERCEDES 3344 K 6X4 (Actros, 932) Year of manufacture 2011",
+          "MERCEDES 4144 K 8X4/4 (Actros, 932) Year of manufacture 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0024466909-wabco-4461640512-139673.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 002 446 69 09",
+              "A0024466909"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 051 2",
+              "4461640512"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 1848 LS 4X2 (Actros, 934) Year of manufacture 2008",
+          "MERCEDES 2644 6x4 (Actros, 930) Year of manufacture 2012",
+          "MERCEDES 2646 LK 6X4 (Actros, 932) Year of manufacture 2009",
+          "MERCEDES 2655 LS 6X4 (Actros, 934) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mercedes-truck/gearbox-control/eps3-mercedes-power-shift-%28gs2%29/mercedes-a0024467209-wabco-4461642032-139672.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 002 446 72 09",
+              "A0024467209"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 164 203 2",
+              "4461642032"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00173",
+            "fault_description": "Gearbox CAN bus in single-wire operation"
+          },
+          {
+            "fault_description": "Error clutch rail sensor, sensor split, gear, aisle - when warm"
+          },
+          {
+            "fault_description": "Error speed sensor countershaft - when warm"
+          },
+          {
+            "fault_description": "Failure when warm, after cooling proper function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MERCEDES 1832 K 4X2 (Actros, 932) Year of manufacture 2012",
+          "MERCEDES 1841 L 4X2 (Actros, 930) Year of manufacture 2012",
+          "MERCEDES 1841 LS 4X2 (Actros, 934) Year of manufacture 2012",
+          "MERCEDES 1841 LSNRL 4X2 (Actros, 934) Year of manufacture 2010",
+          "MERCEDES 1844 LS 4X2 (Actros, 934) Year of manufacture 2011 - 2012",
+          "MERCEDES 1846 LS 4X2 (Actros, 934) Year of manufacture 2011",
+          "MERCEDES 2532 L 6X2 (Actros, 930) Year of manufacture 2011",
+          "MERCEDES 2541 L 6X2 (Actros, 930) Year of manufacture 2011 - 2012",
+          "MERCEDES 2646 K 6X4 (Actros, 932) Year of manufacture 2011"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "part_name": "EBS3 / EBS4",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ebs3+ebs4-730870.ts1640079669.jpg",
+    "product_link": "https://ecu.eu/evobus/brake-control-7148/evobus/brake-control/ebs3-ebs4-7149",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/evobus/brake-control/ebs3-ebs4/evobus-a0004469736-wabco-4461302090-149869.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "A 000 446 97 36",
+              "A0004469736"
+            ]
+          },
+          {
+            "title": "Wabco - Part number",
+            "numbers": [
+              "446 130 209 0",
+              "4461302090"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "060601",
+            "fault_description": "The unit A10b (EBS - el. unit of brake system) has recognised under voltage or short cut to ground"
+          },
+          {
+            "fault_code": "060604",
+            "fault_description": "The unit A10b (EBS - el. unit of brake system) has recognised under voltage or short cut to ground"
+          },
+          {
+            "fault_code": "200403",
+            "fault_description": "The solenoid valves of component \u2018Y6 (trailer control valve, WABCO)\u2019 are shorted to positive. -only on request!"
+          },
+          {
+            "fault_code": "220303",
+            "fault_description": "ABS solenoid valve front axle left. ABS solenoid valve front axle right. Short circuit to plus."
+          },
+          {
+            "fault_code": "730201",
+            "fault_description": "Power supply of the unit A10b (brake system unit EBS) is too low (undervoltage)."
+          },
+          {
+            "fault_code": "75020C",
+            "fault_description": "EBS Unit - internal failure"
+          },
+          {
+            "fault_description": "Faulty actual value of battery voltage in the diag-tool"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

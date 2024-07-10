@@ -1,0 +1,394 @@
+[
+  {
+    "part_name": "Control unit cooling fan motor A22DM (LNP/LNQ)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+unit+cooling+fan+motor+a22dm+lnp+lnq-342483.ts1628715919.jpg",
+    "product_link": "https://ecu.eu/opel-vauxhall/others-301/opel-vauxhall/others/control-unit-cooling-fan-motor-a22dm-%28lnp-lnq%29-6275",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/opel-vauxhall/others/control-unit-cooling-fan-motor-a22dm-%28lnp-lnq%29/opel-20787305-bosch-1137328617-135911.html",
+        "part_numbers": [
+          {
+            "title": "OPEL - Part number",
+            "numbers": [
+              "20 787 305",
+              "20787305"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "1 137 328 617",
+              "1137328617"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0480",
+            "fault_description": "cooling fan 1: control circuit malfunction"
+          },
+          {
+            "fault_description": "Cooling fan actuation error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "OPEL Antara 2.2 CDTI 4x4 (Antara, A) Year of manufacture 2011 - 2014 Engine code A22DM, A22DM LNQ, A22DMH"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Mokka ecu rear axle differential",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mokka+ecu+rear+axle+differential-405554.ts1628723698.jpg",
+    "product_link": "https://ecu.eu/opel-vauxhall/others-301/opel-vauxhall/others/mokka-ecu-rear-axle-differential-6420",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-42463357-139349.html",
+        "part_numbers": [
+          {
+            "title": "OPEL - Part number",
+            "numbers": [
+              "42 463 357",
+              "42463357"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0800",
+            "fault_description": "circuit voltage below threshold"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "OPEL Mokka 1.4 Turbo 4x4 (Mokka, A) Year of manufacture 2013 - 2017 Engine code A14NET LUJ, B14NET LUJ",
+          "OPEL Mokka 1.4 Turbo (Mokka, A) Year of manufacture 2013 - 2015 Engine code B14NET LUJ",
+          "OPEL Mokka 1.6 CDTI (Mokka, A) Year of manufacture 2015 - 2016 Engine code B16DTH LVL",
+          "OPEL Mokka 1.7 CDTI 4x4 (Mokka, A) Year of manufacture 2014 Engine code A17DTS LUD",
+          "OPEL Mokka X 1.4 Turbo 4x4 (Mokka X, A) Year of manufacture 2017 - 2019 Engine code B14NET LUJ, D14NET LUJ, B14XFT LE2",
+          "OPEL Mokka X 1.6 CDTI 4x4 (Mokka X, A) Year of manufacture 2016 - 2018 Engine code B16DTH LVL, D16DTH LVL"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-42463359-139348.html",
+        "part_numbers": [
+          {
+            "title": "OPEL - Part number",
+            "numbers": [
+              "42 463 359",
+              "42463359"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0800",
+            "fault_description": "circuit voltage below threshold"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-42745863-139350.html",
+        "part_numbers": [
+          {
+            "title": "OPEL - Part number",
+            "numbers": [
+              "42 745 863",
+              "42745863"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0800",
+            "fault_description": "circuit voltage below threshold"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "OPEL Mokka 1.4 Turbo (Mokka, A) Year of manufacture 2013 - 2016 Engine code A14NET LUJ"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-94558564-hitachi-121284.html",
+        "part_numbers": [
+          {
+            "title": "OPEL - Part number",
+            "numbers": [
+              "94 558 564",
+              "94558564"
+            ]
+          },
+          {
+            "title": "Hitachi",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0800",
+            "fault_description": "circuit voltage below threshold"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "OPEL Mokka 1.4 Turbo 4x4 (Mokka, A) Year of manufacture 2013 - 2014 Engine code A14NET LUJ",
+          "OPEL Mokka 1.7 CDTI 4x4 (Mokka, A) Year of manufacture 2013 - 2015 Engine code A17DTS LUD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-95086473-140197.html",
+        "part_numbers": [
+          {
+            "title": "OPEL - Part number",
+            "numbers": [
+              "95 086 473",
+              "95086473"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0800",
+            "fault_description": "circuit voltage below threshold"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "OPEL Mokka 1.4 Turbo 4x4 (Mokka, A) Year of manufacture 2012 - 2013 Engine code A14NET LUJ",
+          "OPEL Mokka 1.7 CDTI 4x4 (Mokka, A) Year of manufacture 2012 - 2013 Engine code A17DTS LUD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-95273518-hitachi-120254.html",
+        "part_numbers": [
+          {
+            "title": "OPEL - Part number",
+            "numbers": [
+              "95 273 518",
+              "95273518"
+            ]
+          },
+          {
+            "title": "Hitachi",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0800",
+            "fault_description": "circuit voltage below threshold"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "OPEL Mokka 1.4 Turbo 4x4 (Mokka, A) Year of manufacture 2013 - 2018 Engine code A14NET LUJ",
+          "OPEL Mokka 1.4 Turbo (Mokka, A) Year of manufacture 2013 - 2014 Engine code A14NET LUJ",
+          "OPEL Mokka 1.7 CDTI 4x4 (Mokka, A) Year of manufacture 2013 Engine code A17DTS LUD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-95365920-hitachi-122490.html",
+        "part_numbers": [
+          {
+            "title": "OPEL - Part number",
+            "numbers": [
+              "95 365 920",
+              "95365920"
+            ]
+          },
+          {
+            "title": "Hitachi",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0800",
+            "fault_description": "circuit voltage below threshold"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "OPEL Mokka 1.7 CDTI 4x4 (Mokka, A) Year of manufacture 2014 Engine code A17DTS LUD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-95381617-hitachi-122489.html",
+        "part_numbers": [
+          {
+            "title": "OPEL - Part number",
+            "numbers": [
+              "95 381 617",
+              "95381617"
+            ]
+          },
+          {
+            "title": "Hitachi",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0800",
+            "fault_description": "circuit voltage below threshold"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "OPEL Mokka 1.4 Turbo (Mokka, A) Year of manufacture 2014 - 2015 Engine code A14NET LUJ",
+          "OPEL Mokka 1.7 CDTI 4x4 (Mokka, A) Year of manufacture 2014 Engine code A17DTS LUD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-95423195-140668.html",
+        "part_numbers": [
+          {
+            "title": "OPEL - Part number",
+            "numbers": [
+              "95 423 195",
+              "95423195"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0800",
+            "fault_description": "circuit voltage below threshold"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "OPEL Mokka 1.4 Turbo 4x4 (Mokka, A) Year of manufacture 2013 - 2017 Engine code A14NET LUJ, B14NET LUJ",
+          "OPEL Mokka 1.4 Turbo (Mokka, A) Year of manufacture 2014 Engine code A14NET LUJ",
+          "OPEL Mokka 1.6 CDTI (Mokka, A) Year of manufacture 2015 - 2016 Engine code B16DTH LVL",
+          "OPEL Mokka 1.7 CDTI 4x4 (Mokka, A) Year of manufacture 2013 - 2014 Engine code A17DTS LUD",
+          "OPEL Mokka X 1.4 Turbo 4x4 (Mokka X, A) Year of manufacture 2016 - 2017 Engine code B14XFT LE2",
+          "OPEL Mokka X 1.6 CDTI 4x4 (Mokka X, A) Year of manufacture 2017 - 2018 Engine code B16DTH LVL"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-95437244-hitachi-121815.html",
+        "part_numbers": [
+          {
+            "title": "OPEL - Part number",
+            "numbers": [
+              "95 437 244",
+              "95437244"
+            ]
+          },
+          {
+            "title": "Hitachi",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0800",
+            "fault_description": "circuit voltage below threshold"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "OPEL Mokka 1.4 Turbo 4x4 (Mokka, A) Year of manufacture 2013 - 2016 Engine code A14NET LUJ, B14NET LUJ",
+          "OPEL Mokka 1.4 Turbo (Mokka, A) Year of manufacture 2014 - 2018 Engine code B14NET LUJ",
+          "OPEL Mokka 1.6 CDTI 4x4 (Mokka, A) Year of manufacture 2015 - 2016 Engine code B16DTH LVL",
+          "OPEL Mokka 1.6 CDTI (Mokka, A) Year of manufacture 2015 - 2016 Engine code B16DTH LVL",
+          "OPEL Mokka X 1.4 Turbo 4x4 (Mokka X, A) Year of manufacture 2016 Engine code B14XFT LE2",
+          "OPEL Mokka X 1.6 CDTI 4x4 (Mokka X, A) Year of manufacture 2016 Engine code B16DTH LVL"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Turbo-charger actuator",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+    "product_link": "https://ecu.eu/opel-vauxhall/others-301/opel-vauxhall/others/turbo-charger-actuator-4097",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/opel-vauxhall/others/turbo-charger-actuator/opel-6nw008412-hella-712120-104903.html",
+        "part_numbers": [
+          {
+            "title": "OPEL - Part number",
+            "numbers": [
+              "6NW 008 412",
+              "6NW008412"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "712120"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Temporary problems with charging pressure control \u2013 fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again \u2013 until next error occur"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "OPEL Antara 2.0 CDTI 4x4 (Antara, A) Year of manufacture 2007 - 2011 Engine code Z20DMH"
+        ]
+      }
+    ]
+  }
+]

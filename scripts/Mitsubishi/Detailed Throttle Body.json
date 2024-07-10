@@ -1,0 +1,518 @@
+[
+  {
+    "part_name": "Mikuni GDI",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mikuni+gdi-812.ts1628722661.jpg",
+    "product_link": "https://ecu.eu/mitsubishi/throttle-body-24/mitsubishi/throttle-body/mikuni-gdi-3372",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mitsubishi/throttle-body/mikuni-gdi/mitsubishi-md350416-mr514340-mikuni-eac60002-264.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MD350416"
+            ]
+          },
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MR514340"
+            ]
+          },
+          {
+            "title": "MIKUNI - Part number",
+            "numbers": [
+              "EAC60-002",
+              "EAC60002"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "91",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "92",
+            "fault_description": "Throttle position \u2013 position feedback"
+          },
+          {
+            "fault_code": "P1220",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "P1221",
+            "fault_description": "Throttle position, feedback system"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Carisma 1.8 GDI (Carisma, DA0) Year of manufacture 1999 - 2001 Engine code 4G93-GDI",
+          "Mitsubishi Galant 2.4 GDI (Galant, EA0) Year of manufacture 2000 - 2001",
+          "Mitsubishi Space Star 1.8 GDI (Space Star, DG0) Year of manufacture 1999 - 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/throttle-body/mikuni-gdi/mitsubishi-md355406-mr514341-mikuni-eac60001-263.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MD355406"
+            ]
+          },
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MR514341"
+            ]
+          },
+          {
+            "title": "MIKUNI - Part number",
+            "numbers": [
+              "EAC60-001",
+              "EAC60001"
+            ]
+          },
+          {
+            "title": "MIKUNI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "91",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "92",
+            "fault_description": "Throttle position \u2013 position feedback"
+          },
+          {
+            "fault_code": "P1220",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "P1221",
+            "fault_description": "Throttle position, feedback system"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Carisma 1.8 GDI (Carisma, DA0) Year of manufacture 2000",
+          "Mitsubishi Pajero Pinin 1.8 GDI (Pajero Pinin, H60) Year of manufacture 1999 - 2002",
+          "Mitsubishi Pajero Pinin 2.0 GDI (Pajero Pinin, H60) Year of manufacture 2001",
+          "Mitsubishi (Pajero Pinin) Year of manufacture 2001",
+          "Mitsubishi Space Wagon 2.4 GDI (Space Wagon, N80) Year of manufacture 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/throttle-body/mikuni-gdi/mitsubishi-md355534-mr35534-mikuni-eac65001-267.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MD355534"
+            ]
+          },
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MR35534"
+            ]
+          },
+          {
+            "title": "MIKUNI - Part number",
+            "numbers": [
+              "EAC65-001",
+              "EAC65001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "91",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "92",
+            "fault_description": "Throttle position \u2013 position feedback"
+          },
+          {
+            "fault_code": "P1220",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "P1221",
+            "fault_description": "Throttle position, feedback system"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Galant 2.4 GDI (Galant, EA0) Year of manufacture 1998 - 2001 Engine code 4G64-GDI",
+          "Mitsubishi Galant 2.5i V6 (Galant, EA0) Year of manufacture 1999 Engine code 6A13",
+          "Mitsubishi Space Runner 2.4 GDI (Space Runner, N50) Year of manufacture 1999 - 2001",
+          "Mitsubishi Space Wagon 2.4 GDI 4WD (Space Wagon, N80) Year of manufacture 1998 - 2001",
+          "Mitsubishi Space Wagon 2.4 GDI (Space Wagon, N80) Year of manufacture 1998 - 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/throttle-body/mikuni-gdi/mitsubishi-mikuni-eac60010-102939.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi",
+            "numbers": []
+          },
+          {
+            "title": "MIKUNI - Part number",
+            "numbers": [
+              "EAC60-010",
+              "EAC60010"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "91",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "92",
+            "fault_description": "Throttle position \u2013 position feedback"
+          },
+          {
+            "fault_code": "P1220",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "P1221",
+            "fault_description": "Throttle position, feedback system"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Carisma 1.8 GDI (Carisma, DA0) Year of manufacture 2000 - 2003",
+          "Mitsubishi Space Wagon 2.4 GDI (Space Wagon, N80) Year of manufacture 2001"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/throttle-body/mikuni-gdi/mitsubishi-mn153345-mikuni-eac65015-270.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MN153345"
+            ]
+          },
+          {
+            "title": "MIKUNI - Part number",
+            "numbers": [
+              "EAC65-015",
+              "EAC65015"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "91",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "92",
+            "fault_description": "Throttle position \u2013 position feedback"
+          },
+          {
+            "fault_code": "P1220",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "P1221",
+            "fault_description": "Throttle position, feedback system"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Galant 2.4 GDI (Galant, EA0) Year of manufacture 2002",
+          "Mitsubishi Space Wagon 2.4 GDI (Space Wagon, N80) Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/throttle-body/mikuni-gdi/mitsubishi-mn153347-mr507890-mikuni-eac60005-266.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MN153347"
+            ]
+          },
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MR507890"
+            ]
+          },
+          {
+            "title": "MIKUNI - Part number",
+            "numbers": [
+              "EAC60-005",
+              "EAC60005"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "91",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "92",
+            "fault_description": "Throttle position \u2013 position feedback"
+          },
+          {
+            "fault_code": "P1220",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "P1221",
+            "fault_description": "Throttle position, feedback system"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Pajero Pinin 1.8 GDI (Pajero Pinin, H60) Year of manufacture 2001 - 2002",
+          "Mitsubishi Pajero Pinin 2.0 GDI (Pajero Pinin, H60) Year of manufacture 1999 - 2011",
+          "Mitsubishi (Pajero Pinin, H60) Year of manufacture 2001",
+          "Mitsubishi Space Runner 2.4 GDI (Space Runner, N50) Year of manufacture 1999",
+          "Mitsubishi Space Star 1.8 GDI (Space Star, DG0) Year of manufacture 2001"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/throttle-body/mikuni-gdi/mitsubishi-mn153363-mikuni-eac60006-102913.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MN153363"
+            ]
+          },
+          {
+            "title": "MIKUNI - Part number",
+            "numbers": [
+              "EAC60-006",
+              "EAC60006"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "91",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "92",
+            "fault_description": "Throttle position \u2013 position feedback"
+          },
+          {
+            "fault_code": "P1220",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "P1221",
+            "fault_description": "Throttle position, feedback system"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Carisma 1.8 GDI (Carisma, DA0) Year of manufacture 2001 - 2002",
+          "Mitsubishi Space Star 1.8 GDI (Space Star, DG0) Year of manufacture 2001 - 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/throttle-body/mikuni-gdi/mitsubishi-mr507044-mn153363-mikuni-eac60003-265.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MR507044"
+            ]
+          },
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MN153363"
+            ]
+          },
+          {
+            "title": "MIKUNI - Part number",
+            "numbers": [
+              "EAC60-003",
+              "EAC60003"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "91",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "92",
+            "fault_description": "Throttle position \u2013 position feedback"
+          },
+          {
+            "fault_code": "P1220",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "P1221",
+            "fault_description": "Throttle position, feedback system"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Carisma 1.8 GDI (Carisma, DA0) Year of manufacture 1999 - 2004 Engine code 4G93-GDI",
+          "Mitsubishi Carisma 1.9 DI-D (Carisma, DA0) Year of manufacture 2002",
+          "Mitsubishi (Carisma, DA0) Year of manufacture 2001",
+          "Mitsubishi Pajero Pinin 2.0 GDI (Pajero Pinin, H60) Year of manufacture 2001 - 2003",
+          "Mitsubishi Space Star 1.8 GDI (Space Star, DG0) Year of manufacture 1999 - 2002 Engine code 4G93-GDI"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/throttle-body/mikuni-gdi/mitsubishi-mr507598-mikuni-eac65010-268.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MR507598"
+            ]
+          },
+          {
+            "title": "MIKUNI - Part number",
+            "numbers": [
+              "EAC65-010",
+              "EAC65010"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "91",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "92",
+            "fault_description": "Throttle position \u2013 position feedback"
+          },
+          {
+            "fault_code": "P1220",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "P1221",
+            "fault_description": "Throttle position, feedback system"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Galant 2.4 GDI (GALANT, EA0) Year of manufacture 2001 - 2002",
+          "Mitsubishi Space Runner 2.4 GDI (Space Runner, N50) Year of manufacture 2003",
+          "Mitsubishi Space Wagon 2.4 GDI 4WD (Space Wagon, N80) Year of manufacture 2000",
+          "Mitsubishi Space Wagon 2.4 GDI (Space Wagon, N80) Year of manufacture 1999 - 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/throttle-body/mikuni-gdi/mitsubishi-mr507598-mikuni-eac65010-119118.html",
+        "part_numbers": [],
+        "faults": [
+          {
+            "fault_code": "91",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "92",
+            "fault_description": "Throttle position \u2013 position feedback"
+          },
+          {
+            "fault_code": "P1220",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "P1221",
+            "fault_description": "Throttle position, feedback system"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Galant 2.4 GDI (GALANT, EA0) Year of manufacture 2001 - 2002",
+          "Mitsubishi Space Runner 2.4 GDI (Space Runner, N50) Year of manufacture 2003",
+          "Mitsubishi Space Wagon 2.4 GDI 4WD (Space Wagon, N80) Year of manufacture 2000",
+          "Mitsubishi Space Wagon 2.4 GDI (Space Wagon, N80) Year of manufacture 1999 - 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/throttle-body/mikuni-gdi/mitsubishi-mr988352-mikuni-eac65013-269.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MR988352"
+            ]
+          },
+          {
+            "title": "MIKUNI - Part number",
+            "numbers": [
+              "EAC65-013",
+              "EAC65013"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "91",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "92",
+            "fault_description": "Throttle position \u2013 position feedback"
+          },
+          {
+            "fault_code": "P1220",
+            "fault_description": "Electronically controlled throttle system"
+          },
+          {
+            "fault_code": "P1221",
+            "fault_description": "Throttle position, feedback system"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Galant 2.4 GDI (GALANT, EA0) Year of manufacture 2002 - 2003",
+          "Mitsubishi Space Star 1.8 GDI (Space Star, DG0) Year of manufacture 2002",
+          "Mitsubishi Space Wagon 2.4 GDI (Space Wagon, N80) Year of manufacture 2002"
+        ]
+      }
+    ]
+  }
+]

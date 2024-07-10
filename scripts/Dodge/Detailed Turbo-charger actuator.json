@@ -1,0 +1,36 @@
+[
+  {
+    "part_name": "EUR",
+    "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/dodge+6nw009228+hella+730314-2167.ts1628724448.jpg",
+    "product_link": "https://ecu.eu/dodge/turbo-charger-actuator-4977",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/dodge/turbo-charger-actuator/dodge-6nw009228-hella-730314-112664.html",
+        "part_numbers": [
+          {
+            "title": "Dodge - Part number",
+            "numbers": [
+              "6NW 009 228",
+              "6NW009228"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "730314"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Temporary problems with charging pressure control \u2013 fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again \u2013 until next error occur"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

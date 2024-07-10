@@ -1,0 +1,3660 @@
+[
+  {
+    "part_name": "Footwell module (FRM) / light control unit",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/footwell+module+frm+light+control+unit-254188.ts1628719991.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/central-electronic-6356/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit-6357",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345268201-lear-23994322-150135.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3452682-01",
+              "6135345268201"
+            ]
+          },
+          {
+            "title": "BMW MINI",
+            "numbers": []
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345589501-frm3rr56loweks-lear-23994322-pl3frm3r-151666.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3455895-01",
+              "6135345589501"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "FRM3R R56 LOW EKS",
+              "FRM3RR56LOWEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "PL3 FRM3R",
+              "PL3FRM3R"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345603401-frm3rr56loweks-lear-23994304-pl3frm3r-146906.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456034-01",
+              "6135345603401"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "FRM3R R56 LOW EKS",
+              "FRM3RR56LOWEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 04",
+              "23994304"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "PL3FRM3R"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI One Clubman Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345605101-r56higheks-lear-23994322-frm3rpl3-135032.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456051-01",
+              "6135345605101"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 HIGH EKS",
+              "R56HIGHEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2009 - 2010",
+          "BMW MINI Cooper Cabrio Year of manufacture 2010",
+          "BMW MINI Cooper Clubman Year of manufacture 2010",
+          "BMW MINI Cooper D Clubman Year of manufacture 2010",
+          "BMW MINI Cooper S Cabrio 1.6i Year of manufacture 2010",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2010",
+          "BMW MINI One 1,4l Year of manufacture 2010",
+          "BMW MINI One Year of manufacture 2010",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345639301-r56ahleks-lear-23994322-frm3rpl3-138243.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456393-01",
+              "6135345639301"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 AHL EKS",
+              "R56AHLEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2011",
+          "BMW MINI Cooper Cabrio Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345639401-r56loweks-lear-23994322-frm3rpl3-142262.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456394-01",
+              "6135345639401"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 LOW EKS",
+              "R56LOWEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345639501-r56higheks-lear-23994322-frm3rpl3-5324828c5-130859.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456395-01",
+              "6135345639501"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 HIGH EKS",
+              "R56HIGHEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "5324828C5"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2010 - 2011",
+          "BMW MINI Cooper Clubman Year of manufacture 2014",
+          "BMW MINI Cooper Countryman Year of manufacture 2011",
+          "BMW MINI Cooper S Year of manufacture 2010 - 2011",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2011",
+          "BMW MINI Cooper S Clubman Year of manufacture 2012",
+          "BMW MINI One 1.6 Year of manufacture 2010",
+          "BMW MINI One Year of manufacture 2010 - 2011",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2011",
+          "BMW MINI One D Clubman Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345658601-r56ahleks-lear-23994322-frm3rpl3-135627.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3456586-01",
+              "6135345658601"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 AHL EKS",
+              "R56AHLEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2011",
+          "BMW MINI Cooper S Year of manufacture 2011",
+          "BMW MINI Cooper S Clubman Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345658602-r56ahleks-lear-23994322-frm3rpl3-140845.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135. 3456586-02",
+              "6135345658602"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 AHL EKS",
+              "R56AHLEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper SD Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345658701-r56loweks-lear-23994322-frm3rpl3-152696.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456587-01",
+              "6135345658701"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 LOW EKS",
+              "R56LOWEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI One Countryman Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345658702-r56loweks-lear-23994122-frm3rpl3-139253.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135. 3456587-02",
+              "6135345658702"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 LOW EKS",
+              "R56LOWEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239941 22",
+              "23994122"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2011",
+          "BMW MINI One 1.6 Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345658801-bmw-r56higheks-lear-23994322-frm3rpl3-133766.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135. 3456588-01",
+              "6135345658801"
+            ]
+          },
+          {
+            "title": "BMW - Part number",
+            "numbers": [
+              "R56 HIGH EKS",
+              "R56HIGHEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2011 - 2012",
+          "BMW MINI Cooper Cabrio Year of manufacture 2011",
+          "BMW MINI Cooper Countryman Year of manufacture 2011",
+          "BMW MINI Cooper D Year of manufacture 2012",
+          "BMW MINI Cooper D Countryman Year of manufacture 2011",
+          "BMW MINI Cooper S Year of manufacture 2010 - 2011",
+          "BMW MINI Cooper S Countryman Year of manufacture 2011",
+          "BMW MINI Cooper SD Countryman Year of manufacture 2011",
+          "BMW MINI One 1.6 Year of manufacture 2011",
+          "BMW MINI One Year of manufacture 2011 - 2012",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2011",
+          "BMW MINI One Countryman Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345658802-r56higheks-lear-23994322-frm3rpl3-134597.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456588-02",
+              "6135345658802"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 HIGH EKS",
+              "R56HIGHEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Year of manufacture 2011",
+          "BMW MINI Cooper Year of manufacture 2011 - 2012",
+          "BMW MINI Cooper Cabrio Year of manufacture 2011",
+          "BMW MINI Cooper Countryman Year of manufacture 2011 - 2012",
+          "BMW MINI Cooper S Coupe Year of manufacture 2011",
+          "BMW MINI One 1.6 Year of manufacture 2011",
+          "BMW MINI One Year of manufacture 2011",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2011 - 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345695101-r56loweks-lear-23994322-frm3rpl3-141959.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456951-01",
+              "6135345695101"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 LOW EKS",
+              "R56LOWEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345695201-r56higheks-lear-23994322-frm3rpl3-136680.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456952-01",
+              "6135345695201"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 HIGH EKS",
+              "R56HIGHEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2012",
+          "BMW MINI Cooper Cabrio Year of manufacture 2011",
+          "BMW MINI Cooper Countryman Year of manufacture 2012",
+          "BMW MINI Cooper D Year of manufacture 2012",
+          "BMW MINI Cooper D Countryman Year of manufacture 2012",
+          "BMW MINI Cooper S",
+          "BMW MINI Cooper S Countryman Year of manufacture 2010",
+          "BMW MINI One 1.6 Year of manufacture 2012",
+          "BMW MINI One Year of manufacture 2011 - 2012",
+          "BMW MINI One D Countryman Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345695301-r56ahleks-lear-23994322-frm3rpl3-137191.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456953-01",
+              "6135345695301"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 AHL EKS",
+              "R56AHLEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345698601-r56loweks-lear-23994322-frm3rpl3-149817.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456986-01",
+              "6135345698601"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 LOW EKS",
+              "R56LOWEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345698701-r56higheks-lear-23994322-frm3rpl3-137420.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456987-01",
+              "6135345698701"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 HIGH EKS",
+              "R56HIGHEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Clubman Year of manufacture 2012",
+          "BMW MINI One 1.6 Year of manufacture 2012",
+          "BMW MINI One Countryman"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345698801-r56ahleks-lear-23994322-frm3rpl3-139930.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3456988-01",
+              "6135345698801"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 AHL EKS",
+              "R56AHLEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Cabrio Year of manufacture 2012",
+          "BMW MINI Cooper SD Countryman",
+          "BMW MINI One Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/footwell-module-%28frm%29-light-control-unit/bmw-mini-6135345702901-r56loweks-lear-23994322-frm3rpl3-151761.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135 3457029-01",
+              "6135345702901"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "R56 LOW EKS",
+              "R56LOWEKS"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "239943 22",
+              "23994322"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "FRM3R PL3",
+              "FRM3RPL3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "9CBB",
+            "fault_description": "short-circuit error"
+          },
+          {
+            "fault_code": "A3B0",
+            "fault_description": "Communication light module"
+          },
+          {
+            "fault_code": "A3B4",
+            "fault_description": "CAN message Status lighting - Missing message"
+          },
+          {
+            "fault_code": "A3C1",
+            "fault_description": "CAN data buses: CAN communication - Missing message"
+          },
+          {
+            "fault_code": "E0D5",
+            "fault_description": "CAN bus/connection to footwell module"
+          },
+          {
+            "fault_description": "Light failure due to lamp short circuit"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Window regulator (driver/passenger) without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Fuse box SPEG High / Junction box JBBF",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/fuse+box+speg+high+junction+box+jbbf-1045246.ts1654261466.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/central-electronic-6356/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf-6958",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345192401-lear-519306021-148146.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3451924-01",
+              "6135345192401"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "519306021"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Clubman Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345192501-lear-519318026-10681810-m3pl3speg-145919.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3451925-01",
+              "6135345192501"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "519318026"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "M3 PL3 SPEG",
+              "M3PL3SPEG"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345192701-lear-519247225-10681810-pl3speg-153759.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3451927-01",
+              "6135345192701"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "519247225"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "PL3 SPEG",
+              "PL3SPEG"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345373801-lear-519246318-10681810-pl3spegh2-153756.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3453738-01",
+              "6135345373801"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "519246318"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "PL3 SPEG H2",
+              "PL3SPEGH2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345523501-lear-519398051-153857.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35-3455235-01",
+              "6135345523501"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "519398051"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345523701-lear-519400055-10681810-r55l5pl3speg-152146.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455237-01",
+              "6135345523701"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "519400055"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "R55 L5 PL3 SPEG",
+              "R55L5PL3SPEG"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345524102-lear-519404073-10681810-r57pl3speg-150997.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455241-02",
+              "6135345524102"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "519404073"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "R57 PL3 SPEG",
+              "R57PL3SPEG"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Cabrio 1.6i Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345524202-lear-519405070-10681810-144655.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455242-02",
+              "6135345524202"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "519405070"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345543601-lear-51944k107-146978.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455436-01",
+              "6135345543601"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "51944K107"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Clubman Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345543602-lear-51944k123-10681810-144721.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455436-02",
+              "6135345543602"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "51944K123"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Clubman"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345543701-lear-51944l105-10681810-pl3spegr55-153714.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455437-01",
+              "6135345543701"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "51944L105"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "PL3 SPEG R55",
+              "PL3SPEGR55"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Clubman Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345543802-lear-51944f124-149664.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455438-02",
+              "6135345543802"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "51944F124"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345543902-lear-519446122-10681810-pl3spegr56-145922.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455439-02",
+              "6135345543902"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "519446122"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "PL3 SPEG R56",
+              "PL3SPEGR56"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2011",
+          "BMW MINI One Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345544001-abl-lear-51944h104-10681810-149982.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455440-01",
+              "6135345544001"
+            ]
+          },
+          {
+            "title": "ABL",
+            "numbers": []
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "51944H104"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2010 - 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345544002-lear-51944h120-153519.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455440-02",
+              "6135345544002"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "51944H120"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345544201-lear-51944n100-10681810-128113.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455442-01",
+              "6135345544201"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "51944N100"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Cabrio Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345544202-lear-51944n126-10681810-145917.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455442-02",
+              "6135345544202"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "51944N126"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345544302-lear-51944p122-10681810-146758.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455443-02",
+              "6135345544302"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "51944P122"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345552601-lear-519397095-10681810-r56pl3speg-151836.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455526-01",
+              "6135345552601"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "519397095"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "106818 10",
+              "10681810"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "R56 PL3 SPEG",
+              "R56PL3SPEG"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/fuse-box-speg-high-junction-box-jbbf/bmw-mini-6135345552701-lear-519398093-148738.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 3455527-01",
+              "6135345552701"
+            ]
+          },
+          {
+            "title": "LEAR - Part number",
+            "numbers": [
+              "519398093"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2010",
+          "BMW MINI Cooper S JCW Year of manufacture 2010",
+          "BMW MINI One 1,4l Year of manufacture 2010"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Ground module BCM BC1RD",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ground+module+bcm+bc1rd-627378.ts1635405705.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/central-electronic-6356/bmw-mini/central-electronic/ground-module-bcm-bc1rd-6810",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-61356934293-delphi-141797.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135-6 934 293",
+              "61356934293"
+            ]
+          },
+          {
+            "title": "DELPHI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-61356942443-delphi-141796.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135-6 942 443",
+              "61356942443"
+            ]
+          },
+          {
+            "title": "DELPHI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-61356955413-delphi-141798.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135-6 955 413",
+              "61356955413"
+            ]
+          },
+          {
+            "title": "DELPHI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-61356955414-delphi-141799.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135-6 955 414",
+              "61356955414"
+            ]
+          },
+          {
+            "title": "DELPHI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-61356961363-delphi-141800.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135-6 961 363",
+              "61356961363"
+            ]
+          },
+          {
+            "title": "DELPHI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-61356961364-delphi-141801.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135-6 961 364",
+              "61356961364"
+            ]
+          },
+          {
+            "title": "DELPHI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-61356968826-delphi-141803.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135-6 968 826",
+              "61356968826"
+            ]
+          },
+          {
+            "title": "DELPHI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-61356968827-delphi-141802.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135-6 968 827",
+              "61356968827"
+            ]
+          },
+          {
+            "title": "DELPHI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-61356976989-delphi-141804.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6135-6 976 989",
+              "61356976989"
+            ]
+          },
+          {
+            "title": "DELPHI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-6934293-delphi-57762110-144318.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 934 293",
+              "6934293"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "577 621 10",
+              "57762110"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2004",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2002 - 2004",
+          "BMW MINI One 1.4 d Year of manufacture 2004",
+          "BMW MINI One 1.6i Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-6943157-delphi-57762110-145780.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 943 157",
+              "6943157"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "577 621 10",
+              "57762110"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI One 1.6i Year of manufacture 2003 - 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-6946363-61356946363-delphi-57762110-139935.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 946 363",
+              "6946363"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61. 35 - 6 946 363",
+              "61356946363"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "577 621 10",
+              "57762110"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Cabrio 1.6 Year of manufacture 2004",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2004",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-6949288-61356949288-delphi-141795.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 949 288",
+              "6949288"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 - 6 949 288",
+              "61356949288"
+            ]
+          },
+          {
+            "title": "DELPHI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-6949288-delphi-57762110-145026.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 949 288",
+              "6949288"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "577 621 10",
+              "57762110"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Cabrio 1.6 Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-6949289-61356949289-delphi-141794.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 949 289",
+              "6949289"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 - 6 949 289",
+              "61356949289"
+            ]
+          },
+          {
+            "title": "DELPHI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-6949289-delphi-57762110-145772.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 949 289",
+              "6949289"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "577 621 10",
+              "57762110"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini Cooper 1.6"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-6961364-delphi-57762110-147057.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 961 364",
+              "6961364"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "577 621 10",
+              "57762110"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Cabrio 1.6 Year of manufacture 2005",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-6968827-delphi-grundig-57762110-146232.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 968 827",
+              "6968827"
+            ]
+          },
+          {
+            "title": "Delphi Grundig - Part number",
+            "numbers": [
+              "577 621 10",
+              "57762110"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-6976988-61356976988-delphi-57762110-141782.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 976 988",
+              "6976988"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "61.35 - 6 976 988",
+              "61356976988"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "577 621 10",
+              "57762110"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Cabrio 1.6i Year of manufacture 2005",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2002 - 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/central-electronic/ground-module-bcm-bc1rd/bmw-mini-6976989-delphi-57762110-153039.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 976 989",
+              "6976989"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "577 621 10",
+              "57762110"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "000009",
+            "fault_description": "Basic module: Window regulator: interruption electric motor or relay driver's door"
+          },
+          {
+            "fault_code": "00000A",
+            "fault_description": "Basic module: Window regulator: Interruption of electric motor or relay passenger door"
+          },
+          {
+            "fault_code": "000024",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking relay Locking"
+          },
+          {
+            "fault_code": "000025",
+            "fault_description": "basic module: Internal error in the control unit: NC contact interrupts or NO contact sticks"
+          },
+          {
+            "fault_code": "000026",
+            "fault_description": "Basic module: internal ECU error : Opening contact interrupts or closing contact sticks"
+          },
+          {
+            "fault_code": "000027",
+            "fault_description": "Basic module: Internal error in the control unit: Relay locking driver's door"
+          },
+          {
+            "fault_code": "000028",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in"
+          },
+          {
+            "fault_code": "000029",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pick up"
+          },
+          {
+            "fault_code": "00002A",
+            "fault_description": "Basic module: Internal error within the control unit: Central locking: Relay does not pick up when securing"
+          },
+          {
+            "fault_code": "00002B",
+            "fault_description": "Basic module: Internal error in the control unit: Central locking: Relay does not pull in when locking the driver's door"
+          },
+          {
+            "fault_code": "00002C",
+            "fault_description": "Basic module: Internal error in control unit: Window regulator: Relay sticks at driver's doororWindows control - driver side out of order"
+          },
+          {
+            "fault_code": "00002D",
+            "fault_description": "Basic module: Internal error in the ECU: Window regulator: Relay sticks at passenger doororPassenger side window regulator without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Cabrio 1.6 Year of manufacture 2005 - 2006",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2005"
+        ]
+      }
+    ]
+  }
+]

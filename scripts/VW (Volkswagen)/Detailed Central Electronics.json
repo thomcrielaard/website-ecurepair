@@ -1,0 +1,4064 @@
+[
+  {
+    "part_name": "BCM PQ24",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/bcm+pq24-185273.ts1628719418.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/central-electronics-3088/vw-%28volkswagen%29/central-electronics/bcm-pq24-7244",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q0937049b-siemens-5wk48211-133668.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q0 937 049 B",
+              "6Q0937049B"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK48211"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q0937049c-siemens-5wk48211c-136808.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q0 937 049 C",
+              "6Q0937049C"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK4 8211 C",
+              "5WK48211C"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.2 (Polo, 9N) Year of manufacture 2003 Engine code AZQ",
+          "VOLKSWAGEN-VW Polo 1.4 (Polo, 9N) Year of manufacture 2003 Engine code BKY"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q0937049d-siemens-5wk48211d-126942.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q0 937 049 D",
+              "6Q0937049D"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK48211D"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.4 (Polo, 9N) Year of manufacture 2006 Engine code BKY",
+          "VOLKSWAGEN-VW Polo 1.6 (Polo, 9N) Year of manufacture 2006 Engine code BTS"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q0937049f-siemens-5wk48216-136216.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q0 937 049 F",
+              "6Q0937049F"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK48216"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.2 (Polo, 9N) Year of manufacture 2005 Engine code AZQ",
+          "VOLKSWAGEN-VW Polo 1.4 (Polo, 9N) Year of manufacture 2005 - 2008 Engine code BKY, BUD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q1937049b-siemens-5wk48212-126132.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q1 937 049 B",
+              "6Q1937049B"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK48212"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.2 (Polo, 9N) Year of manufacture 2001 - 2002 Engine code AZQ, AWY",
+          "VOLKSWAGEN-VW Polo 1.4 (Polo, 9N) Year of manufacture 2002 Engine code BBY"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q1937049c-siemens-5wk48212c-122058.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q1 937 049 C",
+              "6Q1937049C"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK48212C"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.2 (Polo, 9N) Year of manufacture 2002 - 2003 Engine code AWY, BMD, AZQ",
+          "VOLKSWAGEN-VW Polo 1.4 (Polo, 9N) Year of manufacture 2003 - 2004 Engine code BBY, BKY",
+          "VOLKSWAGEN-VW Touran 1.6 FSI (Touran, 1T) Year of manufacture 2003 Engine code BLF"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q1937049d-siemens-5wk48212-128114.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q1 937 049 D",
+              "6Q1937049D"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK48212"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Fox 1.2 (Fox, 5Z) Year of manufacture 2005 - 2006 Engine code BMD",
+          "VOLKSWAGEN-VW Fox 1.4 (Fox, 5Z) Year of manufacture 2005 Engine code BKR",
+          "VOLKSWAGEN-VW Polo 1.2 (Polo, 9N) Year of manufacture 2007 Engine code BMD",
+          "VOLKSWAGEN-VW Polo 1.4 (Polo, 9N) Year of manufacture 2006 - 2007 Engine code BUD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q1937049d-siemens-5wk48212d-123269.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q1 937 049 D",
+              "6Q1937049D"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK48212D"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.2 (Polo, 9N) Year of manufacture 2004 - 2008 Engine code AWY, BMD, AZQ, BME, BZG",
+          "VOLKSWAGEN-VW Polo 1.4 (Polo, 9N) Year of manufacture 2003 - 2007 Engine code BBZ, BKY, BUD",
+          "VOLKSWAGEN-VW Polo 1.4 TDI (Polo, 9N) Year of manufacture 2006 Engine code BNM, BMS",
+          "VOLKSWAGEN-VW Polo 1.9 TDI (Polo, 9N) Year of manufacture 2006 Engine code AXR, BMT"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q1937049f-siemens-5wk48212-119704.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q1 937 049 F",
+              "6Q1937049F"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK48212"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.2 (Polo, 9N) Year of manufacture 2009 Engine code BBM",
+          "VOLKSWAGEN-VW Polo 1.4 (Polo, 9N) Year of manufacture 2008 Engine code BUD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q1937049f-siemens-5wk48217-129430.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q1 937 049 F",
+              "6Q1937049F"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK48217"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Fox 1.2 (Fox, 5Z) Year of manufacture 2009 Engine code BMD",
+          "VOLKSWAGEN-VW Polo 1.2 (Polo, 9N) Year of manufacture 2007 - 2009 Engine code BME, BZG, BBM",
+          "VOLKSWAGEN-VW Polo 1.4 (Polo, 9N) Year of manufacture 2007 - 2009 Engine code BUD",
+          "VOLKSWAGEN-VW Polo 1.4 TDI (Polo, 9N) Year of manufacture 2008 - 2009 Engine code BNM, BMS",
+          "VOLKSWAGEN-VW Polo 1.6 (Polo, 9N) Year of manufacture 2007 Engine code BTS",
+          "VOLKSWAGEN-VW Polo 1.9 TDI (Polo, 9N) Year of manufacture 2008 Engine code BMT"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q2937049c-siemens-5wk48213c-126941.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q2 937 049 C",
+              "6Q2937049C"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK48213C"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.2 (Polo, 9N) Year of manufacture 2003 Engine code BMD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q2937049d-siemens-5wk48213d-136171.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q2 937 049 D",
+              "6Q2937049D"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK4 8213 D",
+              "5WK48213D"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.2 (Polo, 9N) Year of manufacture 2006 Engine code AWY"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq24/volkswagen-vw-6q2937049f-siemens-5wk48218-126939.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6Q2 937 049 F",
+              "6Q2937049F"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK48218"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Fox 1.2 (Fox, 5Z) Year of manufacture 2010 Engine code BMD",
+          "VOLKSWAGEN-VW Polo 1.2 (Polo, 9N) Year of manufacture 2007 - 2009 Engine code BZG, BBM",
+          "VOLKSWAGEN-VW Polo 1.4 (Polo, 9N) Year of manufacture 2009 Engine code BUD",
+          "VOLKSWAGEN-VW Sharan 2.0 TDI 4Motion (Sharan, 7N) Engine code CFFA"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "BCM PQ25",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/bcm+pq25-191568.ts1628712916.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/central-electronics-3088/vw-%28volkswagen%29/central-electronics/bcm-pq25-5814",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937086-lk-10090688-130906.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 086",
+              "1S0937086"
+            ]
+          },
+          {
+            "title": "LK - Part number",
+            "numbers": [
+              "10090688"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2011 - 2012 Engine code CHYA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937086b-lk-10095794-135955.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 086 B",
+              "1S0937086B"
+            ]
+          },
+          {
+            "title": "LK - Part number",
+            "numbers": [
+              "10095794"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2012 - 2013 Engine code CHYA, CHYB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937086d-lk-10099782-142360.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 086 D",
+              "1S0937086D"
+            ]
+          },
+          {
+            "title": "LK - Part number",
+            "numbers": [
+              "10099782"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2014 - 2015 Engine code CHYA, CHYB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937086f-lk-10121291-136019.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 086 F",
+              "1S0937086F"
+            ]
+          },
+          {
+            "title": "LK - Part number",
+            "numbers": [
+              "10121291"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2015 - 2016 Engine code CHYA, CHYB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937087-lk-10090690-151227.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 087",
+              "1S0937087"
+            ]
+          },
+          {
+            "title": "LK - Part number",
+            "numbers": [
+              "10090690"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2011 - 2012 Engine code CHYA, CHYB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937087b-lk-10095796-144263.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 087 B",
+              "1S0937087B"
+            ]
+          },
+          {
+            "title": "LK - Part number",
+            "numbers": [
+              "10095796"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2013 Engine code CHYA, CHYB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937087d-lk-10099784-139141.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 087 D",
+              "1S0937087D"
+            ]
+          },
+          {
+            "title": "LK - Part number",
+            "numbers": [
+              "10099784"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2014 Engine code CHYA, CHYB",
+          "VOLKSWAGEN-VW Up! 1.0 (up!, AA) Year of manufacture 2013 Engine code CHYA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937087f-lk-10121293-145108.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 087 F",
+              "1S0937087F"
+            ]
+          },
+          {
+            "title": "LK - Part number",
+            "numbers": [
+              "10121293"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2013 - 2016 Engine code CHYA, CHYB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937087h-continental-5wk50980-149137.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 087 H",
+              "1S0937087H"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50980"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2017 Engine code CHYA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937087k-continental-5wk50254-151376.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 087 K",
+              "1S0937087K"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50254"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2018 Engine code CHYA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937090-lk-10027054-139358.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 090",
+              "1S0937090"
+            ]
+          },
+          {
+            "title": "LK - Part number",
+            "numbers": [
+              "10027054"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2013 Engine code CHYB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937090b-lk-10101930-136287.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 090 B",
+              "1S0937090B"
+            ]
+          },
+          {
+            "title": "LK - Part number",
+            "numbers": [
+              "10101930"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2013 - 2014 Engine code CHYA, CHYB",
+          "VOLKSWAGEN-VW Up! 1.0 EcoFuel (up!, AA) Year of manufacture 2013 - 2014 Engine code CPGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937090d-lk-10121295-152558.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 090 D",
+              "1S0937090D"
+            ]
+          },
+          {
+            "title": "LK - Part number",
+            "numbers": [
+              "10121295"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2012 - 2014 Engine code CHYA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937090h-continental-5wk50254-148249.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 090 H",
+              "1S0937090H"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50254"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Up! 1.0 BlueMotion (up!, AA) Year of manufacture 2017 - 2018 Engine code CHYA, CHYB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-1s0937090m-continental-5wk50254-153440.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1S0 937 090 M",
+              "1S0937090M"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50254"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-5c0937087j-continental-5wk50249-a2c82290801-137306.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5C0 937 087 J",
+              "5C0937087J"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK5 0249",
+              "5WK50249"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C82290801"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-5c5937087-continental-5wk50444-151507.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5C5 937 087",
+              "5C5937087"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50444"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-5c5937087a-continental-5wk50443-137889.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5C5 937 087 A",
+              "5C5937087A"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50443"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-5c5937087d-continental-5wk50254-150550.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5C5 937 087 D",
+              "5C5937087D"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50254"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Beetle 1.4 TSI Cabriolet (Beetle, 5C) Year of manufacture 2013 - 2014"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq25/volkswagen-vw-6r0937085a-continental-5wk49951a-siemens-127576.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6R0 937 085 A",
+              "6R0937085A"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK49951A"
+            ]
+          },
+          {
+            "title": "Siemens",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Brake light without function"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "Outage of front wipers"
+          },
+          {
+            "fault_description": "Parking light malfunction"
+          },
+          {
+            "fault_description": "failure tailgate lock"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.2 (Polo, 6R) Year of manufacture 2009 - 2010 Engine code CGPB, CGPA"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "BCM PQ35  II",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/bcm+pq35+ii-491206.ts1628717326.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/central-electronics-3088/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii-6667",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-2k5937085-continental-5wk50417a-142273.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "2K5 937 085",
+              "2K5937085"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50417A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.2 TSI (Caddy, 2C) Year of manufacture 2011 Engine code CBZA",
+          "VOLKSWAGEN-VW Caddy 1.6 TDI (Caddy, 2C) Year of manufacture 2011 Engine code CAYE, CAYD",
+          "VOLKSWAGEN-VW Caddy 1.6 TDI (Caddy, 2K) Year of manufacture 2011 Engine code CAYD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-2k5937086b-continental-5wk50419a-126787.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "2K5 937 086 B",
+              "2K5937086B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50419A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.2 TSI (Caddy, 2C) Year of manufacture 2011 Engine code CBZA, CBZB",
+          "VOLKSWAGEN-VW Caddy 1.2 TSI (Caddy, 2K) Year of manufacture 2010 Engine code CBZA",
+          "VOLKSWAGEN-VW Caddy 1.6 TDI (Caddy, 2C) Year of manufacture 2011 Engine code CAYD",
+          "VOLKSWAGEN-VW Caddy 1.6 TDI (Caddy, 2K) Year of manufacture 2011 Engine code CAYD, CAYE",
+          "VOLKSWAGEN-VW Caddy 2.0 TDI (Caddy, 2K) Year of manufacture 2010 Engine code CFHC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937084-continental-5wk50085-133076.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 084",
+              "5K0937084"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50085"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.6 TDI Variant (Golf VI, 1K) Year of manufacture 2010 Engine code CAYC",
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Year of manufacture 2009 Engine code CAVA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937084b-continental-5wk50205-132851.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 084 B",
+              "5K0937084B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50205"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.2 TSI Variant (Golf VI, 1K) Year of manufacture 2010 Engine code CBZB",
+          "VOLKSWAGEN-VW Golf 1.4 TSI Variant (Golf VI, 5K) Year of manufacture 2010 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf V 1.6 Variant (Golf V, 1K) Year of manufacture 2010 Engine code BSE",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI (Golf V, 1K) Year of manufacture 2010 Engine code CBDB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937084d-continental-5wk50294-136933.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 084 D",
+              "5K0937084D"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50294"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.6 TDI Variant (Golf VI, 1K) Year of manufacture 2010 - 2011 Engine code CAYC",
+          "VOLKSWAGEN-VW Golf V 1.6 FSI (Golf V, 1K) Year of manufacture 2010 Engine code BLF",
+          "VOLKSWAGEN-VW Touran 1.2 TSI (Touran, 1T) Year of manufacture 2010 Engine code CBZB",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937084f-continental-5wg50282-131967.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 084 F",
+              "5K0937084F"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WG50282"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.2 TSI Variant (Golf VI, 1K) Year of manufacture 2011 Engine code CBZA",
+          "VOLKSWAGEN-VW Golf 1.4 TSI Variant (Golf VI, 5K) Year of manufacture 2011 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf 1.6 TDI Variant (Golf V, 1K) Year of manufacture 2011 Engine code CAYC",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI (Golf V, 1K) Year of manufacture 2011 Engine code CBDB",
+          "VOLKSWAGEN-VW Scirocco 1.4 TSI (Scirocco, 13) Year of manufacture 2011 Engine code CAXA",
+          "VOLKSWAGEN-VW Touran 1.4 TSI (Touran, 1T) Year of manufacture 2011 Engine code CAVC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937084f-continental-5wk50282b-148123.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 084 F",
+              "5K0937084F"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50282B"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Year of manufacture 2011 Engine code CAWA",
+          "VOLKSWAGEN-VW Touran 1.2 TSI (Touran, 1T) Year of manufacture 2011 Engine code CBZB",
+          "VOLKSWAGEN-VW Touran 1.4 TSI (Touran, 1T) Year of manufacture 2011 Engine code CAVC",
+          "VOLKSWAGEN-VW Touran 1.6 TDI (Touran, 1T) Year of manufacture 2011 Engine code CAYC",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2011 Engine code BKD, BMM"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937084h-continental-5wg50401-148386.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 084 H",
+              "5K0937084H"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WG50401"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.6 TDI Variant (Golf V, 1K) Year of manufacture 2012 Engine code CAYC",
+          "VOLKSWAGEN-VW Touran 1.2 TSI (Touran, 1T) Year of manufacture 2012 Engine code CBZB",
+          "VOLKSWAGEN-VW Touran 1.6 TDI (Touran, 1T) Year of manufacture 2012 Engine code CAYC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937084k-continental-5wk50501a-148585.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 084 K",
+              "5K0937084K"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50501A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 2.0 TDI BlueMotion (Sharan, 7N) Year of manufacture 2015 Engine code CFFB",
+          "VOLKSWAGEN-VW Sharan 2.0 TDI (Sharan, 7N) Year of manufacture 2015 Engine code CFFB",
+          "VOLKSWAGEN-VW Touran 1.2 TSI (Touran, 1T) Year of manufacture 2014 Engine code CBZB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937084m-continental-5wk50801a-152792.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 084 M",
+              "5K0937084M"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50801A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937084n-continental-5wk50808a-135193.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 084 N",
+              "5K0937084N"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50808A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937085aa-continental-5wk50502a-132603.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 085 AA",
+              "5K0937085AA"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50502A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.2 TSI (Caddy, 2C) Year of manufacture 2014 Engine code CBZB",
+          "VOLKSWAGEN-VW Caddy 1.6 TDI (Caddy, 2C) Year of manufacture 2013 - 2015 Engine code CAYD, CAYE",
+          "VOLKSWAGEN-VW Caddy 1.6 TDI (Caddy, 2K) Year of manufacture 2014 Engine code CAYD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937085ad-continental-5wk50802a-135930.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 085 AD",
+              "5K0937085AD"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50802A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.0 (Caddy, 2K) Year of manufacture 2017 Engine code CHZG",
+          "VOLKSWAGEN-VW Caddy 1.2 TSI (Caddy, SA) Year of manufacture 2016 Engine code CYVC",
+          "VOLKSWAGEN-VW Caddy 1.6 TDI (Caddy, 2C) Year of manufacture 2015 - 2016 Engine code CAYD",
+          "VOLKSWAGEN-VW Caddy 2.0 TDI (Caddy, 2K) Year of manufacture 2016 Engine code DFSD",
+          "VOLKSWAGEN-VW Caddy Alltrack 2.0 TDI BlueMotion (Caddy, 2K) Year of manufacture 2016 Engine code DFSD, DFSF"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937085r-continental-5wk50402a-148108.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 085 R",
+              "5K0937085R"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50402A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.2 TSI (Caddy, 2C) Year of manufacture 2013 Engine code CBZA",
+          "VOLKSWAGEN-VW Caddy 1.2 TSI (Caddy, 2K) Year of manufacture 2012 Engine code CBZA",
+          "VOLKSWAGEN-VW Caddy 1.6 TDI (Caddy, 2K) Year of manufacture 2012 Engine code CAYD",
+          "VOLKSWAGEN-VW Caddy 2.0 TDI (Caddy, 2K) Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937086-continental-5wk49572-142137.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 086",
+              "5K0937086"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK49572"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Eos 1.4 TSI (Eos, 1F) Year of manufacture 2009",
+          "VOLKSWAGEN-VW Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Year of manufacture 2009 Engine code CAWA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937086-continental-5wk50087-134350.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 086",
+              "5K0937086"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50087"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 TSI Variant (Golf VI, 1K) Year of manufacture 2009 Engine code CAVD",
+          "VOLKSWAGEN-VW Golf 1.4 TSI Variant (Golf VI, 5K) Year of manufacture 2010 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf 1.6 TDI Variant (Golf V, 1K) Year of manufacture 2010 Engine code CAYC",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI Variant (Golf V, 1K) Year of manufacture 2009 - 2010 Engine code CFHC",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937086aa-continental-5wk50804a-138170.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 086 AA",
+              "5K0937086AA"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50804A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.0 (Caddy, 2K) Year of manufacture 2017 Engine code CHZG",
+          "VOLKSWAGEN-VW Caddy 1.4 TSI (Caddy, 2K) Year of manufacture 2015 - 2016 Engine code CZCB",
+          "VOLKSWAGEN-VW Caddy 2.0 TDI (Caddy, 2K) Year of manufacture 2015 - 2017 Engine code CUUD",
+          "VOLKSWAGEN-VW Caddy 2.0 TDI (Caddy, SA) Year of manufacture 2015 - 2017 Engine code CUUD",
+          "VOLKSWAGEN-VW Caddy Alltrack 2.0 TDI BlueMotion (Caddy, 2K) Year of manufacture 2017 Engine code DFSF"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937086ad-continental-5wk50254-a2c16540502-149363.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 086 AD",
+              "5K0937086AD"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50254"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 1654 0502",
+              "A2C16540502"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.4 TSI (Caddy, 2K) Year of manufacture 2020 Engine code DJKD",
+          "VOLKSWAGEN-VW Caddy 2.0 TDI (Caddy, 2K) Year of manufacture 2020 Engine code CUUD",
+          "VOLKSWAGEN-VW Caddy 2.0 TDI (Caddy, SA) Year of manufacture 2019 Engine code DFSB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937086c-continental-5wk50055a-133263.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 086 C",
+              "5K0937086C"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50055A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Scirocco 1.4 TSI (Scirocco, 13) Year of manufacture 2010 Engine code CAVD",
+          "VOLKSWAGEN-VW Scirocco 2.0 TSI (Scirocco, 13) Year of manufacture 2010 Engine code CCZB",
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Year of manufacture 2010 Engine code CAVA",
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI (Tiguan, 5N) Year of manufacture 2010 Engine code CAVA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-ii/volkswagen-vw-5k0937086c-continental-5wk50207-133182.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 937 086 C",
+              "5K0937086C"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WK50207"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Failure of individual exterior lighting lamps"
+          },
+          {
+            "fault_description": "Windscreen wiper malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.2 TSI Variant (Golf VI, 1K) Year of manufacture 2010 Engine code CBZB",
+          "VOLKSWAGEN-VW Golf 1.4 TSI Variant (Golf V, 1K) Year of manufacture 2010 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI (Golf V, 1K) Year of manufacture 2010 Engine code CBDB"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "BCM PQ35 I",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/bcm+pq35+i-3661034.ts1710841841.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/central-electronics-3088/vw-%28volkswagen%29/central-electronics/bcm-pq35-i-5665",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049-bosch-f005v00214-146430.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049",
+              "1K0937049"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "F005 V0  0214",
+              "F005V00214"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 2.0 SDI (Caddy, 2K) Year of manufacture 2004 - 2005 Engine code BDJ"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049aa-bosch-f005v00495-136757.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 AA",
+              "1K0937049AA"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "F005 V0 0495",
+              "F005V00495"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.9 SDI (Caddy, 2K) Year of manufacture 2006",
+          "VOLKSWAGEN-VW Caddy 2.0 SDI (Caddy, 2K) Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049ag-bosch-f005v00659-149241.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 AG",
+              "1K0937049AG"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "F005 V0 0659",
+              "F005V00659"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049f-bosch-f005v00215-121678.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 F",
+              "1K0937049F"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "F005 V0 0215",
+              "F005V00215"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touran 1.6 (Touran, 1T) Year of manufacture 2004 Engine code BGU"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049g-bosch-f005v00216-122002.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 G",
+              "1K0937049G"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "F005 V0 0216",
+              "F005V00216"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2003 Engine code AZV"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049k-bosch-f005v00456-131049.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 K",
+              "1K0937049K"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "F005 V0 0456",
+              "F005V00456"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.4 (Caddy, 2K) Year of manufacture 2004 Engine code BCA",
+          "VOLKSWAGEN-VW Caddy 2.0 SDI (Caddy, 2K) Year of manufacture 2004",
+          "VOLKSWAGEN-VW Golf 1.4 (Golf V, 1K) Year of manufacture 2003 - 2005 Engine code BCA",
+          "VOLKSWAGEN-VW Golf V 1.6 FSI (Golf V, 1K) Year of manufacture 2004 Engine code BLF",
+          "VOLKSWAGEN-VW Golf V 1.6 (Golf V, 1K) Year of manufacture 2004 Engine code BGU",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI (Golf V, 1K) Year of manufacture 2004 Engine code BKC",
+          "VOLKSWAGEN-VW Touran 1.6 (Touran, 1T) Year of manufacture 2004 Engine code BGU",
+          "VOLKSWAGEN-VW Touran 1.9 TDI (Touran, 1T) Year of manufacture 2004 Engine code AVQ"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049l-bosch-f005v00459-128367.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 L",
+              "1K0937049L"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "F005 V0 0459",
+              "F005V00459"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 (Golf V, 1K) Year of manufacture 2003 Engine code BCA",
+          "VOLKSWAGEN-VW Golf V 1.6 FSI (Golf V, 1K) Year of manufacture 2004 Engine code BLF",
+          "VOLKSWAGEN-VW Touran 1.6 FSI (Touran, 1T) Year of manufacture 2003 - 2004 Engine code BLF",
+          "VOLKSWAGEN-VW Touran 1.9 TDI (Touran, 1T) Year of manufacture 2004 Engine code AVQ",
+          "VOLKSWAGEN-VW Touran 2.0 FSI (Touran, 1T) Year of manufacture 2004",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2004 Engine code AZV"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049l-delphi-21001991-127103.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 L",
+              "1K0937049L"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "21001991"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049m-bosch-f005v00482-122606.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 M",
+              "1K0937049M"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "F005 V0 0482",
+              "F005V00482"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 (Golf V, 1K) Year of manufacture 2005 Engine code BCA",
+          "VOLKSWAGEN-VW Golf Plus 1.4 (Golf Plus, 1K) Year of manufacture 2005 Engine code BCA",
+          "VOLKSWAGEN-VW Golf Plus 1.6 FSI (Golf Plus, 1K) Year of manufacture 2005 Engine code BLF",
+          "VOLKSWAGEN-VW Golf Plus 1.9 TDI (Golf Plus, 1K) Year of manufacture 2005 Engine code BKC",
+          "VOLKSWAGEN-VW Golf V 1.4 FSI (Golf V, 1K) Year of manufacture 2006 Engine code BKG",
+          "VOLKSWAGEN-VW Golf V 1.6 (Golf V, 1K) Year of manufacture 2004 - 2005 Engine code BGU"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049m-delphi-21002971-152432.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 M",
+              "1K0937049M"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "21002971"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf Plus 1.9 TDI (Golf Plus, 1K) Year of manufacture 2008 Engine code BKC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049n-bosch-f005v00483-127884.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 N",
+              "1K0937049N"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "F005 V0 0483",
+              "F005V00483"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.6 (Caddy, 2K) Year of manufacture 2005 Engine code BSE",
+          "VOLKSWAGEN-VW Golf GTI (Golf V, 1K) Year of manufacture 2004 - 2005 Engine code AXX",
+          "VOLKSWAGEN-VW Golf V 1.6 FSI (Golf V, 1K) Year of manufacture 2004 - 2005 Engine code BLF",
+          "VOLKSWAGEN-VW Golf V 1.6 (Golf V, 1K) Year of manufacture 2005 Engine code BGU",
+          "VOLKSWAGEN-VW Golf V 2.0 FSI (Golf V, 1K) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049s-bosch-f005v00496-137250.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 S",
+              "1K0937049S"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "F005 V0 0496",
+              "F005V00496"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 (Golf V, 1K) Year of manufacture 2004 Engine code BCA",
+          "VOLKSWAGEN-VW Golf 1.6 FSI (Golf V, 1K) Year of manufacture 2004 Engine code BAG",
+          "VOLKSWAGEN-VW Golf V 1.6 (Golf V, 1K) Year of manufacture 2004 - 2005 Engine code BGU",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI (Golf V, 1K) Year of manufacture 2004 Engine code BRU",
+          "VOLKSWAGEN-VW Touran 1.6 (Touran, 1T) Year of manufacture 2004 Engine code BGU"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049s-delphi-28000674-129935.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 S",
+              "1K0937049S"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "28000674"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-1k0937049t-bosch-f005v00497-131048.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 049 T",
+              "1K0937049T"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "F005 V0 0497",
+              "F005V00497"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf GTI (Golf V, 1K) Year of manufacture 2004 - 2005 Engine code AXX",
+          "VOLKSWAGEN-VW Golf V 1.6 (Golf V, 1K) Year of manufacture 2004 Engine code BGU",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2004 Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-3c0937049ad-bosch-f005v00630-150511.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C0 937 049 AD",
+              "3C0937049AD"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "F005 V0 0630",
+              "F005V00630"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Jetta 1.6 (Jetta, 1K) Year of manufacture 2007 Engine code BSE"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-3c0937049ae-bosch-f005v00631-141645.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C0 937 049 AE",
+              "3C0937049AE"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "F005 V0 0631",
+              "F005V00631"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.9 TDI (Caddy, 2K) Year of manufacture 2007 Engine code BLS",
+          "VOLKSWAGEN-VW Eos 1.6 FSI (Eos, 1F) Year of manufacture 2007",
+          "VOLKSWAGEN-VW Eos 2.0 TSI (Eos, 1F) Year of manufacture 2007 Engine code BWA",
+          "VOLKSWAGEN-VW Golf Plus 1.4 (Golf Plus, 1K) Year of manufacture 2006 Engine code BUD",
+          "VOLKSWAGEN-VW Golf Plus 1.6 (Golf Plus, 1K) Year of manufacture 2007 Engine code BLF, BSE",
+          "VOLKSWAGEN-VW Golf Plus 1.9 TDI (Golf Plus, 1K) Year of manufacture 2007 - 2008 Engine code BKC",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI Variant (Golf V, 1K) Year of manufacture 2007 Engine code BXE",
+          "VOLKSWAGEN-VW Passat 1.9 TDI Variant (Passat, 3C) Year of manufacture 2007 Engine code BKC",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3C) Year of manufacture 2007 Engine code BMP",
+          "VOLKSWAGEN-VW Touran 1.9 TDI (Touran, 1T) Year of manufacture 2007 Engine code BLS",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2007 Engine code CFJA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-3c0937049ae-delphi-28068688-124221.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C0 937 049 AE",
+              "3C0937049AE"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "28068688"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.9 TDI (Caddy, 2K) Year of manufacture 2007 Engine code BLS",
+          "VOLKSWAGEN-VW Caddy 2.0 (Caddy, 2K) Year of manufacture 2007",
+          "VOLKSWAGEN-VW Golf Plus 1.6 (Golf Plus, 1K) Year of manufacture 2007 Engine code BSE",
+          "VOLKSWAGEN-VW Passat 1.6 (Passat, 3C) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-3c0937049ah-bosch-f005v00660-153231.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C0 937 049 AH",
+              "3C0937049AH"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "F005 V0 0660",
+              "F005V00660"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf V 1.9 TDI Variant (Golf V, 1K) Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-3c0937049ah-delphi-28093191-127579.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C0 937 049 AH",
+              "3C0937049AH"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "28093191"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.6 (Golf VI, 1K) Year of manufacture 2008 Engine code BSE",
+          "VOLKSWAGEN-VW Golf Plus 1.9 TDI (Golf Plus, 1K) Year of manufacture 2007 Engine code BKC",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI Variant 4Motion (Golf V, 1K) Year of manufacture 2008 Engine code BLS",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI Variant (Golf V, 1K) Year of manufacture 2008",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI (Tiguan, 5N) Year of manufacture 2009 Engine code CFFB",
+          "VOLKSWAGEN-VW Touran 1.4 TSI (Touran, 1T) Year of manufacture 2007 Engine code CAVC",
+          "VOLKSWAGEN-VW Touran 1.9 TDI (Touran, 1T) Year of manufacture 2007 Engine code BLS"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-pq35-i/volkswagen-vw-3c0937049aj-bosch-f005v00661-131583.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C0 937 049 AJ",
+              "3C0937049AJ"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "F005 V0 0661",
+              "F005V00661"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Back / backwards light malfunction"
+          },
+          {
+            "fault_description": "Indicator failure"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "headlight failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.9 TDI (Caddy, 2K) Year of manufacture 2007 Engine code BLS",
+          "VOLKSWAGEN-VW Caddy Life 1.6 (Caddy, 2K) Year of manufacture 2008 Engine code BSE",
+          "VOLKSWAGEN-VW Eos 1.6 FSI (Eos, 1F) Year of manufacture 2007",
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf V, 1K) Year of manufacture 2007 Engine code BMY, CAXA",
+          "VOLKSWAGEN-VW Golf 1.4 TSI Variant (Golf VI, 5K) Year of manufacture 2008 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf 1.9 TDI (Golf V, 1K) Year of manufacture 2008 Engine code BXF",
+          "VOLKSWAGEN-VW Golf Plus 1.9 TDI (Golf Plus, 1K) Year of manufacture 2007 Engine code BKC",
+          "VOLKSWAGEN-VW Golf V 1.4 (Golf V, 1K) Year of manufacture 2008 Engine code CGGA",
+          "VOLKSWAGEN-VW Golf V 1.6 (Golf V, 1K) Year of manufacture 2007 - 2008 Engine code BSE",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI (Golf V, 1K) Year of manufacture 2008",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI Variant (Golf V, 1K) Year of manufacture 2008 Engine code BLS",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI (Golf V, 1K) Year of manufacture 2007 Engine code BMM",
+          "VOLKSWAGEN-VW Passat 1.9 TDI (Passat, 3C) Year of manufacture 2007 Engine code BLS",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3C) Year of manufacture 2008 Engine code BMP",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3C) Year of manufacture 2007 Engine code BMP",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2008 Engine code CBAB",
+          "VOLKSWAGEN-VW Touran 1.4 TSI (Touran, 1T) Year of manufacture 2008 Engine code CAVC",
+          "VOLKSWAGEN-VW Touran 1.9 TDI (Touran, 1T) Year of manufacture 2008 Engine code BLS",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2007 - 2008 Engine code BKD, BMN"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "BCM VAG",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/bcm+vag-491146.ts1628717325.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/central-electronics-3088/vw-%28volkswagen%29/central-electronics/bcm-vag-5943",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937084-hella-5dk00965000-147399.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 084",
+              "1K0937084"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 650-00",
+              "5DK00965000"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937084-hella-5dk00965005-136524.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 084",
+              "1K0937084"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 650-05",
+              "5DK00965005"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 2.0 TDI (Golf VI, 5K) Year of manufacture 2010 Engine code CBDC",
+          "VOLKSWAGEN-VW Golf V 1.6 FSI (Golf V, 1K) Year of manufacture 2009 Engine code BLF"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937084b-hella-5dk00965005-147655.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 084 B",
+              "1K0937084B"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 650-05",
+              "5DK00965005"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf VI, 1K) Year of manufacture 2009 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf Plus 1.2 TSI (Golf Plus, 1K) Year of manufacture 2010 Engine code CBZB",
+          "VOLKSWAGEN-VW Golf V 1.4 (Golf V, 1K) Year of manufacture 2009 - 2010 Engine code CGGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937084d-hella-5dk00965006-149821.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 084 D",
+              "1K0937084D"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 650-06",
+              "5DK00965006"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf Plus 1.2 TSI (Golf Plus, 1K) Year of manufacture 2011 Engine code CBZB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937084f-hella-5dk00965008-144431.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 084 F",
+              "1K0937084F"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 650-08",
+              "5DK00965008"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937084h-hella-5dk00965009-146804.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 084 H",
+              "1K0937084H"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 650-09",
+              "5DK00965009"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.6 TDI (Golf VI, 1K) Year of manufacture 2012 Engine code CAYC",
+          "VOLKSWAGEN-VW Golf Plus 1.6 TDI (Golf Plus, 1K) Year of manufacture 2013 Engine code CAYC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937085-hella-5dk00965100-150277.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 085",
+              "1K0937085"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 651-00",
+              "5DK00965100"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf V 1.6 (Golf V, 1K) Year of manufacture 2009 Engine code BSE"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937085d-hella-5dk00965105-138719.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 085 D",
+              "1K0937085D"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 651-05",
+              "5DK00965105"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf VI, 1K) Year of manufacture 2009 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf 1.6 (Golf VI, 1K) Year of manufacture 2010 Engine code CHGA",
+          "VOLKSWAGEN-VW Golf V 1.4 (Golf V, 1K) Year of manufacture 2009 Engine code CGGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937085g-hella-5dk00965255-152168.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 085 G",
+              "1K0937085G"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 652-55",
+              "5DK00965255"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937085h-hella-5dk00965106-151707.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 085 H",
+              "1K0937085H"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 651-06",
+              "5DK00965106"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf V 1.4 (Golf V, 1K) Year of manufacture 2010 Engine code CGGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937085p-hella-5dk00965109-136119.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 085 P",
+              "1K0937085P"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 651-09",
+              "5DK00965109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf V 1.4 (Golf V, 1K) Year of manufacture 2012 Engine code CGGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937086-hella-5dk00965300-146503.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 086",
+              "1K0937086"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 653-00",
+              "5DK00965300"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf VI, 1K) Year of manufacture 2009 Engine code CAVD, CAXA",
+          "VOLKSWAGEN-VW Golf 1.6 (Golf VI, 1K) Year of manufacture 2009 Engine code BSE"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937086a-hella-5dk00965600-148376.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 086 A",
+              "1K0937086A"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 656-00",
+              "5DK00965600"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf VI, 1K) Year of manufacture 2009 Engine code CAXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937086aa-hella-5dk00965310-127671.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 086 AA",
+              "1K0937086AA"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 653 10",
+              "5DK00965310"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 TSI Cabriolet (Golf VI, 1K) Year of manufacture 2014 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf 1.6 (Golf VI, 1K) Year of manufacture 2009 Engine code BSE",
+          "VOLKSWAGEN-VW Golf 2.0 TDI Cabriolet (Golf VI, 1K) Year of manufacture 2014 Engine code CFHC",
+          "VOLKSWAGEN-VW Golf Plus 2.0 TDI (Golf Plus, 1K) Year of manufacture 2013 Engine code CBDB",
+          "VOLKSWAGEN-VW Golf V 1.4 (Golf V, 1K) Year of manufacture 2009 Engine code CGGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937086c-hella-5dk00965305-134478.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 086 C",
+              "1K0937086C"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 653-05",
+              "5DK00965305"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.2 TSI (Golf VI, 1K) Year of manufacture 2010 Engine code CBZB",
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf VI, 1K) Year of manufacture 2009 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf 1.6 Variant (Golf VI, 1K) Year of manufacture 2010 Engine code BSE",
+          "VOLKSWAGEN-VW Golf Plus 1.4 (Golf Plus, 1K) Year of manufacture 2009 - 2010 Engine code CGGA",
+          "VOLKSWAGEN-VW Golf Plus 1.4 TSI (Golf Plus, 1K) Year of manufacture 2010 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf Plus 1.6 TDI (Golf Plus, 1K) Year of manufacture 2010",
+          "VOLKSWAGEN-VW Golf Plus 2.0 TDI (Golf Plus, 1K) Year of manufacture 2009 Engine code CCFH",
+          "VOLKSWAGEN-VW Golf V 1.4 (Golf V, 1K) Year of manufacture 2009 - 2010 Engine code CGGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937086d-hella-5dk00965309-151159.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 086 D",
+              "1K0937086D"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 653-09",
+              "5DK00965309"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937086d-hella-5dk00965605-129236.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 086 D",
+              "1K0937086D"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 656 05",
+              "5DK00965605"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf V 1.4 (Golf V, 1K) Year of manufacture 2009 Engine code BUD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937086h-hella-5dk00965306-122169.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 086 H",
+              "1K0937086H"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 653 06",
+              "5DK00965306"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.2 TSI (Golf VI, 1K) Year of manufacture 2011 Engine code CBZB, CBZA",
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf VI, 1K) Year of manufacture 2010 - 2011 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf 1.6 TDI (Golf VI, 1K) Year of manufacture 2011 Engine code CAYC",
+          "VOLKSWAGEN-VW Golf Plus 1.4 TSI (Golf Plus, 1K) Year of manufacture 2011 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf Plus 1.6 TDI (Golf Plus, 1K) Year of manufacture 2010 - 2011 Engine code CAYC",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI (Golf V, 1K) Year of manufacture 2010 Engine code BMM"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937086j-hella-5dk00965606-144547.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 086 J",
+              "1K0937086J"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 656-06",
+              "5DK00965606"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.2 TSI (Golf VI, 1K) Year of manufacture 2011 Engine code CBZB",
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf VI, 1K) Year of manufacture 2011 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf V 1.4 (Golf V, 1K) Year of manufacture 2010 - 2011 Engine code BUD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/bcm-vag/volkswagen-vw-1k0937086m-hella-5dk00965308-128850.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 937 086 M",
+              "1K0937086M"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5DK 009 653-08",
+              "5DK00965308"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.2 TSI Cabriolet (Golf VI, 1K) Year of manufacture 2011 Engine code CBZB",
+          "VOLKSWAGEN-VW Golf 1.2 TSI (Golf VI, 1K) Year of manufacture 2011 - 2012 Engine code CBZB",
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf VI, 1K) Year of manufacture 2011 - 2012 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf 1.6 TDI (Golf VI, 1K) Year of manufacture 2011 - 2012 Engine code CAYC",
+          "VOLKSWAGEN-VW Golf 2.0 GTI (Golf VI, 1K) Engine code CCZB",
+          "VOLKSWAGEN-VW Golf 2.0 TDI 4Motion (Golf VI, 5K) Year of manufacture 2011",
+          "VOLKSWAGEN-VW Golf 2.0 TDI Cabriolet (Golf VI, 1K) Year of manufacture 2012 Engine code CFHC",
+          "VOLKSWAGEN-VW Golf Plus 1.4 TSI (Golf Plus, 1K) Year of manufacture 2011 - 2012 Engine code CAVD, CAXA",
+          "VOLKSWAGEN-VW Golf V 1.4 (Golf V, 1K) Year of manufacture 2011 Engine code CGGA"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Central electrics Sharan (7M)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/central+electrics+sharan+7m-3661507.ts1710842310.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/central-electronics-3088/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29-7286",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258ab-siemens-s120042100a-120315.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 AB",
+              "7M3962258AB"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S120042100 A",
+              "S120042100A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258ac-siemens-s120042200a-123259.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 AC",
+              "7M3962258AC"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S120042200 A",
+              "S120042200A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 1.9 TDI (Sharan, 7M) Year of manufacture 2003 Engine code AUY"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258ad-siemens-s120042300a-124172.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 AD",
+              "7M3962258AD"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S120042300 A",
+              "S120042300A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258af-siemens-s120042100b-154027.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 AF",
+              "7M3962258AF"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S120042100 B",
+              "S120042100B"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258ah-siemens-s120042300b-152484.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 AH",
+              "7M3962258AH"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S120042300 B",
+              "S120042300B"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258am-ford-5m2114b205ca-siemens-s120042300d-127998.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 AM",
+              "7M3962258AM"
+            ]
+          },
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "5M2114B205CA"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S120042300 D",
+              "S120042300D"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FORD Galaxy 2.3i (Galaxy) Year of manufacture 2005",
+          "VOLKSWAGEN-VW Sharan 2.0 TDI (Sharan, 7M) Year of manufacture 2006 Engine code BRT"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258at-siemensvdo-s120042100f-140101.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 AT",
+              "7M3962258AT"
+            ]
+          },
+          {
+            "title": "SiemensVDO - Part number",
+            "numbers": [
+              "S120042100 F",
+              "S120042100F"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 1.9 TDI (Sharan, 7M) Year of manufacture 2006 - 2009 Engine code BVK",
+          "VOLKSWAGEN-VW Sharan 2.0 (Sharan, 7M) Year of manufacture 2009 Engine code ATM",
+          "VOLKSWAGEN-VW Sharan 2.0 TDI (Sharan, 7M) Year of manufacture 2009 Engine code BRT"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258ba-siemens-s120042200f-126277.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 BA",
+              "7M3962258BA"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S120042200 F",
+              "S120042200F"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 1.9 TDI (Sharan, 7M) Year of manufacture 2009 Engine code BVK"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258bb-siemensvdo-s120042300f-134289.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 BB",
+              "7M3962258BB"
+            ]
+          },
+          {
+            "title": "SiemensVDO - Part number",
+            "numbers": [
+              "S120042300 F",
+              "S120042300F"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 1.8T (Sharan, 7M) Year of manufacture 2007 - 2009 Engine code AWC",
+          "VOLKSWAGEN-VW Sharan 1.9 TDI (Sharan, 7M) Year of manufacture 2006 - 2009 Engine code BVK",
+          "VOLKSWAGEN-VW Sharan 2.0 TDI (Sharan, 7M) Year of manufacture 2007 - 2009 Engine code BRT"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258f-siemens-s110730200d-151197.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 F",
+              "7M3962258F"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S110730200 D",
+              "S110730200D"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 1.9 TDI (Sharan, 7M) Year of manufacture 2000 Engine code ANU"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258l-ford-ym2114b205bc-siemens-s110730200g-122617.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 L",
+              "7M3962258L"
+            ]
+          },
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "YM21-14B205-BC",
+              "YM2114B205BC"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S110730200 G",
+              "S110730200G"
+            ]
+          },
+          {
+            "title": "Siemens",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 1.9 TDI (Sharan, 7M) Year of manufacture 2001 Engine code AUY"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258m-siemens-s110730300f-122885.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 M",
+              "7M3962258M"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S110730300 F",
+              "S110730300F"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258r-siemens-s110730200i-130283.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 R",
+              "7M3962258R"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S110730200 I",
+              "S110730200I"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 1.8T (Sharan, 7M) Year of manufacture 2002 Engine code AWC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258r-siemens-s110730200j-128001.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 R",
+              "7M3962258R"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S110730200 J",
+              "S110730200J"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 1.9 TDI (Sharan, 7M) Year of manufacture 2002 Engine code AUY",
+          "VOLKSWAGEN-VW Sharan 2.0 (Sharan, 7M) Year of manufacture 2002 Engine code ATM"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/central-electronics/central-electrics-sharan-%287m%29/volkswagen-vw-7m3962258s-siemens-s110730300h-149213.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7M3 962 258 S",
+              "7M3962258S"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S110730300 H",
+              "S110730300H"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Malfunction indicator"
+          },
+          {
+            "fault_description": "central locking won't open or close"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

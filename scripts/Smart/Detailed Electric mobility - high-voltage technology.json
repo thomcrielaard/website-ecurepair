@@ -1,0 +1,123 @@
+[
+  {
+    "part_name": "Charger",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/charger-1147681.ts1661255622.jpg",
+    "product_link": "https://ecu.eu/smart/electric-mobility-high-voltage-technology-6147/smart/electric-mobility-high-voltage-technology/charger-7157",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/smart/electric-mobility-high-voltage-technology/charger/smart-a0005832703-delphi-149324.html",
+        "part_numbers": [
+          {
+            "title": "SMART - Part number",
+            "numbers": [
+              "A 000 583 27 03",
+              "A0005832703"
+            ]
+          },
+          {
+            "title": "DELPHI",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "SMART Fortwo electric drive Coupe (Fortwo)"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Smart ED (451) electric auxiliary heater",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/smart+ed+451+electric+auxiliary+heater-313841.ts1628720489.jpg",
+    "product_link": "https://ecu.eu/smart/electric-mobility-high-voltage-technology-6147/smart/electric-mobility-high-voltage-technology/smart-ed-%28451%29-electric-auxiliary-heater-6148",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/smart/electric-mobility-high-voltage-technology/smart-ed-%28451%29-electric-auxiliary-heater/smart-a4518302600-behr-x6681003-hella-5hb01109005-133979.html",
+        "part_numbers": [
+          {
+            "title": "SMART - Part number",
+            "numbers": [
+              "A 451 830 26 00",
+              "A4518302600"
+            ]
+          },
+          {
+            "title": "Behr - Part number",
+            "numbers": [
+              "X6681003"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5HB 011 090-05",
+              "5HB01109005"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U145641",
+            "fault_description": "implausible data from the PTC heater - the fault code is stored in the motor management"
+          },
+          {
+            "fault_description": "Heating without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SMART Fortwo electric drive Cabrio (Fortwo) Year of manufacture 2015",
+          "SMART Fortwo electric drive Coupe (Fortwo) Year of manufacture 14 - 2015",
+          "SMART Fortwo electric drive Coupe (Fortwo, 451E) Year of manufacture 2012 Engine code 780.993 TCU code 780.993",
+          "SMART Fortwo electric drive (Fortwo) Year of manufacture 2013 - 2017"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/smart/electric-mobility-high-voltage-technology/smart-ed-%28451%29-electric-auxiliary-heater/smart-a4518303661-behr-x6681001-hella-5hb01109003-136898.html",
+        "part_numbers": [
+          {
+            "title": "SMART - Part number",
+            "numbers": [
+              "A 451 830 36 61",
+              "A4518303661"
+            ]
+          },
+          {
+            "title": "Behr - Part number",
+            "numbers": [
+              "X6681001"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5HB 011 090-03",
+              "5HB01109003"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U145641",
+            "fault_description": "implausible data from the PTC heater - the fault code is stored in the motor management"
+          },
+          {
+            "fault_description": "Heating without function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SMART Fortwo electric drive (Fortwo) Year of manufacture 2012 - 2013"
+        ]
+      }
+    ]
+  }
+]

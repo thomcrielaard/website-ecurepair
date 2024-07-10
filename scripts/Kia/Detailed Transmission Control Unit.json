@@ -1,0 +1,149 @@
+[
+  {
+    "part_name": "Transmission Control Unit",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/transmission+control+unit-6128.ts1628718752.jpg",
+    "product_link": "https://ecu.eu/kia/transmission-control-unit-2920/kia/transmission-control-unit/transmission-control-unit-4655",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/kia/transmission-control-unit/transmission-control-unit/kia-motors-9544039930-kefico-9090930288-109773.html",
+        "part_numbers": [
+          {
+            "title": "KIA MOTORS - Part number",
+            "numbers": [
+              "95440-39930",
+              "9544039930"
+            ]
+          },
+          {
+            "title": "Kefico - Part number",
+            "numbers": [
+              "9090930288"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0885",
+            "fault_description": "A/T Control Relay Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "KIA MOTORS Carens 2.0 CRDi (Carens, FC) Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/kia/transmission-control-unit/transmission-control-unit/kia-motors-954403a160-kefico-9090930328-118329.html",
+        "part_numbers": [
+          {
+            "title": "KIA MOTORS - Part number",
+            "numbers": [
+              "95440-3A160",
+              "954403A160"
+            ]
+          },
+          {
+            "title": "Kefico - Part number",
+            "numbers": [
+              "9090930328"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0885",
+            "fault_description": "A/T Control Relay Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/kia/transmission-control-unit/transmission-control-unit/kia-motors-954403a210-kefico-124667.html",
+        "part_numbers": [
+          {
+            "title": "KIA MOTORS - Part number",
+            "numbers": [
+              "95440-3A210",
+              "954403A210"
+            ]
+          },
+          {
+            "title": "Kefico",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0885",
+            "fault_description": "A/T Control Relay Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/kia/transmission-control-unit/transmission-control-unit/kia-motors-954403a282-kefico-124668.html",
+        "part_numbers": [
+          {
+            "title": "KIA MOTORS - Part number",
+            "numbers": [
+              "95440-3A282",
+              "954403A282"
+            ]
+          },
+          {
+            "title": "Kefico",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0885",
+            "fault_description": "A/T Control Relay Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/kia/transmission-control-unit/transmission-control-unit/kia-motors-9544739170-kefico-9090930268-111713.html",
+        "part_numbers": [
+          {
+            "title": "KIA MOTORS - Part number",
+            "numbers": [
+              "95447-39170",
+              "9544739170"
+            ]
+          },
+          {
+            "title": "Kefico - Part number",
+            "numbers": [
+              "9090930268"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0885",
+            "fault_description": "A/T Control Relay Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "KIA MOTORS Sportage 2.0 CRDi (Sportage, JE) Year of manufacture 2005"
+        ]
+      }
+    ]
+  }
+]

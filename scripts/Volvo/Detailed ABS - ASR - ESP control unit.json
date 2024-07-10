@@ -1,0 +1,3552 @@
+[
+  {
+    "part_name": "ABS 5.3",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+5+3-1080.ts1628711298.jpg",
+    "product_link": "https://ecu.eu/volvo/abs-asr-esp-control-unit-226/volvo/abs-asr-esp-control-unit/abs-5.3-3350",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-5.3/volvo-30587585-v-bosch-0273004224-0265216462-915-101923.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30 587 585",
+              "30587585"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "V"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 224",
+              "0273004224"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 462",
+              "0265216462"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "915"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO S40 1.8 (S40) Year of manufacture 1998 - 1999 Engine code B4184S, B41184SM",
+          "VOLVO S40 T4 (S40) Year of manufacture 1998 - 1999 Engine code B4194T",
+          "VOLVO V40 1.6 (V40) Year of manufacture 1998 Engine code B4164S",
+          "VOLVO V40 1.8 (V40) Year of manufacture 1997 - 2003 Engine code B4184S, B4184S9",
+          "VOLVO V40 1.9 D (V40) Year of manufacture 2003 Engine code D4192T4",
+          "VOLVO V40 1.9 T (V40) Year of manufacture 1998 - 1999",
+          "VOLVO V40 2.0 T (V40) Year of manufacture 1998 - 2002 Engine code B4204T, B4204T3",
+          "VOLVO V40 2.0 (V40) Year of manufacture 1998 - 2002 Engine code B4204S"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ABS/ASR/STC MK20",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+stc+mk20-730.ts1628722659.jpg",
+    "product_link": "https://ecu.eu/volvo/abs-asr-esp-control-unit-226/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20-4649",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-8602265-ate-100511.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8602265"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-8602266-ate-100500.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8602266"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-8619538-8619537-ate-10094904233-10020403314-temic-346982-101917.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8619538"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8619537"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0949-0423.3",
+              "10094904233"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0331.4",
+              "10020403314"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "346982"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 2001 - 2002 Engine code B5204T4",
+          "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 2002 Engine code B5234T3",
+          "VOLVO S60 2.4 (S60) Year of manufacture 2001 Engine code B5244S2",
+          "VOLVO S60 2.4 T (S60) Year of manufacture 2000 Engine code B5244T3",
+          "VOLVO S80 2.4 (S80) Year of manufacture 1999 - 2001 Engine code B5244S, B5244S2",
+          "VOLVO S80 2.8 (S80) Year of manufacture 1999 Engine code B6284T",
+          "VOLVO S80 2.9 (S80) Year of manufacture 1999 Engine code B6304S3",
+          "VOLVO V70 2.4 T (V70) Year of manufacture 2000 - 2001 Engine code B5244S, B5244T3, B5244S2"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-8619541-8619540-ate-10094904253-10020403324-temic-343700-111618.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8619541"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8619540"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0949-0425.3",
+              "10094904253"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0332.4",
+              "10020403324"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "343700"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V70 2.4 T (V70) Year of manufacture 2000 - 2001 Engine code B5244T3"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-8619544-ate-100504.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8619544"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-8619545-ate-100512.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8619545"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-8622093-8622092-ate-10094904213-10020402834-temic-346984-119153.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8622093"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8622092"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10:0949-0421.3",
+              "10094904213"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0283.4",
+              "10020402834"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "346984"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-8622093-8622092-ate-10094904243-10039925404-temic-3x6984-111619.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8622093"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8622092"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0949-0424.3",
+              "10094904243"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0399-2540.4",
+              "10039925404"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "3x6984"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V70 T5 (V70) Year of manufacture 1999 Engine code B5234T3"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-8622097-ate-100520.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8622097"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-8628242-ate-100523.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8628242"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-8672093-ate-100522.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8672093"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-9140773-9140254-ate-10094904003-10020400154-temic-3x2969-121089.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9140773"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9140254"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0949-0400.3",
+              "10094904003"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0015.4",
+              "10020400154"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "3X2969"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO 850 2.0 Kombi (850) Year of manufacture 1995 - 1998 Engine code B5202S KAT.",
+          "VOLVO 850 2.3 T5 (850) Year of manufacture 1995 Engine code B5234FT",
+          "VOLVO 850 2.5 GLE (850) Year of manufacture 1995 - 1996 Engine code B5252SKAT",
+          "VOLVO 850 2.5 GLE Kombi (850) Year of manufacture 96 - 1998 Engine code B5252SKAT",
+          "VOLVO 850 2.5 GLT Kombi (850) Year of manufacture 1996 - 1997 Engine code B5254S",
+          "VOLVO 850 TDI (850) Year of manufacture 1996 Engine code D5252T",
+          "VOLVO 850 TDI Kombi (850) Year of manufacture 1996 - 1998 Engine code D5252T",
+          "VOLVO C70 2.4 T (C70) Year of manufacture 1998 Engine code B5254T",
+          "VOLVO S70 2.0 (S70) Year of manufacture 1997 - 1998 Engine code B5202S",
+          "VOLVO S70 2.4 (S70) Year of manufacture 1997 Engine code B5244S",
+          "VOLVO S70 2.5 (S70) Year of manufacture 1997 - 1998 Engine code B5252S",
+          "VOLVO V70 2.0 T (V70) Year of manufacture 1997 Engine code B5204T3",
+          "VOLVO V70 2.0 (V70) Year of manufacture 1996 - 1998 Engine code B5202FS",
+          "VOLVO V70 2.4 T (V70) Year of manufacture 1996 - 1999 Engine code B5244S, B5252S",
+          "VOLVO V70 2.5 T (V70) Year of manufacture 1997 - 1998 Engine code B5254T",
+          "VOLVO V70 T5 (V70) Year of manufacture 1997 Engine code B5234T3"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-9140773-9140254b-ate-10094604003-10020401124-3x2969-100503.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9140773"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9140254B"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0946-0400.3",
+              "10094604003"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0112.4",
+              "10020401124"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "3X2969"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO 850 2.0 Kombi (850) Year of manufacture 1995 - 1998 Engine code B5202S KAT.",
+          "VOLVO 850 2.3 T5 (850) Year of manufacture 1995 Engine code B5234FT",
+          "VOLVO 850 2.5 GLE (850) Year of manufacture 1995 - 1996 Engine code B5252SKAT",
+          "VOLVO 850 2.5 GLE Kombi (850) Year of manufacture 96 - 1998 Engine code B5252SKAT",
+          "VOLVO 850 2.5 GLT Kombi (850) Year of manufacture 1996 - 1997 Engine code B5254S",
+          "VOLVO 850 TDI (850) Year of manufacture 1996 Engine code D5252T",
+          "VOLVO 850 TDI Kombi (850) Year of manufacture 1996 - 1998 Engine code D5252T",
+          "VOLVO C70 2.4 T (C70) Year of manufacture 1998 Engine code B5254T",
+          "VOLVO S70 2.0 (S70) Year of manufacture 1997 - 1998 Engine code B5202S",
+          "VOLVO S70 2.4 (S70) Year of manufacture 1997 Engine code B5244S",
+          "VOLVO S70 2.5 (S70) Year of manufacture 1997 - 1998 Engine code B5252S",
+          "VOLVO V70 2.0 T (V70) Year of manufacture 1997 Engine code B5204T3",
+          "VOLVO V70 2.0 (V70) Year of manufacture 1996 - 1998 Engine code B5202FS",
+          "VOLVO V70 2.4 T (V70) Year of manufacture 1996 - 1999 Engine code B5244S, B5252S",
+          "VOLVO V70 2.5 T (V70) Year of manufacture 1997 - 1998 Engine code B5254T",
+          "VOLVO V70 T5 (V70) Year of manufacture 1997 Engine code B5234T3"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-9140774-9140775-ate-10094604013-10020400164-3x2971-100502.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9140774"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9140775"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0946-0401.3",
+              "10094604013"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0016.4",
+              "10020400164"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "3X2971"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO 850 2.0 Kombi (850) Year of manufacture 1995 - 1996 Engine code B5202S KAT.",
+          "VOLVO 850 2.3 T5 (850) Year of manufacture 1996 Engine code B5234FT",
+          "VOLVO 850 2.5 GLE (850) Year of manufacture 1995 - 1996 Engine code B5252S",
+          "VOLVO 850 2.5 GLE Kombi (850) Year of manufacture 1995 - 1999 Engine code B5252SKAT",
+          "VOLVO 850 2.5 GLT (850) Year of manufacture 1995 - 1996 Engine code B5254S",
+          "VOLVO 850 2.5 GLT Kombi (850) Year of manufacture 1995 - 1996 Engine code B5254S, B5244S",
+          "VOLVO 850 R Kombi (850) Year of manufacture 1996 Engine code B5234T5",
+          "VOLVO 850 TDI Kombi (850) Year of manufacture 1996 Engine code D5252T",
+          "VOLVO V70 2.4 T (V70) Year of manufacture 1996 - 1997 Engine code B5252S"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-9162675-9157654a-ate-10094604023-10020400544-temic-3x5669-100501.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9162675"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9157654A"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0946-0402.3",
+              "10094604023"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0054.4",
+              "10020400544"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "3X5669"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO 850 2.0 Kombi (850) Year of manufacture 1996 Engine code B5202S KAT.",
+          "VOLVO 850 2.3 T5 (850) Year of manufacture 1995 - 1996 Engine code B5234FT",
+          "VOLVO 850 2.5 GLE Kombi (850) Year of manufacture 1995 - 1998 Engine code B5252SKAT",
+          "VOLVO 850 2.5 GLT Kombi (850) Year of manufacture 1995 - 1998 Engine code B5254S, B5244S",
+          "VOLVO 850 R Kombi (850) Year of manufacture 1997 Engine code B5234T5",
+          "VOLVO 850 TDI (850) Year of manufacture 1996 Engine code D5252T",
+          "VOLVO 850 TDI Kombi (850) Year of manufacture 1996 - 1998 Engine code D5252T",
+          "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 1998 Engine code B5204T3",
+          "VOLVO C70 2.4 T (C70) Year of manufacture 1998 Engine code B5254T",
+          "VOLVO C70 T5 Cabrio (C70) Year of manufacture 1998 Engine code B5234T9",
+          "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 1998 Engine code B5234T3",
+          "VOLVO S40 1.8 (S40) Year of manufacture 1998 Engine code B4184S",
+          "VOLVO S70 2.0 (S70) Year of manufacture 1998 Engine code B5202S",
+          "VOLVO S70 2.4 (S70) Year of manufacture 1997 - 2022 Engine code B5244S, B5244T",
+          "VOLVO S70 2.5 (S70) Year of manufacture 1996 - 1998 Engine code B5252S",
+          "VOLVO V70 2.0 (V70) Year of manufacture 1996 - 1998 Engine code B5202FS",
+          "VOLVO V70 2.4 T (V70) Year of manufacture 1996 - 1999 Engine code B5244S, B5252S",
+          "VOLVO V70 2.4 (V70) Year of manufacture 1998 Engine code B5244S2",
+          "VOLVO V70 2.5 D (V70) Year of manufacture 1997 - 1998 Engine code D5252T",
+          "VOLVO V70 2.5 T AWD (V70) Year of manufacture 1996 - 1998 Engine code B5254T",
+          "VOLVO V70 2.5 T (V70) Year of manufacture 1997 - 1998 Engine code B5254T",
+          "VOLVO V70 T5 (V70) Year of manufacture 1997 - 1998 Engine code B5234T3"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-9162675-9157654b-ate-10094604023-10020401134-temic-3x5669-122182.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9162675"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9157654B"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0946-0402.3",
+              "10094604023"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0113.4",
+              "10020401134"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "3X5669"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO 850 2.0 Kombi (850) Year of manufacture 1996 Engine code B5202S KAT.",
+          "VOLVO 850 2.3 T5 (850) Year of manufacture 1995 - 1996 Engine code B5234FT",
+          "VOLVO 850 2.5 GLE Kombi (850) Year of manufacture 1995 - 1998 Engine code B5252SKAT",
+          "VOLVO 850 2.5 GLT Kombi (850) Year of manufacture 1995 - 1998 Engine code B5254S, B5244S",
+          "VOLVO 850 R Kombi (850) Year of manufacture 1997 Engine code B5234T5",
+          "VOLVO 850 TDI (850) Year of manufacture 1996 Engine code D5252T",
+          "VOLVO 850 TDI Kombi (850) Year of manufacture 1996 - 1998 Engine code D5252T",
+          "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 1998 Engine code B5204T3",
+          "VOLVO C70 2.4 T (C70) Year of manufacture 1998 Engine code B5254T",
+          "VOLVO C70 T5 Cabrio (C70) Year of manufacture 1998 Engine code B5234T9",
+          "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 1998 Engine code B5234T3",
+          "VOLVO S40 1.8 (S40) Year of manufacture 1998 Engine code B4184S",
+          "VOLVO S70 2.0 (S70) Year of manufacture 1998 Engine code B5202S",
+          "VOLVO S70 2.4 (S70) Year of manufacture 1997 - 2022 Engine code B5244S, B5244T",
+          "VOLVO S70 2.5 (S70) Year of manufacture 1996 - 1998 Engine code B5252S",
+          "VOLVO V70 2.0 (V70) Year of manufacture 1996 - 1998 Engine code B5202FS",
+          "VOLVO V70 2.4 T (V70) Year of manufacture 1996 - 1999 Engine code B5244S, B5252S",
+          "VOLVO V70 2.4 (V70) Year of manufacture 1998 Engine code B5244S2",
+          "VOLVO V70 2.5 D (V70) Year of manufacture 1997 - 1998 Engine code D5252T",
+          "VOLVO V70 2.5 T AWD (V70) Year of manufacture 1996 - 1998 Engine code B5254T",
+          "VOLVO V70 2.5 T (V70) Year of manufacture 1997 - 1998 Engine code B5254T",
+          "VOLVO V70 T5 (V70) Year of manufacture 1997 - 1998 Engine code B5234T3"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-9209950-ate-100510.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9209950"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-9209951-ate-100518.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9209951"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-9434198-ate-100519.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9434198"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/abs-asr-stc-mk20/volvo-9467582-9467581-ate-10094904073-10020402364-temic-346969-100505.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9467582"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "9467581"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0949-0407.3",
+              "10094904073"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0236.4",
+              "10020402364"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "346969"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "112",
+            "fault_description": "Pump motoror443Pump motor"
+          },
+          {
+            "fault_description": "Different wheel sensors"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V70 2.4 T (V70) Year of manufacture 1999 Engine code B5244S",
+          "VOLVO V70 2.4 (V70) Year of manufacture 2000 Engine code B5244S2"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP MK100",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk100-253760.ts1628714193.jpg",
+    "product_link": "https://ecu.eu/volvo/abs-asr-esp-control-unit-226/volvo/abs-asr-esp-control-unit/esp-mk100-7217",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk100/volvo-31680098-p31680101-ate-10091504703-10022009714-150574.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31680098"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P31680101"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0915-0470.3",
+              "10091504703"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0220-0971.4",
+              "10022009714"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V90 D4 (V90) Year of manufacture 2017 Engine code D4204T14"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk100/volvo-p31445476-ate-10091504463-10022006194-149906.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO",
+            "numbers": []
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P31445476"
+            ]
+          },
+          {
+            "title": "VOLVO",
+            "numbers": []
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0915-0446.3",
+              "10091504463"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0220-0619.4",
+              "10022006194"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO XC90 D5 AWD (XC90) Year of manufacture 2015"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP MK25",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk25-3707.ts1628718745.jpg",
+    "product_link": "https://ecu.eu/volvo/abs-asr-esp-control-unit-226/volvo/abs-asr-esp-control-unit/esp-mk25-3398",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-000403502c4-ate-10092633123-131438.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "000403502C4"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0926-3312.3",
+              "10092633123"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-30643982-p30643979-ate-10092504053-10020404144-0599-110819.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30643982"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P30643979"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0925-0405.3",
+              "10092504053"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0414.4",
+              "10020404144"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0599"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0070",
+            "fault_description": "Pump motor faulty signal"
+          },
+          {
+            "fault_code": "BCM-0072",
+            "fault_description": "Pump motor mechanical fault"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO S60 2.4 D (S60) Year of manufacture 2005 Engine code D5244T",
+          "VOLVO S60 2.4 (S60) Year of manufacture 2004 - 2005 Engine code B5244S2",
+          "VOLVO S60 T5 (S60) Year of manufacture 2003 Engine code B5244T5",
+          "VOLVO S80 2.4 (S80) Year of manufacture 2004 - 2005 Engine code B5244S2, D5244T",
+          "VOLVO V70 2.4 D (V70) Year of manufacture 2004 - 2005 Engine code B5244T, D5244T2",
+          "VOLVO V70 2.4 T (V70) Year of manufacture 2004 - 2005 Engine code B5244T5, B5244S, B5244S2",
+          "VOLVO V70 2.4 (V70) Year of manufacture 2005 Engine code B5244S2",
+          "VOLVO V70 2.5 T AWD (V70) Year of manufacture 2004 - 2005 Engine code B5254T2",
+          "VOLVO V70 2.5 T Bi-Fuel (V70) Year of manufacture 2004 - 2005 Engine code B5244SG2",
+          "VOLVO V70 2.5 T (V70) Year of manufacture 2005 Engine code B5254T2",
+          "VOLVO XC70 2.4 D AWD (XC70) Year of manufacture 2004 - 2005 Engine code D5244D",
+          "VOLVO XC90 2.5 T AWD (XC90) Year of manufacture 2004 - 2005 Engine code B254T2",
+          "VOLVO XC90 D5 AWD (XC90) Year of manufacture 2004 - 2005 Engine code D5244T",
+          "VOLVO XC90 T6 AWD (XC90) Year of manufacture 2005 Engine code B6294T"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-30681619-p30681619-ford-8g9n2c405ac-ate-10092604053-10021201824-1064-126786.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30681619"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P30681619"
+            ]
+          },
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "8G9N-2C405-AC",
+              "8G9N2C405AC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0926-0405.3",
+              "10092604053"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0182.4",
+              "10021201824"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1064"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V70 2.0 D (V70) Year of manufacture 2008 - 2009 Engine code D4204T",
+          "VOLVO V70 D3 (V70) Year of manufacture 2010 Engine code D5204T2",
+          "VOLVO XC60 2.4 AWD (XC60) Year of manufacture 2009 Engine code D5244T5",
+          "VOLVO XC60 2.4 D DRIVe (XC60) Year of manufacture 2009 - 2010 Engine code D5244T14"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-30714136-p30714135-ate-10092504073-10020404314-0599-110824.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30714136"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P30714135"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0925-0407.3",
+              "10092504073"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0431.4",
+              "10020404314"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0599"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0070",
+            "fault_description": "Pump motor faulty signal"
+          },
+          {
+            "fault_code": "BCM-0072",
+            "fault_description": "Pump motor mechanical fault"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO XC90 V8 AWD (XC90) Year of manufacture 2005 Engine code B8444S"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-30714956-p30714952-ate-10092504113-10020404894-0599-110820.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30714956"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P30714952"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0925-0411.3",
+              "10092504113"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0489.4",
+              "10020404894"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0599"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0070",
+            "fault_description": "Pump motor faulty signal"
+          },
+          {
+            "fault_code": "BCM-0072",
+            "fault_description": "Pump motor mechanical fault"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO S60 2.4 D (S60) Year of manufacture 2008 Engine code D5244T5",
+          "VOLVO S60 2.4 (S60) Year of manufacture 2005 - 2006 Engine code B5244S2",
+          "VOLVO V70 2.4 D AWD (V70) Year of manufacture 2005 - 2006 Engine code D5244T4",
+          "VOLVO V70 2.4 D (V70) Year of manufacture 2005 - 2006 Engine code B5244T, D5244T5",
+          "VOLVO V70 2.4 T (V70) Year of manufacture 2005 - 2006 Engine code B5244S, B5244S2",
+          "VOLVO V70 2.4 (V70) Year of manufacture 2005 - 2006 Engine code B5244S2",
+          "VOLVO V70 2.5 Bi-Fuel (V70) Year of manufacture 2005 Engine code B5244SG2",
+          "VOLVO V70 2.5 T Bi-Fuel (V70) Year of manufacture 2006 Engine code B5244SG2",
+          "VOLVO V70 2.5 T (V70) Year of manufacture 2004 - 2005 Engine code B5254T2",
+          "VOLVO (V70) Year of manufacture 2006",
+          "VOLVO V70 D5 (V70) Year of manufacture 2005 - 2007 Engine code D5244T4",
+          "VOLVO XC70 2.4 D AWD (XC70) Year of manufacture 2005 Engine code D5244D",
+          "VOLVO XC70 2.5 T AWD (XC70) Year of manufacture 2006 Engine code B5254T2",
+          "VOLVO XC70 D5 AWD (XC70) Year of manufacture 2005 - 2006 Engine code D5244T4",
+          "VOLVO XC90 2.5 T AWD (XC90) Year of manufacture 2005 - 2006 Engine code B254T2",
+          "VOLVO XC90 D5 AWD (XC90) Year of manufacture 2005 - 2006 Engine code D5244T4"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-30793445-p30793444-ate-10092504153-10020405084-0599-110821.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30793445"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P30793444"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0925-0415.3",
+              "10092504153"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0508.4",
+              "10020405084"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0599"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0070",
+            "fault_description": "Pump motor faulty signal"
+          },
+          {
+            "fault_code": "BCM-0072",
+            "fault_description": "Pump motor mechanical fault"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO 850 2.5 GLT Kombi (850) Year of manufacture 1997 Engine code B5254S",
+          "VOLVO S60 2.4 (S60) Year of manufacture 2008 Engine code B5244S",
+          "VOLVO V70 2.4 D AWD (V70) Year of manufacture 2006 - 2007 Engine code D5244T4",
+          "VOLVO V70 2.4 D (V70) Year of manufacture 2005 - 2007 Engine code B5244T, D5244T5",
+          "VOLVO V70 2.4 T (V70) Year of manufacture 2005 Engine code B5244S2",
+          "VOLVO V70 2.4 (V70) Year of manufacture 2007 Engine code B5244S2",
+          "VOLVO V70 2.5 T AWD (V70) Year of manufacture 2007 Engine code B5254T2",
+          "VOLVO V70 2.5 T (V70) Year of manufacture 2005 Engine code B5254T2",
+          "VOLVO V70 D5 (V70) Year of manufacture 2005 - 2007 Engine code D5244T4",
+          "VOLVO XC90 D5 AWD (XC90) Year of manufacture 2006 - 2012 Engine code D5244T4, D5244T18"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-30793447-p30793446-ate-10092504163-10020405104-0599-124809.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30793447"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P30793446"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0925-0416.3",
+              "10092504163"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0510.4",
+              "10020405104"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0599"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0070",
+            "fault_description": "Pump motor faulty signal"
+          },
+          {
+            "fault_code": "BCM-0072",
+            "fault_description": "Pump motor mechanical fault"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO XC90 3.2 AWD (XC90) Year of manufacture 2007 - 2008 Engine code B6324S",
+          "VOLVO XC90 D5 AWD (XC90) Year of manufacture 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-31261142-p31261142-ford-7g9n2c405ac-ate-10092604043-10021201514-1064-141906.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31261142"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P31261142"
+            ]
+          },
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "7G9N-2C405-AC",
+              "7G9N2C405AC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0926-0404.3",
+              "10092604043"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0151.4",
+              "10021201514"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1064"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V70 2.0 D (V70) Year of manufacture 2008 Engine code D4204T",
+          "VOLVO V70 2.4 D (V70) Year of manufacture 2007 Engine code D5244T5",
+          "VOLVO XC70 D5 AWD (XC70) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-31273882-p31273882-ford-ag9n2c405ab-ate-10092604063-10021203604-1064-141907.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31273882"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P31273882"
+            ]
+          },
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "AG9N-2C405-AB",
+              "AG9N2C405AB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0926-0406.3",
+              "10092604063"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0360.4",
+              "10021203604"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1064"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-31329137-p31329137-ate-10092604093-10021205434-1119-132149.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31329137"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P31329137"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0926-0409.3",
+              "10092604093"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0543.4",
+              "10021205434"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1119"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V60 1.6 D (V60) Year of manufacture 2011 - 2012 Engine code D4162T",
+          "VOLVO XC60 D3 (XC60) Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-31329139-p31329139-ate-10092604103-10021205324-1119-124685.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31329139"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P31329139"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0926-0410.3",
+              "10092604103"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0532.4",
+              "10021205324"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1119"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V70 D3 (V70) Year of manufacture 2011 - 2013 Engine code D5204T2",
+          "VOLVO V70 D5 (V70) Year of manufacture 2012 Engine code D5244T15",
+          "VOLVO XC60 D3 (XC60) Year of manufacture 2011 Engine code D5204T2",
+          "VOLVO XC70 2.4 D AWD (XC70) Year of manufacture 2013 Engine code D5244T"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-31329139-p31400543-ate-10092604173-10021209784-1119-141910.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31329139"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P31400543"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0926-0417.3",
+              "10092604173"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0978.4",
+              "10021209784"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1119"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V70 2.0 D (V70) Year of manufacture 2014 Engine code D4204T"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-31400101aa-p31400101-ate-10092604143-10021209544-1119-141908.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31400101AA"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P31400101"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0926-0414.3",
+              "10092604143"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0954.4",
+              "10021209544"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1119"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO XC60 2.4 D DRIVe (XC60) Year of manufacture 2013",
+          "VOLVO XC60 D5 AWD (XC60) Year of manufacture 2014 Engine code D5244T11"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-31423348aa-p31423348-ate-10092604183-10021210034-1119-146927.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31423348AA"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P31423348"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0926-0418.3",
+              "10092604183"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-1003.4",
+              "10021210034"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1119"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V60 D3 Cross Country (V60) Year of manufacture 2017 Engine code D4204T4",
+          "VOLVO XC60 D4 (XC60) Year of manufacture 2015 Engine code D4204T14"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-8619968-p08610974-ate-10092504023-10020403584-0599-110823.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8619968"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P08610974"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0925-0402.3",
+              "10092504023"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0358.4",
+              "10020403584"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0599"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0070",
+            "fault_description": "Pump motor faulty signal"
+          },
+          {
+            "fault_code": "BCM-0072",
+            "fault_description": "Pump motor mechanical fault"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO S60 2.4 (S60) Year of manufacture 2001 Engine code B5244S",
+          "VOLVO V70 2.3 T AWD (V70) Year of manufacture 2001 Engine code B5234T3",
+          "VOLVO V70 2.4 T (V70) Year of manufacture 2002 Engine code B5244S2"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-8671222-p08671221-ate-10092504043-10020403534-136627.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8671222"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P08671221"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0925-0404.3",
+              "10092504043"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0353.4",
+              "10020403534"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0070",
+            "fault_description": "Pump motor faulty signal"
+          },
+          {
+            "fault_code": "BCM-0072",
+            "fault_description": "Pump motor mechanical fault"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-8671224-p08671223-8671455-ate-10092504033-10020403684-141872.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8671224"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P08671223"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8671455"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0925-0403.3",
+              "10092504033"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0368.4",
+              "10020403684"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0070",
+            "fault_description": "Pump motor faulty signal"
+          },
+          {
+            "fault_code": "BCM-0072",
+            "fault_description": "Pump motor mechanical fault"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO S60 2.4 D (S60) Year of manufacture 2002 - 2004 Engine code D5244T, D5244T2",
+          "VOLVO S60 2.4 (S60) Year of manufacture 2002 - 2004 Engine code B5244S2",
+          "VOLVO S60 2.5 T AWD (S60) Year of manufacture 2003 - 2004 Engine code B5254T2",
+          "VOLVO S60 2.5 T (S60) Year of manufacture 2004 Engine code B5254T2",
+          "VOLVO S80 2.4 (S80) Year of manufacture 2003 - 2004 Engine code B5244S, D5244T",
+          "VOLVO S80 2.5 (S80) Year of manufacture 2004 Engine code B5254T2",
+          "VOLVO S80 3.0 T (S80) Year of manufacture 2004 Engine code B6294S2",
+          "VOLVO V70 2.0 T (V70) Year of manufacture 2002 - 2004 Engine code B5204T5",
+          "VOLVO V70 2.4 D (V70) Year of manufacture 2002 - 2008 Engine code B5244T, D5244T2",
+          "VOLVO V70 2.4 T (V70) Year of manufacture 2002 - 2004 Engine code B5244T3, B5244S, B5244S2",
+          "VOLVO V70 2.4 (V70) Year of manufacture 2000 - 2004 Engine code B5244S2",
+          "VOLVO V70 2.5 T AWD (V70) Year of manufacture 2002 - 2003 Engine code B5254T2",
+          "VOLVO V70 2.5 T (V70) Year of manufacture 2003 - 2004 Engine code B5254T2",
+          "VOLVO V70 R 2.5 T AWD (V70) Year of manufacture 2003 Engine code B5254T4",
+          "VOLVO V70 T5 (V70) Year of manufacture 2002 - 2004 Engine code B5234T3",
+          "VOLVO XC70 2.4 D AWD (XC70) Year of manufacture 2002 - 2004 Engine code D5244D",
+          "VOLVO XC70 2.5 T AWD (XC70) Year of manufacture 2004 Engine code B5254T2",
+          "VOLVO XC90 2.5 T AWD (XC90) Year of manufacture 2003 - 2004 Engine code B254T2",
+          "VOLVO XC90 D5 AWD (XC90) Year of manufacture 2004 Engine code D5244T",
+          "VOLVO XC90 T6 AWD (XC90) Year of manufacture 2003 Engine code B6294T"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-8671224-p08671225-ate-10092504033-10020403674-0599-110822.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8671224"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P08671225"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0925-0403.3",
+              "10092504033"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0367.4",
+              "10020403674"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0599"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0070",
+            "fault_description": "Pump motor faulty signal"
+          },
+          {
+            "fault_code": "BCM-0072",
+            "fault_description": "Pump motor mechanical fault"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO S60 2.4 D (S60) Year of manufacture 2002 - 2004 Engine code D5244T, D5244T2",
+          "VOLVO S60 2.4 (S60) Year of manufacture 2002 - 2004 Engine code B5244S2",
+          "VOLVO S60 2.5 T AWD (S60) Year of manufacture 2003 - 2004 Engine code B5254T2",
+          "VOLVO S60 2.5 T (S60) Year of manufacture 2004 Engine code B5254T2",
+          "VOLVO S80 2.4 (S80) Year of manufacture 2003 - 2004 Engine code B5244S, D5244T",
+          "VOLVO S80 2.5 (S80) Year of manufacture 2004 Engine code B5254T2",
+          "VOLVO S80 3.0 T (S80) Year of manufacture 2004 Engine code B6294S2",
+          "VOLVO V70 2.0 T (V70) Year of manufacture 2002 - 2004 Engine code B5204T5",
+          "VOLVO V70 2.4 D (V70) Year of manufacture 2002 - 2008 Engine code B5244T, D5244T2",
+          "VOLVO V70 2.4 T (V70) Year of manufacture 2002 - 2004 Engine code B5244T3, B5244S, B5244S2",
+          "VOLVO V70 2.4 (V70) Year of manufacture 2000 - 2004 Engine code B5244S2",
+          "VOLVO V70 2.5 T AWD (V70) Year of manufacture 2002 - 2003 Engine code B5254T2",
+          "VOLVO V70 2.5 T (V70) Year of manufacture 2003 - 2004 Engine code B5254T2",
+          "VOLVO V70 R 2.5 T AWD (V70) Year of manufacture 2003 Engine code B5254T4",
+          "VOLVO V70 T5 (V70) Year of manufacture 2002 - 2004 Engine code B5234T3",
+          "VOLVO XC70 2.4 D AWD (XC70) Year of manufacture 2002 - 2004 Engine code D5244D",
+          "VOLVO XC70 2.5 T AWD (XC70) Year of manufacture 2004 Engine code B5254T2",
+          "VOLVO XC90 2.5 T AWD (XC90) Year of manufacture 2003 - 2004 Engine code B254T2",
+          "VOLVO XC90 D5 AWD (XC90) Year of manufacture 2004 Engine code D5244T",
+          "VOLVO XC90 T6 AWD (XC90) Year of manufacture 2003 Engine code B6294T"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk25/volvo-p31423347-ate-10092604193-10021210024-1119-141909.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO",
+            "numbers": []
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P31423347"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0926-0419.3",
+              "10092604193"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-1002.4",
+              "10021210024"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1119"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "ESP MK60",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk60-423.ts1628718730.jpg",
+    "product_link": "https://ecu.eu/volvo/abs-asr-esp-control-unit-226/volvo/abs-asr-esp-control-unit/esp-mk60-3351",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-30647857a-fomoco-4n512c405ad-ate-10096004123-10020601224-2050-141072.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30647857 A",
+              "30647857A"
+            ]
+          },
+          {
+            "title": "FoMoCo - Part number",
+            "numbers": [
+              "4N51-2C405-AD",
+              "4N512C405AD"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0412.3",
+              "10096004123"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0122.4",
+              "10020601224"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO S40 2.4 (S40) Year of manufacture 2004 - 2005 Engine code B5244S4, B5244S5",
+          "VOLVO V50 2.4 (V50) Year of manufacture 2004 Engine code B5244S5"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-30672506a-fomoco-4n512c405eb-ate-10096004173-10020601604-2050-124784.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30672506 A",
+              "30672506A"
+            ]
+          },
+          {
+            "title": "FoMoCo - Part number",
+            "numbers": [
+              "4N51-2C405-EB",
+              "4N512C405EB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0417.3",
+              "10096004173"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0160.4",
+              "10020601604"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO S40 2.4 (S40) Year of manufacture 2004 - 2005 Engine code B5244S4, B5244S5",
+          "VOLVO V50 2.4 (V50) Year of manufacture 2004 Engine code B5244S5"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-30736589a-30736588-fomoco-4n512c405ec-ate-10096004233-10020601604-2050-118393.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30736589 A",
+              "30736589A"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30736588"
+            ]
+          },
+          {
+            "title": "FoMoCo - Part number",
+            "numbers": [
+              "4N51-2C405-EC",
+              "4N512C405EC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0423.3",
+              "10096004233"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0160.4",
+              "10020601604"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO S40 1.6 (S40) Year of manufacture 2004 Engine code B4164S3",
+          "VOLVO V50 2.0 D (V50) Year of manufacture 2004 Engine code D4204T"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-30736589a-30736588-fomoco-4n512c405ec-ate-10096004273-10020602424-2050-101924.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30736589 A",
+              "30736589A"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30736588"
+            ]
+          },
+          {
+            "title": "FoMoCo - Part number",
+            "numbers": [
+              "4N51-2C405-EC",
+              "4N512C405EC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0427.3",
+              "10096004273"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0242.4",
+              "10020602424"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO C30 1.6 D DRIVe (C30) Year of manufacture 2007 Engine code D4164T",
+          "VOLVO C30 1.6 T (C30) Engine code B4164S3",
+          "VOLVO C30 2.0 T (C30) Year of manufacture 2007 - 2009 Engine code B420453",
+          "VOLVO C30 2.4 D (C30) Year of manufacture 2007 - 2008 Engine code D4204T",
+          "VOLVO C70 2.4 Cabrio (C70) Year of manufacture 2006 Engine code B5244S5",
+          "VOLVO S40 2.4 (S40) Year of manufacture 2006",
+          "VOLVO S40 2.4 (S40, M) Year of manufacture 2006",
+          "VOLVO V50 1.6 D DRIVe (V50) Year of manufacture 2006 Engine code D4164TDRIVE",
+          "VOLVO V50 1.8 (V50) Year of manufacture 2006 Engine code B4184S8",
+          "VOLVO V50 2.0 D (V50) Year of manufacture 2006",
+          "VOLVO V50 2.4 (V50) Year of manufacture 2005 - 2006 Engine code B5244S5, B5244S4",
+          "VOLVO V50 2.4 (V50, M) Year of manufacture 2004 Engine code B5244S4"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-30736589a-31317629-ford-8n512b373aa-ate-10039933314-2050-124993.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30736589A"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31317629"
+            ]
+          },
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "8N51-2B373-AA",
+              "8N512B373AA"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0399-3331.4",
+              "10039933314"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO C30 1.6 D DRIVe (C30) Year of manufacture 2007 Engine code D4164T",
+          "VOLVO C30 1.6 T (C30) Engine code B4164S3",
+          "VOLVO C30 2.0 T (C30) Year of manufacture 2007 - 2009 Engine code B420453",
+          "VOLVO C30 2.4 D (C30) Year of manufacture 2007 - 2008 Engine code D4204T",
+          "VOLVO C70 2.4 Cabrio (C70) Year of manufacture 2006 Engine code B5244S5",
+          "VOLVO S40 2.4 (S40) Year of manufacture 2006",
+          "VOLVO S40 2.4 (S40, M) Year of manufacture 2006",
+          "VOLVO V50 1.6 D DRIVe (V50) Year of manufacture 2006 Engine code D4164TDRIVE",
+          "VOLVO V50 1.8 (V50) Year of manufacture 2006 Engine code B4184S8",
+          "VOLVO V50 2.0 D (V50) Year of manufacture 2006",
+          "VOLVO V50 2.4 (V50) Year of manufacture 2005 - 2006 Engine code B5244S5, B5244S4",
+          "VOLVO V50 2.4 (V50, M) Year of manufacture 2004 Engine code B5244S4"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-30736590a-30736587-fomoco-4n512c405bf-ate-10096004243-10020601234-2050-123084.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30736590 A",
+              "30736590A"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30736587"
+            ]
+          },
+          {
+            "title": "FoMoCo - Part number",
+            "numbers": [
+              "4N51-2C405-BF",
+              "4N512C405BF"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0424.3",
+              "10096004243"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0123.4",
+              "10020601234"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-30736590a-30736587-fomoco-4n512c405bf-ate-10096004283-10020602434-2050-152045.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30736590 A",
+              "30736590A"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30736587"
+            ]
+          },
+          {
+            "title": "FoMoCo - Part number",
+            "numbers": [
+              "4N51-2C405-BF",
+              "4N512C405BF"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0428.3",
+              "10096004283"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0243.4",
+              "10020602434"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-30742665aa-30742654-fomoco-4n512c405ga-ate-10096004253-10020602264-2050-101926.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30742665 AA",
+              "30742665AA"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30742654"
+            ]
+          },
+          {
+            "title": "FoMoCo - Part number",
+            "numbers": [
+              "4N51-2C405-GA",
+              "4N512C405GA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0425.3",
+              "10096004253"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0226.4",
+              "10020602264"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V50 1.6 (V50) Year of manufacture 2006 Engine code B4164S3",
+          "VOLVO V50 2.0 D (V50) Year of manufacture 2007",
+          "VOLVO V50 2.4 (V50) Year of manufacture 2006 - 2007 Engine code B5244S4"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-30742666aa-30742657-fomoco-4n512c405ja-ate-10096004263-10020602274-2050-123085.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30742666 AA",
+              "30742666AA"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30742657"
+            ]
+          },
+          {
+            "title": "FoMoCo - Part number",
+            "numbers": [
+              "4N51-2C405-JA",
+              "4N512C405JA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0426.3",
+              "10096004263"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0227.4",
+              "10020602274"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-30793903-30793901-8n512c405aa-ate-10096004333-10020603314-2050-135643.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30793903"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30793901"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "8N51-2C405-AA",
+              "8N512C405AA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0433.3",
+              "10096004333"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0331.4",
+              "10020603314"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V50 2.0 D (V50) Year of manufacture 2009 Engine code D4204T"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-30794730aa-30794728-fomoco-4n512c405gb-ate-10096004293-10020603024-2050-107296.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30794730 AA",
+              "30794730AA"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30794728"
+            ]
+          },
+          {
+            "title": "FoMoCo - Part number",
+            "numbers": [
+              "4N51-2C405-GB",
+              "4N512C405GB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0429.3",
+              "10096004293"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0302.4",
+              "10020603024"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO C30 1.6 D DRIVe (C30) Year of manufacture 2007 - 2008 Engine code D4164T",
+          "VOLVO C30 1.6 T (C30) Year of manufacture 2008 Engine code B4164S3",
+          "VOLVO C30 1.8 T (C30) Year of manufacture 2007 - 2008",
+          "VOLVO C30 2.0 T (C30) Year of manufacture 2008 Engine code B420453",
+          "VOLVO C30 2.4 D (C30) Year of manufacture 2008 Engine code D4204T",
+          "VOLVO V50 1.6 D (V50) Year of manufacture 2007 - 2008 Engine code D4163",
+          "VOLVO V50 2.0 D (V50) Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-31274908-31274907-fomoco-4n512c405gc-ate-10039929954-152047.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31274908"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31274907"
+            ]
+          },
+          {
+            "title": "FoMoCo - Part number",
+            "numbers": [
+              "4N51-2C405-GC",
+              "4N512C405GC"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0399-2995.4",
+              "10039929954"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-31274908-31274907-ford-4n512c405gc-ate-10096004343-10020604014-2050-147318.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31274908"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31274907"
+            ]
+          },
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "4N51-2C405-GC",
+              "4N512C405GC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0434.3",
+              "10096004343"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0401.4",
+              "10020604014"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO C30 1.8 T (C30) Year of manufacture 2008",
+          "VOLVO C70 D5 Cabrio (C70) Year of manufacture 2009 Engine code D5244T8",
+          "VOLVO V50 1.6 D (V50) Year of manufacture 2010 Engine code D4164T",
+          "VOLVO V50 2.0 D (V50) Year of manufacture 2007 Engine code D4204T"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-31274912-31274911-fomoco-8n512c405ab-ate-10096004353-10020604034-2050-152046.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31274912"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "31274911"
+            ]
+          },
+          {
+            "title": "FoMoCo - Part number",
+            "numbers": [
+              "8N51-2C405-AB",
+              "8N512C405AB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0435.3",
+              "10096004353"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0403.4",
+              "10020604034"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-36001319-ate-24914500052-continental-126517.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "36001319"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "24.9145-0005.2",
+              "24914500052"
+            ]
+          },
+          {
+            "title": "Continental",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO (C30, M)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-4n512c405ec-ate-10020601604-101925.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "4N51-2C405-EC",
+              "4N512C405EC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0160.4",
+              "10020601604"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk60/volvo-ate-2050-119690.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO",
+            "numbers": []
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "BCM-0130",
+            "fault_description": "Brake pressure sensor 1 signal too low"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "ESP MK61",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk61-5139.ts1628722665.jpg",
+    "product_link": "https://ecu.eu/volvo/abs-asr-esp-control-unit-226/volvo/abs-asr-esp-control-unit/esp-mk61-4717",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk61/volvo-p30736633-ate-10096104033-10021200424-1050-117672.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO",
+            "numbers": []
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P30736633"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0403.3",
+              "10096104033"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0042.4",
+              "10021200424"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_code": "C004087",
+            "fault_description": "Brake pedal switch comparison not OK"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk61/volvo-p30761115-ford-6g9n2c405ce-ate-10096104043-10021200684-1068-110848.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P30761115"
+            ]
+          },
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "6G9N-2C405-CE",
+              "6G9N2C405CE"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0404.3",
+              "10096104043"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0068.4",
+              "10021200684"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1068"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_code": "C004087",
+            "fault_description": "Brake pedal switch comparison not OK"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO S80 2.4 D (S80) Year of manufacture 2007 - 2009 Engine code D5244T4, D5244T5",
+          "VOLVO S80 2.5 T (S80) Year of manufacture 2007 Engine code B5254T6",
+          "VOLVO S80 3.2 T (S80) Year of manufacture 2007 Engine code B6324S",
+          "VOLVO S80 4.4 AWD (S80) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk61/volvo-p30761116-ford-6g9n2c405ce-ate-10096104043-10021200684-119384.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P30761116"
+            ]
+          },
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "6G9N-2C405-CE",
+              "6G9N2C405CE"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0404.3",
+              "10096104043"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0068.4",
+              "10021200684"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_code": "C004087",
+            "fault_description": "Brake pedal switch comparison not OK"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO S80 2.4 D (S80, A) Year of manufacture 2008 Engine code D5244T5 TCU code D5244T5"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk61/volvo-p31317074-ate-10096104143-10021205784-1102-118800.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO",
+            "numbers": []
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P31317074"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0414.3",
+              "10096104143"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0578.4",
+              "10021205784"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1102"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_code": "C004087",
+            "fault_description": "Brake pedal switch comparison not OK"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/abs-asr-esp-control-unit/esp-mk61/volvo-p31317378-ate-10096104083-10021205004-1080-117673.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO",
+            "numbers": []
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "P31317378"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0408.3",
+              "10096104083"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0500.4",
+              "10021205004"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1080"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_code": "C004087",
+            "fault_description": "Brake pedal switch comparison not OK"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO C30 D2 DRIVe (C30) Year of manufacture 2012 Engine code D4162T",
+          "VOLVO C70 D3 Cabrio (C70) Year of manufacture 2011 Engine code D5204T5",
+          "VOLVO V50 1.6 D (V50) Year of manufacture 2011 Engine code D4162T"
+        ]
+      }
+    ]
+  }
+]

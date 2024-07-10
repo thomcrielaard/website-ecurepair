@@ -1,0 +1,67 @@
+[
+  {
+    "part_name": "D-Jetronic",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/d+jetronic-424361.ts1628717006.jpg",
+    "product_link": "https://ecu.eu/jaguar/engine-ecu-6455/jaguar/engine-ecu/d-jetronic-6457",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/jaguar/engine-ecu/d-jetronic/jaguar-c42766-lucas-83356a-3cu-139615.html",
+        "part_numbers": [
+          {
+            "title": "JAGUAR - Part number",
+            "numbers": [
+              "C42766"
+            ]
+          },
+          {
+            "title": "Lucas - Part number",
+            "numbers": [
+              "83356A"
+            ]
+          },
+          {
+            "title": "Lucas - Part number",
+            "numbers": [
+              "3CU"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/jaguar/engine-ecu/d-jetronic/jaguar-c46170-lucas-83477b-3cu-139614.html",
+        "part_numbers": [
+          {
+            "title": "JAGUAR - Part number",
+            "numbers": [
+              "C46170"
+            ]
+          },
+          {
+            "title": "Lucas - Part number",
+            "numbers": [
+              "83477B"
+            ]
+          },
+          {
+            "title": "Lucas - Part number",
+            "numbers": [
+              "3CU"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

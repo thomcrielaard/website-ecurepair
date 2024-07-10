@@ -1,0 +1,89 @@
+[
+  {
+    "part_name": "Bosch ABS/ASR 5.7",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/bosch+abs+asr+5+7-805.ts1628722660.jpg",
+    "product_link": "https://ecu.eu/rover/abs-asr-esp-control-unit-3126/rover/abs-asr-esp-control-unit/bosch-abs-asr-5.7-3553",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/rover/abs-asr-esp-control-unit/bosch-abs-asr-5.7/rover-bosch-0265900003-0265224004-972-121821.html",
+        "part_numbers": [
+          {
+            "title": "ROVER",
+            "numbers": []
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 900 003",
+              "0265900003"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 224 004",
+              "0265224004"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "972"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication with the ESP ecu possible -only on request!"
+          },
+          {
+            "fault_description": "Trouble codes are stored concerning the wheel speed sensors."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "ROVER (75) Year of manufacture 1999 - 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/rover/abs-asr-esp-control-unit/bosch-abs-asr-5.7/rover-bosch-0265900004-0265224009-121820.html",
+        "part_numbers": [
+          {
+            "title": "ROVER",
+            "numbers": []
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 900 004",
+              "0265900004"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 224 009",
+              "0265224009"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication with the ESP ecu possible -only on request!"
+          },
+          {
+            "fault_description": "Trouble codes are stored concerning the wheel speed sensors."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "ROVER (75) Year of manufacture 2001"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "part_name": "ATEQ VT30 RDKS Tool",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ateq+vt30+rdks+tool-240622.ts1628713917.jpg",
+    "product_link": "https://ecu.eu/nissan/diagnostic-tool-197/nissan/diagnostic-tool/ateq-vt30-rdks-tool-6861",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/nissan/diagnostic-tool/ateq-vt30-rdks-tool/nissan-ateq-vt30-144488.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN",
+            "numbers": []
+          },
+          {
+            "title": "ATEQ - Part number",
+            "numbers": [
+              "VT30"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "various keys are without function temporarily or permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Battery diag-tool Midtronics EXP-1625",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/battery+diag+tool+midtronics+exp+1625-903441.ts1646842039.jpg",
+    "product_link": "https://ecu.eu/nissan/diagnostic-tool-197/nissan/diagnostic-tool/battery-diag-tool-midtronics-exp-1625-6805",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/nissan/diagnostic-tool/battery-diag-tool-midtronics-exp-1625/nissan-ni4033-midtronics-exp1625-141709.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "NI-4033",
+              "NI4033"
+            ]
+          },
+          {
+            "title": "Midtronics - Part number",
+            "numbers": [
+              "EXP-1625",
+              "EXP1625"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "internal temperature sensor shows wrong values"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Tester cable for EXP-1625",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/tester+cable+for+exp+1625-1121716.ts1659619404.jpg",
+    "product_link": "https://ecu.eu/nissan/diagnostic-tool-197/nissan/diagnostic-tool/tester-cable-for-exp-1625-7008",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/nissan/diagnostic-tool/tester-cable-for-exp-1625/nissan-midtronics-testerkabelexp1625-141713.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN",
+            "numbers": []
+          },
+          {
+            "title": "Midtronics - Part number",
+            "numbers": [
+              "Testerkabel EXP-1625",
+              "TesterkabelEXP1625"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Tester always returns error message \"Test invalid, check terminals\"."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

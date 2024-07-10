@@ -1,0 +1,36 @@
+[
+  {
+    "part_name": "Turbo-charger actuator",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+    "product_link": "https://ecu.eu/suzuki/others-3056/suzuki/others/turbo-charger-actuator-4789",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/suzuki/others/turbo-charger-actuator/suzuki-6nw008412-hella-712120-111207.html",
+        "part_numbers": [
+          {
+            "title": "SUZUKI - Part number",
+            "numbers": [
+              "6NW 008 412",
+              "6NW008412"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "712120"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Temporary problems with charging pressure control \u2013 fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again \u2013 until next error occur"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

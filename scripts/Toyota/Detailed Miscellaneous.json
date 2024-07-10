@@ -1,0 +1,397 @@
+[
+  {
+    "part_name": "IDM CR injection control unit",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/idm+cr+injection+control+unit-207748.ts1628713196.jpg",
+    "product_link": "https://ecu.eu/toyota/miscellaneous-3066/toyota/miscellaneous/idm-cr-injection-control-unit-5865",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987042070-denso-129651.html",
+        "part_numbers": [
+          {
+            "title": "TOYOTA - Part number",
+            "numbers": [
+              "89870-42070",
+              "8987042070"
+            ]
+          },
+          {
+            "title": "Denso",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1271",
+            "fault_description": "Fuel Regulator Circuit Malfunction (EDU Drive)"
+          },
+          {
+            "fault_code": "P1272",
+            "fault_description": "Fuel Pressure Regulator Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001562-124455.html",
+        "part_numbers": [
+          {
+            "title": "TOYOTA - Part number",
+            "numbers": [
+              "89871-20080",
+              "8987120080"
+            ]
+          },
+          {
+            "title": "Denso - Part number",
+            "numbers": [
+              "131000-1562",
+              "1310001562"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1271",
+            "fault_description": "Fuel Regulator Circuit Malfunction (EDU Drive)"
+          },
+          {
+            "fault_code": "P1272",
+            "fault_description": "Fuel Pressure Regulator Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "TOYOTA Auris 2.0 D-4D (Auris, E15) Year of manufacture 2009 - 2011",
+          "TOYOTA Auris 2.2 D-CAT (Auris, E15) Year of manufacture 2010",
+          "TOYOTA Avensis 2.0 D-CAT (Avensis, T27) Year of manufacture 2009 - 2022",
+          "TOYOTA Avensis 2.2 D-CAT (Avensis, T27) Year of manufacture 2009 - 2013",
+          "TOYOTA Corolla Verso 2.0 D-4D (Corolla Verso)",
+          "TOYOTA Corolla Verso 2.2 D-CAT (Corolla Verso, R20) Year of manufacture 2009",
+          "TOYOTA Land Cruiser 3.0 D-4D (Landcruiser, J15) Year of manufacture 2011",
+          "TOYOTA RAV4 2.2 D-4D (RAV4, A3) Year of manufacture 2009 - 2011",
+          "TOYOTA RAV4 2.2 D-CAT (RAV4, A3) Year of manufacture 2010",
+          "TOYOTA Verso 2.0 D-4D (Verso) Year of manufacture 2010",
+          "TOYOTA Verso 2.0 D-4D (Verso, R2) Year of manufacture 2009 - 2012",
+          "TOYOTA Verso 2.2 D-4D (Verso, R2) Year of manufacture 2009 - 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001563-132071.html",
+        "part_numbers": [
+          {
+            "title": "TOYOTA - Part number",
+            "numbers": [
+              "89871-20080",
+              "8987120080"
+            ]
+          },
+          {
+            "title": "Denso - Part number",
+            "numbers": [
+              "131000-1563",
+              "1310001563"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1271",
+            "fault_description": "Fuel Regulator Circuit Malfunction (EDU Drive)"
+          },
+          {
+            "fault_code": "P1272",
+            "fault_description": "Fuel Pressure Regulator Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "TOYOTA Avensis 2.0 D-CAT (Avensis, T27) Year of manufacture 2012",
+          "TOYOTA RAV4 2.2 D-4D (RAV4, A3) Year of manufacture 2011",
+          "TOYOTA Verso 2.0 D-4D (Verso, R2) Year of manufacture 2011 - 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001564-119450.html",
+        "part_numbers": [
+          {
+            "title": "TOYOTA - Part number",
+            "numbers": [
+              "89871-20080",
+              "8987120080"
+            ]
+          },
+          {
+            "title": "Denso - Part number",
+            "numbers": [
+              "131000-1564",
+              "1310001564"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1271",
+            "fault_description": "Fuel Regulator Circuit Malfunction (EDU Drive)"
+          },
+          {
+            "fault_code": "P1272",
+            "fault_description": "Fuel Pressure Regulator Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "TOYOTA Avensis 2.2 D-CAT (Avensis, T27) Year of manufacture 2011",
+          "TOYOTA RAV4 2.2 D-4D (RAV4, A3) Year of manufacture 2011",
+          "TOYOTA Verso 2.0 D-4D (Verso, R2) Year of manufacture 2011",
+          "TOYOTA Verso 2.2 D-4D (Verso, R2) Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001565-128974.html",
+        "part_numbers": [
+          {
+            "title": "TOYOTA - Part number",
+            "numbers": [
+              "89871-20080",
+              "8987120080"
+            ]
+          },
+          {
+            "title": "Denso - Part number",
+            "numbers": [
+              "131000-1565",
+              "1310001565"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1271",
+            "fault_description": "Fuel Regulator Circuit Malfunction (EDU Drive)"
+          },
+          {
+            "fault_code": "P1272",
+            "fault_description": "Fuel Pressure Regulator Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "TOYOTA Auris 2.0 D-4D (Auris, E15) Year of manufacture 2011",
+          "TOYOTA Avensis 2.0 D-CAT (Avensis, T27) Year of manufacture 2011 - 2012",
+          "TOYOTA Avensis 2.2 D-CAT (Avensis, T27) Year of manufacture 2012 - 2013",
+          "TOYOTA Land Cruiser 3.0 D-4D (Landcruiser, J15) Year of manufacture 2012",
+          "TOYOTA RAV4 2.2 D-4D (RAV4, A3) Year of manufacture 2011 - 2012",
+          "TOYOTA RAV4 2.2 D-CAT (RAV4, A3) Year of manufacture 2011 - 2012",
+          "TOYOTA Verso 2.0 D-4D (Verso, R2) Year of manufacture 2011 - 2012",
+          "TOYOTA Verso 2.2 D-4D (Verso, R2) Year of manufacture 2011 - 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001566-119670.html",
+        "part_numbers": [
+          {
+            "title": "TOYOTA - Part number",
+            "numbers": [
+              "89871-20080",
+              "8987120080"
+            ]
+          },
+          {
+            "title": "Denso - Part number",
+            "numbers": [
+              "131000-1566",
+              "1310001566"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1271",
+            "fault_description": "Fuel Regulator Circuit Malfunction (EDU Drive)"
+          },
+          {
+            "fault_code": "P1272",
+            "fault_description": "Fuel Pressure Regulator Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "TOYOTA Auris 2.0 D-4D (Auris, E15) Year of manufacture 2011 - 2012",
+          "TOYOTA Auris 2.0 D-4D (Auris, E18) Year of manufacture 2013",
+          "TOYOTA Auris 2.2 D-CAT (Auris, E15) Year of manufacture 2012",
+          "TOYOTA Avensis 2.0 D-CAT (Avensis, T27) Year of manufacture 2012 - 2013",
+          "TOYOTA Avensis 2.2 D-CAT (Avensis, T27) Year of manufacture 2010 - 2013",
+          "TOYOTA Corolla Verso 2.2 D-CAT (Corolla Verso, R20) Year of manufacture 2012 - 2013",
+          "TOYOTA Hilux 2.5 D-4D AWD (Hilux, N2) Year of manufacture 2012",
+          "TOYOTA Hilux 2.5 D-4D (Hilux, N2) Year of manufacture 2013 - 2014",
+          "TOYOTA Hilux 3.0 D-4D AWD (Hilux, N2) Year of manufacture 2013",
+          "TOYOTA Hilux 3.0 D-4D (Hilux, N2) Year of manufacture 2012",
+          "TOYOTA RAV4 2.2 D-4D (RAV4, A3) Year of manufacture 2010 - 2013",
+          "TOYOTA RAV4 2.2 D-4D (RAV4, A4) Year of manufacture 2013",
+          "TOYOTA RAV4 2.2 D-CAT (RAV4, A3) Year of manufacture 2010 - 2013",
+          "TOYOTA Verso 2.0 D-4D (Verso) Year of manufacture 2013",
+          "TOYOTA Verso 2.0 D-4D (Verso, R2) Year of manufacture 2010 - 2015",
+          "TOYOTA Verso 2.2 D-4D (Verso, R2) Year of manufacture 2012 - 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001567-135779.html",
+        "part_numbers": [
+          {
+            "title": "TOYOTA - Part number",
+            "numbers": [
+              "89871-20080",
+              "8987120080"
+            ]
+          },
+          {
+            "title": "Denso - Part number",
+            "numbers": [
+              "131000-1567",
+              "1310001567"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1271",
+            "fault_description": "Fuel Regulator Circuit Malfunction (EDU Drive)"
+          },
+          {
+            "fault_code": "P1272",
+            "fault_description": "Fuel Pressure Regulator Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "TOYOTA Hilux 3.0 D-4D AWD (Hilux, N2) Year of manufacture 2014",
+          "TOYOTA Verso 2.2 D-4D (Verso, R2) Year of manufacture 2010 - 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001568-129456.html",
+        "part_numbers": [
+          {
+            "title": "TOYOTA - Part number",
+            "numbers": [
+              "89871-20080",
+              "8987120080"
+            ]
+          },
+          {
+            "title": "Denso - Part number",
+            "numbers": [
+              "131000-1568",
+              "1310001568"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1271",
+            "fault_description": "Fuel Regulator Circuit Malfunction (EDU Drive)"
+          },
+          {
+            "fault_code": "P1272",
+            "fault_description": "Fuel Pressure Regulator Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "TOYOTA Auris 2.0 D-4D (Auris, E18) Year of manufacture 2014",
+          "TOYOTA Hilux 3.0 D-4D (Hilux, N2) Year of manufacture 2015",
+          "TOYOTA RAV4 2.2 D-4D (RAV4, A4) Year of manufacture 2014 - 2016",
+          "TOYOTA Verso 2.0 D-4D (Verso, R2) Year of manufacture 2009",
+          "TOYOTA Verso 2.2 D-4D (Verso, R2) Year of manufacture 2014"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001569-136181.html",
+        "part_numbers": [
+          {
+            "title": "TOYOTA - Part number",
+            "numbers": [
+              "89871-20080",
+              "8987120080"
+            ]
+          },
+          {
+            "title": "Denso - Part number",
+            "numbers": [
+              "131000-1569",
+              "1310001569"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1271",
+            "fault_description": "Fuel Regulator Circuit Malfunction (EDU Drive)"
+          },
+          {
+            "fault_code": "P1272",
+            "fault_description": "Fuel Pressure Regulator Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "TOYOTA Verso 2.0 D-4D (Verso, R2) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001840-148902.html",
+        "part_numbers": [
+          {
+            "title": "TOYOTA - Part number",
+            "numbers": [
+              "89871-20080",
+              "8987120080"
+            ]
+          },
+          {
+            "title": "Denso - Part number",
+            "numbers": [
+              "131000-1840",
+              "1310001840"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1271",
+            "fault_description": "Fuel Regulator Circuit Malfunction (EDU Drive)"
+          },
+          {
+            "fault_code": "P1272",
+            "fault_description": "Fuel Pressure Regulator Malfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "TOYOTA Avensis 2.2 D-CAT (Avensis, T27) Year of manufacture 2013"
+        ]
+      }
+    ]
+  }
+]

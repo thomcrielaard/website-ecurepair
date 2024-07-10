@@ -1,0 +1,1288 @@
+[
+  {
+    "part_name": "ESP 8.0",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4082.ts1628718747.jpg",
+    "product_link": "https://ecu.eu/jeep/abs-asr-esp-ecu-6096/jeep/abs-asr-esp-ecu/esp-8.0-7200",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-8.0/jeep-p52125240ai-52125240ai-bosch-0265951011-0265235814-742-145679.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P52125240AI"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "52125240AI"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 951 011",
+              "0265951011"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 235 814",
+              "0265235814"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "742"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Cherokee) Year of manufacture 2009 - 2010"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP MK25",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk25-5139.ts1628722665.jpg",
+    "product_link": "https://ecu.eu/jeep/abs-asr-esp-ecu-6096/jeep/abs-asr-esp-ecu/esp-mk25-6098",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-00402660c300-p52059883af-25061333313-ate-25092743973-25021204644-581283-133384.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "00402660C300"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P52059883AF"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "25.0613-3331.3",
+              "25061333313"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0927-4397.3",
+              "25092743973"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-0464.4",
+              "25021204644"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "581283"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Wrangler) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-036ac-p04877036ac-ate-25092851693-25021215064-1317-129778.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "036AC"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P04877036AC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5169.3",
+              "25092851693"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-1506.4",
+              "25021215064"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1317"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Compass) Year of manufacture 2010 - 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-036ae-p04877036ae-ate-25092853093-25021221824-1317-122848.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "036AE"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P04877036AE"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5309.3",
+              "25092853093"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-2182.4",
+              "25021221824"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1317"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Compass) Year of manufacture 2014"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-038ac-p04877038ac-ate-25092851343-25021215044-581317-124260.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "038AC"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P04877038AC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5134.3",
+              "25092851343"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-1504.4",
+              "25021215044"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "581317"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Wrangler) Year of manufacture 2010 - 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-069aa-p04877069aa-ate-25092850313-25021211954-132218.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "069AA"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P04877069AA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5031.3",
+              "25092850313"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-1195.4",
+              "25021211954"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-215ac-p68028215ac-ate-25092843983-25021207304-1317-119556.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "215AC"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P68028215AC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-4398.3",
+              "25092843983"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-0730.4",
+              "25021207304"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1317"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Compass) Year of manufacture 2008 - 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-215ad-p68028215ad-ate-25092841543-25021209194-581317-123424.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "215AD"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P68028215AD"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-4154.3",
+              "25092841543"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-0919.4",
+              "25021209194"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "581317"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Wrangler) Year of manufacture 2008 - 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-25061332323-ate-25092743823-25021202734-581317-141027.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "25.0613-3232.3",
+              "25061332323"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0927-4382.3",
+              "25092743823"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-0273.4",
+              "25021202734"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "581317"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Compass) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-897ab-p05272897ab-ate-25092843643-25021206224-581317-132953.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "897AB"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P05272897AB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-4364.3",
+              "25092843643"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-0622.4",
+              "25021206224"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "581317"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Compass) Year of manufacture 2007 - 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-897ac-p05272897ac-ate-25092841003-25021207344-138697.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "897AC"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P05272897AC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-4100.3",
+              "25092841003"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-0734.4",
+              "25021207344"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Compass) Year of manufacture 2008 - 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-897ad-p05272897ad-ate-25092841563-25021209234-581317-128411.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "897AD"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P05272897AD"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-4156.3",
+              "25092841563"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-0923.4",
+              "25021209234"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "581317"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Patriot) Year of manufacture 2008 - 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-p04779788ad-ate-25092852613-25021218624-1283-136919.html",
+        "part_numbers": [
+          {
+            "title": "JEEP",
+            "numbers": []
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P04779788AD"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5261.3",
+              "25092852613"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-1862.4",
+              "25021218624"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1283"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Wrangler) Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-p04779788af-ate-25092853293-25021221524-1283-150844.html",
+        "part_numbers": [
+          {
+            "title": "JEEP",
+            "numbers": []
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P04779788AF"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5329.3",
+              "25092853293"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-2152.4",
+              "25021221524"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1283"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Wrangler) Year of manufacture 2014"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-p04877038ad-ate-25021216344-1317-130901.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P04877038AD"
+            ]
+          },
+          {
+            "title": "JEEP",
+            "numbers": []
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-1634.4",
+              "25021216344"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1317"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Compass) Year of manufacture 2010 - 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-p04877071aa-ate-25092850333-25021211994-581317-140329.html",
+        "part_numbers": [
+          {
+            "title": "JEEP",
+            "numbers": []
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P04877071AA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5033.3",
+              "25092850333"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-1199.4",
+              "25021211994"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "581317"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-p05154212ad-ate-25092852343-25021217924-1283-152033.html",
+        "part_numbers": [
+          {
+            "title": "JEEP",
+            "numbers": []
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P05154212AD"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5234.3",
+              "25092852343"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-1792.4",
+              "25021217924"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1283"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-p05154213ad-ate-25092852353-25061935323-1283-150357.html",
+        "part_numbers": [
+          {
+            "title": "JEEP",
+            "numbers": []
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P05154213AD"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5235.3",
+              "25092852353"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0619-3532.3",
+              "25061935323"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1283"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-p52124456aa-ate-25092643893-25020612684-1125-151035.html",
+        "part_numbers": [
+          {
+            "title": "JEEP",
+            "numbers": []
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P52124456 AA",
+              "P52124456AA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0926-4389.3",
+              "25092643893"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0206-1268.4",
+              "25020612684"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1125"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Wrangler) Year of manufacture 2015"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-p52124493ab-ate-25092643983-25021201974-581283-149570.html",
+        "part_numbers": [
+          {
+            "title": "JEEP",
+            "numbers": []
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P52124493AB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0926-4398.3",
+              "25092643983"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-0197.4",
+              "25021201974"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "581283"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Commander) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/abs-asr-esp-ecu/esp-mk25/jeep-p52124493ac-ate-25092843083-25021203424-152032.html",
+        "part_numbers": [
+          {
+            "title": "JEEP",
+            "numbers": []
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P52124493AC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-4308.3",
+              "25092843083"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-0342.4",
+              "25021203424"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1073",
+            "fault_description": "ABS pump motor control circuit"
+          },
+          {
+            "fault_code": "C2116",
+            "fault_description": "Abnormal pump motor power supply"
+          },
+          {
+            "fault_code": "C2200",
+            "fault_description": "Control unit function faulty -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

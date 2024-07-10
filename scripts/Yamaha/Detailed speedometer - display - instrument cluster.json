@@ -1,0 +1,39 @@
+[
+  {
+    "part_name": "MT-09 Instrument cluster",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mt+09+instrument+cluster-4878067.ts1717069515.jpg",
+    "product_link": "https://ecu.eu/yamaha/speedometer-display-instrument-cluster-7322/yamaha/speedometer-display-instrument-cluster/mt-09-instrument-cluster-7323",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/yamaha/speedometer-display-instrument-cluster/mt-09-instrument-cluster/yamaha-%28j%29-bs28350000-nse-bs200-153729.html",
+        "part_numbers": [
+          {
+            "title": "YAMAHA (J) - Part number",
+            "numbers": [
+              "BS2-83500-00",
+              "BS28350000"
+            ]
+          },
+          {
+            "title": "NSE - Part number",
+            "numbers": [
+              "BS20 0",
+              "BS200"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Total failure, various warning lights are still on."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "YAMAHA (J) MTN850-A (MT-09, RN43) Year of manufacture 2017"
+        ]
+      }
+    ]
+  }
+]

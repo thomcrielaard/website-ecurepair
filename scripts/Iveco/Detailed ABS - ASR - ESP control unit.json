@@ -1,0 +1,1466 @@
+[
+  {
+    "part_name": "ABS/ABD 5.3",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+abd+5+3-731.ts1628722659.jpg",
+    "product_link": "https://ecu.eu/iveco/abs-asr-esp-control-unit-4109/iveco/abs-asr-esp-control-unit/abs-abd-5.3-4161",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-abd-5.3/iveco-500321346-bosch-0273004129-0265216438-828-144461.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "500321346"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 129",
+              "0273004129"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 438",
+              "0265216438"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "828"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-abd-5.3/iveco-500331026-bosch-0273004324-0265220500-853-105376.html",
+        "part_numbers": [
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "500331026"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 324",
+              "0273004324"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 220 500",
+              "0265220500"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "853"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Water damage in the connector area"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 2.3 JTD (Daily) Year of manufacture 2003 - 2006",
+          "IVECO Daily 2.8 JTD (Daily) Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-abd-5.3/iveco-500331028-bosch-0273004325-0265219426-869-105375.html",
+        "part_numbers": [
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "500331028"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 325",
+              "0273004325"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 219 426",
+              "0265219426"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "869"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Water damage in the connector area"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 2.8 JTD (Daily)",
+          "IVECO Daily 3.0 JTD (Daily) Year of manufacture 2005 - 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-abd-5.3/iveco-500370968-bosch-0273004326-0265219441-117763.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "500370968"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 326",
+              "0273004326"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 219 441",
+              "0265219441"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Water damage in the connector area"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 2.8 JTD (Daily) Year of manufacture 2004 - 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-abd-5.3/iveco-504034920-bosch-0273004576-0265216845-905-129859.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "504034920"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 576",
+              "0273004576"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 845",
+              "0265216845"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "905"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 130 Multijet (Daily) Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-abd-5.3/iveco-99453415-bosch-0273004129-0265216437-144460.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "99453415"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 129",
+              "0273004129"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 437",
+              "0265216437"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "ABS/ASR 8.0",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+8+0-4104.ts1628718748.jpg",
+    "product_link": "https://ecu.eu/iveco/abs-asr-esp-control-unit-4109/iveco/abs-asr-esp-control-unit/abs-asr-8.0-4423",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-asr-8.0/iveco-504075551-bosch-0265800375-0265231450-111534.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50407 5551",
+              "504075551"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 375",
+              "0265800375"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 450",
+              "0265231450"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 2.3 JTD (Daily)",
+          "IVECO Daily 2.8 JTD (Daily)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-asr-8.0/iveco-504075553-bosch-0265800376-0265231452-107388.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50407 5553",
+              "504075553"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 376",
+              "0265800376"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 452",
+              "0265231452"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 2.8 JTD (Daily)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-asr-8.0/iveco-504075555-bosch-0265800377-0265231454-867-139043.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50407 5555",
+              "504075555"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 377",
+              "0265800377"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 454",
+              "0265231454"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "867"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 3.0 JTD (Daily) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-asr-8.0/iveco-504126937-bosch-0265900331-0265233015-894-120734.html",
+        "part_numbers": [
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50412 6937",
+              "504126937"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 900 331",
+              "0265900331"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 233 015",
+              "0265233015"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "894"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-asr-8.0/iveco-504182307-bosch-0265800605-0265231891-666-118810.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50418 2307",
+              "504182307"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 605",
+              "0265800605"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 891",
+              "0265231891"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "666"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-asr-8.0/iveco-504182308-bosch-0265800605-0265231892-666-118809.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50418 2308",
+              "504182308"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 605",
+              "0265800605"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 892",
+              "0265231892"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "666"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-asr-8.0/iveco-504182311-bosch-0265900342-0265233359-695-105377.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50418 2311",
+              "504182311"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 900 342",
+              "0265900342"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 233 359",
+              "0265233359"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "695"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 130 Multijet (Daily) Year of manufacture 2010",
+          "IVECO Daily 2.3 JTD HPI (Daily) Year of manufacture 2007 - 2009",
+          "IVECO Daily 3.0 JTD HPT (Daily) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-asr-8.0/iveco-504182314-bosch-0265900344-0265233027-694894-111535.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50418 2314",
+              "504182314"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 900 344",
+              "0265900344"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 233 027",
+              "0265233027"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "694 894",
+              "694894"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 2.3 JTD HPI (Daily) Year of manufacture 2007 - 2008",
+          "IVECO Daily 3.0 JTD HPI (Daily) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-asr-8.0/iveco-504182322-bosch-0265800606-0265231893-712-118428.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50418 2322",
+              "504182322"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 606",
+              "0265800606"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 893",
+              "0265231893"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "712"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-asr-8.0/iveco-504182324-bosch-0265900343-0265233025-714-107389.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50418 2324",
+              "504182324"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 900 343",
+              "0265900343"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 233 025",
+              "0265233025"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "714"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 3.0 JTD HPI (Daily)",
+          "IVECO Daily 3.0 JTD HPT (Daily) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/abs-asr-8.0/iveco-504346592-bosch-0265900370-0265233379-714-151131.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50434 6592",
+              "504346592"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 900 370",
+              "0265900370"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 233 379",
+              "0265233379"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "714"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "ESP 8.0",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4082.ts1628718747.jpg",
+    "product_link": "https://ecu.eu/iveco/abs-asr-esp-control-unit-4109/iveco/abs-asr-esp-control-unit/esp-8.0-4162",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/esp-8.0/iveco-504065619-bosch-0265950366-0265234130-868-128860.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50406 5619",
+              "504065619"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 366",
+              "0265950366"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 130",
+              "0265234130"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "868"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 2.3 JTD (Daily) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/esp-8.0/iveco-504065620-bosch-1265916834-0265234131-868-129012.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50406 5620",
+              "504065620"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "1 265 916 834",
+              "1265916834"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 131",
+              "0265234131"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "868"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 2.3 JTD (Daily) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/esp-8.0/iveco-504182320-bosch-0265950629-0265234521-669-111536.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50418 2320",
+              "504182320"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 629",
+              "0265950629"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 521",
+              "0265234521"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "669"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/esp-8.0/iveco-504230824-bosch-0265950764-0265234627-720920-107390.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50423 0824",
+              "504230824"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 764",
+              "0265950764"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 627",
+              "0265234627"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "720 920",
+              "720920"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO",
+          "IVECO Daily 130 Multijet (Daily)",
+          "IVECO Daily 2.3 JTD HPI (Daily)",
+          "IVECO Daily 3.0 JTD HPI (Daily)",
+          "IVECO Daily 3.0 JTD HPT (Daily)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/esp-8.0/iveco-504230827-bosch-0265234628-118079.html",
+        "part_numbers": [
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50423 0827",
+              "504230827"
+            ]
+          },
+          {
+            "title": "Bosch",
+            "numbers": []
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 628",
+              "0265234628"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/esp-8.0/iveco-504346594-bosch-0265951233-0265234748-720-137180.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50434 6594",
+              "504346594"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 951 233",
+              "0265951233"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 748",
+              "0265234748"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "720"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/esp-8.0/iveco-504346596-bosch-0265951234-0265234750-669-134833.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "50434 6596",
+              "504346596"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 951 234",
+              "0265951234"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 750",
+              "0265234750"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "669"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO (Daily) Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/esp-8.0/iveco-9649988180-bosch-0265950367-0265234144-822-147724.html",
+        "part_numbers": [
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "96 499 881 80",
+              "9649988180"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 367",
+              "0265950367"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 144",
+              "0265234144"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "822"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "ESP 9.0",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+9+0-112771.ts1628711709.jpg",
+    "product_link": "https://ecu.eu/iveco/abs-asr-esp-control-unit-4109/iveco/abs-asr-esp-control-unit/esp-9.0-5874",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/esp-9.0/iveco-2265106516-5801815705-bosch-0265956214-0265243257-517-146371.html",
+        "part_numbers": [
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "2265106516"
+            ]
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "5801815705"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 956 214",
+              "0265956214"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 243 257",
+              "0265243257"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "517"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0500",
+            "fault_description": "Speed sensor - functional failure"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/esp-9.0/iveco-5801312802-bosch-0265956036-0265242178-121425.html",
+        "part_numbers": [
+          {
+            "title": "IVECO",
+            "numbers": []
+          },
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "5801312802"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 956 036",
+              "0265956036"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 242 178",
+              "0265242178"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0500",
+            "fault_description": "Speed sensor - functional failure"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "IVECO Daily 130 Multijet (Daily) Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/iveco/abs-asr-esp-control-unit/esp-9.0/iveco-5802379961-bosch-0265956791-154151.html",
+        "part_numbers": [
+          {
+            "title": "IVECO - Part number",
+            "numbers": [
+              "5802379961"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 956 791",
+              "0265956791"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0500",
+            "fault_description": "Speed sensor - functional failure"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

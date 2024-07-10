@@ -1,0 +1,401 @@
+[
+  {
+    "part_name": "Independent Heater Ebersp",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/independent+heater+ebersp-148657.ts1628719110.jpg",
+    "product_link": "https://ecu.eu/ford/ac-control-unit-2891/ford/ac-control-unit/independent-heater-ebersp-5534",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/ford/ac-control-unit/independent-heater-ebersp/ford-1m5h18k464ab-hella-ebersp%C3%A4cher-252212-123939.html",
+        "part_numbers": [
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "1M5H-18K464-AB",
+              "1M5H18K464AB"
+            ]
+          },
+          {
+            "title": "HELLA",
+            "numbers": []
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "25 2212",
+              "252212"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "B2454",
+            "fault_description": "Boosting fan - interruption"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FORD Tourneo Connect 1.8 TDCi (Tourneo Connect) Year of manufacture 2008",
+          "FORD Transit 2.2 TDCi (Transit) Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ford/ac-control-unit/independent-heater-ebersp/ford-1m5h18k464ac-hella-5hb00817610-ebersp%C3%A4cher-252212-225201047000-148233.html",
+        "part_numbers": [
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "1M5H-18K464-AC",
+              "1M5H18K464AC"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5HB 008 176-10",
+              "5HB00817610"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "25 2212",
+              "252212"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "22 5201 04 70 00",
+              "225201047000"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "B2454",
+            "fault_description": "Boosting fan - interruption"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FORD Transit Connect 1.8 TDCi (Transit Connect) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ford/ac-control-unit/independent-heater-ebersp/ford-2t1v18k463ae-ebersp%C3%A4cher-25227505-hella-5hb00813140-ebersp%C3%A4cher-225201040000-126540.html",
+        "part_numbers": [
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "2T1V-18K463-AE",
+              "2T1V18K463AE"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "25 2275 05",
+              "25227505"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5HB 008 131-40",
+              "5HB00813140"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "22 5201 04 00 00",
+              "225201040000"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "B2454",
+            "fault_description": "Boosting fan - interruption"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FORD Tourneo Connect 1.8 TDCi (Tourneo Connect) Year of manufacture 2009 - 2011",
+          "FORD Transit Connect 1.8 TDCi (Transit Connect) Year of manufacture 2010 - 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ford/ac-control-unit/independent-heater-ebersp/ford-2t1v18k463pia2-ebersp%C3%A4cher-25227505-hella-5hb00817514-ebersp%C3%A4cher-225201019000-137277.html",
+        "part_numbers": [
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "2T1V-18K463-PIA2",
+              "2T1V18K463PIA2"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "25 2275 05",
+              "25227505"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5HB 008 175-14",
+              "5HB00817514"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "22 5201 01 90 00",
+              "225201019000"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "B2454",
+            "fault_description": "Boosting fan - interruption"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FORD Tourneo Connect 1.8 TDCi (Tourneo Connect) Year of manufacture 2009 - 2011",
+          "FORD Transit Connect 1.8 TDCi (Transit Connect) Year of manufacture 2010 - 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ford/ac-control-unit/independent-heater-ebersp/ford-3m5h18k464fb-ebersp%C3%A4cher-252480-ebersp%C3%A4cher-225204004000-hella-5hb00869700-127513.html",
+        "part_numbers": [
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "3M5H-18K464-FB",
+              "3M5H18K464FB"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "25 2480",
+              "252480"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "22 5204 0040 00",
+              "225204004000"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5HB 008 697-00",
+              "5HB00869700"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "B2454",
+            "fault_description": "Boosting fan - interruption"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/ford/ac-control-unit/independent-heater-ebersp/ford-av6118k464bl-ebersp%C3%A4cher-252502-136863.html",
+        "part_numbers": [
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "AV61-18K464-BL",
+              "AV6118K464BL"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "25 2502",
+              "252502"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "B2454",
+            "fault_description": "Boosting fan - interruption"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FORD Transit Connect 1.5 TDCi (Transit Connect) Year of manufacture 2016"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ford/ac-control-unit/independent-heater-ebersp/ford-av6118k464bm-ebersp%C3%A4cher-252502-136864.html",
+        "part_numbers": [
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "AV61-18K464-BM",
+              "AV6118K464BM"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "25 2502",
+              "252502"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "B2454",
+            "fault_description": "Boosting fan - interruption"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FORD Grand C-Max 1.5 TDCi (C-Max) Year of manufacture 2018",
+          "FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2019"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ford/ac-control-unit/independent-heater-ebersp/ford-yc1h9j294ah-141840.html",
+        "part_numbers": [
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "YC1H-9J294-AH",
+              "YC1H9J294AH"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "B2454",
+            "fault_description": "Boosting fan - interruption"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "auxiliary heater Ebersp\u00e4cher B5WS",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/auxiliary+heater+eberspaecher+b5ws-148657.ts1628719110.jpg",
+    "product_link": "https://ecu.eu/ford/ac-control-unit-2891/ford/ac-control-unit/auxiliary-heater-ebersp%C3%A4cher-b5ws-6790",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/ford/ac-control-unit/auxiliary-heater-ebersp%C3%A4cher-b5ws/ford-3m5h18k464ch-ebersp%C3%A4cher-201825-ebersp%C3%A4cher-2225040040000-hella-5hb00869700-134537.html",
+        "part_numbers": [
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "3M5H-18K464-CH",
+              "3M5H18K464CH"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "20 1825",
+              "201825"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "22 25040040000",
+              "2225040040000"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5HB 008 697-00",
+              "5HB00869700"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "FORD Focus C-Max 1.6i (Focus C-Max) Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ford/ac-control-unit/auxiliary-heater-ebersp%C3%A4cher-b5ws/ford-3m5h18k464gb-ebersp%C3%A4cher-201890-ebersp%C3%A4cher-2252040040000-hella-5hb008769700-127467.html",
+        "part_numbers": [
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "3M5H-18K464-GB",
+              "3M5H18K464GB"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "20 1890",
+              "201890"
+            ]
+          },
+          {
+            "title": "Ebersp\u00e4cher - Part number",
+            "numbers": [
+              "22 52040040000",
+              "2252040040000"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5HB 0087 697-00",
+              "5HB008769700"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "FORD Focus Turnier 1.6i (Focus) Year of manufacture 2011",
+          "FORD Focus Turnier 2.0i (Focus) Year of manufacture 2009",
+          "FORD Kuga 2.5i 4x4 (Kuga) Year of manufacture 2011"
+        ]
+      }
+    ]
+  }
+]

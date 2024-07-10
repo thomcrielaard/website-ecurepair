@@ -1,0 +1,528 @@
+[
+  {
+    "part_name": "EUR",
+    "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/nissan+221000c810+mitsubishi+electric+t2t53671-667.ts1628711295.jpg",
+    "product_link": "https://ecu.eu/nissan/ignition-distributor-114",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-221000c810-mitsubishi-electric-t2t53671-107324.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-0C810",
+              "221000C810"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T2T53671"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "NISSAN Serena 1.6i (C23) Year of manufacture 1992"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210017b02-d4p8405-152770.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-17B02",
+              "2210017B02"
+            ]
+          },
+          {
+            "title": "Part number",
+            "numbers": [
+              "D4P84-05",
+              "D4P8405"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210017c00-nissan-motor-d4p8404-107330.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-17C00",
+              "2210017C00"
+            ]
+          },
+          {
+            "title": "Nissan Motor - Part number",
+            "numbers": [
+              "D4P84-04",
+              "D4P8404"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-221001c710-mitsubishi-electric-t2t54171-107325.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-1C710",
+              "221001C710"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T2T54171"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "NISSAN Serena 1.6i (C23) Year of manufacture 1995 - 2000"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-221001n001-nissan-motor-d4t9302-107334.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-1N001",
+              "221001N001"
+            ]
+          },
+          {
+            "title": "Nissan Motor - Part number",
+            "numbers": [
+              "D4T93-02",
+              "D4T9302"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "NISSAN Almera 1.4i (N15) Year of manufacture 1997",
+          "NISSAN Almera 1.6i (N15) Year of manufacture 1996 - 1998",
+          "Nissan Almera 1.4i (N15) Year of manufacture 1996 - 1998"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-221001s702-nissan-motor-d4t9402-107333.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-1S702",
+              "221001S702"
+            ]
+          },
+          {
+            "title": "Nissan Motor - Part number",
+            "numbers": [
+              "D4T94-02",
+              "D4T9402"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-221001s802-nissan-motor-d4t9402-111848.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-1S802",
+              "221001S802"
+            ]
+          },
+          {
+            "title": "Nissan Motor - Part number",
+            "numbers": [
+              "D4T94-02",
+              "D4T9402"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "NISSAN Terrano II 2.4i 4x4 (R20) Year of manufacture 1998"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-221002n300-nissan-motor-d4t9702-107331.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-2N300",
+              "221002N300"
+            ]
+          },
+          {
+            "title": "Nissan Motor - Part number",
+            "numbers": [
+              "D4T97-02",
+              "D4T9702"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "NISSAN Almera 1.4i (N15) Year of manufacture 1996 - 1999",
+          "NISSAN Almera 1.6i (N15) Year of manufacture 1998"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210033b10-mitsubishi-electric-t2t72674-133820.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-33B10",
+              "2210033B10"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T2T72674"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210040f00-nissan-motor-d4p8703-107335.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-40F00",
+              "2210040F00"
+            ]
+          },
+          {
+            "title": "Nissan Motor - Part number",
+            "numbers": [
+              "D4P87-03",
+              "D4P8703"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210041b02-sumitomo-odzaak01000-nissan-motor-d4t9001a-2621.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-41B02",
+              "2210041B02"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "ODZAAK 01000",
+              "ODZAAK01000"
+            ]
+          },
+          {
+            "title": "Nissan Motor - Part number",
+            "numbers": [
+              "D4T90-01A",
+              "D4T9001A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210041b10-mitsubishi-electric-t6t57971-109166.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100  41B10",
+              "2210041B10"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T6T57971"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210055k10-mitsubishi-electric-t6t87772-107327.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-55K10",
+              "2210055K10"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T6T87772"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210060k15-mitsubishi-electric-t6t87775-113633.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-60K15",
+              "2210060K15"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T6T87775"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210071j00-lucas-42508a-113093.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-71J00",
+              "2210071J00"
+            ]
+          },
+          {
+            "title": "Lucas - Part number",
+            "numbers": [
+              "42508A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "NISSAN Primera 1.6 (P10) Year of manufacture 1991"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210073c00-nissan-motor-d4t9101-107328.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-73C00",
+              "2210073C00"
+            ]
+          },
+          {
+            "title": "Nissan Motor - Part number",
+            "numbers": [
+              "D4T91-01",
+              "D4T9101"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210074b00-nissan-motor-d4t9001c-113306.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100 74B00",
+              "2210074B00"
+            ]
+          },
+          {
+            "title": "Nissan Motor - Part number",
+            "numbers": [
+              "D4T90-01C",
+              "D4T9001C"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210078a00-nissan-motor-d4p8605-107329.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-78A00",
+              "2210078A00"
+            ]
+          },
+          {
+            "title": "Nissan Motor - Part number",
+            "numbers": [
+              "D4P86-05",
+              "D4P8605"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-221007j505-mitsubishi-electric-t2t58976-107323.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-7J505",
+              "221007J505"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T2T58976"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "NISSAN Almera Tino 2.0i (V10) Year of manufacture 2001",
+          "NISSAN Primera 2.0i (P11) Year of manufacture 1999 - 2000",
+          "NISSAN Primera Traveller 2.0i (P11) Year of manufacture 2000"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/ignition-distributor/nissan-2210082j00-lucas-42546a-107322.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "22100-82J00",
+              "2210082J00"
+            ]
+          },
+          {
+            "title": "Lucas - Part number",
+            "numbers": [
+              "42546A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "NISSAN Primera 1.6i (P11) Year of manufacture 1998"
+        ]
+      }
+    ]
+  }
+]

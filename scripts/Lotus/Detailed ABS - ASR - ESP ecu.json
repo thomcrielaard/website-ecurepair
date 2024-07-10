@@ -1,0 +1,46 @@
+[
+  {
+    "part_name": "EBC 430",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ebc+430-570837.ts1632464443.jpg",
+    "product_link": "https://ecu.eu/lotus/abs-asr-esp-ecu-6395/lotus/abs-asr-esp-ecu/ebc-430-6396",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/lotus/abs-asr-esp-ecu/ebc-430/lotus-kelsey-hayes-13091803-13216603a-siemens-s108196005-129978.html",
+        "part_numbers": [
+          {
+            "title": "Lotus",
+            "numbers": []
+          },
+          {
+            "title": "Kelsey-Hayes - Part number",
+            "numbers": [
+              "13091803"
+            ]
+          },
+          {
+            "title": "Kelsey-Hayes - Part number",
+            "numbers": [
+              "13216603-A",
+              "13216603A"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S108196005"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "part_name": "Sebring (JR) 2000-2007 cockpit",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/sebring+jr+2000+2007+cockpit-1141040.ts1660816157.jpg",
+    "product_link": "https://ecu.eu/chrysler/speedometer-display-instrument-cluster-2845/chrysler/speedometer-display-instrument-cluster/sebring-%28jr%29-2000-2007-cockpit-5497",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/chrysler/speedometer-display-instrument-cluster/sebring-%28jr%29-2000-2007-cockpit/chrysler-p05026027ae-p05011736aa-120294.html",
+        "part_numbers": [
+          {
+            "title": "CHRYSLER - Part number",
+            "numbers": [
+              "P05026027AE"
+            ]
+          },
+          {
+            "title": "CHRYSLER - Part number",
+            "numbers": [
+              "P05011736AA"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Cockpit illumination is flashing or out of order"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "CHRYSLER Sebring 2.0 Convertible Year of manufacture 2002 Engine code ECC",
+          "CHRYSLER Sebring 2.7 Convertible Year of manufacture 2001 Engine code EER"
+        ]
+      }
+    ]
+  }
+]

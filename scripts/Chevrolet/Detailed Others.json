@@ -1,0 +1,87 @@
+[
+  {
+    "part_name": "Control unit cooling fan motor Z22D1 (LNP/LNQ)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+unit+cooling+fan+motor+z22d1+lnp+lnq-342483.ts1628715919.jpg",
+    "product_link": "https://ecu.eu/chevrolet/others-2841/chevrolet/others/control-unit-cooling-fan-motor-z22d1-%28lnp-lnq%29-6274",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/chevrolet/others/control-unit-cooling-fan-motor-z22d1-%28lnp-lnq%29/chevrolet-20787305-gm-1247391-bosch-1137328617-125604.html",
+        "part_numbers": [
+          {
+            "title": "Chevrolet - Part number",
+            "numbers": [
+              "20787305"
+            ]
+          },
+          {
+            "title": "GM - Part number",
+            "numbers": [
+              "1247391"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "1 137 328 617",
+              "1137328617"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0480",
+            "fault_description": "cooling fan 1: control circuit malfunction"
+          },
+          {
+            "fault_description": "Cooling fan actuation error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Chevrolet Year of manufacture 2012 - 2013",
+          "Chevrolet (KLAC) Year of manufacture 2013 - 2014"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Turbo-charger actuator",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+    "product_link": "https://ecu.eu/chevrolet/others-2841/chevrolet/others/turbo-charger-actuator-4787",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/chevrolet/others/turbo-charger-actuator/chevrolet-6nw008412-hella-712120-111205.html",
+        "part_numbers": [
+          {
+            "title": "Chevrolet - Part number",
+            "numbers": [
+              "6NW 008 412",
+              "6NW008412"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "712120"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Temporary problems with charging pressure control \u2013 fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again \u2013 until next error occur"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Chevrolet (KL1C) Year of manufacture 2006",
+          "Chevrolet (KL1L)",
+          "Chevrolet (KLAC) Year of manufacture 2007 - 2008"
+        ]
+      }
+    ]
+  }
+]

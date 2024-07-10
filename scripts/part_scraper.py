@@ -19,7 +19,21 @@ class PartScraper:
       parts_data = []
 
       # Find all <li> elements within the <ul class="products">
-      parts_list = soup.find('ul', {'class': 'products'}).find_all('li')
+      parts_list = soup.find('ul', {'class': 'products'})
+      if parts_list == None:
+        # print(f"No parts found for {self.url}")
+        content = soup.find('div', {'class': 'page-content'}).find('img')
+        if content == None:
+          print(f"No products found for {self.url}")
+        else:
+          parts_data.append({
+            'part_name': soup.find('strong').text.strip(),
+            'image_url': content['src'],
+            'product_link': self.url
+          })
+        return parts_data
+      else:
+        parts_list = parts_list.find_all('li')
 
       # Loop through all <li> elements
       for part in parts_list:

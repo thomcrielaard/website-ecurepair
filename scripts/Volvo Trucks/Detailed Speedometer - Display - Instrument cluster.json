@@ -1,0 +1,80 @@
+[
+  {
+    "part_name": "Volvo Radlader L110F / L120F / L180F / L350F instrument cluster",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/volvo+radlader+l110f+l120f+l180f+l350f+instrument+cluster-526464.ts1629961690.jpg",
+    "product_link": "https://ecu.eu/speedometer-display-instrument-cluster-6732/speedometer-display-instrument-cluster/volvo-radlader-l110f-l120f-l180f-l350f-instrument-cluster-6733",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/speedometer-display-instrument-cluster/volvo-radlader-l110f-l120f-l180f-l350f-instrument-cluster/volvo-11443800p01-volvo-18853-07w103-140999.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "11443800-P01",
+              "11443800P01"
+            ]
+          },
+          {
+            "title": "Volvo - Part number",
+            "numbers": [
+              "18853"
+            ]
+          },
+          {
+            "title": "Volvo - Part number",
+            "numbers": [
+              "07W103"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Unit usually does not start early / cold, ignition must first be turned on and off several times. -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Volvo wheel loader L25 / L28F Instrument cluster",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/volvo+wheel+loader+l25+l28f+instrument+cluster-2475526.ts1703681427.jpg",
+    "product_link": "https://ecu.eu/speedometer-display-instrument-cluster-6732/speedometer-display-instrument-cluster/volvo-wheel-loader-l25-l28f-instrument-cluster-7281",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/speedometer-display-instrument-cluster/volvo-wheel-loader-l25-l28f-instrument-cluster/volvo-construction-0524000103-0524000103-151897.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO CONSTRUCTION - Part number",
+            "numbers": [
+              "05240001.03",
+              "0524000103"
+            ]
+          },
+          {
+            "title": "Part number",
+            "numbers": [
+              "05240001.03",
+              "0524000103"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Tankanzeige ohne Funktion"
+          },
+          {
+            "fault_description": "Total dysfunction"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

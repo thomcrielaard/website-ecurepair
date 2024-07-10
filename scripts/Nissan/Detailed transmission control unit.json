@@ -1,0 +1,167 @@
+[
+  {
+    "part_name": "TCU RE5R05A 5-speed",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/tcu+re5r05a+5+speed-97773.ts1628711564.jpg",
+    "product_link": "https://ecu.eu/nissan/transmission-control-unit-2957/nissan/transmission-control-unit/tcu-re5r05a-5-speed-5293",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/nissan/transmission-control-unit/tcu-re5r05a-5-speed/nissan-3170508x2c-117941.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "31705-08X2C",
+              "3170508X2C"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1757",
+            "fault_description": "front brake solenoid valve"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/transmission-control-unit/tcu-re5r05a-5-speed/nissan-317053x40b-117938.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "31705-3X40B",
+              "317053X40B"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1757",
+            "fault_description": "front brake solenoid valve"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/transmission-control-unit/tcu-re5r05a-5-speed/nissan-317054x40b-117940.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "31705-4X40B",
+              "317054X40B"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1757",
+            "fault_description": "front brake solenoid valve"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/transmission-control-unit/tcu-re5r05a-5-speed/nissan-31705eb30a-3104090x10-bosch-0260550002-jatco-116770.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "31705-EB30A",
+              "31705EB30A"
+            ]
+          },
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "31040-90X10",
+              "3104090X10"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 002",
+              "0260550002"
+            ]
+          },
+          {
+            "title": "Jatco",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1757",
+            "fault_description": "front brake solenoid valve"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "NISSAN Armada 5.6 (A60)",
+          "NISSAN Navara 2.5 dCi 4x4 (D40) Year of manufacture 2006 - 2008",
+          "NISSAN Pathfinder 2.5 dCi 4x4 (R51) Year of manufacture 2005 - 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/transmission-control-unit/tcu-re5r05a-5-speed/nissan-31705eb50c-117939.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "31705-EB50C",
+              "31705EB50C"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1757",
+            "fault_description": "front brake solenoid valve"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/nissan/transmission-control-unit/tcu-re5r05a-5-speed/nissan-bosch-0260550023-126138.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN",
+            "numbers": []
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 023",
+              "0260550023"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1757",
+            "fault_description": "front brake solenoid valve"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

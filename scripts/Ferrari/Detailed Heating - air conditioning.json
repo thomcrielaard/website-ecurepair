@@ -1,0 +1,95 @@
+[
+  {
+    "part_name": "360 (F131) automatic air conditioning ecu",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/360+f131+automatic+air+conditioning+ecu-275059.ts1628714616.jpg",
+    "product_link": "https://ecu.eu/ferrari/heating-air-conditioning-6108/ferrari/heating-air-conditioning/360-%28f131%29-automatic-air-conditioning-ecu-6758",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/ferrari/heating-air-conditioning/360-%28f131%29-automatic-air-conditioning-ecu/ferrari-463009203-delphi-1320973-135918.html",
+        "part_numbers": [
+          {
+            "title": "FERRARI - Part number",
+            "numbers": [
+              "463009203"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "132097/3",
+              "1320973"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Hot water valve control faulty"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "550 / 575 Fan control unit",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/550+575+fan+control+unit-3254378.ts1708612004.jpg",
+    "product_link": "https://ecu.eu/ferrari/heating-air-conditioning-6108/ferrari/heating-air-conditioning/550-575-fan-control-unit-7290",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/ferrari/heating-air-conditioning/550-575-fan-control-unit/ferrari-1330003-bitron-152610.html",
+        "part_numbers": [
+          {
+            "title": "FERRARI - Part number",
+            "numbers": [
+              "133000/3",
+              "1330003"
+            ]
+          },
+          {
+            "title": "Bitron",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faulty control for fan"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "F355 automatic air-conditioning ecu",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/f355+automatic+air+conditioning+ecu-275059.ts1628714616.jpg",
+    "product_link": "https://ecu.eu/ferrari/heating-air-conditioning-6108/ferrari/heating-air-conditioning/f355-automatic-air-conditioning-ecu-6110",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/ferrari/heating-air-conditioning/f355-automatic-air-conditioning-ecu/ferrari-462001300-122951.html",
+        "part_numbers": [
+          {
+            "title": "FERRARI - Part number",
+            "numbers": [
+              "462001300"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Hot water valve control faulty"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

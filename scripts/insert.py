@@ -35,7 +35,7 @@ def create_product(part, product, brand_id, part_id):
 
   samenvatting = "Heeft u problemen met uw " + onderdeelnummer + "? Laat hem dan nu vervangen, repareren of reviseren door ECU Repair!"
 
-  omschrijving = "Bij ECU Repair kunt u uw {part_name} laten repareren, reviseren of vervangen. Onze specialisten zijn ervaren in het oplossen van problemen met dit onderdeel en andere soortgelijke onderdelen. Of het nu gaat om het herstellen van defecte componenten of het uitvoeren van preventief onderhoud, bij ECU Repair bent u verzekerd van een snelle en efficiënte service. Wilt u graag een afspraak maken? Vul dan nu het reparatieformulier in!\n##Onderdeelnummers\n" + onderdeelnummers_lijst
+  omschrijving = "Bij ECU Repair kunt u uw {part_name} laten repareren, reviseren of vervangen. Onze specialisten zijn ervaren in het oplossen van problemen met dit onderdeel en andere soortgelijke onderdelen. Of het nu gaat om het herstellen van defecte componenten of het uitvoeren van preventief onderhoud, bij ECU Repair bent u verzekerd van een snelle en efficiënte service. Wilt u graag een afspraak maken? Vul dan nu het reparatieformulier in!\n## Onderdeelnummers\n" + onderdeelnummers_lijst
 
   # Prepare faults list
   fouten = [{"code": fault.get("fault_code"), "omschrijving": fault["fault_description"]} for fault in product["faults"]]

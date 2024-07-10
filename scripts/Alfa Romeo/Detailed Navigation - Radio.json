@@ -1,0 +1,80 @@
+[
+  {
+    "part_name": "166 Navigation system ICS",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/166+navigation+system+ics-390117.ts1628716805.jpg",
+    "product_link": "https://ecu.eu/alfa-romeo/navigation-radio-2828/alfa-romeo/navigation-radio/166-navigation-system-ics-6406",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/alfa-romeo/navigation-radio/166-navigation-system-ics/alfa-romeo-156049344-becker-automotive-systems-be2580-siemens-5wk78262-139090.html",
+        "part_numbers": [
+          {
+            "title": "ALFA ROMEO - Part number",
+            "numbers": [
+              "156.049.344",
+              "156049344"
+            ]
+          },
+          {
+            "title": "BECKER AUTOMOTIVE SYSTEMS - Part number",
+            "numbers": [
+              "BE 2580",
+              "BE2580"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WK 78262",
+              "5WK78262"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Dark display / defective pixels"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "ALFA ROMEO (166, 936) Year of manufacture 2001 - 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/alfa-romeo/navigation-radio/166-navigation-system-ics/alfa-romeo-5wk78107-becker-be2569-siemens-140628.html",
+        "part_numbers": [
+          {
+            "title": "ALFA ROMEO - Part number",
+            "numbers": [
+              "5WK 78107",
+              "5WK78107"
+            ]
+          },
+          {
+            "title": "Becker - Part number",
+            "numbers": [
+              "BE 2569",
+              "BE2569"
+            ]
+          },
+          {
+            "title": "Siemens",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Dark display / defective pixels"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "ALFA ROMEO (166, 936) Year of manufacture 1999"
+        ]
+      }
+    ]
+  }
+]

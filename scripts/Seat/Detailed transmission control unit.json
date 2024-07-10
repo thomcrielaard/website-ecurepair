@@ -1,0 +1,3905 @@
+[
+  {
+    "part_name": "DSG 7-Gear DQ381 / DQ500 (0GC / 0DL) Bosch",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/dsg+7+gear+dq381+dq500+0gc+0dl+bosch-405565.ts1628723698.jpg",
+    "product_link": "https://ecu.eu/seat/transmission-control-unit-3032/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch-6831",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0dl300013a-0gc927711g-bosch-0260550109-149867.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0DL 300 013 A",
+              "0DL300013A"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Tarraco 2.0 TDI 4Drive (Tarraco, KN) Year of manufacture 2019 Engine code DFHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0dl300013a-0gc927711h-bosch-0260550150-150682.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0DL 300 013 A",
+              "0DL300013A"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 150",
+              "0260550150"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Tarraco 2.0 TDI 4Drive (Tarraco, KN) Year of manufacture 2019 - 2020 Engine code DFHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300011b-0de927711c-bosch-0260550126-144927.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 011 B",
+              "0GC300011B"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0DE 927 711 C",
+              "0DE927711C"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 126",
+              "0260550126"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 2.0 TDI 4x4 (Ateca, 5FP) Year of manufacture 2016 Engine code DFHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300011g-0gc927711g-bosch-0260550109-142400.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 011 G",
+              "0GC300011G"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 2.0 TDI 4x4 (Ateca, 5FP) Year of manufacture 2018 Engine code DFHA",
+          "SEAT Ateca 2.0 TSI 4x4 (Ateca, KH7) Year of manufacture 2017 - 2018 Engine code DZKA, CZPB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300011q-0gc927711g-bosch-0260550109-140353.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 011 Q",
+              "0GC300011Q"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 2.0 TDI 4x4 (Ateca, 5FP) Year of manufacture 2016 - 2018 Engine code DFHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300011s-0de927711c-bosch-0260550126-140248.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 011 S",
+              "0GC300011S"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0DE 927 711 C",
+              "0DE927711C"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 126",
+              "0260550126"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 2.0 TDI 4x4 (Ateca, 5FP) Year of manufacture 2016 - 2017 Engine code DFHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300011s-0gc927711g-bosch-0260550109-154070.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 011 S",
+              "0GC300011S"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300012-0gc927711g-bosch-0260550109-140654.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 012",
+              "0GC300012"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 2.0 TDI 4x4 (Ateca, 5FP) Year of manufacture 2017 - 2018 Engine code DFHA",
+          "SEAT (Ateca) Year of manufacture 2018"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300012b-0gc927711g-bosch-0260550109-150624.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 012 B",
+              "0GC300012B"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 2.0 TDI 4x4 (Ateca, 5FP) Year of manufacture 2017 - 2018 Engine code DFHA",
+          "SEAT Leon ST 2.0 TDI 4Drive (Leon, 5F) Year of manufacture 2018 Engine code DCYA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300012s-0gc927711h-bosch-0260550138-153132.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 012 S",
+              "0GC300012S"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 138",
+              "0260550138"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300013k-0gc927711h-bosch-0260550150-151193.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 013 K",
+              "0GC300013K"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 150",
+              "0260550150"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 2.0 TDI 4x4 (Ateca, 5FP) Year of manufacture 2019 Engine code DFHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300013l-0gc927711h-bosch-0260550138-152934.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 013 L",
+              "0GC300013L"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 138",
+              "0260550138"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Tarraco 2.0 TDI 4Drive (Tarraco, KN) Year of manufacture 2019 Engine code DFGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300013l-0gc927711h-bosch-0260550150-150832.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 013 L",
+              "0GC300013L"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 150",
+              "0260550150"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Tarraco 2.0 TDI 4Drive (Tarraco, KN) Year of manufacture 2019 - 2020 Engine code DFGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300013n-0gc927711h-bosch-0260550138-146704.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 013 N",
+              "0GC300013N"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 138",
+              "0260550138"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 2.0 TSI 4x4 (Ateca, KH7) Year of manufacture 2019 Engine code DZKA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300013n-0gc927711h-bosch-0260550150-151285.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 013 N",
+              "0GC300013N"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 150",
+              "0260550150"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 2.0 TSI 4x4 (Ateca, KH7) Year of manufacture 2019 Engine code DZKA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300013p-0gc927711h-bosch-0260550138-151741.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 013 P",
+              "0GC300013P"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 138",
+              "0260550138"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Tarraco 2.0 TSI 4Drive (Tarraco, KN) Year of manufacture 2019 Engine code DKZA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300014c-0gc927711h-bosch-0260550138-153335.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 014 C",
+              "0GC300014C"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 138",
+              "0260550138"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 1.5 TSI 4Drive (Ateca, 5FP) Year of manufacture 2019"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300014c-0gc927711h-bosch-0260550150-141270.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 014 C",
+              "0GC300014C"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 150",
+              "0260550150"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 1.5 TSI 4Drive (Ateca, 5FP) Year of manufacture 2019"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300014e-0gc927711h-bosch-0260550138-153002.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 014 E",
+              "0GC300014E"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 138",
+              "0260550138"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Leon ST 2.0 TDI 4x4 X-Perience (Leon, 5F) Year of manufacture 2019 Engine code DFGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-7-gear-dq381-dq500-%280gc-0dl%29-bosch/seat-0gc300014e-0gc927711h-bosch-0260550150-151774.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 300 014 E",
+              "0GC300014E"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 150",
+              "0260550150"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Leon ST 2.0 TDI 4x4 X-Perience (Leon, 5F) Year of manufacture 2019 - 2020 Engine code DFGA"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "DSG DQ250 (02E)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/dsg+dq250+02e-9257.ts1628718767.jpg",
+    "product_link": "https://ecu.eu/seat/transmission-control-unit-3032/seat/transmission-control-unit/dsg-dq250-%2802e%29-4841",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e300052h-02e927770al-02e325025al-temic-00406403a2-150129.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 052 H",
+              "02E300052H"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AL",
+              "02E927770AL"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AL",
+              "02E325025AL"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00406403A2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Leon 2.0 TDI (Leon, 1P) Year of manufacture 2010 Engine code CEGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ad-02e300041-02e325025ad-temic-00401974a1-111757.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 041",
+              "02E300041"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A1"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Altea 2.0 TDI (Altea, 5P) Year of manufacture 2004 - 2005 Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ad-02e300041-02e325025ad-temic-00401974a2-111758.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 041",
+              "02E300041"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Altea 2.0 TDI (Altea, 5P) Year of manufacture 2004 - 2005 Engine code BKD",
+          "SEAT Toledo 2.0 TDI (Toledo, 5P) Year of manufacture 2005 Engine code BKD TCU code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ad-02e300042g-02e325025ad-temic-00401974a3-130918.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 042 G",
+              "02E300042G"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Altea 2.0 TDI (Altea, 5P) Year of manufacture 2006 Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300042g-02e325025ae-temic-00401975a3-111756.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 042 G",
+              "02E300042G"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Altea 2.0 TDI (Altea, 5P) Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300042t-02e325025ae-temic-00401975a3-118486.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 042 T",
+              "02E300042T"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300042t-02e325025ae-temic-00401975a4-135597.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 042 T",
+              "02E300042T"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A4"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Altea 2.0 TDI (Altea, 5P) Year of manufacture 2006 Engine code BMM",
+          "SEAT Leon 2.0 TDI (Leon, 1P) Year of manufacture 2006 Engine code BMM"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300043k-02e325025ae-temic-00401975a4-122381.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 043 K",
+              "02E300043K"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A4"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300043k-02e325025ae-temic-00401975a5-122332.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 043 K",
+              "02E300043K"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A5"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300043q-02e325025ae-temic-00401975a4-146836.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 043 Q",
+              "02E300043Q"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A4"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300044d-02e325025ae-temic-00401975a5-130201.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 044 D",
+              "02E300044D"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A5"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Leon 2.0 TDI (Leon, 1P) Year of manufacture 2007 Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300044g-02e325025ae-00401975a5-132974.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 044 G",
+              "02E300044G"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "Part number",
+            "numbers": [
+              "00401975A5"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300044g-02e325025ae-temic-00401975a5-132740.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 044 G",
+              "02E300044G"
+            ]
+          },
+          {
+            "title": "Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A5"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Altea XL 1.9 TDI (Altea XL, 5P) Year of manufacture 2007 Engine code BLS"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300050e-02e325025ae-temic-00401975a3-114614.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 050 E",
+              "02E300050E"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Leon 2.0 TDI (Leon, 1P) Year of manufacture 2005 - 2006 Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300050e-02e325025ae-temic-00401975a4-111755.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 050 E",
+              "02E300050E"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A4"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Altea 2.0 TDI (Altea, 5P) Engine code BMM"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300050f-02e325025ae-temic-00401975a7-136582.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 050 F",
+              "02E300050F"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A7"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300058j-02e325025ae-temic-00406403a4-124307.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 058 J",
+              "02E300058J"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00406403A4"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770aj-02e300051r-02e325025aj-temic-00406177a3-145742.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AJ",
+              "02E927770AJ"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 051 R",
+              "02E300051R"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AJ",
+              "02E325025AJ"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00406177A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770al-02e300012k-02e325025al-temic-00406403a2-153950.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AL",
+              "02E927770AL"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 012 K",
+              "02E300012K"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AL",
+              "02E325025AL"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00406403A2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Altea XL 2.0 TSI 4x4 Freetrack (Altea XL, 5P) Year of manufacture 2010 Engine code CCZB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770al-02e300013j-02e325025al-temic-00406403a2-151812.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 927 770 AL",
+              "02E927770AL"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 300 013 J",
+              "02E300013J"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "02E 325 025 AL",
+              "02E325025AL"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00406403A2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "DSG Gear Selector",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/dsg+gear+selector-279357.ts1628714698.jpg",
+    "product_link": "https://ecu.eu/seat/transmission-control-unit-3032/seat/transmission-control-unit/dsg-gear-selector-6845",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-2q1713023q-149478.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "2Q1 713 023 Q",
+              "2Q1713023Q"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ibiza 1.0 TSI (Ibiza, 6F) Year of manufacture 2018 Engine code DKJA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-2q1713023t-146703.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "2Q1 713 023 T",
+              "2Q1713023T"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Arona 1.0 TSI (Arona, KJ7) Year of manufacture 2019 Engine code DKRF",
+          "SEAT Arona 1.6 TDI (Arona, KJ7) Year of manufacture 2019 Engine code DGTD",
+          "SEAT Ibiza 1.0 TSI (Ibiza, 6F) Year of manufacture 2018 Engine code DKRF"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-5q1713023ab-139189.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "5Q1 713 023 AB",
+              "5Q1713023AB"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT LEON 2.0 TDI (Leon, 5F) Year of manufacture 2014 - 2016 Engine code CRBC, CRLB, CKFC",
+          "SEAT Leon 1.8 TSI 4Drive (Leon, 5F) Year of manufacture 2015",
+          "SEAT Leon 1.8 TSI 4x4 X-Perience (Leon, 5F) Year of manufacture 2016 Engine code CJSB",
+          "SEAT Leon 2.0 TDI (Leon, 5F) Year of manufacture 2014 - 2017 Engine code CKFC",
+          "SEAT Leon Cupra 2.0 TSI (Leon, 5F) Year of manufacture 2015 Engine code CJXE",
+          "SEAT Leon ST 2.0 TDI (Leon, 5F) Year of manufacture 2014 - 2016 Engine code CUPA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-5q1713023ac-147528.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "5Q1 713 023 AC",
+              "5Q1713023AC"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-5q1713023as-149388.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "5Q1 713 023 AS",
+              "5Q1713023AS"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 1.4 TSI (Ateca, 5FP) Year of manufacture 2017 Engine code CZEA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-5q1713023bg-151715.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "5Q1 713 023 BG",
+              "5Q1713023BG"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Ateca 1.4 TSI (Ateca, 5FP) Year of manufacture 2018 Engine code CZEA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-5q1713023bh-145959.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "5Q1 713 023 BH",
+              "5Q1713023BH"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT LEON 2.0 TDI (Leon, 5F) Year of manufacture 2014 - 2016 Engine code CRBC, CRLB, CKFC",
+          "SEAT Leon 1.8 TSI 4Drive (Leon, 5F) Year of manufacture 2015",
+          "SEAT Leon 1.8 TSI 4x4 X-Perience (Leon, 5F) Year of manufacture 2016 Engine code CJSB",
+          "SEAT Leon 2.0 TDI (Leon, 5F) Year of manufacture 2014 - 2017 Engine code CKFC",
+          "SEAT Leon Cupra 2.0 TSI (Leon, 5F) Year of manufacture 2015 Engine code CJXE",
+          "SEAT Leon ST 2.0 TDI (Leon, 5F) Year of manufacture 2014 - 2016 Engine code CUPA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-5q1713023t-148964.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "5Q1 713 023 T",
+              "5Q1713023T"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT LEON 2.0 TDI (Leon, 5F) Year of manufacture 2014 - 2016 Engine code CRBC, CRLB, CKFC",
+          "SEAT Leon 1.8 TSI 4Drive (Leon, 5F) Year of manufacture 2015",
+          "SEAT Leon 1.8 TSI 4x4 X-Perience (Leon, 5F) Year of manufacture 2016 Engine code CJSB",
+          "SEAT Leon 2.0 TDI (Leon, 5F) Year of manufacture 2014 - 2017 Engine code CKFC",
+          "SEAT Leon Cupra 2.0 TSI (Leon, 5F) Year of manufacture 2015 Engine code CJXE",
+          "SEAT Leon ST 2.0 TDI (Leon, 5F) Year of manufacture 2014 - 2016 Engine code CUPA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-5q1713025-149808.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "5Q1 713 025",
+              "5Q1713025"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-5q1713025j-146962.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "5Q1 713 025 J",
+              "5Q1713025J"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Leon 1.4 TSI (Leon, 5F) Year of manufacture 2015 Engine code CZEA",
+          "SEAT Leon ST 1.4 TSI (Leon, 5F)",
+          "SEAT Leon ST 1.6 TDI (Leon, 5F) Year of manufacture 2014 - 2015 Engine code CLHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-5q1713025r-136070.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "5Q1 713 025 R",
+              "5Q1713025R"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT LEON 1.8 TSI (Leon, 5F) Year of manufacture 2015 - 2016",
+          "SEAT Leon 1.4 TSI (Leon, 5F) Year of manufacture 2015 - 2016 Engine code CZEA",
+          "SEAT Leon ST 1.2 TSI (Leon, 5F) Year of manufacture 2015 - 2016 Engine code CYVB",
+          "SEAT Leon ST 1.4 TSI (Leon, 5F) Year of manufacture 2016 - 2017 Engine code CZEA",
+          "SEAT Leon ST 1.6 TDI (Leon, 5F) Year of manufacture 2016 Engine code CXXB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-5q1713041g-150607.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "5Q1 713 041 G",
+              "5Q1713041G"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-6c1713025-145217.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "6C1 713 025",
+              "6C1713025"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (fault is registered in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-gear-selector/seat-6ra713025n-151645.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "6RA 713 025 N",
+              "6RA713025N"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (fault is registered in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Multitronic VL300",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/multitronic+vl300-703.ts1628722658.jpg",
+    "product_link": "https://ecu.eu/seat/transmission-control-unit-3032/seat/transmission-control-unit/multitronic-vl300-5088",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/multitronic-vl300/seat-8e4910156m-01j927156ht-temic-00402418a6-150700.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "8E4 910 156 M",
+              "8E4910156M"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "01J 927 156 HT",
+              "01J927156HT"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00402418A6"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "17090",
+            "fault_description": "2221 P0706 Speed step sensor (F125) implausible signal"
+          },
+          {
+            "fault_code": "17106",
+            "fault_description": "2228 P0722 Gearbox output speed sensor G195 no signal"
+          },
+          {
+            "fault_code": "17111",
+            "fault_description": "P0272 Rounds count singnal from engine ECU, no signal"
+          },
+          {
+            "fault_code": "17134",
+            "fault_description": "P0750 Control valve 1/Solenoid valve N88 function disturbance"
+          },
+          {
+            "fault_code": "17137",
+            "fault_description": "P0753 Control valve 1/Solenoid valve N88 electric error"
+          },
+          {
+            "fault_code": "18165",
+            "fault_description": "P1757 power supply, interruption"
+          },
+          {
+            "fault_code": "18222",
+            "fault_description": "P1813 Pressure regulating valve 1 N215 Electrical fault"
+          },
+          {
+            "fault_code": "18226",
+            "fault_description": "P1818 Pressure control valve 2 N216 Electrical fault"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_description": "PRNDS red flash, R temporarily out of operation, changing autonomously betweeen D and S"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/multitronic-vl300/seat-8e4910156n-01j927156ht-temic-00402418a6-130364.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "8E4 910 156 N",
+              "8E4910156N"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "01J 927 156 HT",
+              "01J927156HT"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00402418A6"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "17090",
+            "fault_description": "2221 P0706 Speed step sensor (F125) implausible signal"
+          },
+          {
+            "fault_code": "17106",
+            "fault_description": "2228 P0722 Gearbox output speed sensor G195 no signal"
+          },
+          {
+            "fault_code": "17111",
+            "fault_description": "P0272 Rounds count singnal from engine ECU, no signal"
+          },
+          {
+            "fault_code": "17134",
+            "fault_description": "P0750 Control valve 1/Solenoid valve N88 function disturbance"
+          },
+          {
+            "fault_code": "17137",
+            "fault_description": "P0753 Control valve 1/Solenoid valve N88 electric error"
+          },
+          {
+            "fault_code": "18165",
+            "fault_description": "P1757 power supply, interruption"
+          },
+          {
+            "fault_code": "18222",
+            "fault_description": "P1813 Pressure regulating valve 1 N215 Electrical fault"
+          },
+          {
+            "fault_code": "18226",
+            "fault_description": "P1818 Pressure control valve 2 N216 Electrical fault"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_description": "PRNDS red flash, R temporarily out of operation, changing autonomously betweeen D and S"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Exeo ST 2.0 TDI (Exeo, 3R) Engine code CAGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/multitronic-vl300/seat-8e4910156p-01j927156ht-temic-00402418a3-139395.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "8E4 910 156 P",
+              "8E4910156P"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "01J 927 156 HT",
+              "01J927156HT"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00402418A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "17090",
+            "fault_description": "2221 P0706 Speed step sensor (F125) implausible signal"
+          },
+          {
+            "fault_code": "17106",
+            "fault_description": "2228 P0722 Gearbox output speed sensor G195 no signal"
+          },
+          {
+            "fault_code": "17111",
+            "fault_description": "P0272 Rounds count singnal from engine ECU, no signal"
+          },
+          {
+            "fault_code": "17134",
+            "fault_description": "P0750 Control valve 1/Solenoid valve N88 function disturbance"
+          },
+          {
+            "fault_code": "17137",
+            "fault_description": "P0753 Control valve 1/Solenoid valve N88 electric error"
+          },
+          {
+            "fault_code": "18165",
+            "fault_description": "P1757 power supply, interruption"
+          },
+          {
+            "fault_code": "18222",
+            "fault_description": "P1813 Pressure regulating valve 1 N215 Electrical fault"
+          },
+          {
+            "fault_code": "18226",
+            "fault_description": "P1818 Pressure control valve 2 N216 Electrical fault"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_description": "PRNDS red flash, R temporarily out of operation, changing autonomously betweeen D and S"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/seat/transmission-control-unit/multitronic-vl300/seat-8e4910156p-01j927156ht-temic-00402418a6-113615.html",
+        "part_numbers": [
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "8E4 910 156 P",
+              "8E4910156P"
+            ]
+          },
+          {
+            "title": "SEAT - Part number",
+            "numbers": [
+              "01J 927 156 HT",
+              "01J927156HT"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00402418A6"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "17090",
+            "fault_description": "2221 P0706 Speed step sensor (F125) implausible signal"
+          },
+          {
+            "fault_code": "17106",
+            "fault_description": "2228 P0722 Gearbox output speed sensor G195 no signal"
+          },
+          {
+            "fault_code": "17111",
+            "fault_description": "P0272 Rounds count singnal from engine ECU, no signal"
+          },
+          {
+            "fault_code": "17134",
+            "fault_description": "P0750 Control valve 1/Solenoid valve N88 function disturbance"
+          },
+          {
+            "fault_code": "17137",
+            "fault_description": "P0753 Control valve 1/Solenoid valve N88 electric error"
+          },
+          {
+            "fault_code": "18165",
+            "fault_description": "P1757 power supply, interruption"
+          },
+          {
+            "fault_code": "18222",
+            "fault_description": "P1813 Pressure regulating valve 1 N215 Electrical fault"
+          },
+          {
+            "fault_code": "18226",
+            "fault_description": "P1818 Pressure control valve 2 N216 Electrical fault"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_description": "PRNDS red flash, R temporarily out of operation, changing autonomously betweeen D and S"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SEAT Exeo 2.0 TDI (Exeo, 3R) Year of manufacture 2008 - 2012 Engine code CAGA",
+          "SEAT Exeo ST 2.0 TDI (Exeo, 3R) Year of manufacture 2012 - 2013 Engine code CJCA"
+        ]
+      }
+    ]
+  }
+]

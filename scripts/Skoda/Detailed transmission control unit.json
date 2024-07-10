@@ -1,0 +1,3811 @@
+[
+  {
+    "part_name": "DSG 6-Gear DQ250 (02E)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/dsg+6+gear+dq250+02e-9257.ts1628718767.jpg",
+    "product_link": "https://ecu.eu/skoda/transmission-control-unit-3042/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29-4842",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e300013l-02e927770al-02e325025al-temic-00406403a3-146071.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 013 L",
+              "02E300013L"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AL",
+              "02E927770AL"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AL",
+              "02E325025AL"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00406403A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e300058p-02e927770al-02e325025al-temic-00406403b0-151446.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 058 P",
+              "02E300058P"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AL",
+              "02E927770AL"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AL",
+              "02E325025AL"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00406403B0"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ad-02e300041a-02e325025ad-temic-00401974a2-111760.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 041 A",
+              "02E300041A"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 2.0 TDI (Octavia, 1Z) Year of manufacture 2005 Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ad-02e300041r-02e325025ad-temic-00401974a1-131522.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 041 R",
+              "02E300041R"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A1"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 1.9 TDI (Octavia, 1Z) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ad-02e300041r-02e325025ad-temic-00401974a2-118892.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 041 R",
+              "02E300041R"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ad-02e300042f-02e325025ad-temic-00401974a3-128915.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 042 F",
+              "02E300042F"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 2.0 TDI (Octavia, 1Z) Year of manufacture 2005 Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ad-02e300042s-02e325025ad-temic-00401974a8-136746.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 042 S",
+              "02E300042S"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A8"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ad-02e300042s-02e325025ae-temic-00401974a2-126045.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 042 S",
+              "02E300042S"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ad-02e300043m-02e325025ad-temic-00401974a8-116298.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 043 M",
+              "02E300043M"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A8"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ad-02e300043n-02e325025ad-temic-00401974a8-118900.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 043 N",
+              "02E300043N"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A8"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 1.9 TDI (Octavia, 1Z) Year of manufacture 2007 Engine code BLS"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ad-02e300050d-02e325025ad-temic-00401974a8-128793.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 050 D",
+              "02E300050D"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A8"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 2.0 TDI Combi (Octavia, 1Z) Year of manufacture 2008 Engine code BMM"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ad-02e300050f-02e325025ad-temic-00401975a8-148715.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 050 F",
+              "02E300050F"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A8"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 1.9 TDI Combi (Octavia, 1Z) Year of manufacture 2008 Engine code BLS"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ad-02e325025ad-temic-116682.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "Skoda",
+            "numbers": []
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AD",
+              "02E325025AD"
+            ]
+          },
+          {
+            "title": "TEMIC",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ad-0d9300041p-temic-00401974a8-153866.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AD",
+              "02E927770AD"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0D9 300 041 P",
+              "0D9300041P"
+            ]
+          },
+          {
+            "title": "Skoda",
+            "numbers": []
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401974A8"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 2.0 TDI Combi (Octavia, 5E) Year of manufacture 2014"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ae-02e300041r-02e325025ae-temic-00401975a3-144943.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 041 R",
+              "02E300041R"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ae-02e300042f-02e325025ae-temic-00401975a3-115791.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 042 F",
+              "02E300042F"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 2.0 TDI Combi (Octavia, 1Z) Year of manufacture 2004 - 2005 Engine code BKD",
+          "Skoda Octavia 2.0 TDI (Octavia, 1Z) Year of manufacture 2004 - 2006 Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ae-02e300042h-02e325025ae-temic-00401975a3-118484.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 042 H",
+              "02E300042H"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 1.9 TDI Combi (Octavia, 1Z) Year of manufacture 2005 Engine code BJB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ae-02e300042s-02e325025ae-temic-00401975a3-115956.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 042 S",
+              "02E300042S"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 2.0 TDI Combi (Octavia, 1Z) Year of manufacture 2005 - 2006 Engine code BKD, BMM",
+          "Skoda Octavia 2.0 TDI (Octavia, 1Z) Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ae-02e300042s-02e325025ae-temic-00401975a4-111759.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 042 S",
+              "02E300042S"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A4"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 2.0 TDI Combi (Octavia, 1Z) Year of manufacture 2006 - 2008 Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-6-gear-dq250-%2802e%29/skoda-02e927770ae-02e300043-02e325025ae-temic-00401975a3-113472.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 927 770 AE",
+              "02E927770AE"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 300 043",
+              "02E300043"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "02E 325 025 AE",
+              "02E325025AE"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401975A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0716",
+            "fault_description": "(VAG 17100) transmission input speed sensor (G182) implausible signal"
+          },
+          {
+            "fault_code": "P0722",
+            "fault_description": "(VAG 17106) Transmission Output Speed Sensor (G195): No Signal"
+          },
+          {
+            "fault_code": "P0746",
+            "fault_description": "(VAG 17130) pressure control solenoid 1 (N215) short to earth /interruption"
+          },
+          {
+            "fault_code": "P0751",
+            "fault_description": "(VAG 17135) shift solenoid valve 1 (N88) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0756",
+            "fault_description": "(VAG 17140) shift solenoid valve 2 (N89) short to earth / interruption"
+          },
+          {
+            "fault_code": "P0761",
+            "fault_description": "(VAG 17145) shift solenoid 3 (N90) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0766",
+            "fault_description": "(VAG 17150) shift solenoid 4 (N91) short to ground / interruption"
+          },
+          {
+            "fault_code": "P0771",
+            "fault_description": "(VAG 17155) shift solenoid 5 (N92) - open or short to earth"
+          },
+          {
+            "fault_code": "P0776",
+            "fault_description": "(VAG 17160) Pressure control solenoid 2 (N216) short to earth /interruption"
+          },
+          {
+            "fault_code": "P1740",
+            "fault_description": "(VAG 18148) clutch temperature monitoring (G509)"
+          },
+          {
+            "fault_code": "P1746",
+            "fault_description": "(VAG 18154) supply voltage for solenoid valves"
+          },
+          {
+            "fault_code": "P174A",
+            "fault_description": "(VAG 10739) Valve 3 in sub-transmission 1 - electrical fault"
+          },
+          {
+            "fault_code": "P174E",
+            "fault_description": "(VAG 10740) Ventil 3 im Teilgetriebe 2 - elektrischer Fehler"
+          },
+          {
+            "fault_code": "P1793",
+            "fault_description": "(VAG 18201) Encoder 2 for transmission output speed G196 no signal"
+          },
+          {
+            "fault_code": "P2723",
+            "fault_description": "(VAG 19155) pressure control solenoid valve 5 (N233) short to earth / interruption"
+          },
+          {
+            "fault_code": "P2732",
+            "fault_description": "(VAG 19164) pressure control valve 6 (N371): short to earth / interruption"
+          },
+          {
+            "fault_code": "P2767",
+            "fault_description": "Gearbox input speed sensor 2 no signal"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 1.9 TDI Combi (Octavia, 1Z) Year of manufacture 2005 - 2006 Engine code BKC, BLS"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "DSG 7-speed DQ381 / DQ500 (0GC / 0DL) Bosch",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/dsg+7+speed+dq381+dq500+0gc+0dl+bosch-405565.ts1628723698.jpg",
+    "product_link": "https://ecu.eu/skoda/transmission-control-unit-3042/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch-6832",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300011j-0gc927711g-bosch-0260550109-145811.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 011 J",
+              "0DL300011J"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS) Year of manufacture 2017 Engine code DFHA",
+          "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS7) Year of manufacture 2016 - 2018 Engine code DFHA, DFGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300011k-0gc927711g-bosch-0260550109-153669.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 011 K",
+              "0DL300011K"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300011n-0gc927711g-bosch-0260550109-139377.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 011 N",
+              "0DL300011N"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Karoq 2.0 TDI 4x4 (Karoq, NU) Year of manufacture 2018 Engine code DFFA",
+          "Skoda Kodiaq 2.0 TDI 4x4 (Kodiaq, NS) Year of manufacture 2017 Engine code DFGA",
+          "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS7) Year of manufacture 2017 - 2018 Engine code DFHA, DFGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300012g-0de927711b-bosch-0260550124-145956.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 012 G",
+              "0DL300012G"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DE 927 711 B",
+              "0DE927711B"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 124",
+              "0260550124"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Kodiaq 2.0 TSI 4x4 (Kodiaq, NS7) Year of manufacture 2017 - 2018 Engine code CZPA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300012m-0de927711b-bosch-0260550124-144671.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 012 M",
+              "0DL300012M"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DE 927 711 B",
+              "0DE927711B"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 124",
+              "0260550124"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Kodiaq 2.0 TSI 4x4 (Kodiaq, NS7) Engine code CZPA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300012n-0gc927711g-bosch-0260550109-141261.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 012 N",
+              "0DL300012N"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Kodiaq 2.0 TDI 4x4 (Kodiaq, NS) Year of manufacture 2018 Engine code DFGA",
+          "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS) Year of manufacture 2018 Engine code DFHA",
+          "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS7) Year of manufacture 2017 - 2018 Engine code DFHA, DFGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300012t-0gc927711g-bosch-0260550109-147950.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 012 T",
+              "0DL300012T"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Kodiaq 2.0 TDI 4x4 (Kodiaq, NS) Year of manufacture 2018 - 2019 Engine code CUAA",
+          "Skoda Kodiaq RS 2.0 TDI 4x4 (Kodiaq, NS) Year of manufacture 2019 Engine code CUAA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300012t-0gc927711h-bosch-0260550138-151461.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 012 T",
+              "0DL300012T"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 138",
+              "0260550138"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300012t-0gc927711h-bosch-0260550150-150350.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 012 T",
+              "0DL300012T"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 150",
+              "0260550150"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Kodiaq 2.0 TDI 4x4 (Kodiaq, NS) Year of manufacture 2019 Engine code CUAA",
+          "Skoda Kodiaq RS 2.0 TDI 4x4 (Kodiaq, NS) Year of manufacture 2019 Engine code CUAA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300013a-0gc927711g-bosch-0260550109-149998.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 013 A",
+              "0DL300013A"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Karoq 2.0 TDI 4x4 (Karoq, NU) Year of manufacture 2017 - 2019 Engine code DFFA",
+          "Skoda Kodiaq 2.0 TDI 4x4 (Kodiaq, NS) Year of manufacture 2019 Engine code DFGA",
+          "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS) Year of manufacture 2018 - 2020 Engine code DFHA",
+          "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS7) Year of manufacture 2018 - 2019 Engine code DFHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300013a-0gc927711h-bosch-0260550150-150857.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 013 A",
+              "0DL300013A"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 150",
+              "0260550150"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS) Year of manufacture 2019 - 2020 Engine code DFHA",
+          "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS7) Year of manufacture 2019 Engine code DFHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300043t-0gc927711g-bosch-0260550109-153262.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 043 T",
+              "0DL300043T"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS) Year of manufacture 2017 Engine code DFHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300045r-0gc927711g-bosch-0260550109-141659.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 045 R",
+              "0DL300045R"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Kodiaq 2.0 TDI (Kodiaq, NS) Year of manufacture 2017 - 2018 Engine code DFGA",
+          "Skoda Kodiaq 2.0 TDI (Kodiaq, NS7) Year of manufacture 2017 Engine code DFGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0dl300047g-0gc927711g-bosch-0260550109-149412.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0DL 300 047 G",
+              "0DL300047G"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Kodiaq 2.0 TDI (Kodiaq, NS) Year of manufacture 2017 - 2018 Engine code DFGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0gc300011n-0gc927711g-bosch-0260550109-145230.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 300 011 N",
+              "0GC300011N"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2017 Engine code DCYA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0gc300012-0gc927711g-bosch-0260550109-144382.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 300 012",
+              "0GC300012"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Superb 2.0 TDI 4x4 (Superb, 3V) Year of manufacture 2017 - 2018 Engine code CFHA, DFHA, DFCA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0gc300012b-0gc927711g-bosch-0260550109-146356.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 300 012 B",
+              "0GC300012B"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2017 - 2018 Engine code DCYA, CRMB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0gc300012d-0gc927711g-bosch-0260550109-141948.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 300 012 D",
+              "0GC300012D"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 G",
+              "0GC927711G"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 109",
+              "0260550109"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Karoq 2.0 TDI 4x4 (Karoq, NU) Year of manufacture 2017 - 2018 Engine code DFFA",
+          "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2018 Engine code DCYA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0gc300012e-0gc927711h-bosch-0260550138-149996.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 300 012 E",
+              "0GC300012E"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 138",
+              "0260550138"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS7) Year of manufacture 2018 Engine code DFGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-7-speed-dq381-dq500-%280gc-0dl%29-bosch/skoda-0gc300012e-0gc927711h-bosch-0260550150-151871.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 300 012 E",
+              "0GC300012E"
+            ]
+          },
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "0GC 927 711 H",
+              "0GC927711H"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 260 550 150",
+              "0260550150"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0607",
+            "fault_description": "Symptom 10925, control module implausible (complete hydraulics required!)Symptom 10926, control module implausible (complete hydraulics required!) -only on request!"
+          },
+          {
+            "fault_code": "P0805",
+            "fault_description": "Clutch position sensor function faulty"
+          },
+          {
+            "fault_code": "P1735",
+            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+          },
+          {
+            "fault_code": "P1736",
+            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "DSG Selector lever module",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/dsg+selector+lever+module-279357.ts1628714698.jpg",
+    "product_link": "https://ecu.eu/skoda/transmission-control-unit-3042/skoda/transmission-control-unit/dsg-selector-lever-module-6269",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-3q1713023e-139176.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "3Q1 713 023 E",
+              "3Q1713023E"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Superb 2.0 TDI 4x4 (Superb, 3V) Year of manufacture 2016 Engine code DFCA",
+          "Skoda Superb 2.0 TDI Combi (Superb, 3V) Year of manufacture 2015 - 2016 Engine code CRLB, DFHA",
+          "Skoda Superb 2.0 TSI Combi 4x4 (Superb, 3T) Year of manufacture 2015 Engine code CJXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-3q1713023f-137096.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "3Q1 713 023 F",
+              "3Q1713023F"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Superb 2.0 TDI 4x4 (Superb, 3V) Year of manufacture 2016 Engine code DFCA",
+          "Skoda Superb 2.0 TDI Combi (Superb, 3V) Year of manufacture 2015 - 2016 Engine code CRLB, DFHA",
+          "Skoda Superb 2.0 TSI Combi 4x4 (Superb, 3T) Year of manufacture 2015 Engine code CJXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-5k1713025bn-140673.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "5K1 713 025 BN",
+              "5K1713025BN"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Yeti 1.2 TSI (Yeti, 5L) Year of manufacture 2013 Engine code CBZB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-5q1713025-136646.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "5Q1 713 025",
+              "5Q1713025"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 1.4 TSI Combi (Octavia, 5E) Year of manufacture 2014 Engine code CHPA",
+          "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2014 - 2017 Engine code CUNA",
+          "Skoda Octavia 2.0 TDI Combi (Octavia, 5E) Year of manufacture 2015 - 2018 Engine code CKFC, CRMB",
+          "Skoda Octavia RS 2.0 TDI Combi (Octavia, 5E) Year of manufacture 2014 - 2018 Engine code CUNA",
+          "Skoda Octavia RS 2.0 TSI Combi (Octavia, 5E) Year of manufacture 2014 - 2016 Engine code CHHB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-5q1713025al-149309.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "5Q1 713 025 AL",
+              "5Q1713025AL"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2018 Engine code DCYA",
+          "Skoda Octavia RS 2.0 TSI Combi (Octavia, 5E) Year of manufacture 2017 Engine code DLBA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-5q1713025ar-147409.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "5Q1 713 025 AR",
+              "5Q1713025AR"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 1.0 TSI Combi (Octavia, 5E) Year of manufacture 2018 - 2019 Engine code CHZD",
+          "Skoda Octavia 1.5 TSI (Octavia, 5E) Year of manufacture 2019 Engine code DADA",
+          "Skoda Octavia 1.6 TDI Combi (Octavia, 5E) Year of manufacture 2018 - 2019 Engine code DDYA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-5q1713025as-150870.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "5Q1 713 025 AS",
+              "5Q1713025AS"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-5q1713025j-146805.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "5Q1 713 025 J",
+              "5Q1713025J"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 1.2 TSI Combi (Octavia, 5E) Engine code CJZA",
+          "Skoda Octavia 1.4 TSI Combi (Octavia, 5E) Year of manufacture 2015 Engine code CHPA",
+          "Skoda Octavia 1.8 TSI Combi (Octavia, 5E) Year of manufacture 2014 Engine code CJSA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-5q1713025k-135053.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "5Q1 713 025 K",
+              "5Q1713025K"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 1.4 TSI Combi (Octavia, 5E) Year of manufacture 2014 Engine code CHPA",
+          "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2014 - 2017 Engine code CUNA",
+          "Skoda Octavia 2.0 TDI Combi (Octavia, 5E) Year of manufacture 2015 - 2018 Engine code CKFC, CRMB",
+          "Skoda Octavia RS 2.0 TDI Combi (Octavia, 5E) Year of manufacture 2014 - 2018 Engine code CUNA",
+          "Skoda Octavia RS 2.0 TSI Combi (Octavia, 5E) Year of manufacture 2014 - 2016 Engine code CHHB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-5q1713025r-142434.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "5Q1 713 025 R",
+              "5Q1713025R"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 1.4 TSI (Octavia, 5E) Year of manufacture 2016 - 2017 Engine code CZDA",
+          "Skoda Octavia 1.6 TDI Combi (Octavia, 5E) Year of manufacture 2017 Engine code DDYA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-5q1713025s-136170.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "5Q1 713 025 S",
+              "5Q1713025S"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 1.4 TSI Combi (Octavia, 5E) Year of manufacture 2014 Engine code CHPA",
+          "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2014 - 2017 Engine code CUNA",
+          "Skoda Octavia 2.0 TDI Combi (Octavia, 5E) Year of manufacture 2015 - 2018 Engine code CKFC, CRMB",
+          "Skoda Octavia RS 2.0 TDI Combi (Octavia, 5E) Year of manufacture 2014 - 2018 Engine code CUNA",
+          "Skoda Octavia RS 2.0 TSI Combi (Octavia, 5E) Year of manufacture 2014 - 2016 Engine code CHHB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-5q1713041g-145986.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "5Q1 713 041 G",
+              "5Q1713041G"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (the fault code is stored in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2014 Engine code CUNA",
+          "Skoda Octavia RS 2.0 TSI Combi (Octavia, 5E) Year of manufacture 2017 Engine code CHHB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-6c1713025a-135898.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "6C1 713 025 A",
+              "6C1713025A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (fault is registered in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-6c1713025aa-145720.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "6C1 713 025 AA",
+              "6C1713025AA"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (fault is registered in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Fabia 1.0 TSI Combi (Fabia, NJ) Year of manufacture 2018 Engine code CHZC",
+          "Skoda Fabia 1.0 TSI (Fabia, NJ) Year of manufacture 2018 Engine code CHZC",
+          "Skoda Fabia 1.2 TSI Combi (Fabia, NJ) Year of manufacture 2017 Engine code CJZD",
+          "Skoda Fabia 1.2 TSI (Fabia, NJ) Year of manufacture 2015 - 2017 Engine code CJZD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-6c1713025ab-152719.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "6C1 713 025 AB",
+              "6C1713025AB"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (fault is registered in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Fabia 1.4 TDI Combi (Fabia, NJ) Year of manufacture 2016 Engine code CUSB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-6c1713025af-147905.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "6C1 713 025 AF",
+              "6C1713025AF"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (fault is registered in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Fabia 1.0 TSI (Fabia, NJ) Year of manufacture 2018 Engine code CHZC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-6c1713025q-149121.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "6C1 713 025 Q",
+              "6C1713025Q"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (fault is registered in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Fabia 1.2 TSI Combi (Fabia, NJ) Year of manufacture 2015 Engine code CJZD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-6ra713025ac-139713.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "6RA 713 025 AC",
+              "6RA713025AC"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (fault is registered in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Rapid 1.2 TSI (Rapid, NH) Engine code CJZC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-6ra713025aj-149360.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "6RA 713 025 AJ",
+              "6RA713025AJ"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (fault is registered in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Fabia 1.4 TDI Combi (Fabia, NJ) Year of manufacture 2016",
+          "Skoda Rapid 1.2 TSI (Rapid, NH) Year of manufacture 2016 Engine code CJZC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/skoda/transmission-control-unit/dsg-selector-lever-module/skoda-6ra713025al-150134.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "6RA 713 025 AL",
+              "6RA713025AL"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "267528",
+            "fault_description": "(Gutmann) Position P Gear selector lever switch - Signal/function faulty"
+          },
+          {
+            "fault_code": "617752",
+            "fault_description": "Shift lever switch locked on P, B1162 29 [024] - signal not plausible (fault is registered in the steering column module)"
+          },
+          {
+            "fault_description": "the error message \"Error: Workshop! Only leave the vehicle in position P.\" is shown in the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Rapid 1.4 (Rapid) Year of manufacture 2016 - 2017 Engine code CUSB"
+        ]
+      }
+    ]
+  }
+]

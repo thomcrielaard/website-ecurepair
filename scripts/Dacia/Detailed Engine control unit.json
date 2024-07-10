@@ -1,0 +1,167 @@
+[
+  {
+    "part_name": "EDC17C42",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc17c42-567006.ts1632303178.jpg",
+    "product_link": "https://ecu.eu/dacia/engine-control-unit-5754/dacia/engine-control-unit/edc17c42-5756",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/dacia/engine-control-unit/edc17c42/dacia-237102213r-237102553r-bosch-0281019457-141318.html",
+        "part_numbers": [
+          {
+            "title": "DACIA - Part number",
+            "numbers": [
+              "237102213R"
+            ]
+          },
+          {
+            "title": "DACIA - Part number",
+            "numbers": [
+              "237102553R"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 019 457",
+              "0281019457"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0001",
+            "fault_description": "Fuel metering unit - interruption in the circuit"
+          },
+          {
+            "fault_code": "P0193",
+            "fault_description": "Fuel distributor pressure sensor signal too high"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "DACIA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/dacia/engine-control-unit/edc17c42/dacia-237102213r-237102720r-bosch-0281019147-126043.html",
+        "part_numbers": [
+          {
+            "title": "DACIA - Part number",
+            "numbers": [
+              "237102213R"
+            ]
+          },
+          {
+            "title": "DACIA - Part number",
+            "numbers": [
+              "237102720R"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 019 147",
+              "0281019147"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0001",
+            "fault_description": "Fuel metering unit - interruption in the circuit"
+          },
+          {
+            "fault_code": "P0193",
+            "fault_description": "Fuel distributor pressure sensor signal too high"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "DACIA (Dokker) Year of manufacture 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/dacia/engine-control-unit/edc17c42/dacia-237102213r-237104128r-bosch-0281030439-135914.html",
+        "part_numbers": [
+          {
+            "title": "DACIA - Part number",
+            "numbers": [
+              "237102213R"
+            ]
+          },
+          {
+            "title": "DACIA - Part number",
+            "numbers": [
+              "237104128R"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 030 439",
+              "0281030439"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0001",
+            "fault_description": "Fuel metering unit - interruption in the circuit"
+          },
+          {
+            "fault_code": "P0088",
+            "fault_description": "Rail pressure - emergency position not reachedRail pressure - too many signal changes"
+          },
+          {
+            "fault_code": "P0193",
+            "fault_description": "Fuel distributor pressure sensor signal too high"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "DACIA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/dacia/engine-control-unit/edc17c42/dacia-237102213r-bosch-0281019138-120606.html",
+        "part_numbers": [
+          {
+            "title": "DACIA - Part number",
+            "numbers": [
+              "237102213R"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 019 138",
+              "0281019138"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0001",
+            "fault_description": "Fuel metering unit - interruption in the circuit"
+          },
+          {
+            "fault_code": "P0193",
+            "fault_description": "Fuel distributor pressure sensor signal too high"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "DACIA (Dokker) Year of manufacture 2012 - 2013"
+        ]
+      }
+    ]
+  }
+]

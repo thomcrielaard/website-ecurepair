@@ -1,0 +1,290 @@
+[
+  {
+    "part_name": "ELV A6 (4F)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/elv+a6+4f-258493.ts1628723192.jpg",
+    "product_link": "https://ecu.eu/audi/ezs-elv-6045/audi/ezs-elv/elv-a6-%284f%29-6047",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/audi/ezs-elv/elv-a6-%284f%29/audi-33530203-marquardt-33530203-33530203-144755.html",
+        "part_numbers": [
+          {
+            "title": "AUDI",
+            "numbers": []
+          },
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "3353.0203",
+              "33530203"
+            ]
+          },
+          {
+            "title": "Marquardt - Part number",
+            "numbers": [
+              "3353.0203",
+              "33530203"
+            ]
+          },
+          {
+            "title": "Marquardt - Part number",
+            "numbers": [
+              "3353.0203",
+              "33530203"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00288",
+            "fault_description": "Steering column lock actuator (N360) - defective"
+          },
+          {
+            "fault_description": "Electronic steering column lock (ELV) defective."
+          },
+          {
+            "fault_description": "The electronic lock of the steering column does not unlock."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "AUDI (A6) Year of manufacture 2006 - 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/audi/ezs-elv/elv-a6-%284f%29/audi-4f0905852b-4f0910852-marquardt-33530101-132177.html",
+        "part_numbers": [
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4F0 905 852 B",
+              "4F0905852B"
+            ]
+          },
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4F0 910 852",
+              "4F0910852"
+            ]
+          },
+          {
+            "title": "Marquardt - Part number",
+            "numbers": [
+              "3353.0101",
+              "33530101"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00288",
+            "fault_description": "Steering column lock actuator (N360) - defective"
+          },
+          {
+            "fault_description": "Electronic steering column lock (ELV) defective."
+          },
+          {
+            "fault_description": "The electronic lock of the steering column does not unlock."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "AUDI Year of manufacture 6 - 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/audi/ezs-elv/elv-a6-%284f%29/audi-4f0905852c-marquardt-33530201-133527.html",
+        "part_numbers": [
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4F0 905 852 C",
+              "4F0905852C"
+            ]
+          },
+          {
+            "title": "Marquardt - Part number",
+            "numbers": [
+              "3353.0201",
+              "33530201"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00288",
+            "fault_description": "Steering column lock actuator (N360) - defective"
+          },
+          {
+            "fault_description": "Electronic steering column lock (ELV) defective."
+          },
+          {
+            "fault_description": "The electronic lock of the steering column does not unlock."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "AUDI (A6) Year of manufacture 2006 - 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/audi/ezs-elv/elv-a6-%284f%29/audi-4f0905852d-marquardt-33530102-134931.html",
+        "part_numbers": [
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4F0 905 852 D",
+              "4F0905852D"
+            ]
+          },
+          {
+            "title": "Marquardt - Part number",
+            "numbers": [
+              "3353.0102",
+              "33530102"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00288",
+            "fault_description": "Steering column lock actuator (N360) - defective"
+          },
+          {
+            "fault_description": "Electronic steering column lock (ELV) defective."
+          },
+          {
+            "fault_description": "The electronic lock of the steering column does not unlock."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "AUDI (A6) Year of manufacture 2008 - 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/audi/ezs-elv/elv-a6-%284f%29/audi-4f0905852f-marquardt-33530103-133251.html",
+        "part_numbers": [
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4F0 905 852 F",
+              "4F0905852F"
+            ]
+          },
+          {
+            "title": "Marquardt - Part number",
+            "numbers": [
+              "3353.0103",
+              "33530103"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00288",
+            "fault_description": "Steering column lock actuator (N360) - defective"
+          },
+          {
+            "fault_description": "Electronic steering column lock (ELV) defective."
+          },
+          {
+            "fault_description": "The electronic lock of the steering column does not unlock."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "AUDI (A6)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/audi/ezs-elv/elv-a6-%284f%29/audi-4f09108528f-marquardt-33530202-142233.html",
+        "part_numbers": [
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4F0 910 852 8F",
+              "4F09108528F"
+            ]
+          },
+          {
+            "title": "Marquardt - Part number",
+            "numbers": [
+              "3353.0202",
+              "33530202"
+            ]
+          },
+          {
+            "title": "Marquardt",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00288",
+            "fault_description": "Steering column lock actuator (N360) - defective"
+          },
+          {
+            "fault_description": "Electronic steering column lock (ELV) defective."
+          },
+          {
+            "fault_description": "The electronic lock of the steering column does not unlock."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "AUDI (A6) Year of manufacture 2004 - 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/audi/ezs-elv/elv-a6-%284f%29/audi-4f0910852h-marquardt-33530104-146642.html",
+        "part_numbers": [
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4F0 910 852 H",
+              "4F0910852H"
+            ]
+          },
+          {
+            "title": "Marquardt - Part number",
+            "numbers": [
+              "3353.0104",
+              "33530104"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00288",
+            "fault_description": "Steering column lock actuator (N360) - defective"
+          },
+          {
+            "fault_description": "Electronic steering column lock (ELV) defective."
+          },
+          {
+            "fault_description": "The electronic lock of the steering column does not unlock."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "AUDI (A6) Year of manufacture 2005"
+        ]
+      }
+    ]
+  }
+]

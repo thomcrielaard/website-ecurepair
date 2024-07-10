@@ -1,0 +1,181 @@
+[
+  {
+    "part_name": "EUR",
+    "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/hyundai+2710002503+mando+da121090-6245.ts1628718756.jpg",
+    "product_link": "https://ecu.eu/hyundai/ignition-distributor-engine-speed-sensor-105",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/hyundai/ignition-distributor-engine-speed-sensor/hyundai-2710002503-mando-da121090-107308.html",
+        "part_numbers": [
+          {
+            "title": "HYUNDAI - Part number",
+            "numbers": [
+              "27100-02503",
+              "2710002503"
+            ]
+          },
+          {
+            "title": "MANDO - Part number",
+            "numbers": [
+              "DA121090"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/hyundai/ignition-distributor-engine-speed-sensor/hyundai-2710002503-mando-da124090-109167.html",
+        "part_numbers": [
+          {
+            "title": "HYUNDAI - Part number",
+            "numbers": [
+              "27100-02503",
+              "2710002503"
+            ]
+          },
+          {
+            "title": "MANDO - Part number",
+            "numbers": [
+              "DA124090"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "HYUNDAI Atos 1.0i (Atos, MX) Year of manufacture 1999"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/hyundai/ignition-distributor-engine-speed-sensor/hyundai-2710024750-mando-da114089-107306.html",
+        "part_numbers": [
+          {
+            "title": "HYUNDAI - Part number",
+            "numbers": [
+              "27100-24750",
+              "2710024750"
+            ]
+          },
+          {
+            "title": "MANDO - Part number",
+            "numbers": [
+              "DA114089"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/hyundai/ignition-distributor-engine-speed-sensor/hyundai-2710035010-mando-da116063-112467.html",
+        "part_numbers": [
+          {
+            "title": "HYUNDAI - Part number",
+            "numbers": [
+              "27100-35010",
+              "2710035010"
+            ]
+          },
+          {
+            "title": "MANDO - Part number",
+            "numbers": [
+              "DA116063"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/hyundai/ignition-distributor-engine-speed-sensor/hyundai-2710036010-mando-da116111-107307.html",
+        "part_numbers": [
+          {
+            "title": "HYUNDAI - Part number",
+            "numbers": [
+              "27100-36010",
+              "2710036010"
+            ]
+          },
+          {
+            "title": "MANDO - Part number",
+            "numbers": [
+              "DA116111"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "HYUNDAI Galloper 3.0i V6 (Galloper, JK) Year of manufacture 1999 - 2001"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/hyundai/ignition-distributor-engine-speed-sensor/hyundai-3931033010-hyundai-dd124091-206.html",
+        "part_numbers": [
+          {
+            "title": "HYUNDAI - Part number",
+            "numbers": [
+              "39310-33010",
+              "3931033010"
+            ]
+          },
+          {
+            "title": "Hyundai - Part number",
+            "numbers": [
+              "DD124091"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/hyundai/ignition-distributor-engine-speed-sensor/hyundai-3931033020-mando-dd124091-107309.html",
+        "part_numbers": [
+          {
+            "title": "HYUNDAI - Part number",
+            "numbers": [
+              "39310-33020",
+              "3931033020"
+            ]
+          },
+          {
+            "title": "MANDO - Part number",
+            "numbers": [
+              "DD124091"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

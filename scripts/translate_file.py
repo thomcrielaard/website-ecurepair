@@ -2,10 +2,11 @@ import json
 import os
 
 # Define file paths
-input_file_path = "detailed_product_data.json"
+input_file_path = "volkswagen_tcu/detailed_product_data_volkswagen_tcu.json"
 preparse_file_path = "preparse.json"
-preparsed_output_file_path = "preparsed_product_data_mercedes_contactslot.json"
+preparsed_output_file_path = "volkswagen_tcu/preparsed_product_data_volkswagen_tcu.json"
 translations_file_path = "translations.json"
+translations_output_file_path = "translated_product_data_volkswagen_tcu.json"
 
 # Load or create the translations file
 if os.path.exists(translations_file_path):
@@ -115,8 +116,7 @@ for part in data:
             product["cars"][i] = translate_text(car)
 
 # Save the translated data to a new JSON file
-output_file_path = "translated_product_data_mercedes_contactslot.json"
-with open(output_file_path, "w", encoding="utf-8") as file:
+with open(translations_output_file_path, "w", encoding="utf-8") as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
-print(f"Translated data saved to {output_file_path}")
+print(f"Translated data saved to {translations_output_file_path}")

@@ -1,0 +1,3376 @@
+[
+  {
+    "part_name": "4Motion / Haldex ecu (Gen.5)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/4motion+haldex+ecu+gen+5-248518.ts1628714081.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29-6004",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0ay907554f-haldex-122853.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 907 554 F",
+              "0AY907554F"
+            ]
+          },
+          {
+            "title": "Haldex",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 2.0 TDI 4Motion (Sharan, 7N) Year of manufacture 2014 - 2015 Engine code CUVC, CFFB",
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Year of manufacture 2014 Engine code CTHD",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2013 - 2015 Engine code CFGC, CFFB",
+          "VOLKSWAGEN-VW Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Year of manufacture 2014 Engine code CCZD, CCZB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0ay907554j-haldex-128080.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 907 554 J",
+              "0AY907554J"
+            ]
+          },
+          {
+            "title": "Haldex",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 2.0 16V TDI BlueMotion 4Motion (Caddy, 2C) Year of manufacture 2015 - 2017 Engine code DFSE",
+          "VOLKSWAGEN-VW Caddy 2.0 TDI 4Motion (Caddy, 2C) Year of manufacture 2015 - 2019 Engine code CFHF, CUUE, DFSE",
+          "VOLKSWAGEN-VW Caddy 2.0 TDI 4Motion (Caddy, 2K) Year of manufacture 2016 - 2017 Engine code DFSE",
+          "VOLKSWAGEN-VW Caddy 2.0 TDI 4Motion (Caddy, SA) Year of manufacture 2016 Engine code DFSB",
+          "VOLKSWAGEN-VW Caddy 2.0 TDI BlueMotion 4Motion (Caddy, 2K) Year of manufacture 2019 - 2020 Engine code DFSE",
+          "VOLKSWAGEN-VW Caddy 2.0 TDI BlueMotion (Caddy, 2C) Year of manufacture 2016 - 2017 Engine code DFSB",
+          "VOLKSWAGEN-VW Golf 1.6 TDI Variant (Golf VII, AU) Year of manufacture 2013 Engine code CLHA",
+          "VOLKSWAGEN-VW Sharan 2.0 TDI 4Motion (Sharan, 7N) Year of manufacture 2015 - 2016 Engine code DFLA, CFFB",
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Year of manufacture 2014 - 2015 Engine code CAVD",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2012 - 2016 Engine code CFFB, CBAB, CFGC, CUWA, CUVC",
+          "VOLKSWAGEN-VW Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Year of manufacture 2014 - 2015 Engine code CCZB, CCZD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0ay907554l-haldex-138210.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 907 554 L",
+              "0AY907554L"
+            ]
+          },
+          {
+            "title": "Haldex",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.0 TDI 4Motion (T5, 7E/H/J) Year of manufacture 2015 - 2016 Engine code CAAC",
+          "VOLKSWAGEN-VW T6 2.0 TDI 4Motion (T6, SG/SH) Year of manufacture 2017 - 2018 Engine code CXEB, CXFA",
+          "VOLKSWAGEN-VW Transporter 2.0 TDI 4Motion (T6, SG/SH) Year of manufacture 2015 - 2018 Engine code CXHA, CXEB",
+          "VOLKSWAGEN-VW Transporter 2.0 TDI 4Motion (T6, SG/SH) Year of manufacture 2017",
+          "VOLKSWAGEN-VW Transporter 2.0 TDI BlueMotion Calfornia 4Motion (T6, SG/SH) Year of manufacture 2016 - 2018 Engine code CXEB",
+          "VOLKSWAGEN-VW Transporter 2.0 TDI Multivan (T6, SG/SH) Year of manufacture 2016 Engine code CXEB",
+          "VOLKSWAGEN-VW Transporter 2.0 TDI (T6, SG/SH) Year of manufacture 2017 - 2018"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554-haldex-150253.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0CQ 907 554",
+              "0CQ907554"
+            ]
+          },
+          {
+            "title": "Haldex",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 2.0 TDI Variant (Golf VII, AU) Year of manufacture 2015 Engine code CRLB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554b-haldex-147299.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0CQ 907 554 B",
+              "0CQ907554B"
+            ]
+          },
+          {
+            "title": "Haldex",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554c-132790.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0CQ 907 554 C",
+              "0CQ907554C"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554d-haldex-131121.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0CQ 907 554 D",
+              "0CQ907554D"
+            ]
+          },
+          {
+            "title": "Haldex",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.6 TDI BlueMotion 4Motion (Golf VII, AU) Year of manufacture 2014 Engine code CLHA",
+          "VOLKSWAGEN-VW Golf 1.6 TDI Variant 4Motion (Golf VII, AU) Year of manufacture 2013 - 2016 Engine code CLHA, CRKB, CXXB",
+          "VOLKSWAGEN-VW Golf 2.0 TDI 4Motion (Golf VII, AU) Year of manufacture 2013 - 2015 Engine code CRBC, CRLB",
+          "VOLKSWAGEN-VW Golf 2.0 TDI Variant (Golf VII, AU) Year of manufacture 2014",
+          "VOLKSWAGEN-VW Golf Alltrack 2.0 TDI BlueMotion (Golf VII, AU) Year of manufacture 2015 Engine code CUNA",
+          "VOLKSWAGEN-VW Golf R 4Motion (Golf VII, AU) Year of manufacture 2014 Engine code CJXC",
+          "VOLKSWAGEN-VW Passat 2.0 TDI 4Motion (Passat, 3G) Year of manufacture 2015 Engine code DDAA",
+          "VOLKSWAGEN-VW Passat 2.0 TDI BlueMotion 4Motion (Passat, 3G) Year of manufacture 2015 Engine code CUAA",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3G) Year of manufacture 2015 Engine code CCUA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554f-haldex-144764.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0CQ 907 554 F",
+              "0CQ907554F"
+            ]
+          },
+          {
+            "title": "Haldex",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Crafter 2.0 TDI BlueMotion 4Motion (Crafter, SY/SZ) Year of manufacture 2017 Engine code DAVA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554h-haldex-131974.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0CQ 907 554 H",
+              "0CQ907554H"
+            ]
+          },
+          {
+            "title": "Haldex",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf R 4Motion (Golf VII, AU) Year of manufacture 2016 Engine code CJXC",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3G) Year of manufacture 2015 - 2016 Engine code DFEA, CUAA",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, AD1) Year of manufacture 2016 - 2018 Engine code DFGA, DFHA",
+          "VOLKSWAGEN-VW Tiguan 2.0 TSI 4Motion (Tiguan, AD1) Year of manufacture 2017 Engine code CZPA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554j-haldex-148540.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0CQ 907 554 J",
+              "0CQ907554J"
+            ]
+          },
+          {
+            "title": "Haldex",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, AD1) Year of manufacture 2019 Engine code DFHA",
+          "VOLKSWAGEN-VW Tiguan 2.0 TSI 4Motion (Tiguan, AD1) Year of manufacture 2017 Engine code CZPA",
+          "VOLKSWAGEN-VW (Tiguan, AD1) Year of manufacture 2016"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554l-haldex-152508.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0CQ 907 554 L",
+              "0CQ907554L"
+            ]
+          },
+          {
+            "title": "Haldex",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "4Motion all-wheel control unit (Haldex Gen.4)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/4motion+all+wheel+control+unit+haldex+gen+4-9869.ts1628711371.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29-5992",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-09n907554-continental-5wp3352602-127760.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "09N 907 554",
+              "09N907554"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WP33526-02",
+              "5WP3352602"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.0 TDI 4Motion (T5, 7E/H/J) Year of manufacture 2009 Engine code CAAC",
+          "VOLKSWAGEN-VW T5 2.0 TDI Transporter (T5, 7E/H/J) Year of manufacture 2009 - 2010 Engine code CAAC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-09n907554a-11436801-continental-5wp3352603-124904.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "09N 907 554 A",
+              "09N907554A"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "114368-01",
+              "11436801"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WP33526-03",
+              "5WP3352603"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.0 TDI 4Motion (T5, 7E/H/J) Year of manufacture 2010 - 2011 Engine code CFCA, CAAC",
+          "VOLKSWAGEN-VW T5 2.0 TDI California 4 Motion (T5, 7E/H/J) Year of manufacture 2011 Engine code CAAC",
+          "VOLKSWAGEN-VW T5 2.0 TDI Transporter (T5, 7E/H/J) Year of manufacture 2010 Engine code CAAC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-09n907554b-11593001-continental-5wp3352604-121684.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "09N 907 554 B",
+              "09N907554B"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "115930-01",
+              "11593001"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WP33526-04",
+              "5WP3352604"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.0 BiTDI Transporter 4Motion (T5, 7E/H/J) Year of manufacture 2013 Engine code CFCA",
+          "VOLKSWAGEN-VW T5 2.0 BiTDI Transporter (T5, 7E/H/J) Year of manufacture 2011",
+          "VOLKSWAGEN-VW T5 2.0 TDI 4Motion (T5, 7E/H/J) Year of manufacture 2011 - 2012 Engine code CAAC, CFCA",
+          "VOLKSWAGEN-VW T5 2.0 TDI Multivan 4Motion (T5, 7E/H/J) Year of manufacture 2011 - 2013 Engine code CFCA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-09n907554b-continental-5wp3352604-124776.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "09N 907 554 B",
+              "09N907554B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WP33526-04",
+              "5WP3352604"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.0 BiTDI Transporter (T5, 7E/H/J) Year of manufacture 2012 Engine code CFCA",
+          "VOLKSWAGEN-VW T5 2.0 TDI Multivan 4Motion (T5, 7E/H/J) Year of manufacture 2012 Engine code CFCA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-09n907554c-11984002-continental-5wp3352605-128371.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "09N 907 554 C",
+              "09N907554C"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "119840-02",
+              "11984002"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WP33526-05",
+              "5WP3352605"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.0 TDI 4Motion (T5, 7E/H/J) Year of manufacture 2014 - 2015 Engine code CAAC",
+          "VOLKSWAGEN-VW T5 2.0 TDI California 4 Motion (T5, 7E/H/J) Year of manufacture 2014 - 2015 Engine code CAAC",
+          "VOLKSWAGEN-VW T5 2.0 TDI Multivan 4Motion (T5, 7E/H/J) Year of manufacture 2014 Engine code CFCA",
+          "VOLKSWAGEN-VW T5 2.0 TDI Multivan (T5, 7E/H/J) Year of manufacture 2015 Engine code CAAC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay598554c-continental-131725.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 598 554 C",
+              "0AY598554C"
+            ]
+          },
+          {
+            "title": "Continental",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay598554j-148590.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 598 554 J",
+              "0AY598554J"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554a-10825201-siemens-5wp3351401-144413.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 907 554 A",
+              "0AY907554A"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "108252-01",
+              "10825201"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP33514-01",
+              "5WP3351401"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 2.0 FSI 4Motion (Passat, 3C) Year of manufacture 2009 Engine code BVX",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2007 Engine code CBAB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554a-10825202-siemens-5wp3351402-126223.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 907 554 A",
+              "0AY907554A"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "108252-02",
+              "10825202"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP33514-02",
+              "5WP3351402"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Year of manufacture 2007 - 2008 Engine code BWK",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2007 - 2008 Engine code CBAB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554b-10825203-siemens-5wp3351403-123549.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 907 554 B",
+              "0AY907554B"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "108252-03",
+              "10825203"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP33514-03",
+              "5WP3351403"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3C) Year of manufacture 2008 Engine code CBAB",
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Year of manufacture 2008 Engine code BWK",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2008 - 2013 Engine code CBAB, CFGB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554c-11181801-continental-5wp3352201-121080.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 907 554 C",
+              "0AY907554C"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "111818-01",
+              "11181801"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WP33522-01",
+              "5WP3352201"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Year of manufacture 2008 - 2009 Engine code BWK, CAVA",
+          "VOLKSWAGEN-VW Tiguan 2.0 FSI 4Motion (Tiguan, 5N) Year of manufacture 2008 - 2009 Engine code CAWB",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2004 - 2009 Engine code CBAB, CBBB",
+          "VOLKSWAGEN-VW Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Year of manufacture 2008 - 2009 Engine code CAWA, CAWB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554c-11181802-continental-5wp3352202-120707.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 907 554 C",
+              "0AY907554C"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "111818-02",
+              "11181802"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WP33522-02",
+              "5WP3352202"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Year of manufacture 2009 Engine code BWK, CAVA",
+          "VOLKSWAGEN-VW Tiguan 2.0 FSI 4Motion (Tiguan, 5N) Year of manufacture 2009 - 2010 Engine code CAWB",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2005 - 2010 Engine code CBA, CBAB, CFFB, CBBB",
+          "VOLKSWAGEN-VW Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Year of manufacture 2008 - 2010 Engine code CCZA, CAWA, CCZC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554d-11447801-siemens-5wp3352203-114645.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 907 554 D",
+              "0AY907554D"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "114478-01",
+              "11447801"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP33522-03",
+              "5WP3352203"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Tiguan 2.0 FSI 4Motion (Tiguan, 5N) Year of manufacture 2010 Engine code CCTA, CCZA",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Engine code CFFB, CBAB, CBBB, CFGB",
+          "VOLKSWAGEN-VW Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Year of manufacture 2010 - 2011 Engine code CCZC, CAWA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554e-11664201-continental-5wp3352204-113080.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 907 554 E",
+              "0AY907554E"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "116642-01",
+              "11664201"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WP33522-04",
+              "5WP3352204"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 2.0 TDI 4Motion (Sharan, 7N) Year of manufacture 2011 - 2012 Engine code CFFB",
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Year of manufacture 2009 - 2012 Engine code CAVD, CTHD, BWK",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2008 - 2015 Engine code CFGB, CFFB, CBAB, CBBB",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI (Tiguan, AD1) Year of manufacture 2013 Engine code DFGA",
+          "VOLKSWAGEN-VW Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Year of manufacture 2011 - 2013 Engine code CCZB, CCZD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554h-12033001-continental-5wp3353201-151229.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AY 907 554 H",
+              "0AY907554H"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "120330-01",
+              "12033001"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WP33532-01",
+              "5WP3353201"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0br598554-131724.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0BR 598 554",
+              "0BR598554"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0br598554a-131722.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0BR 598 554 A",
+              "0BR598554A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0br598554b-131723.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0BR 598 554 B",
+              "0BR598554B"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0br598554d-131721.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0BR 598 554 D",
+              "0BR598554D"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0br907554a-11185201-continental-5wp3352301-145432.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0BR 907 554 A",
+              "0BR907554A"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "111852-01",
+              "11185201"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WP33523-01",
+              "5WP3352301"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "00532",
+            "fault_description": "supply voltage - upper limit exceeded"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf V 1.9 TDI Variant 4Motion (Golf V, 1K) Year of manufacture 2009 Engine code BLS"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Camera DPC",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/camera+dpc-4923031.ts1717409639.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/camera-dpc-7327",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/camera-dpc/volkswagen-vw-7p6907217-7p6907217-bosch-0275003008-1039s41782-154053.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7P6 907 217",
+              "7P6907217"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7P6 907 217",
+              "7P6907217"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "0 275 003 008",
+              "0275003008"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "1 039 S41 782",
+              "1039S41782"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "161",
+            "fault_description": "Video signal data cable Signal faulty.orC110702Video line for image processing Signal error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7P) Year of manufacture 2010 Engine code CASA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/camera-dpc/volkswagen-vw-7p6907217-7p6907217-bosch-0275003008-1039s43652-154207.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7P6 907 217",
+              "7P6907217"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7P6 907 217",
+              "7P6907217"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "0 275 003 008",
+              "0275003008"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "1 039 S43 652",
+              "1039S43652"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "161",
+            "fault_description": "Video signal data cable Signal faulty.orC110702Video line for image processing Signal error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7P) Year of manufacture 2010 Engine code CVVA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/camera-dpc/volkswagen-vw-7p6907217b-7p6907217-bosch-0203500000-1039s47740-154176.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7P6 907 217 B",
+              "7P6907217B"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7P6 907 217",
+              "7P6907217"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "0 203 500 000",
+              "0203500000"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "1 039 S47 740",
+              "1039S47740"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "161",
+            "fault_description": "Video signal data cable Signal faulty.orC110702Video line for image processing Signal error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7P) Year of manufacture 2012 Engine code CRCA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/camera-dpc/volkswagen-vw-7p6907217b-7p6907217-bosch-0203500000-1039s61349-154069.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7P6 907 217 B",
+              "7P6907217B"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7P6 907 217",
+              "7P6907217"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "0 203 500 000",
+              "0203500000"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "1 039 S61 349",
+              "1039S61349"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "161",
+            "fault_description": "Video signal data cable Signal faulty.orC110702Video line for image processing Signal error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7P) Year of manufacture 2013 - 2021 Engine code CRCA, CVVA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/camera-dpc/volkswagen-vw-7p6907217b-7p6907217-bosch-0203500000-1039s64552-153639.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7P6 907 217 B",
+              "7P6907217B"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7P6 907 217",
+              "7P6907217"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "0 203 500 000",
+              "0203500000"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "1 039 S64 552",
+              "1039S64552"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "161",
+            "fault_description": "Video signal data cable Signal faulty.orC110702Video line for image processing Signal error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7P) Year of manufacture 2013 - 2021 Engine code CRCA, CVVA"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Haldex control unit (Gen.1)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/haldex+control+unit+gen+1-53266.ts1628724461.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29-5219",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d525554-haldex-122088.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "02D 525 554",
+              "02D525554"
+            ]
+          },
+          {
+            "title": "Haldex",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01324",
+            "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+          },
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.9 TDI 4Motion (Golf IV, 1J) Year of manufacture 1999 - 2000 Engine code AGR",
+          "VOLKSWAGEN-VW Golf IV 1.8 4Motion (Golf IV, 1J) Year of manufacture 1998 - 1999 Engine code AGN"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554a-siemens-115926.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "02D 900 554 A",
+              "02D900554A"
+            ]
+          },
+          {
+            "title": "Siemens",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01324",
+            "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+          },
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554b-siemens-115921.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "02D 900 554 B",
+              "02D900554B"
+            ]
+          },
+          {
+            "title": "Siemens",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01324",
+            "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+          },
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Bora 1.9 TDI 4Motion (Bora, 1J) Engine code AJM",
+          "VOLKSWAGEN-VW Bora 1.9 TDI Variant 4Motion (Bora, 1J) Year of manufacture 2000 - 2001 Engine code AJM, ATD, ASZ",
+          "VOLKSWAGEN-VW Bora 2.0 Variant 4Motion (Bora, 1J) Year of manufacture 2000 - 2001 Engine code AZH",
+          "VOLKSWAGEN-VW Bora 2.8 V6 Variant 4Motion (Bora, 1J) Year of manufacture 2000 - 2001 Engine code AUE",
+          "VOLKSWAGEN-VW Golf 1.9 TDI 4Motion (Golf IV, 1J) Year of manufacture 2000",
+          "VOLKSWAGEN-VW Golf 2.0 Variant 4Motion (Golf IV, 1J) Year of manufacture 2001",
+          "VOLKSWAGEN-VW Golf IV 1.9 TDI 4Motion (Golf IV, 1J) Year of manufacture 2001 Engine code ATD",
+          "VOLKSWAGEN-VW Golf IV 1.9 TDI Variant 4Motion (Golf IV, 1J) Year of manufacture 2000 - 2001 Engine code AJM",
+          "VOLKSWAGEN-VW Golf IV 2.3 4Motion (Golf IV, 1J) Year of manufacture 2000 Engine code AGZ",
+          "VOLKSWAGEN-VW Golf IV 2.8 4Motion (Golf IV, 1J) Year of manufacture 1999 - 2001 Engine code AQP, AUE, BDE",
+          "VOLKSWAGEN-VW Golf IV 2.8 Variant 4Motion (Golf IV, 1J) Year of manufacture 2000 Engine code AUE",
+          "VOLKSWAGEN-VW Golf R32 4Motion (Golf IV, 1J) Year of manufacture 2003 Engine code BFH",
+          "VOLKSWAGEN-VW New Beetle 3.2 RSI 4Motion (New Beetle, 9C) Year of manufacture 2002 Engine code AXJ",
+          "VOLKSWAGEN-VW Sharan 1.9 TDI 4Motion (Sharan, 7M) Year of manufacture 2001 Engine code AUY",
+          "VOLKSWAGEN-VW Sharan 2.8 4Motion (Sharan, 7M) Year of manufacture 2001 Engine code AYL"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554c-siemens-ha1-119606.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "02D 900 554 C",
+              "02D900554C"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "HA1"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01324",
+            "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+          },
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Bora 1.9 TDI Variant 4Motion (Bora, 1J) Year of manufacture 2002 Engine code ARL",
+          "VOLKSWAGEN-VW Bora 2.8 V6 Variant 4Motion (Bora, 1J) Year of manufacture 2003 Engine code BDE",
+          "VOLKSWAGEN-VW Golf 2.3 V5 4Motion (Golf IV, 1J) Year of manufacture 2002 Engine code AQN",
+          "VOLKSWAGEN-VW Golf IV 1.9 TDI 4Motion (Golf IV, 1J) Year of manufacture 2002 - 2003 Engine code ATD",
+          "VOLKSWAGEN-VW Golf IV 1.9 TDI Variant 4Motion (Golf IV, 1J) Year of manufacture 2002 Engine code ATD",
+          "VOLKSWAGEN-VW Golf IV 2.0 4Motion (Golf IV, 1J) Year of manufacture 2003 Engine code AZH",
+          "VOLKSWAGEN-VW Golf IV 2.8 4Motion (Golf IV, 1J) Year of manufacture 2001 - 2002 Engine code AUE",
+          "VOLKSWAGEN-VW Golf R32 4Motion (Golf IV, 1J) Year of manufacture 2002 - 2004 Engine code BFH",
+          "VOLKSWAGEN-VW Sharan 1.9 TDI 4Motion (Sharan, 7M) Year of manufacture 2002 - 2003 Engine code AUY",
+          "VOLKSWAGEN-VW Sharan 2.8 4Motion (Sharan, 7M) Year of manufacture 2002 Engine code AYL"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554d-siemens-115922.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "02D 900 554 D",
+              "02D900554D"
+            ]
+          },
+          {
+            "title": "Siemens",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01324",
+            "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+          },
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 1.9 TDI 4Motion (Sharan, 7M) Year of manufacture 2007 - 2008 Engine code BVK",
+          "VOLKSWAGEN-VW Sharan 1.9 TDI (Sharan, 7M) Year of manufacture 2008 Engine code BVK"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554dv-siemens-115923.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "02D 900 554 DV",
+              "02D900554DV"
+            ]
+          },
+          {
+            "title": "Siemens",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01324",
+            "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+          },
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554dx-siemens-115924.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "02D 900 554 DX",
+              "02D900554DX"
+            ]
+          },
+          {
+            "title": "Siemens",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01324",
+            "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+          },
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554e-siemens-115925.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "02D 900 554 E",
+              "02D900554E"
+            ]
+          },
+          {
+            "title": "Siemens",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01324",
+            "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+          },
+          {
+            "fault_code": "052C",
+            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Haldex control unit (Gen.2)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/haldex+control+unit+gen+2-9869.ts1628711371.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29-4889",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0525130h-siemens-114112.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 525 130 H",
+              "1K0525130H"
+            ]
+          },
+          {
+            "title": "Siemens",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0525130k-siemens-114110.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 525 130 K",
+              "1K0525130K"
+            ]
+          },
+          {
+            "title": "Siemens",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0525130l-104572-siemens-5wp22202-111893.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 525 130 L",
+              "1K0525130L"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "104572"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22202"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.9 TDI 4Motion (Golf V, 1K) Year of manufacture 2005 Engine code BKC",
+          "VOLKSWAGEN-VW Golf V 2.0 FSI 4Motion (Golf V, 1K) Year of manufacture 2005 Engine code BLX",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI (Golf V, 1K) Year of manufacture 2004 Engine code BKD",
+          "VOLKSWAGEN-VW Passat 2.0 (Passat, 3C) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554-10457202-siemens-5wp2221203-111895.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 907 554",
+              "1K0907554"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "104572-02",
+              "10457202"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22212-03",
+              "5WP2221203"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.9 TDI 4Motion (Golf V, 1K) Year of manufacture 2004 Engine code BKC",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI 4Motion (Golf V, 1K) Year of manufacture 2004 Engine code BKD",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI (Golf V, 1K) Year of manufacture 2004 Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554a-10457204-siemens-5wp2222201-114113.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 907 554 A",
+              "1K0907554A"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "104572-04",
+              "10457204"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22222-01",
+              "5WP2222201"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.9 TDI 4Motion (Golf V, 1K) Year of manufacture 2005 Engine code BKC",
+          "VOLKSWAGEN-VW Golf R32 4Motion (Golf V, 1K) Year of manufacture 2005 Engine code BUB",
+          "VOLKSWAGEN-VW Golf V 2.0 FSI 4Motion (Golf V, 1K) Year of manufacture 2005 Engine code BLX",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI 4Motion (Golf V, 1K) Year of manufacture 2004 - 2005 Engine code BKD",
+          "VOLKSWAGEN-VW Passat 3.2 FSI Variant 4Motion (Passat, 3C) Year of manufacture 2007 Engine code AXZ"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554b-10457205-siemens-5wp2222202-114644.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 907 554 B",
+              "1K0907554B"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "104572-05",
+              "10457205"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22222-02",
+              "5WP2222202"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf R32 4Motion (Golf V, 1K) Year of manufacture 2005 - 2006 Engine code BUB",
+          "VOLKSWAGEN-VW Golf V 2.0 FSI 4Motion (Golf V, 1K) Year of manufacture 2005 Engine code BLX",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI 4Motion (Golf V, 1K) Year of manufacture 2005",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3C) Year of manufacture 2006 Engine code BMP"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554c-10771801-siemens-5wp2223201-132502.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 907 554 C",
+              "1K0907554C"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "107718-01",
+              "10771801"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22232-01",
+              "5WP2223201"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf R32 4Motion (Golf V, 1K) Year of manufacture 2006 Engine code BUB",
+          "VOLKSWAGEN-VW Golf V 2.0 FSI 4Motion (Golf V, 1K) Year of manufacture 2006 Engine code BVX",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI 4Motion (Golf V, 1K) Year of manufacture 2005 - 2006 Engine code BMM",
+          "VOLKSWAGEN-VW Passat 2.0 FSI 4Motion (Passat, 3C) Year of manufacture 2008 Engine code BVX",
+          "VOLKSWAGEN-VW Passat 2.0 FSI Variant 4Motion (Passat, 3C) Year of manufacture 2005 - 2006 Engine code BVX",
+          "VOLKSWAGEN-VW Passat 2.0 TDI 4Motion (Passat, 3C) Year of manufacture 2005 - 2006 Engine code BKP",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3C) Year of manufacture 2005 - 2006 Engine code BMP",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3C) Year of manufacture 2005 - 2006 Engine code BKP",
+          "VOLKSWAGEN-VW Passat 3.2 FSI 4Motion (Passat, 3C) Year of manufacture 2006 Engine code AXZ",
+          "VOLKSWAGEN-VW Passat 3.2 FSI Variant 4Motion (Passat, 3C) Year of manufacture 2006 Engine code AXZ"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554e-siemensvdo-5wp2223102-135667.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 907 554 E",
+              "1K0907554E"
+            ]
+          },
+          {
+            "title": "SiemensVDO - Part number",
+            "numbers": [
+              "5WP22231-02",
+              "5WP2223102"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 3.2 FSI Variant 4Motion (Passat, 3C) Year of manufacture 2008 Engine code AXZ"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554f-10771802-siemens-5wp2223202-131794.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 907 554 F",
+              "1K0907554F"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "107718-02",
+              "10771802"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22232-02",
+              "5WP2223202"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf R32 4Motion (Golf V, 1K) Year of manufacture 2006 Engine code BUB",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI 4Motion (Golf V, 1K) Year of manufacture 2006 Engine code BLS",
+          "VOLKSWAGEN-VW Golf V 2.0 FSI 4Motion (Golf V, 1K) Year of manufacture 2006 Engine code BVX",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI 4Motion (Golf V, 1K) Year of manufacture 2006 - 2007 Engine code BKD, BKN, BMM",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3C) Year of manufacture 2006 Engine code BKP, BMP",
+          "VOLKSWAGEN-VW Passat 3.2 FSI Variant 4Motion (Passat, 3C) Year of manufacture 2006 Engine code AXZ"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554h-10871002-siemens-5wp2223401-114111.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 907 554 H",
+              "1K0907554H"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "108710-02",
+              "10871002"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22234-01",
+              "5WP2223401"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 2.0 FSI 4Motion (Passat, 3C) Year of manufacture 2006",
+          "VOLKSWAGEN-VW Passat 2.0 FSI Variant 4Motion (Passat, 3C) Year of manufacture 2006 Engine code BVX",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3C) Year of manufacture 2006 - 2007 Engine code BMP, CBAB",
+          "VOLKSWAGEN-VW Passat 3.2 FSI 4Motion (Passat, 3C) Year of manufacture 2006 Engine code AXZ",
+          "VOLKSWAGEN-VW Passat 3.2 FSI Variant 4Motion (Passat, 3C) Year of manufacture 2006 Engine code AXZ"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554k-10943001-siemens-5wp2224301-112437.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 907 554 K",
+              "1K0907554K"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "109430-01",
+              "10943001"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22243-01",
+              "5WP2224301"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 2.0 FSI Variant 4Motion (Passat, 3C) Year of manufacture 2006 Engine code BVX",
+          "VOLKSWAGEN-VW Passat 2.0 TDI 4Motion (Passat, 3C) Year of manufacture 2007 Engine code BMP",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3C) Year of manufacture 2004 - 2008 Engine code BMP, BKP, CBAB",
+          "VOLKSWAGEN-VW Passat 3.2 FSI Variant 4Motion (Passat, 3C) Year of manufacture 2007 - 2008 Engine code AXZ",
+          "VOLKSWAGEN-VW Passat R36 Variant 4Motion (Passat, 3C) Year of manufacture 2007 - 2008 Engine code BWS"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554l-10942901-siemens-5wp2224101-111892.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 907 554 L",
+              "1K0907554L"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "109429-01",
+              "10942901"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22241-01",
+              "5WP2224101"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf R32 4Motion (Golf V, 1K) Year of manufacture 2006 - 2008 Engine code BUB",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI 4Motion (Golf V, 1K) Year of manufacture 2006 - 2007 Engine code BLS",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI Variant 4Motion (Golf V, 1K) Year of manufacture 2008 Engine code BLS",
+          "VOLKSWAGEN-VW Golf V 2.0 FSI 4Motion (Golf V, 1K) Year of manufacture 2007 Engine code BVX",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI 4Motion (Golf V, 1K) Year of manufacture 2006 - 2008 Engine code BMM"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0525130f-siemens-5wp22202-111894.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 525 130 F",
+              "7H0525130F"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22202"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.5 TDI Multivan 4Motion (T5, 7E/H/J) Year of manufacture 2004 Engine code AXD",
+          "VOLKSWAGEN-VW T5 2.5 TDI Transporter 4Motion (T5, 7E/H/J) Year of manufacture 2008 - 2009 Engine code BNZ",
+          "VOLKSWAGEN-VW (T5, 7E/H/J) Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554-10457301-siemens-5wp2221301-119746.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 907 554",
+              "7H0907554"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "104573-01",
+              "10457301"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22213-01",
+              "5WP2221301"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.5 TDI 4Motion (T5, 7E/H/J) Year of manufacture 2004 Engine code AXE",
+          "VOLKSWAGEN-VW T5 2.5 TDI Caravelle 4Motion (T5, 7E/H/J) Year of manufacture 2004 Engine code AXD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554-10457301-siemens-5wp2221302-117963.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 907 554",
+              "7H0907554"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "104573-01",
+              "10457301"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22213-02",
+              "5WP2221302"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.5 TDI Transporter 4Motion (T5, 7E/H/J) Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554-siemens-5wp2221304-114646.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 907 554",
+              "7H0907554"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22213-04",
+              "5WP2221304"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.5 TDI 4Motion (T5, 7E/H/J) Year of manufacture 2004 - 2005 Engine code BNZ",
+          "VOLKSWAGEN-VW T5 2.5 TDI Transporter 4Motion (T5, 7E/H/J) Year of manufacture 2004 - 2005 Engine code AXD",
+          "VOLKSWAGEN-VW T5 2.5 TDI Transporter (T5, 7E/H/J) Year of manufacture 2004 Engine code AXD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554a-10457304-siemens-5wp2222301-117288.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 907 554 A",
+              "7H0907554A"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "104573-04",
+              "10457304"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22223-01",
+              "5WP2222301"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.5 TDI 4Motion (T5, 7E/H/J) Year of manufacture 2004 - 2005 Engine code AXD, AXE",
+          "VOLKSWAGEN-VW T5 2.5 TDI Caravelle 4Motion (T5, 7E/H/J) Year of manufacture 2005 Engine code AXD",
+          "VOLKSWAGEN-VW T5 2.5 TDI Multivan 4Motion (T5, 7E/H/J) Year of manufacture 2005 Engine code AXD",
+          "VOLKSWAGEN-VW T5 2.5 TDI Transporter 4Motion (T5, 7E/H/J) Year of manufacture 2004 - 2015 Engine code AXE, AXD, BNZ"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554c-10457305-siemens-5wp2222302-113482.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 907 554 C",
+              "7H0907554C"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "104573-05",
+              "10457305"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22223-02",
+              "5WP2222302"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.5 TDI 4Motion (T5, 7E/H/J) Year of manufacture 2005 - 2008 Engine code AXE, AXA",
+          "VOLKSWAGEN-VW T5 2.5 TDI Transporter 4Motion (T5, 7E/H/J) Year of manufacture 2005 Engine code AXE, AXD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554d-10457306-siemens-5wp2222303-111891.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 907 554 D",
+              "7H0907554D"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "104573-06",
+              "10457306"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22223-03",
+              "5WP2222303"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.5 TDI 4Motion (T5, 7E/H/J) Year of manufacture 2005 - 2007 Engine code AXD, AXE, BNZ, BPC",
+          "VOLKSWAGEN-VW T5 2.5 TDI California 4 Motion (T5, 7E/H/J) Year of manufacture 2006 Engine code BPC",
+          "VOLKSWAGEN-VW T5 2.5 TDI Multivan 4Motion (T5, 7E/H/J) Year of manufacture 2006 Engine code BPC",
+          "VOLKSWAGEN-VW T5 2.5 TDI Transporter 4Motion (T5, 7E/H/J) Year of manufacture 2005 - 2006 Engine code BNZ, AXE, AXD",
+          "VOLKSWAGEN-VW T5 2.5 TDI Transporter (T5, 7E/H/J) Year of manufacture 2006 Engine code AXD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554d-siemens-5wp2222302-132788.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 907 554 D",
+              "7H0907554D"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP22223-02",
+              "5WP2222302"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "00003",
+            "fault_description": "control unit - 014 - defective"
+          },
+          {
+            "fault_code": "00448",
+            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+          },
+          {
+            "fault_code": "01324",
+            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+          },
+          {
+            "fault_code": "02248",
+            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+          },
+          {
+            "fault_code": "16347",
+            "fault_description": "Control unit - error in EEPROM"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Steering column electronics / coil spring Golf 6 / Touran",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/steering+column+electronics+coil+spring+golf+6+touran-4804921.ts1716811498.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran-7319",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953549-154056.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 953 549",
+              "5K0953549"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "588",
+            "fault_description": "Driver airbag igniter function faulty."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953569ab-valeo-153673.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 953 569 AB",
+              "5K0953569AB"
+            ]
+          },
+          {
+            "title": "Valeo",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "588",
+            "fault_description": "Driver airbag igniter function faulty."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953569al-153838.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 953 569 AL",
+              "5K0953569AL"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "588",
+            "fault_description": "Driver airbag igniter function faulty."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 2.0 TDI (Sharan, 7N) Year of manufacture 2011 Engine code CFFB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953569ap-valeo-146252.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 953 569 AP",
+              "5K0953569AP"
+            ]
+          },
+          {
+            "title": "Valeo",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "588",
+            "fault_description": "Driver airbag igniter function faulty."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touran 1.2 TSI (Touran, 1T) Year of manufacture 2014 - 2015 Engine code CBZB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953569as-valeo-151423.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 953 569 AS",
+              "5K0953569AS"
+            ]
+          },
+          {
+            "title": "Valeo",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "588",
+            "fault_description": "Driver airbag igniter function faulty."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 1.4 TSI (Passat, 3C) Year of manufacture 2014"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953569h-valeo-154015.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 953 569 H",
+              "5K0953569H"
+            ]
+          },
+          {
+            "title": "Valeo",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "588",
+            "fault_description": "Driver airbag igniter function faulty."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953569l-153614.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K0 953 569 L",
+              "5K0953569L"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "588",
+            "fault_description": "Driver airbag igniter function faulty."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touran 1.4 TSI (Touran, 1T) Year of manufacture 2012 Engine code BMY"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Touareg (7L) Servomotor differential rear axle",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/touareg+7l+servomotor+differential+rear+axle-2187283.ts1697611883.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/touareg-%287l%29-servomotor-differential-rear-axle-7122",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/touareg-%287l%29-servomotor-differential-rear-axle/volkswagen-vw-0ab341601-151260.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "0AB 341 601",
+              "0AB341601"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7L) Engine code BKS"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/touareg-%287l%29-servomotor-differential-rear-axle/volkswagen-vw-7l0598001-151261.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7L0 598 001",
+              "7L0598001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Turbo-charger actuator",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/turbo-charger-actuator-4098",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/turbo-charger-actuator/volkswagen-vw-6nw008412-hella-712120-129788.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6NW 008 412",
+              "6NW008412"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "712120"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Temporary problems with charging pressure control \u2013 fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again \u2013 until next error occur"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 5.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2003 Engine code AJS",
+          "VOLKSWAGEN-VW Touareg 5.0 TDI V10 (Touareg, 7L) Year of manufacture 2004 Engine code AYH"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/turbo-charger-actuator/volkswagen-vw-6nw009228-hella-730314-108226.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6NW 009 228",
+              "6NW009228"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "730314"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Temporary problems with charging pressure control \u2013 fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again \u2013 until next error occur"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 5.0 TDI 4Motion (Phaeton, 3D) Engine code AJS",
+          "VOLKSWAGEN-VW Touareg 5.0 TDI (Touareg, 7L) Engine code CBWA, BLE",
+          "VOLKSWAGEN-VW Touareg 5.0 TDI V10 (Touareg, 7L) Year of manufacture 2004 - 2006 Engine code AYH, BLE"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/turbo-charger-actuator/volkswagen-vw-6nw009550-hella-767649-107624.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "6NW 009 550",
+              "6NW009550"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "767649"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Temporary problems with charging pressure control \u2013 fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again \u2013 until next error occur"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2012 Engine code CEXA",
+          "VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7L) Year of manufacture 2009 Engine code CASA",
+          "VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7P) Engine code CASA, CRCA, CVWA, CVVA"
+        ]
+      }
+    ]
+  }
+]

@@ -1,20 +1,32 @@
 import json
+import os
 from part_scraper import PartScraper
 from product_scraper import ProductScraper
+from brand_scraper import BrandScraper
 
-def scrape_parts_section():
+def scrape_brands_section():
+  brand_scraper = BrandScraper("https://ecu.eu")
+
+  brands_data = brand_scraper.scrape_brands()
+
+  with open('brands.json', 'w') as file:
+    json.dump(brands_data, file, indent=2)
+
+def scrape_parts_section(brand, part, url):
   # Create an instance of the PartScraper class with the same URL
-  part_scraper = PartScraper("https://ecu.eu/mercedes/ezs-%28ignition-lock%29-elv-immobiliser-5919")
+  part_scraper = PartScraper(url)
 
   parts_data = part_scraper.scrape_parts()
 
   # Save the updated models_data to a JSON file as parts_data.json
-  with open('parts_data.json', 'w') as file:
+  if not os.path.exists(brand):
+    os.makedirs(brand)
+  with open(f"{brand}/{part.replace('/', '-')}.json", 'w') as file:
     json.dump(parts_data, file, indent=2)
 
-def scrape_product_section():
+def scrape_product_section(brand, part_):
   # Load the parts data from the JSON file
-  with open('parts_data.json', 'r') as file:
+  with open(f"{brand}/{part_.replace('/', '-')}.json", 'r') as file:
     parts_data = json.load(file)
 
   # Create an instance of the ProductScraper class
@@ -28,12 +40,20 @@ def scrape_product_section():
     part.update(detailed_info)
 
   # Save the detailed product data to a JSON file
-  with open('detailed_product_data.json', 'w') as file:
+  with open(f"{brand}/Detailed {part_.replace('/', '-')}.json", 'w') as file:
     json.dump(parts_data, file, indent=2)
 
 def main():
-  scrape_parts_section()
-  scrape_product_section()
+  # scrape_brands_section()
+
+  # Load the brands data from the JSON file
+  with open('brands.json', 'r') as file:
+    brands_data = json.load(file)
+
+  for brand in brands_data:
+    for brand_part in brand['brand_parts']:
+      # scrape_parts_section(brand['brand_name'], brand_part['part_name'], brand_part['part_link'])
+      scrape_product_section(brand['brand_name'], brand_part['part_name'])
 
 # Check if the script is being run as the main program
 if __name__ == "__main__":

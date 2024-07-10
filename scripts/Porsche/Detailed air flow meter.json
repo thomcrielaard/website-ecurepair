@@ -1,0 +1,113 @@
+[
+  {
+    "part_name": "EUR",
+    "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/porsche+92860612101+92860612102+bosch+0280203015-215142.ts1628723017.jpg",
+    "product_link": "https://ecu.eu/porsche/air-flow-meter-4851",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/porsche/air-flow-meter/porsche-92860612101-92860612102-bosch-0280203015-129544.html",
+        "part_numbers": [
+          {
+            "title": "PORSCHE - Part number",
+            "numbers": [
+              "928.606.121.01",
+              "92860612101"
+            ]
+          },
+          {
+            "title": "PORSCHE - Part number",
+            "numbers": [
+              "928.606.121.02",
+              "92860612102"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 203 015",
+              "0280203015"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Air flow meter signal defective"
+          },
+          {
+            "fault_description": "The signal voltage of the air flow meter is noisy"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/porsche/air-flow-meter/porsche-930606123x-bosch-0280203023-120059.html",
+        "part_numbers": [
+          {
+            "title": "PORSCHE - Part number",
+            "numbers": [
+              "930.606.123. X",
+              "930606123X"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 203 023",
+              "0280203023"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Air flow meter signal defective"
+          },
+          {
+            "fault_description": "The signal voltage of the air flow meter is noisy"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "PORSCHE (911) Year of manufacture 1987 - 1998"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/porsche/air-flow-meter/porsche-944606124x-bosch-0280203029-125912.html",
+        "part_numbers": [
+          {
+            "title": "PORSCHE - Part number",
+            "numbers": [
+              "944.606.124. X",
+              "944606124X"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 203 029",
+              "0280203029"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Air flow meter signal defective"
+          },
+          {
+            "fault_description": "The signal voltage of the air flow meter is noisy"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "PORSCHE (944) Year of manufacture 1991"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "part_name": "CEM Volvo V40/S40",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/cem+volvo+v40+s40-279346.ts1628714698.jpg",
+    "product_link": "https://ecu.eu/volvo/central-electronics-3077/volvo/central-electronics/cem-volvo-v40-s40-6116",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/volvo/central-electronics/cem-volvo-v40-s40/volvo-30621304-30621306-volvo-3817900290-133736.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30621304"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30621306"
+            ]
+          },
+          {
+            "title": "Volvo - Part number",
+            "numbers": [
+              "3817900-290",
+              "3817900290"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Left low beam failure"
+          },
+          {
+            "fault_description": "Right low beam failure"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V40 1.6 (V40) Year of manufacture 2002 Engine code B4164 S2",
+          "VOLVO V40 1.8 (V40) Year of manufacture 2002 - 2003 Engine code B4184S10, B4184S3",
+          "VOLVO V40 1.9 D (V40) Year of manufacture 2001 - 2003 Engine code D4192T4"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/central-electronics/cem-volvo-v40-s40/volvo-30638707-30644058-volvo-3817900360-133724.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30638707"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30644058"
+            ]
+          },
+          {
+            "title": "Volvo - Part number",
+            "numbers": [
+              "3817900-360",
+              "3817900360"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Left low beam failure"
+          },
+          {
+            "fault_description": "Right low beam failure"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V40 1.9 D (V40) Year of manufacture 2002 - 2004 Engine code D4192T4, D4192T3"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/central-electronics/cem-volvo-v40-s40/volvo-30859699-30859701-volvo-3817900150-133690.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30859699"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30859701"
+            ]
+          },
+          {
+            "title": "Volvo - Part number",
+            "numbers": [
+              "3817900-150",
+              "3817900150"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Left low beam failure"
+          },
+          {
+            "fault_description": "Right low beam failure"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLVO V40 1.8 (V40) Year of manufacture 1999 - 2001 Engine code B4184S10, B4184S2"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/volvo/central-electronics/cem-volvo-v40-s40/volvo-30896697-30896751-volvo-3817900210-133735.html",
+        "part_numbers": [
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30896697"
+            ]
+          },
+          {
+            "title": "VOLVO - Part number",
+            "numbers": [
+              "30896751"
+            ]
+          },
+          {
+            "title": "Volvo - Part number",
+            "numbers": [
+              "3817900-210",
+              "3817900210"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Left low beam failure"
+          },
+          {
+            "fault_description": "Right low beam failure"
+          },
+          {
+            "fault_description": "failure wipers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

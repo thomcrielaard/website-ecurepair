@@ -1,0 +1,320 @@
+[
+  {
+    "part_name": "EUR",
+    "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/ssangyong+a1615453532+vdo+412229017002-798986.ts1643020354.jpg",
+    "product_link": "https://ecu.eu/ssang-yong/engine-control-unit-48",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/ssang-yong/engine-control-unit/ssangyong-a1615453532-vdo-412229017002-118506.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 161 545 35 32",
+              "A1615453532"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "412.229/017/002",
+              "412229017002"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Spark failure"
+          },
+          {
+            "fault_description": "Trouble code - Dwell angle regulation"
+          },
+          {
+            "fault_description": "general ignition error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/engine-control-unit/ssangyong-a1615453632-vdo-412229019005-77.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 161 545 36 32",
+              "A1615453632"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "412.229/019/005",
+              "412229019005"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Spark failure"
+          },
+          {
+            "fault_description": "Trouble code - Dwell angle regulation"
+          },
+          {
+            "fault_description": "general ignition error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SSANGYONG (Musso)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/engine-control-unit/ssangyong-a1615453732-vdo-79.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 161 545 37 32",
+              "A1615453732"
+            ]
+          },
+          {
+            "title": "VDO",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Spark failure"
+          },
+          {
+            "fault_description": "Trouble code - Dwell angle regulation"
+          },
+          {
+            "fault_description": "general ignition error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/engine-control-unit/ssangyong-a1615453732-vdo-412229019004-118505.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 161 545 37 32",
+              "A1615453732"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "412.229/019/004",
+              "412229019004"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Spark failure"
+          },
+          {
+            "fault_description": "Trouble code - Dwell angle regulation"
+          },
+          {
+            "fault_description": "general ignition error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SSANGYONG (Korando)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/engine-control-unit/ssangyong-a1615454632-vdo-412229019008-81.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 161 545 46 32",
+              "A1615454632"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "412.229/019/008",
+              "412229019008"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Spark failure"
+          },
+          {
+            "fault_description": "Trouble code - Dwell angle regulation"
+          },
+          {
+            "fault_description": "general ignition error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SSANGYONG (Korando)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/engine-control-unit/ssangyong-a1625453032-vdo-412229017001-82.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 162 545 30 32",
+              "A1625453032"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "412.229/017/001",
+              "412229017001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Spark failure"
+          },
+          {
+            "fault_description": "Trouble code - Dwell angle regulation"
+          },
+          {
+            "fault_description": "general ignition error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SSANGYONG (MUSSO) Year of manufacture 2000"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/engine-control-unit/ssangyong-a1625453232-vdo-412229017001-118579.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 162 545 32 32",
+              "A1625453232"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "412.229/017/001",
+              "412229017001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Spark failure"
+          },
+          {
+            "fault_description": "Trouble code - Dwell angle regulation"
+          },
+          {
+            "fault_description": "general ignition error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/engine-control-unit/ssangyong-a1625454032-vdo-412229017004-121146.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 162 545 40 32",
+              "A1625454032"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "412.229/017/004",
+              "412229017004"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Spark failure"
+          },
+          {
+            "fault_description": "Trouble code - Dwell angle regulation"
+          },
+          {
+            "fault_description": "general ignition error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/engine-control-unit/ssangyong-a1625454132-vdo-412229017005-121147.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 162 545 41 32",
+              "A1625454132"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "412.229/017/005",
+              "412229017005"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Spark failure"
+          },
+          {
+            "fault_description": "Trouble code - Dwell angle regulation"
+          },
+          {
+            "fault_description": "general ignition error"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

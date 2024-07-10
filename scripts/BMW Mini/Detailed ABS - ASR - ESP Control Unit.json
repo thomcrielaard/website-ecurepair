@@ -1,0 +1,1498 @@
+[
+  {
+    "part_name": "ABS/ASC MK60",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asc+mk60-4481.ts1628711319.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit-3789/bmw-mini/abs-asr-esp-control-unit/abs-asc-mk60-4625",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/abs-asc-mk60/bmw-mini-6750254-34516760253-00002122c2-ate-10096008623-10020600804-121653.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 750 254",
+              "6750254"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 760 253",
+              "34516760253"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "00002122C2"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0862.3",
+              "10096008623"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0080.4",
+              "10020600804"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2002",
+          "BMW MINI Mini One 1.6i Year of manufacture 2001 - 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/abs-asc-mk60/bmw-mini-6750256-34516760255-ate-10096008643-10020600814-2027-112710.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 750 256",
+              "6750256"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 760 255",
+              "34516760255"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0864.3",
+              "10096008643"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0081.4",
+              "10020600814"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2027"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2002",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2002",
+          "BMW MINI Mini One 1.6i Year of manufacture 2002 - 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/abs-asc-mk60/bmw-mini-6756066-34516757065-ate-10096008613-10020600114-2027-107491.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 756 066",
+              "6756066"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 757 065",
+              "34516757065"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0861.3",
+              "10096008613"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0011.4",
+              "10020600114"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2027"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper 1.6 Year of manufacture 2001",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2001 - 2011",
+          "BMW MINI Mini One 1.6i Year of manufacture 2001 - 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/abs-asc-mk60/bmw-mini-6757063-34516757062-ate-10096008603-10020600104-2026-107640.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 757 063",
+              "6757063"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51 - 6 757 062",
+              "34516757062"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0860.3",
+              "10096008603"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0010.4",
+              "10020600104"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2026"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2001 - 2003",
+          "BMW MINI One 1.6i Year of manufacture 2001 - 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/abs-asc-mk60/bmw-mini-6758803-34516758801-ate-10096008633-10020600604-2027-109021.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 758 803",
+              "6758803"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 758 801",
+              "34516758801"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0863.3",
+              "10096008633"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0060.4",
+              "10020600604"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2027"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper 1.6 Year of manufacture 2002",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2001 - 2003",
+          "BMW MINI Mini One 1.6i Year of manufacture 2000 - 2006",
+          "BMW MINI One 1.6i Year of manufacture 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/abs-asc-mk60/bmw-mini-6760266-34516760265-00002122e1-ate-10096008683-10020600804-2065-107723.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 760 266",
+              "6760266"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 760 265",
+              "34516760265"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "00002122E1"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0868.3",
+              "10096008683"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0080.4",
+              "10020600804"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2065"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2003",
+          "BMW MINI Mini One 1.6i Year of manufacture 2002 - 2003",
+          "BMW MINI One 1.6i Year of manufacture 2003 - 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/abs-asc-mk60/bmw-mini-6760269-34516760268-ate-10096008693-10020600814-00004121e0-107669.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 760 269",
+              "6760269"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 760 268",
+              "34516760268"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0869.3",
+              "10096008693"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0081.4",
+              "10020600814"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "00004121E0"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2002 - 2003",
+          "BMW MINI One 1.6i Year of manufacture 2003 - 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/abs-asc-mk60/bmw-mini-6765284-34516765282-ate-10096008663-10020600984-2066-127117.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 765 284",
+              "6765284"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 765 282",
+              "34516765282"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0866.3",
+              "10096008663"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0098.4",
+              "10020600984"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2066"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/abs-asc-mk60/bmw-mini-6765284-34516765282-ate-10096008713-10020600984-2066-108069.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 765 284",
+              "6765284"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 765 282",
+              "34516765282"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0871.3",
+              "10096008713"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0098.4",
+              "10020600984"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2066"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper 1.6 Year of manufacture 2003 - 2006",
+          "BMW MINI Cooper Cabrio 1.6 Year of manufacture 2004 - 2008",
+          "BMW MINI Cooper S Cabrio 1.6i Year of manufacture 2007 - 2008",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2006",
+          "BMW MINI Mini One 1.6i Year of manufacture 2004",
+          "BMW MINI One 1.4 d Year of manufacture 2005",
+          "BMW MINI One 1.4d Year of manufacture 2005",
+          "BMW MINI One 1.6i Year of manufacture 2003 - 2006",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2005 - 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/abs-asc-mk60/bmw-mini-6765285-ate-112711.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 765 285",
+              "6765285"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "ABS/ASR MK70",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+mk70-2199.ts1628724449.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit-3789/bmw-mini/abs-asr-esp-control-unit/abs-asr-mk70-7317",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/abs-asr-mk70/bmw-mini-6765325-6765323-ate-10097008523-10020700154-0016-119941.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 765 325",
+              "6765325"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 765 323",
+              "6765323"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-0852.3",
+              "10097008523"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0015.4",
+              "10020700154"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0016"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Cabrio 1.6 Year of manufacture 2004 - 2007",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2004 - 2005",
+          "BMW MINI Mini One Cabrio Year of manufacture 6 - 2007",
+          "BMW MINI One 1.6i Year of manufacture 2003 - 2006",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2004 - 2006"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "EBC450",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ebc450-3755.ts1628718745.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit-3789/bmw-mini/abs-asr-esp-control-unit/ebc450-5627",
+    "products": []
+  },
+  {
+    "part_name": "ESP MK100",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk100-253760.ts1628714193.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit-3789/bmw-mini/abs-asr-esp-control-unit/esp-mk100-6568",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk100/bmw-mini-6871077-3451687107601-basislu-ate-10091608933-10022004984-3064-147277.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 871 077",
+              "6871077"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "3451-6871076-01",
+              "3451687107601"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "Basis LU",
+              "BasisLU"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0916-0893.3",
+              "10091608933"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0220-0498.4",
+              "10022004984"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "3064"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI One D Year of manufacture 2015"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk100/bmw-mini-6872309-3451687230801-ate-10091608923-10022004744-3064-135608.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 872 309",
+              "6872309"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "3451-6872308-01",
+              "3451687230801"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0916-0892.3",
+              "10091608923"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10-0220-0474-4",
+              "10022004744"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "3064"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI One D Year of manufacture 2014 - 2015"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk100/bmw-mini-6873510-3451687350901-10062239891-ate-10091708253-10022005354-3087-144894.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 873 510",
+              "6873510"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "3451-6873509-01",
+              "3451687350901"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "10.0622-3989.1",
+              "10062239891"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0917-0825.3",
+              "10091708253"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0220-0535.4",
+              "10022005354"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "3087"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI One Year of manufacture 2015"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk100/bmw-mini-6877106-3451687710501-10062532711-ate-10091708853-10022007294-151271.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 877 106",
+              "6877106"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "3451-6877105-01",
+              "3451687710501"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "10.0625-3271.1",
+              "10062532711"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0917-0885.3",
+              "10091708853"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0220-0729.4",
+              "10022007294"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Clubman Year of manufacture 2016"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk100/bmw-mini-6877108-3451687710701-10062532731-ate-10091708863-10022007304-151214.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 877 108",
+              "6877108"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "3451-6877107-01",
+              "3451687710701"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "10.0625-3273.1",
+              "10062532731"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0917-0886.3",
+              "10091708863"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0220-0730.4",
+              "10022007304"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Clubman Year of manufacture 2016"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk100/bmw-mini-6883344-3451688334301-ate-10091765353-10022009094-149428.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 883 344",
+              "6883344"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "3451-6883343-01",
+              "3451688334301"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0917-6535.3",
+              "10091765353"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0220-0909.4",
+              "10022009094"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper D Clubman"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP MK60 (DSC Variant 1)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk60+dsc+variant+1-4481.ts1628711319.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit-3789/bmw-mini/abs-asr-esp-control-unit/esp-mk60-%28dsc-variant-1%29-4727",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk60-%28dsc-variant-1%29/bmw-mini-6750258-34516760257-ate-10096008653-10020600824-2028-111015.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 750 258",
+              "6750258"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 760 257",
+              "34516760257"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0865.3",
+              "10096008653"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0082.4",
+              "10020600824"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2028"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2002",
+          "BMW MINI Mini One 1.6i Year of manufacture 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk60-%28dsc-variant-1%29/bmw-mini-6750272-34516760271-ate-10096008653-10020600824-2028-107725.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 750 272",
+              "6750272"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 760 271",
+              "34516760271"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0865.3",
+              "10096008653"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0082.4",
+              "10020600824"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2028"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2002 - 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk60-%28dsc-variant-1%29/bmw-mini-6758460-34516758459-ate-10096008593-10020600124-2028-153748.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 758 460",
+              "6758460"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 758 459",
+              "34516758459"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0859.3",
+              "10096008593"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0012.4",
+              "10020600124"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2028"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2002",
+          "BMW MINI Mini One 1.6i Year of manufacture 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk60-%28dsc-variant-1%29/bmw-mini-6760086-34516760085-ate-10096008593-10020600124-2028-119169.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 760 086",
+              "6760086"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 760 085",
+              "34516760085"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0859.3",
+              "10096008593"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0012.4",
+              "10020600124"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2028"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2002",
+          "BMW MINI Mini One 1.6i Year of manufacture 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk60-%28dsc-variant-1%29/bmw-mini-6760272-34516760271-ate-10096008703-10020600824-2028-115996.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 760 272",
+              "6760272"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 760 271",
+              "34516760271"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0870.3",
+              "10096008703"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0082.4",
+              "10020600824"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2028"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk60-%28dsc-variant-1%29/bmw-mini-6765288-34516765286-ate-10096008673-10020600994-2067-112807.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 765 288",
+              "6765288"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 765 286",
+              "34516765286"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0867.3",
+              "10096008673"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0099.4",
+              "10020600994"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2067"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2003",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2003",
+          "BMW MINI One 1.6i Year of manufacture 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/abs-asr-esp-control-unit/esp-mk60-%28dsc-variant-1%29/bmw-mini-6765288-34516765286-ate-10096008723-10020600994-2067-112770.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "6 765 288",
+              "6765288"
+            ]
+          },
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "34.51-6 765 286",
+              "34516765286"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0872.3",
+              "10096008723"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0099.4",
+              "10020600994"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2067"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF5",
+            "fault_description": "Control unit internal error (Gutmann 24053)"
+          },
+          {
+            "fault_code": "C1DF5",
+            "fault_description": "Unit intern failure"
+          },
+          {
+            "fault_code": "P17FE",
+            "fault_description": "unknown fault"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper 1.6 Year of manufacture 2006",
+          "BMW MINI Cooper Cabrio 1.6 Year of manufacture 2006 - 2008",
+          "BMW MINI Cooper S Year of manufacture 2004 - 2008",
+          "BMW MINI Cooper S Cabrio 1.6i Year of manufacture 2007",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2005",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2003 - 2005",
+          "BMW MINI Mini One 1.6i Year of manufacture 2002",
+          "BMW MINI One 1.6i Year of manufacture 2004 - 2006"
+        ]
+      }
+    ]
+  }
+]

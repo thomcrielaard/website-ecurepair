@@ -1,0 +1,1500 @@
+[
+  {
+    "part_name": "D-Jetronic",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/d+jetronic-424361.ts1628717006.jpg",
+    "product_link": "https://ecu.eu/saab/engine-control-unit-69/saab/engine-control-unit/d-jetronic-6465",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/d-jetronic/saab-bosch-0280000010-131117.html",
+        "part_numbers": [
+          {
+            "title": "SAAB",
+            "numbers": []
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 010",
+              "0280000010"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "SAAB (99) Year of manufacture 1972",
+          "SAAB 99 EA (99) Year of manufacture 1970"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "EDC16C39",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c39-208128.ts1628719578.jpg",
+    "product_link": "https://ecu.eu/saab/engine-control-unit-69/saab/engine-control-unit/edc16c39-5867",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-12806932-bosch-0281018031-126279.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "12 806 932",
+              "12806932"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 018 031",
+              "0281018031"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3) Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-55205627-bosch-0281014196-129617.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 205 627",
+              "55205627"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 014 196",
+              "0281014196"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3) Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-55563338-bosch-0281013568-107851.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 563 338",
+              "55563338"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 013 568",
+              "0281013568"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-55565527-bosch-0281014076-124299.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55565527"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 014 076",
+              "0281014076"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3) Year of manufacture 2006 - 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-55566420-bosch-0281014551-120056.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 566 420",
+              "55566420"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 014 551",
+              "0281014551"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3) Year of manufacture 2007 - 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-55566422-0281014553-135433.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 566 422",
+              "55566422"
+            ]
+          },
+          {
+            "title": "Part number",
+            "numbers": [
+              "0 281 014 553",
+              "0281014553"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-5) Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-55568632-bosch-0281015210-134783.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55568632"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "0 281 015 210",
+              "0281015210"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-5) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-55568896-bosch-0281015212-126039.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55568896"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 015 212",
+              "0281015212"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3) Year of manufacture 2008 - 2023"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-55572462-bosch-0281016154-126751.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55572462"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 016 154",
+              "0281016154"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-55572466-bosch-0281016152-136428.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 572 466",
+              "55572466"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 016 152",
+              "0281016152"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-55576163-bosch-0281016963-137377.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55576163"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 016 963",
+              "0281016963"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-55577896-bosch-0281017592-126945.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 577 896",
+              "55577896"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 017 592",
+              "0281017592"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c39/saab-55579433-bosch-0281017717-127839.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 579 433",
+              "55579433"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 017 717",
+              "0281017717"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0606",
+            "fault_description": "Engine ECU - functional failure"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3) Year of manufacture 2010 - 2011"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "EDC16C9",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c9-187927.ts1628712848.jpg",
+    "product_link": "https://ecu.eu/saab/engine-control-unit-69/saab/engine-control-unit/edc16c9-4805",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c9/saab-55189926-bosch-0281011816-111247.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55189926"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 011 816",
+              "0281011816"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0560",
+            "fault_description": "System power supply \u2013 voltage too lowandBattery voltage is displayed incorrectly in the actual values of the diagnostic tester"
+          },
+          {
+            "fault_code": "P0602",
+            "fault_description": "variant configuration not programmed"
+          },
+          {
+            "fault_code": "P1604",
+            "fault_description": "Ecu - functional disorder"
+          },
+          {
+            "fault_description": "Engine temporarily doesn't start \u2013 when the error occurs, there is no communication possible with the ecu and the motor-/pre-ignite control light is not lighted up"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c9/saab-55561909-bosch-0281013225-117436.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 561 909",
+              "55561909"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 013 225",
+              "0281013225"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0560",
+            "fault_description": "System power supply \u2013 voltage too lowandBattery voltage is displayed incorrectly in the actual values of the diagnostic tester"
+          },
+          {
+            "fault_code": "P0602",
+            "fault_description": "variant configuration not programmed"
+          },
+          {
+            "fault_code": "P1604",
+            "fault_description": "Ecu - functional disorder"
+          },
+          {
+            "fault_description": "Engine temporarily doesn't start \u2013 when the error occurs, there is no communication possible with the ecu and the motor-/pre-ignite control light is not lighted up"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c9/saab-55563326-bosch-0281013515-115525.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 563 326",
+              "55563326"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 013 515",
+              "0281013515"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0560",
+            "fault_description": "System power supply \u2013 voltage too lowandBattery voltage is displayed incorrectly in the actual values of the diagnostic tester"
+          },
+          {
+            "fault_code": "P0602",
+            "fault_description": "variant configuration not programmed"
+          },
+          {
+            "fault_code": "P1604",
+            "fault_description": "Ecu - functional disorder"
+          },
+          {
+            "fault_description": "Engine temporarily doesn't start \u2013 when the error occurs, there is no communication possible with the ecu and the motor-/pre-ignite control light is not lighted up"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/edc16c9/saab-55563967-bosch-0281013807-115524.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 563 967",
+              "55563967"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 013 807",
+              "0281013807"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0560",
+            "fault_description": "System power supply \u2013 voltage too lowandBattery voltage is displayed incorrectly in the actual values of the diagnostic tester"
+          },
+          {
+            "fault_code": "P0602",
+            "fault_description": "variant configuration not programmed"
+          },
+          {
+            "fault_code": "P1604",
+            "fault_description": "Ecu - functional disorder"
+          },
+          {
+            "fault_description": "Engine temporarily doesn't start \u2013 when the error occurs, there is no communication possible with the ecu and the motor-/pre-ignite control light is not lighted up"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3) Year of manufacture 2006 - 2007"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "LH-Jetronic LH2.4 / LH2.4.1 / LH2.4.2",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/lh+jetronic+lh2+4+lh2+4+1+lh2+4+2-819.ts1628722661.jpg",
+    "product_link": "https://ecu.eu/saab/engine-control-unit-69/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2-3401",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-7487135-bosch-0280000564-236.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "7487135"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 564",
+              "0280000564"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (900)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-7487143-bosch-0280000565-119410.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "7 487 143",
+              "7487143"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 565",
+              "0280000565"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-7538671-bosch-0280000552-119409.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "7 538 671",
+              "7538671"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 552",
+              "0280000552"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-7872237-242005b04965-bosch-0280000905-136643.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "7 872 237",
+              "7872237"
+            ]
+          },
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "242.005 B04 965",
+              "242005B04965"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 905",
+              "0280000905"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-8788507-bosch-0280000901-101914.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "8 788 507",
+              "8788507"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 901",
+              "0280000901"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (900) Year of manufacture 1990"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-8826034-bosch-0280000580-101913.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "8826034"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 580",
+              "0280000580"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (900) Year of manufacture 1991"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-8826075-bosch-0280000570-115641.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "8826075"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 570",
+              "0280000570"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-8827529-bosch-0280000901-115643.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "88 27 529",
+              "8827529"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 901",
+              "0280000901"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-8857187-bosch-0280000908-115642.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "8857187"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 908",
+              "0280000908"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-8978348-bosch-0280000570-101911.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "8978348"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 570",
+              "0280000570"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (900) Year of manufacture 1988 - 1989"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-9113804-bosch-0280000579-359.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "9113804"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 579",
+              "0280000579"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-9119447-bosch-0280000580-115638.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "9119447"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 580",
+              "0280000580"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (900) Year of manufacture 1989 - 1990"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-9119462-bosch-0280000582-101912.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "9119462"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 582",
+              "0280000582"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (900) Year of manufacture 1990"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-9119470-bosch-0280000584-115639.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "9119470"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 584",
+              "0280000584"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-9119488-8826232-gm-30517949-bosch-0280000586-119411.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "9 119 488",
+              "9119488"
+            ]
+          },
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "8 826 232",
+              "8826232"
+            ]
+          },
+          {
+            "title": "GM - Part number",
+            "numbers": [
+              "30517949"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 586",
+              "0280000586"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/saab-9119496-bosch-0280000581-115640.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "9119496"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 280 000 581",
+              "0280000581"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Fuel pump actuation out of order"
+          },
+          {
+            "fault_description": "No ECU function"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Trionic 8",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/trionic+8-95555.ts1628711545.jpg",
+    "product_link": "https://ecu.eu/saab/engine-control-unit-69/saab/engine-control-unit/trionic-8-5305",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/trionic-8/saab-55561881-saab-automobile-ab-119406.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 561 881",
+              "55561881"
+            ]
+          },
+          {
+            "title": "Saab Automobile AB",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/trionic-8/saab-55565020-55565020s-saab-automobile-ab-116882.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 565 020",
+              "55565020"
+            ]
+          },
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55565020 S",
+              "55565020S"
+            ]
+          },
+          {
+            "title": "Saab Automobile AB",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/trionic-8/saab-55565504-55565504s-saab-automobile-ab-116883.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 565 504",
+              "55565504"
+            ]
+          },
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55565504 S",
+              "55565504S"
+            ]
+          },
+          {
+            "title": "Saab Automobile AB",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/trionic-8/saab-55567225s-saab-automobile-ab-116887.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 567 225 S",
+              "55567225S"
+            ]
+          },
+          {
+            "title": "Saab Automobile AB",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/trionic-8/saab-55567903-55567903s-saab-automobile-ab-116884.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 567 903",
+              "55567903"
+            ]
+          },
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55567903 S",
+              "55567903S"
+            ]
+          },
+          {
+            "title": "Saab Automobile AB",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/trionic-8/saab-55569738-55569738s-saab-automobile-ab-116886.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 569 738",
+              "55569738"
+            ]
+          },
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55569738 S",
+              "55569738S"
+            ]
+          },
+          {
+            "title": "Saab Automobile AB",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SAAB (9-3) Year of manufacture 2002 - 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/saab/engine-control-unit/trionic-8/saab-55571182-55571182s-saab-automobile-ab-116885.html",
+        "part_numbers": [
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55 571 182",
+              "55571182"
+            ]
+          },
+          {
+            "title": "SAAB - Part number",
+            "numbers": [
+              "55571182 S",
+              "55571182S"
+            ]
+          },
+          {
+            "title": "Saab Automobile AB",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0601",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

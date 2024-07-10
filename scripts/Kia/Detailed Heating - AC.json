@@ -1,0 +1,123 @@
+[
+  {
+    "part_name": "Venga automatic AC control module",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/venga+automatic+ac+control+module-91130.ts1628718836.jpg",
+    "product_link": "https://ecu.eu/kia/heating-ac-2921/kia/heating-ac/venga-automatic-ac-control-module-5276",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/kia/heating-ac/venga-automatic-ac-control-module/kia-motors-972501p210yn-continental-116427.html",
+        "part_numbers": [
+          {
+            "title": "KIA MOTORS - Part number",
+            "numbers": [
+              "97250-1P210 YN",
+              "972501P210YN"
+            ]
+          },
+          {
+            "title": "Continental",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Internal temperature always shows 60\u00b0C"
+          },
+          {
+            "fault_description": "System does not heat"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/kia/heating-ac/venga-automatic-ac-control-module/kia-motors-972501p250eq-continental-116424.html",
+        "part_numbers": [
+          {
+            "title": "KIA MOTORS - Part number",
+            "numbers": [
+              "97250-1P250 EQ",
+              "972501P250EQ"
+            ]
+          },
+          {
+            "title": "Continental",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Internal temperature always shows 60\u00b0C"
+          },
+          {
+            "fault_description": "System does not heat"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "KIA MOTORS Venga 1.6 (Venga, YN) Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/kia/heating-ac/venga-automatic-ac-control-module/kia-motors-972501p250yn-continental-116425.html",
+        "part_numbers": [
+          {
+            "title": "KIA MOTORS - Part number",
+            "numbers": [
+              "97250-1P250 YN",
+              "972501P250YN"
+            ]
+          },
+          {
+            "title": "Continental",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Internal temperature always shows 60\u00b0C"
+          },
+          {
+            "fault_description": "System does not heat"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/kia/heating-ac/venga-automatic-ac-control-module/kia-motors-972501p260yn-continental-116426.html",
+        "part_numbers": [
+          {
+            "title": "KIA MOTORS - Part number",
+            "numbers": [
+              "97250-1P260 YN",
+              "972501P260YN"
+            ]
+          },
+          {
+            "title": "Continental",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Internal temperature always shows 60\u00b0C"
+          },
+          {
+            "fault_description": "System does not heat"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

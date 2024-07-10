@@ -1,0 +1,51 @@
+[
+  {
+    "part_name": "Evobus Tourismo instrument cluster",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/evobus+tourismo+instrument+cluster-100953.ts1628718893.jpg",
+    "product_link": "https://ecu.eu/evobus/speedometer-display-instrument-cluster-6986/evobus-tourismo-instrument-cluster-5363",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/evobus-tourismo-instrument-cluster/mercedes-a0054460321-continental-a2c32998500-a2c53430031-15741026000200-118390.html",
+        "part_numbers": [
+          {
+            "title": "MERCEDES - Part number",
+            "numbers": [
+              "A 005 446 03 21",
+              "A0054460321"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 329 985 00",
+              "A2C32998500"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 534 300 31",
+              "A2C53430031"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "1574.1026000200",
+              "15741026000200"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

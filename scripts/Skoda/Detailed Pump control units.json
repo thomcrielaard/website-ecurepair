@@ -1,0 +1,83 @@
+[
+  {
+    "part_name": "Pump control unit PSG5 (VP44)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/pump+control+unit+psg5+vp44-401.ts1628718729.jpg",
+    "product_link": "https://ecu.eu/skoda/pump-control-units-6976/pump-control-unit-psg5-%28vp44%29-4452",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/pump-control-unit-psg5-%28vp44%29/skoda-psg5-bosch-0281010837-107480.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "PSG5"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 010 837",
+              "0281010837"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "0526",
+            "fault_description": "Injection pump ecu J399or01318Injection pump ecu J399"
+          },
+          {
+            "fault_code": "01268",
+            "fault_description": "04F4 Flow regulator N146"
+          },
+          {
+            "fault_description": "Engine stops while driving and doesn't start again"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Superb 2.5 TDI (Superb, 3U) Year of manufacture 2004 - 2006 Engine code BDG"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/pump-control-unit-psg5-%28vp44%29/skoda-psg5-bosch-0281010889-118099.html",
+        "part_numbers": [
+          {
+            "title": "Skoda - Part number",
+            "numbers": [
+              "PSG5"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 010 889",
+              "0281010889"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "0526",
+            "fault_description": "Injection pump ecu J399or01318Injection pump ecu J399"
+          },
+          {
+            "fault_code": "01268",
+            "fault_description": "04F4 Flow regulator N146"
+          },
+          {
+            "fault_description": "Engine stops while driving and doesn't start again"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Skoda Superb 2.5 TDI (Superb, 3U) Year of manufacture 2002 - 2003 Engine code AJM, AYM"
+        ]
+      }
+    ]
+  }
+]

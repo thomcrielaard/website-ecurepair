@@ -1,0 +1,433 @@
+[
+  {
+    "part_name": "EDC16C2",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c2-356.ts1628718728.jpg",
+    "product_link": "https://ecu.eu/jeep/engine-control-unit-5778/jeep/engine-control-unit/edc16c2-6700",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/edc16c2/jeep-p56044775ba-bosch-0281012594-139219.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P56044775BA"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 012 594",
+              "0281012594"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P1617",
+            "fault_description": "Eeprom or faulty codification"
+          },
+          {
+            "fault_code": "P1630",
+            "fault_description": "drive authorization signal"
+          },
+          {
+            "fault_code": "P2123",
+            "fault_description": "Injectors plate 1 \u2013 general error"
+          },
+          {
+            "fault_code": "P2124",
+            "fault_description": "Injectors plate 2 \u2013 general error"
+          },
+          {
+            "fault_code": "P2364-002",
+            "fault_description": "N3/9 (ecu CDI) ecu programming \u2013 faulty code or data"
+          },
+          {
+            "fault_description": "Engine starts and turns off again, the error occurs only within a certain temperature-range, upon occurence fault codes P2123 and P2124 are saved."
+          },
+          {
+            "fault_description": "Engine temporarily doesn't start \u2013 when the error occurs, there is no communication with the ecu the fan turns on already when ignition is switched on, starter doesn't turn"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "EDC16CP31",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16cp31-355.ts1628718728.jpg",
+    "product_link": "https://ecu.eu/jeep/engine-control-unit-5778/jeep/engine-control-unit/edc16cp31-6709",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/edc16cp31/jeep-p05094244ag-bosch-0281012079-132605.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P05094244AG"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 012 079",
+              "0281012079"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "There is no communication with the engine ECU, the engine does not start"
+          },
+          {
+            "fault_description": "all errors on request"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Commander) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/edc16cp31/jeep-p05094328ag-bosch-0281013361-140764.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P05094328AG"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 013 361",
+              "0281013361"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "There is no communication with the engine ECU, the engine does not start"
+          },
+          {
+            "fault_description": "all errors on request"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/edc16cp31/jeep-p05187332aa-bosch-0281013647-140765.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P05187332AA"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 013 647",
+              "0281013647"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "There is no communication with the engine ECU, the engine does not start"
+          },
+          {
+            "fault_description": "all errors on request"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/edc16cp31/jeep-p56044189ai-p56044189ag-bosch-0281011999-122529.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P56044189AI"
+            ]
+          },
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P56044189AG"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 011 999",
+              "0281011999"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "There is no communication with the engine ECU, the engine does not start"
+          },
+          {
+            "fault_description": "all errors on request"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Grand Cherokee) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/edc16cp31/jeep-p56044189ak-bosch-0281013360-122370.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P56044189AK"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 013 360",
+              "0281013360"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "There is no communication with the engine ECU, the engine does not start"
+          },
+          {
+            "fault_description": "all errors on request"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "EDC17C49",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc17c49-201213.ts1628719526.jpg",
+    "product_link": "https://ecu.eu/jeep/engine-control-unit-5778/jeep/engine-control-unit/edc17c49-5781",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/edc17c49/jeep-p05150681ab-bosch-0281019329-124521.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P05150681AB"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 019 329",
+              "0281019329"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "all errors on request"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Cherokee) Year of manufacture 2014"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "NGC4 / NGCJ2190",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ngc4+ngcj2190-337752.ts1628715819.jpg",
+    "product_link": "https://ecu.eu/jeep/engine-control-unit-5778/jeep/engine-control-unit/ngc4-ngcj2190-6285",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/ngc4-ngcj2190/jeep-p05150255ac-chrysler-255ac-130585.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P05150255AC"
+            ]
+          },
+          {
+            "title": "Chrysler - Part number",
+            "numbers": [
+              "255AC"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No ignition spark on 2 cylinders"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/ngc4-ngcj2190/jeep-p05150311ac-chrysler-311ac-136091.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P05150311AC"
+            ]
+          },
+          {
+            "title": "Chrysler - Part number",
+            "numbers": [
+              "311AC"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No ignition spark on 2 cylinders"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Grand Cherokee) Year of manufacture 2009",
+          "JEEP Grand Cherokee 6.1 SRT-8 4x4 (Grand Cherokee, WK) Year of manufacture 2009 Engine code ESF"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/ngc4-ngcj2190/jeep-p05187488ae-chrysler-684550-136090.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P05187488AE"
+            ]
+          },
+          {
+            "title": "Chrysler - Part number",
+            "numbers": [
+              "684550"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No ignition spark on 2 cylinders"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Wrangler) Year of manufacture 2008",
+          "JEEP Wrangler 3.8 4x4 (Wrangler, JK) Year of manufacture 2007 Engine code EGT"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/ngc4-ngcj2190/jeep-p056044517ae-chrysler-517ae-148629.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P056044517AE"
+            ]
+          },
+          {
+            "title": "Chrysler - Part number",
+            "numbers": [
+              "517AE"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No ignition spark on 2 cylinders"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/ngc4-ngcj2190/jeep-p56044529ac-chrysler-529ac-148427.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P56044529AC"
+            ]
+          },
+          {
+            "title": "Chrysler - Part number",
+            "numbers": [
+              "529AC"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No ignition spark on 2 cylinders"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Wrangler) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/jeep/engine-control-unit/ngc4-ngcj2190/jeep-p68043450ag-chrysler-450ag-135085.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P68043450AG"
+            ]
+          },
+          {
+            "title": "Chrysler - Part number",
+            "numbers": [
+              "450AG"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No ignition spark on 2 cylinders"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

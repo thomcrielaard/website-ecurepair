@@ -1,0 +1,93 @@
+[
+  {
+    "part_name": "ABS/ASR 5.3",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+5+3-731.ts1628722659.jpg",
+    "product_link": "https://ecu.eu/ferrari/abs-asr-esp-ecu-6645/ferrari/abs-asr-esp-ecu/abs-asr-5.3-6648",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/ferrari/abs-asr-esp-ecu/abs-asr-5.3/ferrari-168828-bosch-0273004202-0265220425-850-125824.html",
+        "part_numbers": [
+          {
+            "title": "FERRARI - Part number",
+            "numbers": [
+              "168828"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 202",
+              "0273004202"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 220 425",
+              "0265220425"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "850"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/ferrari/abs-asr-esp-ecu/abs-asr-5.3/ferrari-bosch-0273004554-0265220608-850-134365.html",
+        "part_numbers": [
+          {
+            "title": "FERRARI",
+            "numbers": []
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 554",
+              "0273004554"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 220 608",
+              "0265220608"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "850"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

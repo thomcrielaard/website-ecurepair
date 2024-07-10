@@ -1,0 +1,358 @@
+[
+  {
+    "part_name": "EUR",
+    "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/mitsubishi+md614367+mitsubishi+electric+e9t15293-822.ts1628722661.jpg",
+    "product_link": "https://ecu.eu/mitsubishi/idle-speed-controller-26",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-md614367-mitsubishi-electric-e9t15293-1356.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MD614367"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15293"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-md614368-mitsubishi-electric-e9t15292-159.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MD614368"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15292"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Colt 1.8 GTI (Colt, CA0) Year of manufacture 1992",
+          "Mitsubishi Eclipse 2.0i (Eclipse, D20) Year of manufacture 1991 - 1992",
+          "Mitsubishi Galant 2.0i (Galant, E30) Year of manufacture 1992"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-md614568-mitsubishi-electric-e9t15296-160.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MD614568"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15296"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Galant 2.0i V6-24 (Galant, E50) Year of manufacture 1993 - 1996"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-md614678-mitsubishi-electric-e9t15271a-911.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MD614678"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15271A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Pajero 3.0i V6 (Pajero, L040) Year of manufacture 1989",
+          "Mitsubishi Pajero 3.0i V6 (Pajero, V20) Year of manufacture 1991 - 1992",
+          "Mitsubishi Sigma Kombi 3.0 V6 (Sigma, F07) Year of manufacture 1994 - 1996"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-md614678-mitsubishi-electric-e9t15371-1358.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MD614678"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15371"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Pajero 3.0i V6 (Pajero, V20) Year of manufacture 1995 - 1997",
+          "Mitsubishi Pajero 3.5i V6-24V (Pajero, V20) Year of manufacture 1994 - 1996"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-md614762-mitsubishi-electric-e9t15372-161.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MD614762"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15372"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-md614763-mitsubishi-electric-e9t15986-1359.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MD614763"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15986"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-md614896-mitsubishi-electric-e9t15297-162.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MD614896"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15297"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Lancer 1.3i (Colt, CJ0) Year of manufacture 1996 - 1997"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-md614978-mitsubishi-electric-e9t15298-1357.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi - Part number",
+            "numbers": [
+              "MD614978"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15298"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-mitsubishi-electric-e9t15271a-123774.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi",
+            "numbers": []
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15271A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Pajero 3.0i V6 (Pajero, L040) Year of manufacture 1989"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-mitsubishi-electric-e9t15292-121226.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi",
+            "numbers": []
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15292"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Mitsubishi Eclipse 2.0i (Eclipse, D20) Year of manufacture 1993 - 1994"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-mitsubishi-electric-e9t15297-121225.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi",
+            "numbers": []
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15297"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mitsubishi/idle-speed-controller/mitsubishi-mitsubishi-electric-e9t15371-121224.html",
+        "part_numbers": [
+          {
+            "title": "Mitsubishi",
+            "numbers": []
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "E9T15371"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Problems on idle or no idling"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

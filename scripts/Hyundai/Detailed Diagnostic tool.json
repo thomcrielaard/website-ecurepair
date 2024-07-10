@@ -1,0 +1,34 @@
+[
+  {
+    "part_name": "Midtronics Batterietester MDX-670P H",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/midtronics+batterietester+mdx+670p+h-1159881.ts1661931803.jpg",
+    "product_link": "https://ecu.eu/hyundai/diagnostic-tool-2908/hyundai/diagnostic-tool/midtronics-batterietester-mdx-670p-h-7034",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/hyundai/diagnostic-tool/midtronics-batterietester-mdx-670p-h/hyundai-midtronics-testermdx670ph-146822.html",
+        "part_numbers": [
+          {
+            "title": "HYUNDAI",
+            "numbers": []
+          },
+          {
+            "title": "Midtronics - Part number",
+            "numbers": [
+              "Tester MDX-670P H",
+              "TesterMDX670PH"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Tester cable defective"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

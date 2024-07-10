@@ -1,0 +1,399 @@
+[
+  {
+    "part_name": "Contact plate with speed sensors 5-speed automatic (722.6)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/contact+plate+with+speed+sensors+5+speed+automatic+722+6-313628.ts1628715350.jpg",
+    "product_link": "https://ecu.eu/ssang-yong/transmission-control-unit-3094/ssang-yong/transmission-control-unit/contact-plate-with-speed-sensors-5-speed-automatic-%28722.6%29-6066",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/ssang-yong/transmission-control-unit/contact-plate-with-speed-sensors-5-speed-automatic-%28722.6%29/ssangyong-1402701161-133233.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "140 270 11 61",
+              "1402701161"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "13",
+            "fault_description": "Speed sensor N3"
+          },
+          {
+            "fault_code": "109",
+            "fault_description": "Speed sensor N3"
+          },
+          {
+            "fault_code": "P2200",
+            "fault_description": "(Gutmann 8704) Y\u00a7/6n2 Speed sensor 2 - faulty"
+          },
+          {
+            "fault_code": "P2203",
+            "fault_description": "(Gutmann 8707) Y3/6n3 Speed sensor 3 - faulty"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Control unit 5-speed automatic (722.6)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+unit+5+speed+automatic+722+6-108687.ts1628718946.jpg",
+    "product_link": "https://ecu.eu/ssang-yong/transmission-control-unit-3094/ssang-yong/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29-6364",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/ssang-yong/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29/ssangyong-a0009009600-a0034464610-a0009024810-continental-5wp20132afk-133264.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 000 900 96 00",
+              "A0009009600"
+            ]
+          },
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 003 446 46 10",
+              "A0034464610"
+            ]
+          },
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 000 902 48 10",
+              "A0009024810"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WP20132AFK"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0605",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P0743",
+            "fault_description": "Solenoid valve converter lock-up clutch Y3/6y6 - electrical fault"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29/ssangyong-a0345452132-siemens-5wp20010ab-126519.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 034 545 21 32",
+              "A0345452132"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP20010AB"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P2602",
+            "fault_description": "power supply valves"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SSANGYONG (Rexton) Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29/ssangyong-a0345452232-siemens-5wp20010ae-127992.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 034 545 22 32",
+              "A0345452232"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP20010AE"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P2602",
+            "fault_description": "power supply valves"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SSANGYONG (Rexton) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29/ssangyong-a0345452432-siemens-5wp20010ah-126525.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 034 545 24 32",
+              "A0345452432"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP20010AH"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P2602",
+            "fault_description": "power supply valves"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SSANGYONG (Rexton) Year of manufacture 2005 - 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29/ssangyong-a0345452432-siemens-5wp20010ak-129637.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 034 545 24 32",
+              "A0345452432"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP20010AK"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P2602",
+            "fault_description": "power supply valves"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SSANGYONG (Rexton) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29/ssangyong-a0345452532-siemens-5wp20010am-126521.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 034 545 25 32",
+              "A0345452532"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP20010AM"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P2602",
+            "fault_description": "power supply valves"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SSANGYONG (Rexton) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29/ssangyong-a0345452732-siemens-5wp20010an-126524.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 034 545 27 32",
+              "A0345452732"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP20010AN"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P2602",
+            "fault_description": "power supply valves"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SSANGYONG (Kyron) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29/ssangyong-a0355452132-siemens-5wp20010bdk-126523.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 035 545 21 32",
+              "A0355452132"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP20010BDK"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P2602",
+            "fault_description": "power supply valves"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SSANGYONG (Kyron) Year of manufacture 2007 - 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/ssang-yong/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29/ssangyong-a0355452332-siemens-5wp20010bek-126520.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 035 545 23 32",
+              "A0355452332"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "5WP20010BEK"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P2602",
+            "fault_description": "power supply valves"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "SSANGYONG (Rexton)"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "VGS / NAG2 7G-Tronic (722.9)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/vgs+nag2+7g+tronic+722+9-14080.ts1628711406.jpg",
+    "product_link": "https://ecu.eu/ssang-yong/transmission-control-unit-3094/ssang-yong/transmission-control-unit/vgs-nag2-7g-tronic-%28722.9%29-6403",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/ssang-yong/transmission-control-unit/vgs-nag2-7g-tronic-%28722.9%29/ssangyong-a0044469710-continental-5wp21334-138834.html",
+        "part_numbers": [
+          {
+            "title": "SSANGYONG - Part number",
+            "numbers": [
+              "A 004 446 97 10",
+              "A0044469710"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "5WP21334"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "0717",
+            "fault_description": "(Gutmann 1815) The signal from component Y3/8n1 (turbine speed sensor (VGS)) is not available"
+          },
+          {
+            "fault_code": "0718",
+            "fault_description": "(Gutmann 1816) Component Y3/8n1 (turbine speed sensor (VGS)) is defective"
+          },
+          {
+            "fault_code": "2200",
+            "fault_description": "(Gutmann 8704) The signal from component Y3/8n2 (internal speed sensor (VGS)) is not available"
+          },
+          {
+            "fault_code": "2201",
+            "fault_description": "(Gutmann 8705) component Y3/8n2 (internal speed sensor (VGS)) is defective."
+          },
+          {
+            "fault_code": "2204",
+            "fault_description": "(Gutmann 8708) The signal from component Y3/8n1 (turbine speed sensor (VGS)) is not available"
+          },
+          {
+            "fault_code": "2205",
+            "fault_description": "(Gutmann 8709) Component Y3/8n1 (turbine speed sensor (VGS)) is defective"
+          },
+          {
+            "fault_code": "2767",
+            "fault_description": "(Gutmann 10087) The signal from component Y3/8n2 (internal speed sensor (VGS)) is not available."
+          },
+          {
+            "fault_code": "2768",
+            "fault_description": "(Gutmann 10088) Component Y3/8n2 (internal speed sensor (VGS)) is defective."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

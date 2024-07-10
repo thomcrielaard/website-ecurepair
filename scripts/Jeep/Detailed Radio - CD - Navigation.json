@@ -1,0 +1,61 @@
+[
+  {
+    "part_name": "Radio Navigaton NTG4 Refresh",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+navigaton+ntg4+refresh-5085451.ts1718173926.jpg",
+    "product_link": "https://ecu.eu/jeep/radio-cd-navigation-7324/jeep/radio-cd-navigation/radio-navigaton-ntg4-refresh-7325",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/jeep/radio-cd-navigation/radio-navigaton-ntg4-refresh/jeep-p68224877aa-chrysler-ntg4refresh-harman-automotive-ntg4rhw-36670j-153736.html",
+        "part_numbers": [
+          {
+            "title": "JEEP - Part number",
+            "numbers": [
+              "P68224877AA"
+            ]
+          },
+          {
+            "title": "CHRYSLER - Part number",
+            "numbers": [
+              "NTG4 REFRESH",
+              "NTG4REFRESH"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "NTG4 RHW",
+              "NTG4RHW"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "36670 J",
+              "36670J"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Touchscreen used / scratched"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "JEEP (Wrangler) Year of manufacture 2015"
+        ]
+      }
+    ]
+  }
+]

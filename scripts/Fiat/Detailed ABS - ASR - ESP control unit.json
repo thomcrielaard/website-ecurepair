@@ -1,0 +1,6016 @@
+[
+  {
+    "part_name": "ABS 2S",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+2s-1576.ts1628718733.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/abs-2s-6818",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-2s/fiat-bosch-0273004079-0265204001-122031.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 079",
+              "0273004079"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 204 001",
+              "0265204001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Barchetta 1.8 (Barchetta, 183) Year of manufacture 1995 - 1996"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ABS 9.0",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+9+0-112771.ts1628711709.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/abs-9.0-5404",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-9.0/fiat-51879520-2265106455-bosch-0265805024-0265260047-015-118995.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51879520"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "2265106455"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 805 024",
+              "0265805024"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 260 047",
+              "0265260047"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "015"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "P0500",
+            "fault_description": "Speed sensor - functional failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 115 Multijet (Ducato, 250) Year of manufacture 2012 - 2014",
+          "FIAT Ducato 120 Multijet (Ducato, 250) Year of manufacture 2012 - 2013",
+          "FIAT Ducato 130 Multijet (Ducato, 250) Year of manufacture 2011 - 2015",
+          "FIAT Ducato 150 Multijet (Ducato, 250) Year of manufacture 2012 - 2014",
+          "FIAT Ducato 160 Multijet (Ducato, 250) Year of manufacture 2014",
+          "FIAT Ducato 180 Multijet (Ducato, 250)"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ABS MK20",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+mk20-419.ts1628718730.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/abs-mk20-3251",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-mk20/fiat-46430411-ate-10094616003-10020400274-temic-3x4574-111042.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "464 30 411",
+              "46430411"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0946-1600.3",
+              "10094616003"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0027.4",
+              "10020400274"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "3X4574"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "701",
+            "fault_description": "Pump motor faulty within the hydraulic aggregate"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-mk20/fiat-46456468-ate-10094616023-10020400584-3x8370-119794.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "464 56 468",
+              "46456468"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0946-1602.3",
+              "10094616023"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0058.4",
+              "10020400584"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "3X8370"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "701",
+            "fault_description": "Pump motor faulty within the hydraulic aggregate"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Bravo 1.6 16V (Bravo, 182) Year of manufacture 1996",
+          "FIAT Bravo 1.8 16V (Bravo, 182) Year of manufacture 1997"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-mk20/fiat-46469906-ate-10094616033-10020400754-3x9522-101978.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "464 69 906",
+              "46469906"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0946-1603.3",
+              "10094616033"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0075.4",
+              "10020400754"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "3X9522"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "701",
+            "fault_description": "Pump motor faulty within the hydraulic aggregate"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Brava 1.6 16V (Brava, 182) Year of manufacture 1998 - 2001",
+          "FIAT Bravo 1.6 16V (Bravo, 182) Year of manufacture 1998",
+          "FIAT Bravo 1.8 16V (Bravo, 182) Year of manufacture 1998"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-mk20/fiat-46529968-ate-10094916013-10020401674-temic-3x6945-102124.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "465 29 968",
+              "46529968"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0949-1601.3",
+              "10094916013"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0167.4",
+              "10020401674"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "3X6945"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "701",
+            "fault_description": "Pump motor faulty within the hydraulic aggregate"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Brava 1.6 16V (Brava, 182) Year of manufacture 2001"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-mk20/fiat-46767474-ate-10094916023-10020402844-3x1049-100805.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "467 67 474",
+              "46767474"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0949-1602.3",
+              "10094916023"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0284.4",
+              "10020402844"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "3X1049"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "701",
+            "fault_description": "Pump motor faulty within the hydraulic aggregate"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.2i.e (Doblo, 223) Year of manufacture 2001 - 2003",
+          "FIAT Doblo 1.6i.e (Doblo, 223) Year of manufacture 2002 - 2004",
+          "FIAT Doblo 1.9 JTD (Doblo, 223) Year of manufacture 2000 - 2004",
+          "FIAT Doblo Cargo 1.9 JTD (Doblo, 223) Year of manufacture 2002 - 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-mk20/fiat-51704746-ate-10094916023-10020402844-3x1049-111043.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "517 04 746",
+              "51704746"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0949-1602.3",
+              "10094916023"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0204-0284.4",
+              "10020402844"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "3X1049"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "701",
+            "fault_description": "Pump motor faulty within the hydraulic aggregate"
+          },
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.2i.e (Doblo, 223) Year of manufacture 2001 - 2003",
+          "FIAT Doblo 1.6i.e (Doblo, 223) Year of manufacture 2002 - 2004",
+          "FIAT Doblo 1.9 JTD (Doblo, 223) Year of manufacture 2000 - 2004",
+          "FIAT Doblo Cargo 1.9 JTD (Doblo, 223) Year of manufacture 2002 - 2004"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ABS-F",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+f-449.ts1628718730.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/abs-f-3446",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-f/fiat-404415710-lucas-3261068907-hella-5sd00738801-287.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "404415710"
+            ]
+          },
+          {
+            "title": "Lucas - Part number",
+            "numbers": [
+              "32 610689-07",
+              "3261068907"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5SD 007 388-01",
+              "5SD00738801"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Marea 1.8i 16V (Marea, 185) Year of manufacture 1998"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-f/fiat-464415710-lucas-3261068905-hella-5sd00738801-102123.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "464415710"
+            ]
+          },
+          {
+            "title": "Lucas - Part number",
+            "numbers": [
+              "32 610689-05",
+              "3261068905"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5SD 007 388-01",
+              "5SD00738801"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-f/fiat-464415710-lucas-3261068908-hella-5sd00738801-3017.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "464415710"
+            ]
+          },
+          {
+            "title": "Lucas - Part number",
+            "numbers": [
+              "32 610689-08",
+              "3261068908"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5SD 007 388-01",
+              "5SD00738801"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Marea 1.6i 16V (Marea, 185) Year of manufacture 1997"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ABS/ASR 8.0",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+8+0-4084.ts1628718748.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/abs-asr-8.0-4413",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-1400513280-bosch-0265800427-0265231550-802-111136.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "14 005 132 80",
+              "1400513280"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 427",
+              "0265800427"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 550",
+              "0265231550"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "802"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Scudo 120 Multijet (Scudo, 270) Year of manufacture 2007",
+          "FIAT Scudo 90 Multijet (Scudo, 270) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-1401259780-1404109880-bosch-0265801044-0265232065-116047.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "14 012 597 80",
+              "1401259780"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "14 041 098 80",
+              "1404109880"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 801 044",
+              "0265801044"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 232 065",
+              "0265232065"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Scudo 120 Multijet (Scudo, 270) Year of manufacture 2009 - 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-46802215-bosch-0265800715-0265231312-816-111135.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46802215"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 715",
+              "0265800715"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 312",
+              "0265231312"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "816"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Panda 1.1i.e (Panda, 169) Year of manufacture 2005",
+          "FIAT Panda 1.2i.e (Panda, 169) Year of manufacture 2005 - 2006",
+          "FIAT Panda 1.3 JTD (Panda, 169) Year of manufacture 2006",
+          "FIAT Panda 1.4i.e. 16V (Panda, 169) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-46828246-bosch-0265800333-0265231367-133779.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46828246"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 333",
+              "0265800333"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 367",
+              "0265231367"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-46836768-bosch-0265800315-0265231331-107376.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46836768"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 315",
+              "0265800315"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 331",
+              "0265231331"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51718108-bosch-0265800369-0265231437-107374.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51718108"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 369",
+              "0265800369"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 437",
+              "0265231437"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Stilo 1.4 16V (Stilo, 192) Year of manufacture 2005",
+          "FIAT Stilo SW 1.6 16V (Stilo, 192) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51725097-bosch-0265800461-0265231617-616-117719.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51725097"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 461",
+              "0265800461"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 617",
+              "0265231617"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "616"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 130 Multijet (Ducato, 250) Year of manufacture 2007 - 2008",
+          "FIAT Ducato 150 Multijet (Ducato, 250) Year of manufacture 2008",
+          "FIAT Ducato 160 Multijet (Ducato, 250) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51736426-bosch-0265900317-0265233329-884-109679.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51736426"
+            ]
+          },
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 900 317",
+              "0265900317"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 233 329",
+              "0265233329"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "884"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 100 Multijet (Ducato, 250) Year of manufacture 2007 - 2008",
+          "FIAT Ducato 120 Multijet (Ducato, 250) Year of manufacture 2006 - 2007",
+          "FIAT Ducato 130 Multijet (Ducato, 250) Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51761005-bosch-0265800495-0265231672-816-142317.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51761005"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 495",
+              "0265800495"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 672",
+              "0265231672"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "816"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Idea 1.4i 16V (Idea, 135) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51772682-bosch-0265800526-0265231740-697-111103.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51772682"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 526",
+              "0265800526"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 740",
+              "0265231740"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "697"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Idea 1.4i 16V (Idea, 135) Year of manufacture 2006 - 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51787091-bosch-0265800598-0265231878-893-107378.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51787091"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 598",
+              "0265800598"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 878",
+              "0265231878"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "893"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Grande Punto 1.4i.e (Punto, 199) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51798104-bosch-0265800690-0265232053-693-111137.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51798104"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 690",
+              "0265800690"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 232 053",
+              "0265232053"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "693"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Grande Punto 1.2i.e (Punto, 199) Year of manufacture 2008",
+          "FIAT Grande Punto 1.4i.e (Punto, 199) Year of manufacture 2007 - 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51799595-bosch-0265800673-0265232021-697897-107377.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51799595"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 673",
+              "0265800673"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 232 021",
+              "0265232021"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "697 _ 897",
+              "697897"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT",
+          "FIAT Panda 1.1i.e (Panda, 169)",
+          "FIAT Panda 1.2 (Panda, 169)",
+          "FIAT Panda 1.2i.e (Panda, 169)",
+          "FIAT Panda 1.3 JTD (Panda, 169)",
+          "FIAT Panda 1.4 (Panda, 169)",
+          "FIAT Panda 1.4i.e. 16V (Panda, 169)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51801319-bosch-0265800648-0265231972-697-133328.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51801319"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 648",
+              "0265800648"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 972",
+              "0265231972"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "697"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT 500 1.2 (500, 312) Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51804596-bosch-0265800717-0265232112-616-112442.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51804596"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 717",
+              "0265800717"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 232 112",
+              "0265232112"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "616"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 100 Multijet (Ducato, 250) Year of manufacture 2008 - 2011",
+          "FIAT Ducato 120 Multijet (Ducato, 250) Year of manufacture 2009",
+          "FIAT Ducato 150 Multijet (Ducato, 250) Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51804597-bosch-0265900346-0265233361-684-109680.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "5180 4597",
+              "51804597"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 900 346",
+              "0265900346"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 233 361",
+              "0265233361"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "684"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 100 Multijet (Ducato, 250) Year of manufacture 2010",
+          "FIAT Ducato 120 Multijet (Ducato, 250) Year of manufacture 2008 - 2011",
+          "FIAT Ducato 130 Multijet (Ducato, 250) Year of manufacture 2008 - 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51805700-bosch-0265800725-0265232129-131857.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51805700"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 725",
+              "0265800725"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 232 129",
+              "0265232129"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51805915-bosch-0265800712-0265232100-107375.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51805915"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 712",
+              "0265800712"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 232 100",
+              "0265232100"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Panda 1.2i.e 4x4 (Panda, 169) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51809236-bosch-0265800733-0265232138-145280.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51809236"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 733",
+              "0265800733"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 232 138",
+              "0265232138"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Panda 1.2i.e 4x4 (Panda, 169)",
+          "FIAT Panda 1.3 4x4 (Panda, 169)",
+          "FIAT Strada 1.2 (Strada, 278)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-8.0/fiat-51824574-bosch-0265800800-0265232290-116117.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51824574"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 800",
+              "0265800800"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 232 290",
+              "0265232290"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "4020",
+            "fault_description": "pump motor / engine relay faulty"
+          },
+          {
+            "fault_code": "5219",
+            "fault_description": "pump motor / engine relay undervoltage during operation"
+          },
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT 500 1.2 (500, 312) Year of manufacture 2009",
+          "FIAT 500 1.3 Multijet (500, 312) Year of manufacture 2008"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ABS/ASR MK70",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+mk70-3874.ts1628718746.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/abs-asr-mk70-5632",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-mk70/fiat-51725050-ate-10097016013-10020700274-0017-131843.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "517 25 050",
+              "51725050"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-1601.3",
+              "10097016013"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0027.4",
+              "10020700274"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0017"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.2i.e (Doblo, 223) Year of manufacture 2005",
+          "FIAT Doblo 1.9 JTD (Doblo, 223) Year of manufacture 2005",
+          "FIAT Doblo Cargo 1.2i.e (Doblo, 223) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-mk70/fiat-51773386-ate-10097016023-10020700694-0017-125906.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "517 73 386",
+              "51773386"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-1602.3",
+              "10097016023"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0069.4",
+              "10020700694"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0017"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.4i.e (Doblo, 223) Year of manufacture 2006",
+          "FIAT Doblo 1.9 JTD (Doblo, 223) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-mk70/fiat-51773386-ate-10097016033-10020700794-0017-125907.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "517 73 386",
+              "51773386"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-1603.3",
+              "10097016033"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0079.4",
+              "10020700794"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0017"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.3 JTD (Doblo, 223) Year of manufacture 6 - 2007",
+          "FIAT Doblo 1.4i.e (Doblo, 223) Year of manufacture 2007",
+          "FIAT Doblo 1.9 JTD (Doblo, 223) Year of manufacture 2006 - 2008",
+          "FIAT Doblo Cargo 1.9 JTD (Doblo, 223) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-mk70/fiat-51816795-ate-10097016093-10020702084-0027-125908.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "518 16 795",
+              "51816795"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-1609.3",
+              "10097016093"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0208.4",
+              "10020702084"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0027"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-mk70/fiat-51822702-ate-10097016043-10020701314-0017-125905.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "518 22 702",
+              "51822702"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-1604.3",
+              "10097016043"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0131.4",
+              "10020701314"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0017"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.9 JTD (Doblo, 223) Year of manufacture 2008 - 2009",
+          "FIAT Doblo Cargo 1.3 JTD (Doblo, 223) Year of manufacture 2009",
+          "FIAT Doblo Cargo 1.9 JTD (Doblo, 223) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-mk70/fiat-51822702-ate-10097016053-10020701404-0017-125904.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "518 22 702",
+              "51822702"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-1605.3",
+              "10097016053"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0140.4",
+              "10020701404"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0017"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.9 JTD (Doblo, 223) Year of manufacture 2009",
+          "FIAT Doblo Cargo 1.3 JTD (Doblo, 223) Year of manufacture 2009",
+          "FIAT Doblo Cargo 1.9 JTD (Doblo, 223) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-mk70/fiat-51885803-ate-10097016103-10020702174-0027-125909.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "518 85 803",
+              "51885803"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-1610.3",
+              "10097016103"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0217.4",
+              "10020702174"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0027"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo Cargo 1.3 JTD (Doblo, 263) Year of manufacture 2011",
+          "FIAT Doblo Cargo 1.4 (Doblo, 263) Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-mk70/fiat-51888857-ate-10097016113-10020702184-0027-125903.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "518 88 857",
+              "51888857"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-1611.3",
+              "10097016113"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0218.4",
+              "10020702184"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0027"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.6 Multijet (Doblo, 263) Year of manufacture 2010",
+          "FIAT Doblo Cargo 1.3 JTD (Doblo, 263) Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-mk70/fiat-51888857-ate-10097016123-10020702184-0027-152011.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "518 88 857",
+              "51888857"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-1612.3",
+              "10097016123"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0218.4",
+              "10020702184"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0027"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-mk70/fiat-51901329-ate-10097016133-10020702244-0027-136626.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "519 01 329",
+              "51901329"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-1613.3",
+              "10097016133"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0224.4",
+              "10020702244"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0027"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-mk70/fiat-51902576-ate-10097016143-10020702334-0027-136624.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "519 02 576",
+              "51902576"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-1614.3",
+              "10097016143"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0233.4",
+              "10020702334"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0027"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.4i 16V T-JET Natural Power (Doblo, 263) Year of manufacture 2013",
+          "FIAT Doblo Cargo 1.3 JTD (Doblo, 263) Year of manufacture 2012",
+          "FIAT Doblo Cargo 1.6 Multijet (Doblo, 263) Year of manufacture 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-mk70/fiat-51924795-ate-10097016153-10020702384-0027-136625.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "519 24 795",
+              "51924795"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-1615.3",
+              "10097016153"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0238.4",
+              "10020702384"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0027"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo Cargo 2.0 JTD (Doblo, 263) Year of manufacture 2014"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ABS/ASR/ABD 5.3",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+abd+5+3-1080.ts1628711298.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3-5590",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-1319624080-71712408-bosch-0273004168-0265216435-822-107853.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "1319624080"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "71712408"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 168",
+              "0273004168"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 435",
+              "0265216435"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "822"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 2.0i.e (Ducato, 230) Year of manufacture 1999",
+          "FIAT Ducato 2.8 JTD (Ducato, 230) Year of manufacture 2001 - 2002",
+          "FIAT Ducato 2.8 TD (Ducato, 230) Year of manufacture 1998 - 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-1319625080-bosch-0273004275-0265216529-822901-102130.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "1319625080"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 275",
+              "0273004275"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 529",
+              "0265216529"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "822 _ 901",
+              "822901"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 2.8 JTD (Ducato, 230) Year of manufacture 2001 - 2002",
+          "FIAT Ducato 2.8 JTD (Ducato, 244) Year of manufacture 2003",
+          "FIAT Ducato 2.8 TD (Ducato, 230) Year of manufacture 2000"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-1487993080-bosch-0273004441-0265216724-105358.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "14 879 930 80",
+              "1487993080"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 441",
+              "0273004441"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 724",
+              "0265216724"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46445086-bosch-0273004146-0265216424-107854.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46445086"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 146",
+              "0273004146"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 424",
+              "0265216424"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46469543-bosch-0273004277-0265216551-826-102131.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46469543"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 277",
+              "0273004277"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 551",
+              "0265216551"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "826"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46511174-bosch-0273004253-0265216525-822-121107.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46511174"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 253",
+              "0273004253"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 525",
+              "0265216525"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "822"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46520022-bosch-0273004421-0265216533-822-117713.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46520022"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 421",
+              "0273004421"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 533",
+              "0265216533"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "822"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46520025-bosch-0273004288-0265216569-826-121109.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46520025"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 288",
+              "0273004288"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 569",
+              "0265216569"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "826"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Seicento 1100 (Seicento, 187) Year of manufacture 1999"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46541046-bosch-0273004336-0265216618-822-116237.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46541046"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 336",
+              "0273004336"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 618",
+              "0265216618"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "822"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Punto 1.2i.e (Punto, 188) Year of manufacture 2000"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46541046-bosch-0273004424-0265216618-822-116741.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46541046"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 424",
+              "0273004424"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 618",
+              "0265216618"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "822"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Punto 1.2i.e (Punto, 188) Year of manufacture 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46542381-bosch-0273004428-0265220552-850-150058.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46542381"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 428",
+              "0273004428"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 220 552",
+              "0265220552"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "850"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46547227-a152-bosch-02273004429-0265216712-822-134232.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46547227"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "A152"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "02 273 004 429",
+              "02273004429"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "0 265 216 712",
+              "0265216712"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "822"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46556475-bosch-0273004426-0265216710-826-121111.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46556475"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 426",
+              "0273004426"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 710",
+              "0265216710"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "826"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Seicento 1100 (Seicento, 187) Year of manufacture 2001 - 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46773428-bosch-0273004535-0265216801-822-120029.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46773428"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 535",
+              "0273004535"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 801",
+              "0265216801"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "822"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46786432-bosch-0273004423-0265216708-822-111501.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46786432"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 423",
+              "0273004423"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 708",
+              "0265216708"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "822"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 2.0 JTD (Ducato, 244) Year of manufacture 2004 - 2005",
+          "FIAT Ducato 2.0i (Ducato, 244) Year of manufacture 2002 - 2006",
+          "FIAT Ducato 2.3 JTD (Ducato, 244) Year of manufacture 2003",
+          "FIAT Ducato 2.8 JTD (Ducato, 230) Year of manufacture 2002 - 2003",
+          "FIAT Ducato 2.8 JTD (Ducato, 244) Year of manufacture 2002 - 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46830055-bosch-0273004560-0265216827-826-111502.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46830055"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 560",
+              "0273004560"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 827",
+              "0265216827"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "826"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Strada 1.3 JTD (Strada, 278) Year of manufacture 2007 - 2010",
+          "FIAT Strada 1.9 JTD (Strada, 278) Year of manufacture 2003 - 2014"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46837590-bosch-0273004684-0265216959-102129.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46837590"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 684",
+              "0273004684"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 959",
+              "0265216959"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46840336-bosch-0273004673-0265216945-109578.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46840336"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 673",
+              "0273004673"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 216 945",
+              "0265216945"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Punto 1.2i.e (Punto, 188) Year of manufacture 2003 - 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-46844829-bosch-0273004695-0265220679-850-107855.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46844829"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 695",
+              "0273004695"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 220 679",
+              "0265220679"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "850"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 2.8 JTD (Ducato, 244)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/abs-asr-abd-5.3/fiat-51726121-bosch-0273004957-0265220694-850-102199.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51726121"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 957",
+              "0273004957"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 220 694",
+              "0265220694"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "850"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 2.3 JTD (Ducato, 244) Year of manufacture 2003 - 2006",
+          "FIAT Ducato 2.8 JTD (Ducato, 244) Year of manufacture 2003 - 2007",
+          "FIAT Ducato 2.8 TD (Ducato, 230) Year of manufacture 1999 - 2006"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "EBC430",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ebc430-570837.ts1632464443.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/ebc430-3462",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/ebc430/fiat-13091804-46558579-kelsey-hayes-13216604g-13091804g-siemens-s108196007k-102144.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "13091804"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46558579"
+            ]
+          },
+          {
+            "title": "Kelsey-Hayes - Part number",
+            "numbers": [
+              "13216604-G",
+              "13216604G"
+            ]
+          },
+          {
+            "title": "Kelsey-Hayes - Part number",
+            "numbers": [
+              "13091804-G",
+              "13091804G"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S108196007 K",
+              "S108196007K"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Marea 1.6i 16V (Marea, 185) Year of manufacture 1998 - 2001",
+          "FIAT Marea 1.8i 16V (Marea, 185) Year of manufacture 2000",
+          "FIAT Marea 1.9 JTD (Marea, 185) Year of manufacture 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/ebc430/fiat-13091804-kelsey-hayes-13216604c-siemens-s108196007f-144480.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "13091804"
+            ]
+          },
+          {
+            "title": "Kelsey-Hayes - Part number",
+            "numbers": [
+              "13216604-C",
+              "13216604C"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S108196007 F",
+              "S108196007F"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Marea 1.6i 16V (Marea, 185) Year of manufacture 1998 - 2001",
+          "FIAT Marea 1.8i 16V (Marea, 185) Year of manufacture 2000",
+          "FIAT Marea 1.9 JTD (Marea, 185) Year of manufacture 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/ebc430/fiat-13091804-kelsey-hayes-13216604e-13091804a-siemens-s108196007j-144481.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "13091804"
+            ]
+          },
+          {
+            "title": "Kelsey-Hayes - Part number",
+            "numbers": [
+              "13216604-E",
+              "13216604E"
+            ]
+          },
+          {
+            "title": "Kelsey-Hayes - Part number",
+            "numbers": [
+              "13091804-A",
+              "13091804A"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S108196007 J",
+              "S108196007J"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Marea 1.6i 16V (Marea, 185) Year of manufacture 1998 - 2001",
+          "FIAT Marea 1.8i 16V (Marea, 185) Year of manufacture 2000",
+          "FIAT Marea 1.9 JTD (Marea, 185) Year of manufacture 2002"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP 1.34",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+1+34-805.ts1628722660.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/esp-1.34-5591",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-1.34/fiat-1494680080-bosch-0265950075-0265225165-105396.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "14 946 800 80",
+              "1494680080"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 075",
+              "0265950075"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 225 165",
+              "0265225165"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-1.34/fiat-46825714-bosch-0265950037-0265225089-132769.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46825714"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 037",
+              "0265950037"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 225 089",
+              "0265225089"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "FIAT Stilo 1.6 16V (Stilo, 192) Year of manufacture 2002 - 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-1.34/fiat-46825715-bosch-0265950038-0265225091-132770.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46825715"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 038",
+              "0265950038"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 225 091",
+              "0265225091"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "FIAT Stilo SW 1.6 16V (Stilo, 192) Year of manufacture 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-1.34/fiat-51702474-bosch-0265950103-0265225232-997-121029.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51702474"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 103",
+              "0265950103"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 225 232",
+              "0265225232"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "997"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "FIAT Stilo 1.6 16V (Stilo, 192) Year of manufacture 2004",
+          "FIAT Stilo 1.9 JTD 8V (Stilo, 192) Year of manufacture 2003"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP 430",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+430-387986.ts1628723669.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/esp-430-6390",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-430/fiat-15314103d-trw-54084739d-51780295-15314003-138857.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "15314103D"
+            ]
+          },
+          {
+            "title": "TRW - Part number",
+            "numbers": [
+              "54084739D"
+            ]
+          },
+          {
+            "title": "TRW - Part number",
+            "numbers": [
+              "51780295"
+            ]
+          },
+          {
+            "title": "TRW - Part number",
+            "numbers": [
+              "15314003"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-430/fiat-54084739c-trw-15314103c-51753751-15314003-138856.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "54084739C"
+            ]
+          },
+          {
+            "title": "TRW - Part number",
+            "numbers": [
+              "15314103C"
+            ]
+          },
+          {
+            "title": "TRW - Part number",
+            "numbers": [
+              "51753751"
+            ]
+          },
+          {
+            "title": "TRW - Part number",
+            "numbers": [
+              "15314003"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "ESP 8.0",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4082.ts1628718747.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/esp-8.0-4412",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-1400142880-9649988180-1400874780-bosch-0265950319-0265234037-822-133654.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "14 001 428 80",
+              "1400142880"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "96 499 881 80",
+              "9649988180"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "14 008 747 80",
+              "1400874780"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 319",
+              "0265950319"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 037",
+              "0265234037"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "822"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ulysse 2.0 16V JTD (Ulysse, 179) Year of manufacture 2006",
+          "FIAT Ulysse 2.2 16V JTD (Ulysse, 179) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-1401063380-9649988180-1401115680-bosch-0265950407-0265234212-822-111141.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "14 010 633 80",
+              "1401063380"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "96 499 881 80",
+              "9649988180"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "14 011 156 80",
+              "1401115680"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 407",
+              "0265950407"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 212",
+              "0265234212"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "822"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Scudo 120 Multijet (Scudo, 270) Year of manufacture 2007",
+          "FIAT Scudo 140 Multijet (Scudo, 270) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-46802217-bosch-0265950809-0265234012-131876.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46802217"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 809",
+              "0265950809"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 012",
+              "0265234012"
+            ]
+          },
+          {
+            "title": "Bosch",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-46836778-bosch-0265950310-0265234020-831-104844.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46836778"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 310",
+              "0265950310"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 020",
+              "0265234020"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "831"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Stilo 1.6 16V (Stilo, 192) Year of manufacture 2004 - 2005",
+          "FIAT Stilo SW 1.6 16V (Stilo, 192) Year of manufacture 2003 - 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51725098-bosch-0265950334-0265234068-822-107380.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51725098"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 334",
+              "0265950334"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 068",
+              "0265234068"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "822"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 120 Multijet (Ducato, 250) Year of manufacture 2007",
+          "FIAT Ducato 160 Multijet (Ducato, 250) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51767116-bosch-0265950483-0265234352-118813.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51767116"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 483",
+              "0265950483"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 234 352",
+              "0265234352"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51789679-bosch-0265950670-0265235291-935-117722.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51789679"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 670",
+              "0265950670"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 235 291",
+              "0265235291"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "935"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Bravo 1.4 16V (Bravo, 198) Year of manufacture 2007",
+          "FIAT Bravo 1.9 JTD 8V (Bravo, 198) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51798105-bosch-0265950769-0265235432-733-117724.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51798105"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 769",
+              "0265950769"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 235 432",
+              "0265235432"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "733"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Grande Punto 1.9 JTD (Punto, 199) Year of manufacture 2008",
+          "FIAT Punto 1.3 MJD (Punto, 199) Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51801322-bosch-0265950825-0265230019-735-104843.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51801322"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 825",
+              "0265950825"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 230 019",
+              "0265230019"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "735"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Panda 1.3 JTD (Panda, 169) Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51804598-bosch-0265950815-0265230001-107379.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51804598"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 815",
+              "0265950815"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 230 001",
+              "0265230001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 160 Multijet (Ducato, 250) Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51821273-bosch-0265950969-0265230283-735-111140.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51821273"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 969",
+              "0265950969"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 230 283",
+              "0265230283"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "735"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT 500 1.2 (500, 312) Year of manufacture 2012",
+          "FIAT 500 1.4 (500, 312) Year of manufacture 2008 - 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51823644-bosch-0265951052-0265230340-141480.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51823644"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 951 052",
+              "0265951052"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 230 340",
+              "0265230340"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51826508-bosch-0265950973-0265230306-111139.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51826508"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 973",
+              "0265950973"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 230 306",
+              "0265230306"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Grande Punto 1.4 Turbo (Punto, 199) Year of manufacture 2009",
+          "FIAT Grande Punto 1.4i.e (Punto, 199) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51832891-bosch-0265951327-0265230806-108622-109681.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51832891"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 951 327",
+              "0265951327"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 230 806",
+              "0265230806"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "108 622",
+              "108622"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 100 Multijet (Ducato, 250) Year of manufacture 2011",
+          "FIAT Ducato 120 Multijet (Ducato, 250)",
+          "FIAT Ducato 160 Multijet (Ducato, 250) Year of manufacture 2009 - 2011",
+          "FIAT Ducato 3.0 Bipower CNG (Ducato, 250) Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51849337-bosch-0265951345-0265230822-735-107382.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51849337"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 951 345",
+              "0265951345"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 230 822",
+              "0265230822"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "735"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT 500 1.2 (500, 312) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51853817-bosch-0265951550-0265230814-735-117725.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51853817"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 951 550",
+              "0265951550"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 230 814",
+              "0265230814"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "735"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT 500 1.4 (500, 312) Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51854341-bosch-0265951432-0265230810-152085.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51854341"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 951 432",
+              "0265951432"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 230 810",
+              "0265230810"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51860291-bosch-0265951378-0265230808-733-132741.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51860291"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 951 378",
+              "0265951378"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 230 808",
+              "0265230808"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "733"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a \u201cfaulty CAN\u201d of the ESP."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Grande Punto 1.4i.e (Punto, 199) Year of manufacture 2010 - 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51894801-bosch-0265951832-0265251997-733-116055.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51894801"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 951 832",
+              "0265951832"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 251 997",
+              "0265251997"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "733"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Grande Punto 1.2i.e (Punto, 199) Year of manufacture 2011 - 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-8.0/fiat-51910175-bosch-0265951959-0265252235-733-136890.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51910175"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 951 959",
+              "0265951959"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 252 235",
+              "0265252235"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "733"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Grande Punto 1.2i.e (Punto, 199) Year of manufacture 2012 - 2013",
+          "FIAT Grande Punto 1.4i.e (Punto, 199) Year of manufacture 2013"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP 9.0",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+9+0-112771.ts1628711709.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/esp-9.0-5405",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-9.0/fiat-2265106455-51914904-bosch-0265956036-0265242548-515-118996.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "2265106455"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51914904"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 956 036",
+              "0265956036"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 242 548",
+              "0265242548"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "515"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1211",
+            "fault_description": "defective ecu"
+          },
+          {
+            "fault_code": "P0500",
+            "fault_description": "Speed sensor - functional failure"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 110 Multijet (Ducato, 250) Year of manufacture 2013",
+          "FIAT Ducato 115 Multijet (Ducato, 250) Year of manufacture 2014",
+          "FIAT Ducato 130 Multijet (Ducato, 250) Year of manufacture 2008 - 2015",
+          "FIAT Ducato 150 Multijet (Ducato, 250) Year of manufacture 2012 - 2016",
+          "FIAT Ducato 180 Multijet (Ducato, 250) Year of manufacture 2012 - 2015"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-9.0/fiat-2265106455-51935299-bosch-0265956036-0265243058-515-152276.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "2265106455"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51935299"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 956 036",
+              "0265956036"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 243 058",
+              "0265243058"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "515"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1211",
+            "fault_description": "defective ecu"
+          },
+          {
+            "fault_code": "P0500",
+            "fault_description": "Speed sensor - functional failure"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 110 Multijet (Ducato, 250) Year of manufacture 2013",
+          "FIAT Ducato 115 Multijet (Ducato, 250) Year of manufacture 2014",
+          "FIAT Ducato 130 Multijet (Ducato, 250) Year of manufacture 2008 - 2015",
+          "FIAT Ducato 150 Multijet (Ducato, 250) Year of manufacture 2012 - 2016",
+          "FIAT Ducato 180 Multijet (Ducato, 250) Year of manufacture 2012 - 2015"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-9.0/fiat-2265106516-51957650-bosch-0265956214-0265243800-515-136464.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "2265106516"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51957650"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 956 214",
+              "0265956214"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 243 800",
+              "0265243800"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "515"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1211",
+            "fault_description": "defective ecu"
+          },
+          {
+            "fault_code": "P0500",
+            "fault_description": "Speed sensor - functional failure"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 130 Multijet (Ducato, 250) Year of manufacture 2015 - 2017",
+          "FIAT Ducato 150 Multijet (Ducato, 250) Year of manufacture 2016",
+          "FIAT Ducato 180 Multijet (Ducato, 250) Year of manufacture 2014 - 2017"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-9.0/fiat-3330a20024-46857737-bosch-0265957077-0265295005-154137.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "3330A20024"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "46857737"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 957 077",
+              "0265957077"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 295 005",
+              "0265295005"
+            ]
+          },
+          {
+            "title": "Bosch",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1211",
+            "fault_description": "defective ecu"
+          },
+          {
+            "fault_code": "P0500",
+            "fault_description": "Speed sensor - functional failure"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-9.0/fiat-51964374-bosch-0265956214-0265244043-515-132898.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51964374"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 956 214",
+              "0265956214"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 244 043",
+              "0265244043"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "515"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1211",
+            "fault_description": "defective ecu"
+          },
+          {
+            "fault_code": "P0500",
+            "fault_description": "Speed sensor - functional failure"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 130 Multijet (Ducato, 250) Year of manufacture 2015 - 2017",
+          "FIAT Ducato 150 Multijet (Ducato, 250) Year of manufacture 2016",
+          "FIAT Ducato 180 Multijet (Ducato, 250) Year of manufacture 2014 - 2017"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-9.0/fiat-52065547-bosch-0265956519-0265257711-515-137181.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "52065547"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 956 519",
+              "0265956519"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 257 711",
+              "0265257711"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "515"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1211",
+            "fault_description": "defective ecu"
+          },
+          {
+            "fault_code": "P0500",
+            "fault_description": "Speed sensor - functional failure"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 130 Multijet (Ducato, 250) Year of manufacture 2017 - 2019",
+          "FIAT Ducato 150 Multijet (Ducato, 250) Year of manufacture 2017 - 2020"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-9.0/fiat-bosch-0265956214-0265260987-515-134725.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 956 214",
+              "0265956214"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 260 987",
+              "0265260987"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "515"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1211",
+            "fault_description": "defective ecu"
+          },
+          {
+            "fault_code": "P0500",
+            "fault_description": "Speed sensor - functional failure"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Ducato 130 Multijet (Ducato, 250) Year of manufacture 2015"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-9.0/fiat-bosch-0265956367-0265243766-519-140596.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 956 367",
+              "0265956367"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 243 766",
+              "0265243766"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "519"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1211",
+            "fault_description": "defective ecu"
+          },
+          {
+            "fault_code": "P0500",
+            "fault_description": "Speed sensor - functional failure"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Qubo 1.3 Multijet (Qubo, 225) Year of manufacture 2015"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP MK25",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk25-5139.ts1628722665.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/esp-mk25-6438",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk25/fiat-p68071998ad-ate-25092852303-25021218184-1317-141467.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "P68071998AD"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5230.3",
+              "25092852303"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-1818.4",
+              "25021218184"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1317"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Freemont 2.0 JTD 4x4 (Freemont, JC) Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk25/fiat-p68158541ab-ate-25092852763-25021219034-1317-139533.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "P68158541AB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5276.3",
+              "25092852763"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-1903.4",
+              "25021219034"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1317"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Freemont 2.0 JTD (Freemont, JC) Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk25/fiat-p68217512aa-ate-25092853263-25021221394-148850.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "P68217512AA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5326.3",
+              "25092853263"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-2139.4",
+              "25021221394"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Freemont 2.0 JTD 4x4 (Freemont, JC) Engine code 939B5.000"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk25/fiat-p68272500aa-ate-25092853463-25021222094-124902.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "P68272500AA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5346.3",
+              "25092853463"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-2209.4",
+              "25021222094"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk25/fiat-p68272500ac-ate-25092853603-25021222484-152036.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "P68272500AC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5360.3",
+              "25092853603"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-2248.4",
+              "25021222484"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk25/fiat-p68272500ad-ate-25092853633-25021222684-148323.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "P68272500AD"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0928-5363.3",
+              "25092853633"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0212-2268.4",
+              "25021222684"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Freemont 2.0 JTD 4x4 (Freemont, JC) Year of manufacture 2014"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP MK61",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk61-5139.ts1628722665.jpg",
+    "product_link": "https://ecu.eu/fiat/abs-asr-esp-control-unit-125/fiat/abs-asr-esp-control-unit/esp-mk61-4741",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk61/fiat-10061931491-51816796-ate-10096116023-10021204734-1115-119960.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "10.0619-3149.1",
+              "10061931491"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51816796"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-1602.3",
+              "10096116023"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0473.4",
+              "10021204734"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1115"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1219",
+            "fault_description": "Supply voltage for pump motor"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.6 Multijet (Doblo, 263) Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk61/fiat-10061937421-51901330-ate-10096116083-10021206714-1115-124343.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "10.0619-3742.1",
+              "10061937421"
+            ]
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51901330"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-1608.3",
+              "10096116083"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0671.4",
+              "10021206714"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1115"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1219",
+            "fault_description": "Supply voltage for pump motor"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.6 JTD (Doblo, 263) Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk61/fiat-51775126-ate-10096128023-10021202684-1101-118413.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51775126"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-2802.3",
+              "10096128023"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0268.4",
+              "10021202684"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1101"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1219",
+            "fault_description": "Supply voltage for pump motor"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk61/fiat-51816796-ate-10096116033-10021205294-117709.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51816796"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-1603.3",
+              "10096116033"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0529.4",
+              "10021205294"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1219",
+            "fault_description": "Supply voltage for pump motor"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.4 (Doblo, 263) Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk61/fiat-51883278-ate-10096116043-10021205514-10061935241-111092.html",
+        "part_numbers": [
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51883278"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-1604.3",
+              "10096116043"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0551.4",
+              "10021205514"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0619-3524.1",
+              "10061935241"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1219",
+            "fault_description": "Supply voltage for pump motor"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.6 JTD (Doblo, 263) Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk61/fiat-51885804-ate-10096116053-10021205544-1128-117710.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51885804"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-1605.3",
+              "10096116053"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0554.4",
+              "10021205544"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1128"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1219",
+            "fault_description": "Supply voltage for pump motor"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.4 (Doblo, 263) Year of manufacture 2010",
+          "FIAT Doblo Cargo 1.4 (Doblo, 263) Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk61/fiat-51888858-ate-10096116063-10021205974-127481.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51888858"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-1606.3",
+              "10096116063"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0597.4",
+              "10021205974"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1219",
+            "fault_description": "Supply voltage for pump motor"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.4 (Doblo, 263) Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk61/fiat-51924796-ate-10096116103-10021208344-119936.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "51924796"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-1610.3",
+              "10096116103"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0834.4",
+              "10021208344"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1219",
+            "fault_description": "Supply voltage for pump motor"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/fiat/abs-asr-esp-control-unit/esp-mk61/fiat-52108218-ate-10096116333-10021211284-1115-142225.html",
+        "part_numbers": [
+          {
+            "title": "FIAT",
+            "numbers": []
+          },
+          {
+            "title": "FIAT - Part number",
+            "numbers": [
+              "52108218"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-1633.3",
+              "10096116333"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-1128.4",
+              "10021211284"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "1115"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1205",
+            "fault_description": "Valve relay circuit faulty"
+          },
+          {
+            "fault_code": "C1219",
+            "fault_description": "Supply voltage for pump motor"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FIAT Doblo 1.4 (Doblo, 263) Year of manufacture 2019",
+          "FIAT Doblo 1.4i 16V T-JET Natural Power (Doblo, 263) Year of manufacture 2021",
+          "FIAT Doblo 1.6 Multijet (Doblo, 263) Year of manufacture 2018",
+          "FIAT Doblo Cargo 2.0 JTD (Doblo, 263) Year of manufacture 2005"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,5566 @@
+[
+  {
+    "part_name": "MIB Entry Radio/CD",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mib+entry+radio+cd-203500.ts1628719546.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/mib-entry-radio-cd-5831",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/mib-entry-radio-cd/volkswagen-vw-5g0035867-continental-a2c85594804-148757.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 867",
+              "5G0035867"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 855 948 04",
+              "A2C85594804"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.2 TSI BlueMotion (Golf VII, AU) Year of manufacture 2014 Engine code CYVB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/mib-entry-radio-cd/volkswagen-vw-5g0035867-continental-a2c86237903-123253.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 867",
+              "5G0035867"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 862 379 03",
+              "A2C86237903"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1,2 TSI (Golf VII, AU) Year of manufacture 2013 - 2014 Engine code CYVA",
+          "VOLKSWAGEN-VW Golf 1.2 TSI Variant (Golf VII, AU) Year of manufacture 2014 Engine code CJZA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/mib-entry-radio-cd/volkswagen-vw-5g0035867-continental-a2c90840202-135573.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 867",
+              "5G0035867"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 908 402 02",
+              "A2C90840202"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Main Unit / Navigation computer MIB / MIB 2",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/main+unit+navigation+computer+mib+mib+2-208488.ts1628713210.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2-5859",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-3g0035020c-harman-automotive-hba682-152182.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 035 020 C",
+              "3G0035020C"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HB A682",
+              "HBA682"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 5T) Year of manufacture 2016 Engine code DFEA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-3g0035021a-harman-automotive-hsa596-145126.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 035 021 A",
+              "3G0035021A"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A596",
+              "HSA596"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-3g0035021b-harman-automotive-hsa596-153506.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 035 021 B",
+              "3G0035021B"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A596",
+              "HSA596"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3G) Year of manufacture 2015 Engine code CUAA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-3g0035043c-3g0035043-mib2mainunit-harman-automotive-hba683-148906.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 035 043 C",
+              "3G0035043C"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 035 043",
+              "3G0035043"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "MIB2 Main-Unit",
+              "MIB2MainUnit"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HB A683",
+              "HBA683"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 2.0 GTD (Golf VII, AU) Year of manufacture 2016 Engine code CUNA",
+          "VOLKSWAGEN-VW Golf 2.0 TDI Variant (Golf VII, AU) Year of manufacture 2015",
+          "VOLKSWAGEN-VW Passat 2.0 TDI (Passat, 3C/35) Year of manufacture 2015 Engine code DFCA",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 5T) Year of manufacture 2015 Engine code DFEA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-3g0035043d-harman-automotive-hba683-153445.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 035 043 D",
+              "3G0035043D"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HB A683",
+              "HBA683"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 2.0 TDI (Passat, 3C/35) Year of manufacture 2016"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-3g0035043e-harman-automotive-hba683-149658.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 035 043 E",
+              "3G0035043E"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HB A683",
+              "HBA683"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-3g0035044a-harman-automotive-hsa597-146141.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 035 044 A",
+              "3G0035044A"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A597",
+              "HSA597"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3G) Year of manufacture 2015 Engine code CUAA",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3G) Year of manufacture 2015 Engine code DDAA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-3g0035044b-harman-automotive-hsa597-152890.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 035 044 B",
+              "3G0035044B"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A597",
+              "HSA597"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat Alltrack 2.0 TDI 4Motion (Passat, 3G) Year of manufacture 2015 Engine code DFHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-3g0035044c-harman-automotive-hba681-147807.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 035 044 C",
+              "3G0035044C"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HB A681",
+              "HBA681"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3G) Year of manufacture 2016 Engine code DFCA",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 5T) Year of manufacture 2016 Engine code DFEA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-5g0035020a-harman-automotive-hsa055-131649.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 020 A",
+              "5G0035020A"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A055",
+              "HSA055"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 TSI BlueMotion (Golf VII, AU) Year of manufacture 2012 - 2013 Engine code CHPA",
+          "VOLKSWAGEN-VW Golf 2.0 TDI (Golf VII, AU) Year of manufacture 2012 - 2013",
+          "VOLKSWAGEN-VW Golf 2.0 TDI Variant (Golf VII, AU) Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-5g0035020b-harman-automotive-hsa310-137408.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 020 B",
+              "5G0035020B"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A310",
+              "HSA310"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 2.0 GTI Performance (Golf VII, AU) Year of manufacture 2013 Engine code CHHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-5g0035020b-harman-automotive-hsa458-135620.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 020 B",
+              "5G0035020B"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A458",
+              "HSA458"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 2.0 TDI Variant (Golf VII, AU) Year of manufacture 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-5g0035020c-harman-automotive-hsa458-150142.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 020 C",
+              "5G0035020C"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A458",
+              "HSA458"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-5g0035020c-mibmainunit-harman-automotive-hsa310-128914.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 020 C",
+              "5G0035020C"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "MIB MAI NUN IT",
+              "MIBMAINUNIT"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A310",
+              "HSA310"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 TSI BlueMotion (Golf VII, AU) Year of manufacture 2014 Engine code CXSA, CHPA",
+          "VOLKSWAGEN-VW Golf 2.0 TDI (Golf VII, AU) Year of manufacture 2013 Engine code CRBC",
+          "VOLKSWAGEN-VW Golf 2.0 TDI Variant (Golf VII, AU) Year of manufacture 2014 Engine code CRBC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-5g0035020d-harman-automotive-hsa310-129112.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 020 D",
+              "5G0035020D"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A310",
+              "HSA310"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 GTE (Golf VII, AU) Year of manufacture 2015",
+          "VOLKSWAGEN-VW Golf 2.0 TDI (Golf VII, AU) Year of manufacture 2014 - 2015",
+          "VOLKSWAGEN-VW Golf R 4Motion (Golf VII, AU) Year of manufacture 2014 Engine code CJXC",
+          "VOLKSWAGEN-VW Golf Sportsvan 2.0 TDI (Golf Sportsvan, AU) Year of manufacture 2014"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-5g0035021-harman-automotive-hsa330-151698.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 021",
+              "5G0035021"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A330",
+              "HSA330"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 TSI BlueMotion (Golf VII, AU) Year of manufacture 2013",
+          "VOLKSWAGEN-VW Golf 2.0 GTI Performance (Golf VII, AU) Year of manufacture 2013 Engine code CHHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-5g0035021-harman-automotive-hsa462-138720.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 021",
+              "5G0035021"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A462",
+              "HSA462"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 2.0 GTD (Golf VII, AU) Year of manufacture 2013 Engine code CUNA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-5g0035021a-harman-automotive-hsa330-135946.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 021 A",
+              "5G0035021A"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A330",
+              "HSA330"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf R 4Motion (Golf VII, AU) Year of manufacture 2013 - 2014 Engine code CJXC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-5g0035021b-harman-automotive-hsa330-133551.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 021 B",
+              "5G0035021B"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A330",
+              "HSA330"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1,2 TSI (Golf VII, AU) Year of manufacture 2013 Engine code CJZA",
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf VII, AU) Year of manufacture 2014 Engine code CZDA",
+          "VOLKSWAGEN-VW Golf 2.0 GTD (Golf VII, AU) Year of manufacture 2014",
+          "VOLKSWAGEN-VW Golf 2.0 TDI Variant (Golf VII, AU) Year of manufacture 2014 Engine code CRLB",
+          "VOLKSWAGEN-VW E-Golf (Golf VII, AU) Year of manufacture 2014 Engine code EAGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/main-unit-navigation-computer-mib-mib-2/volkswagen-vw-5g0035043-mibmainunit-harman-automotive-hsa053-130821.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 043",
+              "5G0035043"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "MIB MAI NUN IT",
+              "MIBMAINUNIT"
+            ]
+          },
+          {
+            "title": "HARMAN AUTOMOTIVE - Part number",
+            "numbers": [
+              "HS A053",
+              "HSA053"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "No function due to installation of incorrect software -only on request!"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 TSI BlueMotion (Golf VII, AU) Year of manufacture 2012",
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf VII, AU) Year of manufacture 2012",
+          "VOLKSWAGEN-VW Golf 2.0 TDI (Golf VII, AU) Year of manufacture 2012 Engine code CRBC"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Radio / CD / Discover Media MIB STD2",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+cd+discover+media+mib+std2-432176.ts1628721180.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-discover-media-mib-std2-7346",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-discover-media-mib-std2/volkswagen-vw-5k7035200d-technisat-2256110000312-145251.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K7 035 200 D",
+              "5K7035200D"
+            ]
+          },
+          {
+            "title": "Technisat - Part number",
+            "numbers": [
+              "2256110000312"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Pixel failure / structural damage in display"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 2.0 TDI (Sharan, 7N) Year of manufacture 2015 Engine code CUVC",
+          "VOLKSWAGEN-VW Transporter 2.0 TDI (T6, SG/SH) Year of manufacture 2015"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-discover-media-mib-std2/volkswagen-vw-5k7035200d-technisat-2256110000712-148828.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K7 035 200 D",
+              "5K7035200D"
+            ]
+          },
+          {
+            "title": "Technisat - Part number",
+            "numbers": [
+              "2256110000712"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Pixel failure / structural damage in display"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.4 TSI (Caddy, 2K) Year of manufacture 2016 Engine code CZCB",
+          "VOLKSWAGEN-VW Scirocco 2.0 TSI (Scirocco, 13) Year of manufacture 2016",
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI (Tiguan, 5N) Year of manufacture 2016"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-discover-media-mib-std2/volkswagen-vw-5k7035200f-technisat-2256110000712-140633.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5K7 035 200 F",
+              "5K7035200F"
+            ]
+          },
+          {
+            "title": "Technisat - Part number",
+            "numbers": [
+              "2256110000712"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Pixel failure / structural damage in display"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Transporter 2.0 TDI BlueMotion Calfornia 4Motion (T6, SG/SH) Year of manufacture 2016 - 2017"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Radio / CD / MIB Entry",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+cd+mib+entry-264612.ts1628720087.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-mib-entry-6802",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-mib-entry/volkswagen-vw-5g0035867-mibentryradio-lg-electronics-lac8200vw-141517.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 867",
+              "5G0035867"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "MIB Entry Radio",
+              "MIBEntryRadio"
+            ]
+          },
+          {
+            "title": "LG Electronics - Part number",
+            "numbers": [
+              "LAC8200VW"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1,2 TSI (Golf VII, AU) Year of manufacture 2014 Engine code CJZB",
+          "VOLKSWAGEN-VW Golf 1.4 TSI BlueMotion (Golf VII, AU) Year of manufacture 2014 Engine code CZCA",
+          "VOLKSWAGEN-VW Golf 1.6 TDI (Golf VII, AU) Year of manufacture 2014 Engine code CRKB",
+          "VOLKSWAGEN-VW Golf 1.6 TDI Variant (Golf VII, AU) Year of manufacture 2014 Engine code CLHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-mib-entry/volkswagen-vw-5g0035885-lg-electronics-lar7200vw-149410.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 885",
+              "5G0035885"
+            ]
+          },
+          {
+            "title": "LG Electronics - Part number",
+            "numbers": [
+              "LAR7200VW"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Radio / CD / Multimedia RCD310",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+cd+multimedia+rcd310-1470362.ts1678967854.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-multimedia-rcd310-7136",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-multimedia-rcd310/volkswagen-vw-5m0035186j-bosch-7640212360-148959.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5M0 035 186 J",
+              "5M0035186J"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "7 640 212 360",
+              "7640212360"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 2.0 TDI (Caddy, 2K) Year of manufacture 2014 Engine code BMM",
+          "VOLKSWAGEN-VW Golf Plus 1.2 TSI (Golf Plus, 1K) Year of manufacture 2011 - 2014 Engine code CBZB",
+          "VOLKSWAGEN-VW Polo 1.2 TSI (Polo, 6R) Year of manufacture 2013 Engine code CBZC, CBZB",
+          "VOLKSWAGEN-VW T5 2.0 TDI Multivan (T5, 7E/H/J) Year of manufacture 2014 Engine code CAAB",
+          "VOLKSWAGEN-VW T5 2.0 TDI (T5, 7E/H/J) Year of manufacture 2013 - 2014 Engine code CAAC"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Radio / CD / Navigation Discover Media Bedienteil",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+cd+navigation+discover+media+bedienteil-448872.ts1628721224.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil-6529",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-3g0919605-abtstd2-continental-a2c93426800-144374.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 919 605",
+              "3G0919605"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "ABT-Std-2",
+              "ABTStd2"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 934 268 00",
+              "A2C93426800"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display -only on request!"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Volume control reacts in the wrong direction"
+          },
+          {
+            "fault_description": "Volume control reacts poorly or not at all"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.6 TDI (Golf VII, AU) Year of manufacture 2015 - 2016 Engine code CXXB",
+          "VOLKSWAGEN-VW Golf 1.6 TDI Variant (Golf VII, AU) Year of manufacture 2016 Engine code CRKB",
+          "VOLKSWAGEN-VW Golf 2.0 TDI Variant (Golf VII, AU) Year of manufacture 2016 Engine code CRLB",
+          "VOLKSWAGEN-VW Golf Sportsvan 1.4 TSI (Golf Sportsvan, AM1) Year of manufacture 2015 Engine code CZCA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-3g0919605-continental-a2c1212390001-151417.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 919 605",
+              "3G0919605"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 121 239 000 1",
+              "A2C1212390001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display -only on request!"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Volume control reacts in the wrong direction"
+          },
+          {
+            "fault_description": "Volume control reacts poorly or not at all"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-3g0919605-continental-a2c9342680201-144625.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 919 605",
+              "3G0919605"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 934 268 020 1",
+              "A2C9342680201"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display -only on request!"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Volume control reacts in the wrong direction"
+          },
+          {
+            "fault_description": "Volume control reacts poorly or not at all"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-3g0919605-continental-a2c9342680301-147673.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 919 605",
+              "3G0919605"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 934 268 030 1",
+              "A2C9342680301"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display -only on request!"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Volume control reacts in the wrong direction"
+          },
+          {
+            "fault_description": "Volume control reacts poorly or not at all"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-3g0919605b-continental-a2c1212400001-144708.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 919 605 B",
+              "3G0919605B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 121 240 000 1",
+              "A2C1212400001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display -only on request!"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Volume control reacts in the wrong direction"
+          },
+          {
+            "fault_description": "Volume control reacts poorly or not at all"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-3g0919605b-continental-a2c93427100-151416.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 919 605 B",
+              "3G0919605B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 934 271 00",
+              "A2C93427100"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display -only on request!"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Volume control reacts in the wrong direction"
+          },
+          {
+            "fault_description": "Volume control reacts poorly or not at all"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-3g0919605d-a2c9342730201-continental-148641.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 919 605 D",
+              "3G0919605D"
+            ]
+          },
+          {
+            "title": "Part number",
+            "numbers": [
+              "A2C 934 273 020 1",
+              "A2C9342730201"
+            ]
+          },
+          {
+            "title": "Continental",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display -only on request!"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Volume control reacts in the wrong direction"
+          },
+          {
+            "fault_description": "Volume control reacts poorly or not at all"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 2.0 GTD (Golf VII, AU) Engine code CUNA",
+          "VOLKSWAGEN-VW Golf Sportsvan 1.4 TSI (Golf Sportsvan, AM1) Year of manufacture 2018 Engine code CZCA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-3g0919605d-abtstd2nav-continental-a2c93427300-135657.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 919 605 D",
+              "3G0919605D"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "ABT-Std-2_Nav",
+              "ABTStd2Nav"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 934 273 00",
+              "A2C93427300"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display -only on request!"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Volume control reacts in the wrong direction"
+          },
+          {
+            "fault_description": "Volume control reacts poorly or not at all"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 TSI BlueMotion (Golf VII, AU) Year of manufacture 2015 Engine code CZCA",
+          "VOLKSWAGEN-VW Golf 1.6 TDI (Golf VII, AU) Year of manufacture 2016 Engine code CRKB",
+          "VOLKSWAGEN-VW Golf 1.6 TDI Variant (Golf VII, AU) Year of manufacture 2016",
+          "VOLKSWAGEN-VW Golf 2.0 GTD (Golf VII, AU) Year of manufacture 2016",
+          "VOLKSWAGEN-VW Golf 2.0 TDI (Golf VII, AU) Year of manufacture 2015 Engine code CRBC",
+          "VOLKSWAGEN-VW Golf 2.0 TDI Variant (Golf VII, AU) Year of manufacture 2016",
+          "VOLKSWAGEN-VW Golf Sportsvan 1.4 TSI (Golf Sportsvan, AM1) Year of manufacture 2015 - 2016 Engine code CZCA",
+          "VOLKSWAGEN-VW Golf Sportsvan 1.6 TDI (Golf Sportsvan, AM1) Year of manufacture 2015 - 2016 Engine code CXXB",
+          "VOLKSWAGEN-VW Golf Sportsvan 2.0 TDI (Golf Sportsvan, AU) Year of manufacture 2016 Engine code CRLB",
+          "VOLKSWAGEN-VW Passat 1.8 TFSI Variant (Passat, 3G) Year of manufacture 2016 Engine code CJSA",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3C/35) Year of manufacture 2015 - 2016",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3G) Year of manufacture 2015 - 2016 Engine code DFCA, DFGA",
+          "VOLKSWAGEN-VW Touran 1.2 TSI (Touran, 1T) Year of manufacture 2016",
+          "VOLKSWAGEN-VW Touran 1.4 TSI (Touran, 5T) Year of manufacture 2016 Engine code CZDA",
+          "VOLKSWAGEN-VW Touran 1.6 TDI (Touran, 1T) Year of manufacture 2010 Engine code CAYC",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran) Year of manufacture 2016 Engine code DFEA",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 5T) Year of manufacture 2016 Engine code DFEA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-3g0919605d-continental-a2c1212410001-147799.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 919 605 D",
+              "3G0919605D"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 121 241 000 1",
+              "A2C1212410001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display -only on request!"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Volume control reacts in the wrong direction"
+          },
+          {
+            "fault_description": "Volume control reacts poorly or not at all"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.2 TSI BlueMotion (Golf VII, AU) Year of manufacture 2017 Engine code CYVB",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3G) Engine code DFGA",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran) Year of manufacture 2017 Engine code DFEA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-3g0919605d-continental-a2c9342730301-147263.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3G0 919 605 D",
+              "3G0919605D"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 934 273 030 1",
+              "A2C9342730301"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display -only on request!"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Volume control reacts in the wrong direction"
+          },
+          {
+            "fault_description": "Volume control reacts poorly or not at all"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 2.0 TDI Variant (Golf VII, AU) Year of manufacture 2016 Engine code CRBC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-5g0919606-alpine-aah42000-145083.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 919 606",
+              "5G0919606"
+            ]
+          },
+          {
+            "title": "Alpine - Part number",
+            "numbers": [
+              "AAH42000"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Scratches on the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1.4 TSI BlueMotion (Golf VII, AU) Year of manufacture 2013",
+          "VOLKSWAGEN-VW Golf 1.6 TDI Variant (Golf VII, AU) Year of manufacture 2013 Engine code CLHA, CRKB",
+          "VOLKSWAGEN-VW Golf 2.0 GTD (Golf VII, AU) Year of manufacture 2013 Engine code CUNA",
+          "VOLKSWAGEN-VW Golf 2.0 TDI Variant (Golf VII, AU) Year of manufacture 2013 Engine code CRBC",
+          "VOLKSWAGEN-VW E-Golf (Golf VII, AU) Year of manufacture 2015 Engine code EAGA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-5g0919606-tci-%28china%29-aah51000-152958.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 919 606",
+              "5G0919606"
+            ]
+          },
+          {
+            "title": "TCI (China) - Part number",
+            "numbers": [
+              "AAH51000"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Scratches on the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 2.0 TDI (Golf VII, AU) Year of manufacture 2014 Engine code DCYA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-5g0919606-tci-%28china%29-aah62000-abthigh-136422.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 919 606",
+              "5G0919606"
+            ]
+          },
+          {
+            "title": "TCI (China) - Part number",
+            "numbers": [
+              "AAH62000"
+            ]
+          },
+          {
+            "title": "TCI (China) - Part number",
+            "numbers": [
+              "ABT_High",
+              "ABTHigh"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Scratches on the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 2.0 TDI (Golf VII, AU) Year of manufacture 2012 - 2013 Engine code CRBC",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3G) Year of manufacture 2014 Engine code CUAA",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3G) Year of manufacture 2015 Engine code DDAA",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, AD1) Year of manufacture 2016 Engine code DFHA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-5g0919606-tci-%28china%29-aah63000-150365.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 919 606",
+              "5G0919606"
+            ]
+          },
+          {
+            "title": "TCI (China) - Part number",
+            "numbers": [
+              "AAH63000"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Scratches on the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Crafter 2.0 TDI BlueMotion 4Motion (Crafter, SY/SZ) Year of manufacture 2017 Engine code DAVA",
+          "VOLKSWAGEN-VW Tiguan 2.0 TSI 4Motion (Tiguan, AD1) Year of manufacture 2016 Engine code CZPA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-discover-media-bedienteil/volkswagen-vw-7c0919606-tci-%28china%29-aah54000-154265.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7C0 919 606",
+              "7C0919606"
+            ]
+          },
+          {
+            "title": "TCI (China) - Part number",
+            "numbers": [
+              "AAH54000"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Scratches on the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Crafter 2.0 TDI (Crafter, SY/SZ) Year of manufacture 2018 Engine code DAVA"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Radio / CD / Navigation MFD1",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+cd+navigation+mfd1-2113801.ts1695902654.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-mfd1-7225",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-mfd1/volkswagen-vw-3b0035191b-bno881-blaupunkt-7612001429-145313.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3B0 035 191 B",
+              "3B0035191B"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "BNO 881",
+              "BNO881"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 001 429",
+              "7612001429"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf IV 2.8 4Motion (Golf IV, 1J) Year of manufacture 1999 Engine code AQP"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-mfd1/volkswagen-vw-3b0035191c-blaupunkt-7612001376-140295.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3B0 035 191 C",
+              "3B0035191C"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 001 376",
+              "7612001376"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-mfd1/volkswagen-vw-3b0035191d-blaupunkt-7612001021-131837.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3B0 035 191 D",
+              "3B0035191D"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 001 021",
+              "7612001021"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-mfd1/volkswagen-vw-3b0035191g-blaupunkt-7612001025-141039.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3B0 035 191 G",
+              "3B0035191G"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 001 025",
+              "7612001025"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Lupo 1.6 GTI (Lupo, 6X) Engine code AVY"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-mfd1/volkswagen-vw-7h0035191a-mfd-blaupunkt-7612002019-136278.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 035 191 A",
+              "7H0035191A"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "MFD"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 019",
+              "7612002019"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.0 TDI Multivan (T5, 7E/H/J) Year of manufacture 2007 Engine code CCHA"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Radio / CD / Navigation RNS2 DX",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+cd+navigation+rns2+dx-13400.ts1628711394.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-rns2-dx-5135",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-rns2-dx/volkswagen-vw-7h0035191-blaupunkt-7612002017-bno881-117404.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 035 191",
+              "7H0035191"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 017",
+              "7612002017"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "BNO 881",
+              "BNO881"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.5 TDI 4Motion (T5, 7E/H/J) Year of manufacture 2005 Engine code AXE"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-rns2-dx/volkswagen-vw-7l6035191h-blaupunkt-7612002016-bno881-127385.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7L6 035 191 H",
+              "7L6035191H"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 016",
+              "7612002016"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "BNO881"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7L) Year of manufacture 2005 Engine code BKS",
+          "VOLKSWAGEN-VW Touareg 4.2 (Touareg, 7L) Year of manufacture 2005 Engine code BHX",
+          "VOLKSWAGEN-VW Touareg 5.0 TDI V10 (Touareg, 7L) Year of manufacture 2005 Engine code AYH"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-rns2-dx/volkswagen-vw-7l6035191n-rns2dx-blaupunkt-7612002022-114253.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7L6 035 191 N",
+              "7L6035191N"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "RNS2 DX",
+              "RNS2DX"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 022",
+              "7612002022"
+            ]
+          },
+          {
+            "title": "Blaupunkt",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touareg 2.5 TDI (Touareg, 7L) Year of manufacture 2005 Engine code BAC",
+          "VOLKSWAGEN-VW Touareg 4.2 (Touareg, 7L) Year of manufacture 2005 Engine code BHX"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Radio / CD / Navigation central control panel",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+cd+navigation+central+control+panel-1444998.ts1677495562.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel-7127",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel/volkswagen-vw-3d0035007-vdo-902201162712-149824.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 007",
+              "3D0035007"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "9022 011 62712",
+              "902201162712"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Device does not start or switches off again after a short time"
+          },
+          {
+            "fault_description": "Drops out after several minutes of driving and restarts, sometimes with coloured stripes in the screen"
+          },
+          {
+            "fault_description": "Incorrect visualisation on the display -only on request!"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "Only the backlight is still present in the display -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.2 (Phaeton, 3D) Year of manufacture 2004 Engine code AYT"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel/volkswagen-vw-3d0035007ad5w8-vdo-a2c53082220-132113.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 007 AD 5W8",
+              "3D0035007AD5W8"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "A2C 530 822 20",
+              "A2C53082220"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Device does not start or switches off again after a short time"
+          },
+          {
+            "fault_description": "Drops out after several minutes of driving and restarts, sometimes with coloured stripes in the screen"
+          },
+          {
+            "fault_description": "Incorrect visualisation on the display -only on request!"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "Only the backlight is still present in the display -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel/volkswagen-vw-3d0035007ar5w8-vdo-a2c53190056-a2c53092538-144419.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 007 AR 5W8",
+              "3D0035007AR5W8"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "A2C 531 900 56",
+              "A2C53190056"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "A2C 530 925 38",
+              "A2C53092538"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Device does not start or switches off again after a short time"
+          },
+          {
+            "fault_description": "Drops out after several minutes of driving and restarts, sometimes with coloured stripes in the screen"
+          },
+          {
+            "fault_description": "Incorrect visualisation on the display -only on request!"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "Only the backlight is still present in the display -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2006 - 2007 Engine code BMK"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel/volkswagen-vw-3d0035007be-siemensvdo-a2c53297520-a2c53092538-141588.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 007 BE",
+              "3D0035007BE"
+            ]
+          },
+          {
+            "title": "SiemensVDO - Part number",
+            "numbers": [
+              "A2C 532 975 20",
+              "A2C53297520"
+            ]
+          },
+          {
+            "title": "SiemensVDO - Part number",
+            "numbers": [
+              "A2C 530 925 38",
+              "A2C53092538"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Device does not start or switches off again after a short time"
+          },
+          {
+            "fault_description": "Drops out after several minutes of driving and restarts, sometimes with coloured stripes in the screen"
+          },
+          {
+            "fault_description": "Incorrect visualisation on the display -only on request!"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "Only the backlight is still present in the display -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2007 - 2008 Engine code CARA, CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel/volkswagen-vw-3d0035007l-vdo-901230000171-148835.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 007 L",
+              "3D0035007L"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "9012 300 00171",
+              "901230000171"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Device does not start or switches off again after a short time"
+          },
+          {
+            "fault_description": "Drops out after several minutes of driving and restarts, sometimes with coloured stripes in the screen"
+          },
+          {
+            "fault_description": "Incorrect visualisation on the display -only on request!"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "Only the backlight is still present in the display -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 4.2 4Motion (Phaeton, 3D) Year of manufacture 2003 Engine code BGH"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel/volkswagen-vw-3d0035007n-siemensvdo-a2c53065773-137206.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 007 N",
+              "3D0035007N"
+            ]
+          },
+          {
+            "title": "SiemensVDO - Part number",
+            "numbers": [
+              "A2C530 657 73",
+              "A2C53065773"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Device does not start or switches off again after a short time"
+          },
+          {
+            "fault_description": "Drops out after several minutes of driving and restarts, sometimes with coloured stripes in the screen"
+          },
+          {
+            "fault_description": "Incorrect visualisation on the display -only on request!"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "Only the backlight is still present in the display -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 4.2 4Motion (Phaeton, 3D) Year of manufacture 2004 Engine code BGH"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel/volkswagen-vw-3d0035007p-vdo-a2c53082214-123408.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 007 P",
+              "3D0035007P"
+            ]
+          },
+          {
+            "title": "VDO - Part number",
+            "numbers": [
+              "A2C 530 822 14",
+              "A2C53082214"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Device does not start or switches off again after a short time"
+          },
+          {
+            "fault_description": "Drops out after several minutes of driving and restarts, sometimes with coloured stripes in the screen"
+          },
+          {
+            "fault_description": "Incorrect visualisation on the display -only on request!"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "Only the backlight is still present in the display -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2006 Engine code BMK",
+          "VOLKSWAGEN-VW Phaeton 3.2 4Motion (Phaeton, 3D) Year of manufacture 2004",
+          "VOLKSWAGEN-VW Phaeton 3.2 (Phaeton, 3D) Year of manufacture 2004 Engine code BKL",
+          "VOLKSWAGEN-VW Phaeton 4.2 4Motion (Phaeton, 3D) Year of manufacture 2005 Engine code BGH",
+          "VOLKSWAGEN-VW Phaeton 6.0 4Motion (Phaeton, 3D) Year of manufacture 2004 Engine code BAN"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel/volkswagen-vw-3d0035007px-siemensvdo-a2c53100986-151280.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 007 PX",
+              "3D0035007PX"
+            ]
+          },
+          {
+            "title": "SiemensVDO - Part number",
+            "numbers": [
+              "A2C 531 009 86",
+              "A2C53100986"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Device does not start or switches off again after a short time"
+          },
+          {
+            "fault_description": "Drops out after several minutes of driving and restarts, sometimes with coloured stripes in the screen"
+          },
+          {
+            "fault_description": "Incorrect visualisation on the display -only on request!"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "Only the backlight is still present in the display -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 5.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2004 Engine code AJS"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel/volkswagen-vw-3d0035007t-3d0035007t5w8-siemensvdo-a2c53082218-149245.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 007 T",
+              "3D0035007T"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 007 T5W8",
+              "3D0035007T5W8"
+            ]
+          },
+          {
+            "title": "SiemensVDO - Part number",
+            "numbers": [
+              "A2C 530 822 18",
+              "A2C53082218"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Device does not start or switches off again after a short time"
+          },
+          {
+            "fault_description": "Drops out after several minutes of driving and restarts, sometimes with coloured stripes in the screen"
+          },
+          {
+            "fault_description": "Incorrect visualisation on the display -only on request!"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "Only the backlight is still present in the display -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2006 Engine code BMK"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel/volkswagen-vw-3d003500be5w8-siemensvdo-a2c53297520-149847.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 00 BE 5W8",
+              "3D003500BE5W8"
+            ]
+          },
+          {
+            "title": "SiemensVDO - Part number",
+            "numbers": [
+              "A2C 532 975 20",
+              "A2C53297520"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Device does not start or switches off again after a short time"
+          },
+          {
+            "fault_description": "Drops out after several minutes of driving and restarts, sometimes with coloured stripes in the screen"
+          },
+          {
+            "fault_description": "Incorrect visualisation on the display -only on request!"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "Only the backlight is still present in the display -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2008 Engine code CARA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel/volkswagen-vw-3d0035017-3d00350175w8-vdo-148834.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 017",
+              "3D0035017"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 017 5W8",
+              "3D00350175W8"
+            ]
+          },
+          {
+            "title": "VDO",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Device does not start or switches off again after a short time"
+          },
+          {
+            "fault_description": "Drops out after several minutes of driving and restarts, sometimes with coloured stripes in the screen"
+          },
+          {
+            "fault_description": "Incorrect visualisation on the display -only on request!"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "Only the backlight is still present in the display -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-navigation-central-control-panel/volkswagen-vw-3d0035017x-3d0035017x5w8-continental-a2c53217681-149627.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 017 X",
+              "3D0035017X"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 017 X 5W8",
+              "3D0035017X5W8"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 532 176 81",
+              "A2C53217681"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Device does not start or switches off again after a short time"
+          },
+          {
+            "fault_description": "Drops out after several minutes of driving and restarts, sometimes with coloured stripes in the screen"
+          },
+          {
+            "fault_description": "Incorrect visualisation on the display -only on request!"
+          },
+          {
+            "fault_description": "Intermittent or permanent, complete function loss"
+          },
+          {
+            "fault_description": "Only the backlight is still present in the display -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2006 Engine code BMK"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Radio / CD Composition Colour (MIB2)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+cd+composition+colour+mib2-1470331.ts1678967390.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-composition-colour-%28mib2%29-6080",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-composition-colour-%28mib2%29/volkswagen-vw-1k8035150g-mib2entry-lg-electronics-l56vw2-133026.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K8 035 150 G",
+              "1K8035150G"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "MIB2 Entry",
+              "MIB2Entry"
+            ]
+          },
+          {
+            "title": "LG Electronics - Part number",
+            "numbers": [
+              "L56VW2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI (Tiguan, 5N) Year of manufacture 2016"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-composition-colour-%28mib2%29/volkswagen-vw-1k8035150h-lg-electronics-l56vw2-152675.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K8 035 150 H",
+              "1K8035150H"
+            ]
+          },
+          {
+            "title": "LG Electronics - Part number",
+            "numbers": [
+              "L56VW2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-composition-colour-%28mib2%29/volkswagen-vw-5g0035867c-mib2entry-lg-electronics-l41vw2-132981.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 867 C",
+              "5G0035867C"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "MIB2 Entry",
+              "MIB2Entry"
+            ]
+          },
+          {
+            "title": "LG Electronics - Part number",
+            "numbers": [
+              "L41VW2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 1,2 TSI (Golf VII, AU) Engine code CJZB",
+          "VOLKSWAGEN-VW Golf 1.6 TDI (Golf VII, AU) Year of manufacture 2015 Engine code CXXB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-composition-colour-%28mib2%29/volkswagen-vw-5g0035867d-lg-electronics-l41vw2-133025.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "5G0 035 867 D",
+              "5G0035867D"
+            ]
+          },
+          {
+            "title": "LG Electronics - Part number",
+            "numbers": [
+              "L41VW2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-composition-colour-%28mib2%29/volkswagen-vw-l40vw2-lg-electronics-6c0035867-149927.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "L40VW2"
+            ]
+          },
+          {
+            "title": "LG Electronics - Part number",
+            "numbers": [
+              "6C0 035 867",
+              "6C0035867"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.2 TSI (Polo, 6R) Year of manufacture 2014 Engine code CBZC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-composition-colour-%28mib2%29/volkswagen-vw-l40vw2-lg-electronics-6c0035867d-149720.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "L40VW2"
+            ]
+          },
+          {
+            "title": "LG Electronics - Part number",
+            "numbers": [
+              "6C0 035 867 D",
+              "6C0035867D"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.0 (Polo, 6C) Year of manufacture 2016 Engine code CHYB",
+          "VOLKSWAGEN-VW Polo 1.2 TSI (Polo, 6C) Year of manufacture 2016 Engine code CJZD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-composition-colour-%28mib2%29/volkswagen-vw-l40vw2-lg-electronics-6c0035869d-152801.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "L40VW2"
+            ]
+          },
+          {
+            "title": "LG Electronics - Part number",
+            "numbers": [
+              "6C0 035 869 D",
+              "6C0035869D"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Touch-screen does not react, or is broken"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Polo 1.2 TSI (Polo, 6R) Year of manufacture 2016 Engine code CBZC"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Radio / CD MID EU",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+cd+mid+eu-1157512.ts1661844702.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-mid-eu-7028",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-mid-eu/volkswagen-vw-3c8035195-vwmideuup1-blaupunkt-7647239360-139430.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C8 035 195",
+              "3C8035195"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "VW MID EU UP1",
+              "VWMIDEUUP1"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 647 239 360",
+              "7647239360"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Eos 1.4 TSI (Eos, 1F) Year of manufacture 2008 - 2010 Engine code CAXA, CAVD",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI (Golf V, 1K) Year of manufacture 2010 Engine code BMN",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2008 - 2009 Engine code CBAB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-mid-eu/volkswagen-vw-3c8035195f-delphi-28341454-150276.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C8 035 195 F",
+              "3C8035195F"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "28341454"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2012 Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-mid-eu/volkswagen-vw-3c8035195f-delphi-28371858-153273.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C8 035 195 F",
+              "3C8035195F"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "28371858"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 2.0 TDI (Passat, 3C/36) Year of manufacture 2013 Engine code CFFB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-mid-eu/volkswagen-vw-3c8035195f-delphi-28424509-150819.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C8 035 195 F",
+              "3C8035195F"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "28424509"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 1.2 TSI (Caddy, 2C) Year of manufacture 2015 Engine code CBZB",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2014 Engine code BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-mid-eu/volkswagen-vw-3c8035195f-gen3vwmideuhw14-delphi-28316683-122799.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C8 035 195 F",
+              "3C8035195F"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "GEN 3 VW Mid EU (HW14)",
+              "GEN3VWMidEUHW14"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "28316683"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf 2.0 GTI (Golf VI, 1K) Year of manufacture 2011 Engine code CCZB",
+          "VOLKSWAGEN-VW Passat 2.0 TDI (Passat, 3C/36) Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-mid-eu/volkswagen-vw-3c8035195f-rcd510-delphi-28343752-139580.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C8 035 195 F",
+              "3C8035195F"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "RCD510"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "28343752"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf Plus 2.0 TDI (Golf Plus, 1K) Year of manufacture 2012 Engine code CCFH",
+          "VOLKSWAGEN-VW Passat 1.8 TSI Variant (Passat, 3C/36) Year of manufacture 2012 Engine code CDAA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-mid-eu/volkswagen-vw-3c8035195f-rcd510-delphi-28394607-149674.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C8 035 195 F",
+              "3C8035195F"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "RCD510"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "28394607"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Incorrect visualisation or complete failure of the display"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Caddy 2.0 TDI (Caddy, 2C) Year of manufacture 2013 Engine code CFJA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-cd-mid-eu/volkswagen-vw-3c8035195f-vwradiomideuup3-bosch-7640206360-136599.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3C8 035 195 F",
+              "3C8035195F"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "VW Radio MID EU UP3",
+              "VWRadioMIDEUUP3"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "7 640 206 360",
+              "7640206360"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD fails or is not recognized"
+          },
+          {
+            "fault_description": "CD is not inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Sharan 2.0 TDI (Sharan, 7N) Year of manufacture 2015 Engine code CFFB",
+          "VOLKSWAGEN-VW Touran 1.6 TDI (Touran, 1T) Year of manufacture 2011 Engine code CAYC"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Radio / DVD / Navigation MFD2",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+dvd+navigation+mfd2-13627.ts1628711398.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-mfd2-5141",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-mfd2/volkswagen-vw-1k0035198a-blaupunkt-7612002015-114255.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 035 198 A",
+              "1K0035198A"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 015",
+              "7612002015"
+            ]
+          },
+          {
+            "title": "Blaupunkt",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touran 1.9 TDI (Touran, 1T) Year of manufacture 2005 - 2006 Engine code BKC"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-mfd2/volkswagen-vw-1k0035198b-blaupunkt-7612002064-bno881-114257.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 035 198 B",
+              "1K0035198B"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 064",
+              "7612002064"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "BNO 881",
+              "BNO881"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 2.0 FSI Variant (Passat, 3C) Year of manufacture 2005 Engine code BVY",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3C) Year of manufacture 2005 - 2006 Engine code BMP",
+          "VOLKSWAGEN-VW Touran 1.6 FSI (Touran, 1T) Year of manufacture 2006 Engine code BLF"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-mfd2/volkswagen-vw-1k0035198c-blaupunkt-7612002071-114258.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K0 035 198 C",
+              "1K0035198C"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 071",
+              "7612002071"
+            ]
+          },
+          {
+            "title": "Blaupunkt",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf Plus 1.9 TDI (Golf Plus, 1K) Year of manufacture 2007",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI Variant (Golf V, 1K) Year of manufacture 2008 Engine code BMM",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3C) Year of manufacture 2007 Engine code BMR"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-mfd2/volkswagen-vw-1t0035194-blaupunkt-7612002020-bno881-135041.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 194",
+              "1T0035194"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 020",
+              "7612002020"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "BNO 881",
+              "BNO881"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-mfd2/volkswagen-vw-1t0035194a-blaupunkt-7612002021-114256.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 194 A",
+              "1T0035194A"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 021",
+              "7612002021"
+            ]
+          },
+          {
+            "title": "Blaupunkt",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-mfd2/volkswagen-vw-1t0035194c-blaupunkt-7612002029-bno881-130381.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 194 C",
+              "1T0035194C"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 029",
+              "7612002029"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "BNO 881",
+              "BNO881"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-mfd2/volkswagen-vw-7h0035191c-blaupunkt-7612002117-bno881-126137.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 035 191 C",
+              "7H0035191C"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 117",
+              "7612002117"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "BNO 881",
+              "BNO881"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.5 TDI 4Motion (T5, 7E/H/J) Year of manufacture 2005 Engine code AXE",
+          "VOLKSWAGEN-VW T5 2.5 TDI Multivan California (T5, 7E/H/J) Year of manufacture 2005 Engine code AXD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-mfd2/volkswagen-vw-7h0035191k-blaupunkt-7612002079-8618844888-bno881-118959.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 035 191 K",
+              "7H0035191K"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 079",
+              "7612002079"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "8 618 844 888",
+              "8618844888"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "BNO 881",
+              "BNO881"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Scirocco 2.0 TDI (Scirocco, 13) Year of manufacture 2008 Engine code CUUB",
+          "VOLKSWAGEN-VW T5 1.9 TDI Multivan (T5, 7E/H/J) Year of manufacture 2007 Engine code BRS",
+          "VOLKSWAGEN-VW T5 2.5 TDI Multivan 4Motion (T5, 7E/H/J) Year of manufacture 2006 - 2009 Engine code AXE",
+          "VOLKSWAGEN-VW T5 2.5 TDI Multivan (T5, 7E/H/J) Year of manufacture 2007 - 2010 Engine code AXE, BPC",
+          "VOLKSWAGEN-VW T5 2.5 TDI (T5, 7E/H/J) Year of manufacture 2004 - 2008 Engine code BNZ"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-mfd2/volkswagen-vw-7h0035191kx-blaupunkt-7612062079-bno217-114592.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7H0 035 191 KX",
+              "7H0035191KX"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 062 079",
+              "7612062079"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "BNO217"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW T5 2.5 TDI Multivan (T5, 7E/H/J) Year of manufacture 2007 Engine code BNZ",
+          "VOLKSWAGEN-VW T5 2.5 TDI (T5, 7E/H/J) Year of manufacture 2006 - 2008 Engine code BNZ"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-mfd2/volkswagen-vw-7l6035177e-bno881-blaupunkt-7612002075-133058.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7L6 035 177 E",
+              "7L6035177E"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "BNO 881",
+              "BNO881"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 075",
+              "7612002075"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-mfd2/volkswagen-vw-7l6035191r-blaupunkt-7612002065-bno881-131084.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "7L6 035 191 R",
+              "7L6035191R"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "7 612 002 065",
+              "7612002065"
+            ]
+          },
+          {
+            "title": "Blaupunkt - Part number",
+            "numbers": [
+              "BNO 881",
+              "BNO881"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "CDs / DVDs cannot be inserted or ejected"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7L) Year of manufacture 2006 Engine code BKS",
+          "VOLKSWAGEN-VW Touareg 5.0 TDI (Touareg, 7L) Year of manufacture 2006 Engine code BLE"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Radio / DVD / Navigation RNS510",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+dvd+navigation+rns510-13275.ts1628722680.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510-6428",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1k8035680c-continental-a2c95767600-141260.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K8 035 680 C",
+              "1K8035680C"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 957 676 00",
+              "A2C95767600"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Eos 2.0 TDI (Eos, 1F) Year of manufacture 2015",
+          "VOLKSWAGEN-VW Scirocco 2.0 TDI (Scirocco, 13) Year of manufacture 2015 Engine code CUWA",
+          "VOLKSWAGEN-VW Scirocco 2.0 TSI (Scirocco, 13) Year of manufacture 2015"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1k8035686a-continental-a2c95767200-150688.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K8 035 686 A",
+              "1K8035686A"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 957 672 00",
+              "A2C95767200"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1k8035686a-continental-a2c95942300-151958.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K8 035 686 A",
+              "1K8035686A"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 959 423 00",
+              "A2C95942300"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Beetle 2.0 TSI Cabriolet (Beetle, 5C) Year of manufacture 2015 Engine code CPLA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1k8035686c-continental-a2c95767300-154225.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1K8 035 686 C",
+              "1K8035686C"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 957 673 00",
+              "A2C95767300"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Eos 2.0 TSI (Eos, 1F) Year of manufacture 2015 Engine code CCZB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t00350686e-continental-a2c97318100-140695.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 0350686 E",
+              "1T00350686E"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C97318100"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680-continental-a2c53256322-124154.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680",
+              "1T0035680"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 532 563 22",
+              "A2C53256322"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touran 1.9 TDI (Touran, 1T) Year of manufacture 2008 Engine code BLS"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680-continental-a2c53283979-116297.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680",
+              "1T0035680"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 532 839 79",
+              "A2C53283979"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2007 Engine code BMN"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680-continental-a2c53294631-114480.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680",
+              "1T0035680"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 532 946 31",
+              "A2C53294631"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf V 1.6 Variant (Golf V, 1K) Year of manufacture 2007 Engine code BSE",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2007 - 2008 Engine code CBAB",
+          "VOLKSWAGEN-VW (Tiguan, 5N) Year of manufacture 2007",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2007 Engine code BMN"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680a-continental-a2c53286014-114994.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680 A",
+              "1T0035680A"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 532 860 14",
+              "A2C53286014"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Eos 1.4 TSI (Eos, 1F) Year of manufacture 2007",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2008 Engine code BMM"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680a-continental-a2c53302073-114167.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680 A",
+              "1T0035680A"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 020 73",
+              "A2C53302073"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Eos 2.0 TDI (Eos, 1F) Year of manufacture 2008 Engine code BMM",
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf V, 1K) Year of manufacture 2007 - 2008 Engine code BLG, BMY",
+          "VOLKSWAGEN-VW Golf GTI (Golf V, 1K) Year of manufacture 2008 Engine code BWA",
+          "VOLKSWAGEN-VW Golf Plus 1.4 TSI (Golf Plus, 1K) Year of manufacture 2007 Engine code BMY",
+          "VOLKSWAGEN-VW Golf R32 4Motion (Golf V, 1K) Year of manufacture 2008 Engine code BUB",
+          "VOLKSWAGEN-VW Golf V 1.9 TDI Variant 4Motion (Golf V, 1K) Year of manufacture 2008 Engine code BLS",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI (Golf V, 1K) Year of manufacture 2011 Engine code BMN",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI Variant (Golf V, 1K) Year of manufacture 2008 - 2009 Engine code BKD, BMM",
+          "VOLKSWAGEN-VW Jetta 1.9 TDI (Jetta, 1K) Year of manufacture 2008 Engine code BXE",
+          "VOLKSWAGEN-VW (Passat)",
+          "VOLKSWAGEN-VW Passat 1.9 TDI Variant (Passat, 3C) Year of manufacture 2008 Engine code BLS",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant 4Motion (Passat, 3C) Year of manufacture 2007 - 2008 Engine code CBAB",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3C) Year of manufacture 2007 - 2008 Engine code BMP, BMR",
+          "VOLKSWAGEN-VW Passat 2.0 TSI Variant (Passat, 3C) Year of manufacture 2007 - 2008 Engine code BWA",
+          "VOLKSWAGEN-VW Passat R36 Variant 4Motion (Passat, 3C) Year of manufacture 2008 Engine code BWS",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Engine code CBAB, CFFB",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2007 - 2008 Engine code BMM, BKD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680a-continental-a2c53327540-116000.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680 A",
+              "1T0035680A"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 275 40",
+              "A2C53327540"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3C) Year of manufacture 2008 Engine code BMP",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2008 Engine code CBAB",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2008 Engine code BMN"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680a-continental-a2c53330830-114995.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680 A",
+              "1T0035680A"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 308 30",
+              "A2C53330830"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Eos 2.0 TDI (Eos, 1F) Engine code BMM",
+          "VOLKSWAGEN-VW Eos 3.2 (Eos, 1F) Year of manufacture 2008 Engine code BUB",
+          "VOLKSWAGEN-VW Golf GTI (Golf V, 1K) Year of manufacture 2008 Engine code BYD",
+          "VOLKSWAGEN-VW Golf Plus 1.4 TSI (Golf Plus, 1K) Year of manufacture 2008 Engine code CAXA",
+          "VOLKSWAGEN-VW Passat 2.0 TDI (Passat, 3C/36) Year of manufacture 2011 Engine code CFFB",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3C) Year of manufacture 2007 - 2010 Engine code CBAB, BMR",
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Year of manufacture 2008 Engine code BWK",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2008 - 2009 Engine code CBAB",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2008 Engine code BMM, BMN"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680a-continental-a2c53333113-116511.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680 A",
+              "1T0035680A"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 331 13",
+              "A2C53333113"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf V 1.9 TDI Variant (Golf V, 1K) Year of manufacture 2008 Engine code BLS",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2007 - 2009 Engine code CBAB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680a-continental-a2c53424526-128043.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680 A",
+              "1T0035680A"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 534 245 26",
+              "A2C53424526"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again"
+          },
+          {
+            "fault_description": "total failure"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680ax-continental-a2c53304673-117405.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680 AX",
+              "1T0035680AX"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 046 73",
+              "A2C53304673"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Eos 1.4 TSI (Eos, 1F) Year of manufacture 2007 Engine code CAXA",
+          "VOLKSWAGEN-VW New Beetle 2.0 Cabriolet (New Beetle, 1Y) Year of manufacture 2009 Engine code AZJ",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3C) Year of manufacture 2007 - 2008 Engine code BMP, BMR",
+          "VOLKSWAGEN-VW Passat 3.2 FSI Variant 4Motion (Passat, 3C) Year of manufacture 2008 Engine code AXZ",
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Year of manufacture 2008 Engine code BWK",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2007 - 2008 Engine code CBAB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680b-continental-a2c30207600-115792.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680 B",
+              "1T0035680B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 302 076 00",
+              "A2C30207600"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Golf V 2.0 TDI Variant (Golf V, 1K) Year of manufacture 2012 Engine code CFHC",
+          "VOLKSWAGEN-VW Touran 1.9 TDI (Touran, 1T) Year of manufacture 2008 Engine code BLS"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680b-continental-a2c53327964-125960.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680 B",
+              "1T0035680B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 279 64",
+              "A2C53327964"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Passat CC 1.8 TFSI (Passat, 3C/35) Year of manufacture 2008 Engine code CDAA",
+          "VOLKSWAGEN-VW Passat CC 3.6 FSI 4Motion (Passat, 3C/35) Year of manufacture 2008 Engine code BWS"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680b-continental-a2c53330295-117528.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680 B",
+              "1T0035680B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 302 95",
+              "A2C53330295"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Eos 1.4 TSI (Eos, 1F) Year of manufacture 2008 Engine code CAVD",
+          "VOLKSWAGEN-VW Eos 2.0 TDI (Eos, 1F) Year of manufacture 2008 Engine code BMM",
+          "VOLKSWAGEN-VW Golf 1.4 TSI (Golf V, 1K) Year of manufacture 2008 Engine code CAXA",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI (Golf V, 1K) Year of manufacture 2008 Engine code BMM",
+          "VOLKSWAGEN-VW Passat 1.8 TSI Variant (Passat, 3C) Year of manufacture 2008 - 2009 Engine code BZB",
+          "VOLKSWAGEN-VW Passat 1.9 TDI Variant (Passat, 3C) Year of manufacture 2008 Engine code BLS",
+          "VOLKSWAGEN-VW Passat 2.0 TDI (Passat, 3C) Year of manufacture 2008 Engine code BMP",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3C) Year of manufacture 2008 Engine code CBAB, BMR",
+          "VOLKSWAGEN-VW Passat CC 1.8 TFSI (Passat, 3C/35) Year of manufacture 2008 Engine code BZB, CDAA",
+          "VOLKSWAGEN-VW Passat CC 2.0 TDI (Passat, 3C/35) Year of manufacture 2008 Engine code CBAB",
+          "VOLKSWAGEN-VW Scirocco 2.0 TSI (Scirocco, 13) Year of manufacture 2008 - 2009 Engine code CAWB",
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI (Tiguan, 5N) Year of manufacture 2014 Engine code CAVD",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2008 - 2010 Engine code CBAB",
+          "VOLKSWAGEN-VW Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Year of manufacture 2008 Engine code CAWA",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2008 Engine code BMM, BMN"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680b-continental-a2c53332593-141543.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680 B",
+              "1T0035680B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 325 93",
+              "A2C53332593"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns510/volkswagen-vw-1t0035680b-continental-a2c53341499-114445.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "1T0 035 680 B",
+              "1T0035680B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 414 99",
+              "A2C53341499"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "01305",
+            "fault_description": "databus for Infotainment - 004 - No signal/communication"
+          },
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Instrument shuts down or reboots after start screen"
+          },
+          {
+            "fault_description": "Total dysfunction -only on request!"
+          },
+          {
+            "fault_description": "no sound"
+          },
+          {
+            "fault_description": "the speakers sizzle and the device turns off / on again -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Eos 2.0 TDI (Eos, 1F) Year of manufacture 2008 Engine code BMM, CBAB",
+          "VOLKSWAGEN-VW Golf GTI (Golf V, 1K) Year of manufacture 2008 Engine code BWA, BYD",
+          "VOLKSWAGEN-VW Golf Plus 1.4 TSI (Golf Plus, 1K) Year of manufacture 2008 Engine code CAVD",
+          "VOLKSWAGEN-VW Golf V 2.0 TDI (Golf V, 1K) Year of manufacture 2010 Engine code BMN",
+          "VOLKSWAGEN-VW Passat 2.0 TDI Variant (Passat, 3C) Year of manufacture 2008 Engine code BMP, BMR",
+          "VOLKSWAGEN-VW Passat CC 3.6 FSI 4Motion (Passat, 3C/35) Year of manufacture 2018 Engine code BWS",
+          "VOLKSWAGEN-VW Scirocco 2.0 TSI (Scirocco, 13) Engine code CAWB",
+          "VOLKSWAGEN-VW Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Year of manufacture 2008 Engine code CAVA",
+          "VOLKSWAGEN-VW Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Year of manufacture 2008 - 2009 Engine code CBAB, CFGB",
+          "VOLKSWAGEN-VW Touran 1.4 TSI (Touran, 1T) Year of manufacture 2008 Engine code BMY",
+          "VOLKSWAGEN-VW Touran 2.0 TDI (Touran, 1T) Year of manufacture 2008 Engine code BMM, BMN"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Radio / DVD / Navigation RNS810 Phaeton",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+dvd+navigation+rns810+phaeton-14659.ts1628711407.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton-5175",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035005-continental-a2c53360976-vw611rns-114818.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 005",
+              "3D0035005"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 609 76",
+              "A2C53360976"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "VW611RNS"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2009 Engine code BMK, CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035005-continental-a2c53380068-148105.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 005",
+              "3D0035005"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 800 68",
+              "A2C53380068"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2009 Engine code CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035005-continental-a2c53409963-145675.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 005",
+              "3D0035005"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 534 099 63",
+              "A2C53409963"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2010 Engine code CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035005-continental-a2c87476900-150126.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 005",
+              "3D0035005"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 874 769 00",
+              "A2C87476900"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2009 Engine code CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035005s-continental-a2c91598700-147109.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 005 S",
+              "3D0035005S"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 915 987 00",
+              "A2C91598700"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2013 - 2014 Engine code CEXB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035005s-continental-a2c93857000-147744.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 005 S",
+              "3D0035005S"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 938 570 00",
+              "A2C93857000"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2014 - 2015 Engine code CEXB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035680-3d0035005-continental-a2c53358935-vw611rns-114819.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 680",
+              "3D0035680"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 005",
+              "3D0035005"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 589 35",
+              "A2C53358935"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "VW611RNS"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2008 - 2009 Engine code CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035680-3d0035005-continental-a2c53360976-120858.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 680",
+              "3D0035680"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 005",
+              "3D0035005"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 609 76",
+              "A2C53360976"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2008 - 2010 Engine code CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035680-continental-a2c53371982-151220.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 680",
+              "3D0035680"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 719 82",
+              "A2C53371982"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2009 Engine code CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035680-continental-a2c53380068-130089.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 680",
+              "3D0035680"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 800 68",
+              "A2C53380068"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2008 - 2010 Engine code CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035680-continental-a2c53394591-131644.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 680",
+              "3D0035680"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 533 945 91",
+              "A2C53394591"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 4.2 4Motion (Phaeton, 3D) Engine code BGH"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035680b-continental-a2c32369300-130669.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 680 B",
+              "3D0035680B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 323 693 00",
+              "A2C32369300"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2011 Engine code CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035680b-continental-a2c53409967-127748.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 680 B",
+              "3D0035680B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 534 099 67",
+              "A2C53409967"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035680b-continental-a2c53411952-136026.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 680 B",
+              "3D0035680B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 534 119 52",
+              "A2C53411952"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035680b-continental-a2c53441150-136846.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 680 B",
+              "3D0035680B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 534 411 50",
+              "A2C53441150"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2012 Engine code CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035680b-continental-a2c80188700-144644.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 680 B",
+              "3D0035680B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 801 887 00",
+              "A2C80188700"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2012 Engine code CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035680b-continental-a2c82385900-147535.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 680 B",
+              "3D0035680B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 823 859 00",
+              "A2C82385900"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2010 Engine code CEXA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035686a-continental-a2c83856700-133675.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 686 A",
+              "3D0035686A"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 838 567 00",
+              "A2C83856700"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2013 Engine code BMK, CEXA",
+          "VOLKSWAGEN-VW Phaeton 3.6 4Motion (Phaeton, 3D) Year of manufacture 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035686a-continental-a2c87477300-153913.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 686 A",
+              "3D0035686A"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 874 773 00",
+              "A2C87477300"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 4.2 4Motion (Phaeton, 3D) Year of manufacture 2013 Engine code BGH"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-dvd-navigation-rns810-phaeton/volkswagen-vw-3d0035686b-continental-a2c91598700-132587.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "3D0 035 686 B",
+              "3D0035686B"
+            ]
+          },
+          {
+            "title": "Continental - Part number",
+            "numbers": [
+              "A2C 915 987 00",
+              "A2C91598700"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus disturbed or does not work at all"
+          },
+          {
+            "fault_description": "CD and /or DVD is not recognized anymore"
+          },
+          {
+            "fault_description": "Device is stuck on its startup screen"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Year of manufacture 2011 - 2014 Engine code CEXA, CEXB",
+          "VOLKSWAGEN-VW Phaeton 4.2 4Motion (Phaeton, 3D) Year of manufacture 2013 Engine code BGH"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "Radio tuner / amplifier",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+tuner+amplifier-1980365.ts1692949335.jpg",
+    "product_link": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation-3085/vw-%28volkswagen%29/radio-cd-navigation/radio-tuner-amplifier-7181",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-tuner-amplifier/volkswagen-vw-4g0035053a-4g0035053-harman-becker-hsa050-147008.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "4G0 035 053 A",
+              "4G0035053A"
+            ]
+          },
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "4G0 035 053",
+              "4G0035053"
+            ]
+          },
+          {
+            "title": "HARMAN/BECKER - Part number",
+            "numbers": [
+              "HS A050",
+              "HSA050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "short circuit / complete failure; possibly after change of battery in the car"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touareg 3.0 FSI Hybrid (Touareg, 7P) Year of manufacture 2010 Engine code CGEA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-tuner-amplifier/volkswagen-vw-4g0035061c-harman-becker-hsa109-radiounit-130254.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "4G0 035 061 C",
+              "4G0035061C"
+            ]
+          },
+          {
+            "title": "HARMAN/BECKER - Part number",
+            "numbers": [
+              "HS A109",
+              "HSA109"
+            ]
+          },
+          {
+            "title": "HARMAN/BECKER - Part number",
+            "numbers": [
+              "RADIO UNIT",
+              "RADIOUNIT"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Short circuit in the device, possibly after changing the battery in the vehicle"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7P) Year of manufacture 2011 Engine code CRCA"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/vw-%28volkswagen%29/radio-cd-navigation/radio-tuner-amplifier/volkswagen-vw-4g0035061g-harman-becker-hsa109-radiounit-124139.html",
+        "part_numbers": [
+          {
+            "title": "VOLKSWAGEN-VW - Part number",
+            "numbers": [
+              "4G0 035 061 G",
+              "4G0035061G"
+            ]
+          },
+          {
+            "title": "HARMAN/BECKER - Part number",
+            "numbers": [
+              "HS A109",
+              "HSA109"
+            ]
+          },
+          {
+            "title": "HARMAN/BECKER - Part number",
+            "numbers": [
+              "RADIO-UNIT",
+              "RADIOUNIT"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Short circuit in the device, possibly after changing the battery in the vehicle"
+          },
+          {
+            "fault_description": "failure of one or several loudspeakers -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "VOLKSWAGEN-VW Touareg 3.6 FSI (Touareg, 7P) Year of manufacture 2011 Engine code CGRA"
+        ]
+      }
+    ]
+  }
+]

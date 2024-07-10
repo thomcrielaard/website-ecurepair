@@ -1,0 +1,39 @@
+[
+  {
+    "part_name": "Midtronics Battery diag-tool EXP-813 FGA",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/midtronics+battery+diag+tool+exp+813+fga-342470.ts1628715919.jpg",
+    "product_link": "https://ecu.eu/lancia/diagnostic-tool-2930/lancia/diagnostic-tool/midtronics-battery-diag-tool-exp-813-fga-6264",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/lancia/diagnostic-tool/midtronics-battery-diag-tool-exp-813-fga/lancia-2000037000-midtronics-testerexp813fga-135790.html",
+        "part_numbers": [
+          {
+            "title": "LANCIA - Part number",
+            "numbers": [
+              "2000037000"
+            ]
+          },
+          {
+            "title": "Midtronics - Part number",
+            "numbers": [
+              "Tester EXP-813 FGA",
+              "TesterEXP813FGA"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Date/time incorrect and do not change"
+          },
+          {
+            "fault_description": "internal temperature sensor shows wrong values"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

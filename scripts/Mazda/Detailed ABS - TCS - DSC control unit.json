@@ -1,0 +1,3820 @@
+[
+  {
+    "part_name": "ABS / DSC control unit Sumitomo",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+dsc+control+unit+sumitomo-1724.ts1628718737.jpg",
+    "product_link": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit-107/mazda/abs-tcs-dsc-control-unit/abs-dsc-control-unit-sumitomo-3987",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-dsc-control-unit-sumitomo/mazda-c153437a0-sumitomo-solbox3bm8a-104146.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "C153 43 7A0",
+              "C153437A0"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "SOL-BOX3 BM8A",
+              "SOLBOX3BM8A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1095",
+            "fault_description": "motor relay"
+          },
+          {
+            "fault_code": "C1186",
+            "fault_description": "fail-safe relay"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA Premacy 2.0i (Premacy, CP) Year of manufacture 2002 - 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-dsc-control-unit-sumitomo/mazda-c1y3437a0-sumitomo-bm8a-103930.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "C1Y3 43 7A0",
+              "C1Y3437A0"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "BM8A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1095",
+            "fault_description": "motor relay"
+          },
+          {
+            "fault_code": "C1186",
+            "fault_description": "fail-safe relay"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA Premacy 2.0i (Premacy, CP) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-dsc-control-unit-sumitomo/mazda-gj6e437a0-gjye437a0c-sumitomo-ascecu562wd-visteon-2059152-103931.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "GJ6E 43 7A0",
+              "GJ6E437A0"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "GJYE 43 7A0C",
+              "GJYE437A0C"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "ASC-ECU-56-2WD",
+              "ASCECU562WD"
+            ]
+          },
+          {
+            "title": "Visteon - Part number",
+            "numbers": [
+              "2059152"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1095",
+            "fault_description": "motor relay"
+          },
+          {
+            "fault_code": "C1096",
+            "fault_description": "pump motor"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 6 2.0 MZR-CD (6, GG/GY) Year of manufacture 2004",
+          "MAZDA 6 2.0i (6, GG/GY) Year of manufacture 2003 - 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-dsc-control-unit-sumitomo/mazda-gj6e437a0-sumitomo-ascecu562wc-visteon-2059149-104039.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "GJ6E 43 7A0",
+              "GJ6E437A0"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "ASC-ECU-56-2W-C",
+              "ASCECU562WC"
+            ]
+          },
+          {
+            "title": "Visteon - Part number",
+            "numbers": [
+              "2059149"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1095",
+            "fault_description": "motor relay"
+          },
+          {
+            "fault_code": "C1096",
+            "fault_description": "pump motor"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-dsc-control-unit-sumitomo/mazda-gr1m437a0-sumitomo-ascecusp2w-visteon-2067142-101854.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "GR1M 43 7A0",
+              "GR1M437A0"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "ASC-ECU-SP-2W",
+              "ASCECUSP2W"
+            ]
+          },
+          {
+            "title": "Visteon - Part number",
+            "numbers": [
+              "2067142"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1095",
+            "fault_description": "motor relay"
+          },
+          {
+            "fault_code": "C1096",
+            "fault_description": "pump motor"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 6 1.8i (6, GG/GY) Year of manufacture 2006 - 2007",
+          "MAZDA 6 2.0 MZR-CD (6, GG/GY) Year of manufacture 2007",
+          "MAZDA 6 2.0i (6, GG/GY) Year of manufacture 2005 - 2007"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ABS / TCS control unit",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+tcs+control+unit-1718.ts1628718737.jpg",
+    "product_link": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit-107/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit-3329",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-4360817-sumitomo-md7-naldec-2055954-152163.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "436-0817",
+              "4360817"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "MD7"
+            ]
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2055954"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-b25d437az-b25d67650a-sumitomo-2054452-2486.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "B25D 43 7AZ",
+              "B25D437AZ"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "B25D 67 650A",
+              "B25D67650A"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "2054452"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-b25d437az-ecuasymzd4-naldec-2054153-106038.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "B25D 43 7AZ",
+              "B25D437AZ"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "ECU ASY MZD4",
+              "ECUASYMZD4"
+            ]
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2054153"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-b25d437az-ecuasymzd4-naldec-2054155-106106.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "B25D 43 7AZ",
+              "B25D437AZ"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "ECU ASY MZD4",
+              "ECUASYMZD4"
+            ]
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2054155"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-b25d437az-ecuaymzd4-naldec-2054158-106146.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "B25D 43 7AZ",
+              "B25D437AZ"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "ECU AY MZD4",
+              "ECUAYMZD4"
+            ]
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2054158"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-b25d437az-naldec-2054151-109900.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "B25D 43 7AZ",
+              "B25D437AZ"
+            ]
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2054151"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 323 1.3i (323, BJ) Year of manufacture 1998"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-b25d437az-naldec-2054156-114998.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "B25D 43 7AZ",
+              "B25D437AZ"
+            ]
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2054156"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-bj4a437az-bj4a676e0-sumitomo-2053948-b25d437a0-2489.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJ4A 43 7AZ",
+              "BJ4A437AZ"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJ4A 67 6E0",
+              "BJ4A676E0"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "2053948"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "B25D 43 7A0",
+              "B25D437A0"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 323 1.5i (323, BJ) Year of manufacture 1998 - 1999",
+          "MAZDA 323 1.8i (323, BJ) Year of manufacture 1998"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-bj4a437az-bj4a676e0-sumitomo-2053950-101884.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJ4A 43 7AZ",
+              "BJ4A437AZ"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJ4A 67 6E0",
+              "BJ4A676E0"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "2053950"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-bj4a437az-bj4a676e0-sumitomo-2053951-101883.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJ4A 43 7AZ",
+              "BJ4A437AZ"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJ4A 67 6E0",
+              "BJ4A676E0"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "2053951"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 323 1.5i (323, BJ) Year of manufacture 1998 - 1999"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-bj4a437az-bj4a676e0-sumitomo-2053953-104815.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJ4A 43 7AZ",
+              "BJ4A437AZ"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJ4A 67 6E0",
+              "BJ4A676E0"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "2053953"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 323 1.5i (323, BJ) Year of manufacture 1999 - 2000"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-bj4a437az-naldec-2053946-119321.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJ4A 43 7AZ",
+              "BJ4A437AZ"
+            ]
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2053946"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 323 1.5i (323, BJ) Year of manufacture 1998"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-bj4a676e0az-sumitomo-2053948-112238.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJ4A-676E0-AZ",
+              "BJ4A676E0AZ"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "2053948"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 323 1.5i (323, BJ) Year of manufacture 1998"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-bjye437a0-sumitomo-naldec-2056546-104000.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJYE 43 7A0",
+              "BJYE437A0"
+            ]
+          },
+          {
+            "title": "Sumitomo",
+            "numbers": []
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2056546"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1095",
+            "fault_description": "motor relay"
+          },
+          {
+            "fault_code": "C1096",
+            "fault_description": "pump motor"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-bjye437a0a-sumitomo-md5tcs-naldec-2057946-104002.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJYE 43 7A0A",
+              "BJYE437A0A"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "MD5-TCS",
+              "MD5TCS"
+            ]
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2057946"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1095",
+            "fault_description": "motor relay"
+          },
+          {
+            "fault_code": "C1096",
+            "fault_description": "pump motor"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 323 1.6i (323, BJ) Year of manufacture 2001"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-bjye437a0a-sumitomo-md5tcs-naldec-2059344-104001.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BJYE 43 7A0A",
+              "BJYE437A0A"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "MD5-TCS",
+              "MD5TCS"
+            ]
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2059344"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C1095",
+            "fault_description": "motor relay"
+          },
+          {
+            "fault_code": "C1096",
+            "fault_description": "pump motor"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-d206437a0-sumitomo-md2-naldec-2054752-104025.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "D206 43 7A0",
+              "D206437A0"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "MD2"
+            ]
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2054752"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-g14v437az-naldec-2055447-105330.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "G14V 43 7AZ",
+              "G14V437AZ"
+            ]
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2055447"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 626 1.8i (626, GF/GW) Year of manufacture 1999",
+          "MAZDA 626 2.0 D (626, GF/GW) Year of manufacture 1998"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-g15a437az-g14v437a0-ge7d676e0-sumitomo-2053655-2488.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "G15A 43 7AZ",
+              "G15A437AZ"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "G14V 43 7A0",
+              "G14V437A0"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "GE7D 67 6E0",
+              "GE7D676E0"
+            ]
+          },
+          {
+            "title": "Sumitomo - Part number",
+            "numbers": [
+              "2053655"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 626 1.8i (626, GF/GW) Year of manufacture 1999",
+          "MAZDA 626 2.0i (626, GF/GW) Year of manufacture 1999"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-tcs-control-unit/mazda-g15a437az-g1ya676e0-naldec-2054358-105924.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "G15A 43 7AZ",
+              "G15A437AZ"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "G1YA 67 6E0",
+              "G1YA676E0"
+            ]
+          },
+          {
+            "title": "Naldec - Part number",
+            "numbers": [
+              "2054358"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "ABS 5.3",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+5+3-1080.ts1628711298.jpg",
+    "product_link": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit-107/mazda/abs-tcs-dsc-control-unit/abs-5.3-3502",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-5.3/mazda-n068437a0-bosch-0273004568-denso-11000031210-102332.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "N068 43 7A0",
+              "N068437A0"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 273 004 568",
+              "0273004568"
+            ]
+          },
+          {
+            "title": "Denso - Part number",
+            "numbers": [
+              "110 000 31210",
+              "11000031210"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA MX-5 1.8i (MX-5, NB) Year of manufacture 2001"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ABS MK20",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+mk20-419.ts1628718730.jpg",
+    "product_link": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit-107/mazda/abs-tcs-dsc-control-unit/abs-mk20-3500",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-mk20/mazda-yl8t2c219ab-yl842c286ea-ate-25094602123-25020408764-25020904212-111059.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "YL8T-2C219-AB",
+              "YL8T2C219AB"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "YL84-2C286 EA",
+              "YL842C286EA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0946-0212.3",
+              "25094602123"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0204-0876.4",
+              "25020408764"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "25.0209-0421.2",
+              "25020904212"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA Tribute 2.0i 4x4 (Tribute, EP) Year of manufacture 2001 - 2003",
+          "MAZDA Tribute 3.0i 4x4 (Tribute, EP) Year of manufacture 2001 - 2002"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ABS MK70",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+mk70-3874.ts1628718746.jpg",
+    "product_link": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit-107/mazda/abs-tcs-dsc-control-unit/abs-mk70-4536",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-mk70/mazda-4s612m110ac-ate-10097001213-10020700864-0002-135225.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "4S61-2M110-AC",
+              "4S612M110AC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-0121.3",
+              "10097001213"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0086.4",
+              "10020700864"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0002"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 2 1.4i (2, DY) Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/abs-mk70/mazda-d461427a0a-ford-4s612m110cc-ate-10097001173-10020700514-0002-108228.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "D461427A0-A",
+              "D461427A0A"
+            ]
+          },
+          {
+            "title": "FORD - Part number",
+            "numbers": [
+              "4S61-2M110-CC",
+              "4S612M110CC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0970-0117.3",
+              "10097001173"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0207-0051.4",
+              "10020700514"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0002"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "CAN-Bus system disrupted"
+          },
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "FORD Fiesta 1.25i (Fiesta) Year of manufacture 2005 - 2006",
+          "FORD Fiesta 1.3i (Fiesta) Year of manufacture 2004 - 2205",
+          "FORD Fiesta 1.4 TDCi (Fiesta) Year of manufacture 2006",
+          "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2004 - 2007",
+          "FORD Fiesta 1.6 TDCi (Fiesta) Year of manufacture 2005 - 2006",
+          "FORD Fiesta 1.6i (Fiesta) Year of manufacture 2005 - 2006",
+          "FORD Fusion 1.25i (Fusion) Year of manufacture 2005 - 2007",
+          "FORD Fusion 1.4 TDCi (Fusion) Year of manufacture 2004 - 2006",
+          "FORD Fusion 1.4i (Fusion) Year of manufacture 2004 - 2012",
+          "FORD Fusion 1.6 TDCi (Fusion) Year of manufacture 2005 - 2006",
+          "FORD Fusion 1.6i (Fusion) Year of manufacture 2005 - 2006",
+          "FORD KA 1.3i (KA) Year of manufacture 2004 - 2007",
+          "FORD Streetka 1.6i (Streetka) Year of manufacture 2005",
+          "MAZDA 2 1.25i (2, DY) Year of manufacture 2005 - 2009",
+          "MAZDA 2 1.4 CD (2, DY) Year of manufacture 2005 - 2006",
+          "MAZDA 2 1.4i (2, DY) Year of manufacture 2004 - 2007"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP 1.34",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+1+34-805.ts1628722660.jpg",
+    "product_link": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit-107/mazda/abs-tcs-dsc-control-unit/esp-1.34-4778",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-1.34/mazda-f153437a0-f1y1437a0c-bosch-0265950107-0265225242-969-152072.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "F153 43 7A0",
+              "F153437A0"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "F1Y1-43-7A0C",
+              "F1Y1437A0C"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 950 107",
+              "0265950107"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 225 242",
+              "0265225242"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "969"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "ESP 9.0",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+9+0-112771.ts1628711709.jpg",
+    "product_link": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit-107/mazda/abs-tcs-dsc-control-unit/esp-9.0-7210",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-9.0/mazda-2265106452-d10j437a0c-bosch-0265956315-0265244059-713-127450.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "2265 10 6452",
+              "2265106452"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "D10J 43 7A0C",
+              "D10J437A0C"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 956 315",
+              "0265956315"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 244 059",
+              "0265244059"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "713"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA CX-3 Skyactiv-G 150 AWD (CX-3, DK) Year of manufacture 2015"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP MK100",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk100-253760.ts1628714193.jpg",
+    "product_link": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit-107/mazda/abs-tcs-dsc-control-unit/esp-mk100-6031",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-06262130141-kj01437a0a0-ate-06210966363-06210224644-150560.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2621-3014.1",
+              "06262130141"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "KJ01-437A0-A0",
+              "KJ01437A0A0"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-6636.3",
+              "06210966363"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-2464.4",
+              "06210224644"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA CX-5 2.2 SKYACTIV-D (CX-5, KE) Year of manufacture 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-06262134141-bhr1437a0a-28515328053-ate-06210971313-06210230374-144245.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2621-3414.1",
+              "06262134141"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BHR1 43 7A0A",
+              "BHR1437A0A"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "28.5153-2805.3",
+              "28515328053"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-7131.3",
+              "06210971313"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-3037.4",
+              "06210230374"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 Skyactiv-D 150 (3, BM) Year of manufacture 2014",
+          "MAZDA 3 Skyactiv-G 120 (3, BM) Year of manufacture 2014"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-06262135451-db1r437a0-ate-06210973823-06210234604-0233-141334.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2621-3545.1",
+              "06262135451"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "DB1R 43 7A0",
+              "DB1R437A0"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-7382.3",
+              "06210973823"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-3460.4",
+              "06210234604"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0233"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 2 1.3i (2, DE)",
+          "MAZDA 2 1.5 SKYACTIV-G (2, DJ) Year of manufacture 2016 - 2017"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-06262135771-ate-06210972273-136076.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2621-3577.1",
+              "06262135771"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-7227.3",
+              "06210972273"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA CX-5 2.2 SKYACTIV-D (CX-5, KE) Year of manufacture 2015"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-06262135951-bhr1437a0b-ate-06210973273-06210234814-153590.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2621-3595.1",
+              "06262135951"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BHR1 43 7A0B",
+              "BHR1437A0B"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-7327.3",
+              "06210973273"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-3481.4",
+              "06210234814"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 Skyactiv-D 150 (3, BM) Year of manufacture 2016"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-06262137561-bss6437a0-ate-06210976413-06210239944-136318.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2621-3756.1",
+              "06262137561"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BSS6 43 7A0",
+              "BSS6437A0"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-7641.3",
+              "06210976413"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-3994.4",
+              "06210239944"
+            ]
+          },
+          {
+            "title": "ATE",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.5D Hatchback (3, BM) Year of manufacture 2017"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-06262139851-28516285003-ate-06210975703-142227.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2621-3985.1",
+              "06262139851"
+            ]
+          },
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "Part number",
+            "numbers": [
+              "28.5162-8500.3",
+              "28516285003"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-7570.3",
+              "06210975703"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 Skyactiv-G 120 (3, BN) Year of manufacture 2018"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-06262330061-baap437a0-ate-06210979493-06210944584-152275.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2623-3006.1",
+              "06262330061"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BAAP 43 7A0",
+              "BAAP437A0"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-7949.3",
+              "06210979493"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-4458.4",
+              "06210944584"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-28516425003-dg7r437a0-06262331161-ate-06210980813-06210246704-0233-153337.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "28.5164-2500.3",
+              "28516425003"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "DG7R 43 7A0",
+              "DG7R437A0"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2623-3116.1",
+              "06262331161"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-8081.3",
+              "06210980813"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-4670.4",
+              "06210246704"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0233"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 2 1.5 SKYACTIV-G (2, DJ) Year of manufacture 2019"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-bpm5437a0a-ate-06210973283-06210235054-0230-147381.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BPM5 43 7A0A",
+              "BPM5437A0A"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-7328.3",
+              "06210973283"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-3505.4",
+              "06210235054"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "0230"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 Skyactiv-G 120 (3, BN) Year of manufacture 2016"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-k011437a0-06261338591-ate-06210963333-06210221284-153410.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "K011 43 7A0",
+              "K011437A0"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2613-3859.1",
+              "06261338591"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-6333.3",
+              "06210963333"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-2128.4",
+              "06210221284"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-k011437a0a-ate-06210964383-06210221784-132368.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "K011 43 7A0A",
+              "K011437A0A"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-6438.3",
+              "06210964383"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-2178.4",
+              "06210221784"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-ka0g437a0a-ate-06210976503-06210240104-06262137591-132335.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "KA0G 43 7A0A",
+              "KA0G437A0A"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-7650.3",
+              "06210976503"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-4010.4",
+              "06210240104"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2621-3759.1",
+              "06262137591"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 Skyactiv-D 150 (3, BM) Year of manufacture 2014",
+          "MAZDA CX-5 2.2 SKYACTIV-D (CX-5, KE) Year of manufacture 2015 - 2016"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-ka0g437a0b-06262330021-ate-06210979443-06210244134-151012.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "KA0G 43 7A0B",
+              "KA0G437A0B"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2623-3002.1",
+              "06262330021"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-7944.3",
+              "06210979443"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-4413.4",
+              "06210244134"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA CX-5 2.0 SKYACTIV-G (CX-5, KE) Year of manufacture 2017",
+          "MAZDA CX-5 2.2 SKYACTIV-D (CX-5, KE) Year of manufacture 2017"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-kj01437a0-ate-06210967793-06210226514-126603.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "KJ01 43 7A0",
+              "KJ01437A0"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-6779.3",
+              "06210967793"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-2651.4",
+              "06210226514"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA CX-5 2.0 SKYACTIV-G AWD (CX-5, KE) Year of manufacture 2014",
+          "MAZDA CX-5 2.0 SKYACTIV-G (CX-5, KE) Year of manufacture 2013",
+          "MAZDA CX-5 2.2 SKYACTIV-D (CX-5, KE) Year of manufacture 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk100/mazda-kj02437a0-ate-06210969323-06210228274-122798.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "KJ02 43 7A0",
+              "KJ02437A0"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-6932.3",
+              "06210969323"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-2827.4",
+              "06210228274"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA CX-5 2.0 SKYACTIV-G AWD (CX-5, KE) Year of manufacture 2014",
+          "MAZDA CX-5 2.2 SKYACTIV-D (CX-5, KE) Year of manufacture 2014 - 2015"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP MK60 (DSC)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk60+dsc-423.ts1628718730.jpg",
+    "product_link": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit-107/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29-2812",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-000009525e4-5n612c405ab-ate-06210950463-06210203424-2050-120898.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "00.0009-525E.4",
+              "000009525E4"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "5N61-2C405-AB",
+              "5N612C405AB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-5046.3",
+              "06210950463"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-0342.4",
+              "06210203424"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 5 1.8i (5, CR) Year of manufacture 2005 - 2007",
+          "MAZDA 5 2.0i (5, CR) Year of manufacture 2005 - 2008 Engine code LF",
+          "MAZDA 6 2.0i (6, GG/GY) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-06210203424-5n612c405ab-ate-06210902993-00009525d1-2050-118716.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2102-0342.4",
+              "06210203424"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "5N61-2C405-AB",
+              "5N612C405AB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-0299.3",
+              "06210902993"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "00009525D1"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 5 1.8i (5, CR) Year of manufacture 2005",
+          "MAZDA 5 2.0i (5, CR) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-06210909053-ate-00404362c0-2050-121201.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2109-0905.3",
+              "06210909053"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "00404362C0"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 2.3 MPS (3, BK) Year of manufacture 2006 - 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-28560065023-dp74437a0b-ate-06210961023-06210218954-2161-148383.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "28.5600-6502.3",
+              "28560065023"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "DP74-437A0-B",
+              "DP74437A0B"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-6102.3",
+              "06210961023"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-1895.4",
+              "06210218954"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2161"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 2 1.3i (2, DE) Year of manufacture 2009 - 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-3m512c405ad-ate-10020600484-101851.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "3M51-2C405-AD",
+              "3M512C405AD"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0048.4",
+              "10020600484"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6i (3, BK) Year of manufacture 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-3m512c405af-ate-10096001123-10020601374-2050-111299.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "3M51-2C405-AF",
+              "3M512C405AF"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0112.3",
+              "10096001123"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0137.4",
+              "10020601374"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6 MZ-CD (3, BK) Year of manufacture 2004",
+          "MAZDA 3 1.6i (3, BK) Year of manufacture 2004",
+          "MAZDA 3 2.0i (3, BK) Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-3m512c405hb-ate-06210951533-10020602164-2050-153319.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "3M51-2C405-HB",
+              "3M512C405HB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-5153.3",
+              "06210951533"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0216.4",
+              "10020602164"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6i (3, BK) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-3m512c45ha-3m512c405ha-ate-10096001153-10020601724-2050-144340.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "3M51-2C45-HA",
+              "3M512C45HA"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "3M51-2C405-HA",
+              "3M512C405HA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0960-0115.3",
+              "10096001153"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0206-0172.4",
+              "10020601724"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6i (3, BK) Year of manufacture 2005 - 2017",
+          "MAZDA 3 2.0i (3, BK) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-5n612c405ab-ate-06210203424-101849.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "5N61-2C405-AB",
+              "5N612C405AB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-0342.4",
+              "06210203424"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-5n612c405ca-ate-06210902993-06210203934-2050-127478.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "5N61-2C405-CA",
+              "5N612C405CA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-0299.3",
+              "06210902993"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-0393.4",
+              "06210203934"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 5 2.0 MZR-CD (5, CR) Year of manufacture 2006",
+          "MAZDA 5 2.0i (5, CR) Year of manufacture 2005 - 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-5n612c405ca-ate-06210905973-06210203934-2050-122171.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "5N61-2C405-CA",
+              "5N612C405CA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-0597.3",
+              "06210905973"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-0393.4",
+              "06210203934"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 5 1.8i (5, CR)",
+          "MAZDA 5 2.0i (5, CR) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-5n612c405ca-ate-06210950463-06210203934-2050-101846.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "5N61-2C405-CA",
+              "5N612C405CA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-5046.3",
+              "06210950463"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-0393.4",
+              "06210203934"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 5 1.8i (5, CR) Year of manufacture 2005 - 2006",
+          "MAZDA 5 2.0 CD (5, CR) Year of manufacture 2006",
+          "MAZDA 5 2.0 MZR-CD (5, CR) Year of manufacture 2006",
+          "MAZDA 5 2.0i (5, CR) Year of manufacture 2005 - 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-5n612c405cb-ate-06210203934-101847.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "5N61-2C405-CB",
+              "5N612C405CB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-0393.4",
+              "06210203934"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-5n612c405cb-ate-06210905973-06210203934-2050-116296.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "5N61-2C405-CB",
+              "5N612C405CB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-0597.3",
+              "06210905973"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-0393.4",
+              "06210203934"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 5 1.8i (5, CR) Year of manufacture 2006 - 2007",
+          "MAZDA 5 2.0 CD (5, CR) Year of manufacture 2006",
+          "MAZDA 5 2.0 MZR-CD (5, CR) Year of manufacture 2006",
+          "MAZDA 5 2.0i (5, CR) Year of manufacture 2006 - 2007",
+          "MAZDA 5 2.0i (5, CW)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-5n612c405cb-ate-06210909903-06210203934-2050-132540.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "5N61-2C405-CB",
+              "5N612C405CB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-0990.3",
+              "06210909903"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-0393.4",
+              "06210203934"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6i (3, BK) Year of manufacture 2007 - 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-5n612c405cb-ate-06210950463-06210203934-2050-146440.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "5N61-2C405-CB",
+              "5N612C405CB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-5046.3",
+              "06210950463"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-0393.4",
+              "06210203934"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 5 1.8i (5, CR) Year of manufacture 2006",
+          "MAZDA 5 2.0i (5, CR) Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-5n612c405cc-ate-06210902993-06219007514-2050-110224.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "5N61-2C405-CC",
+              "5N612C405CC"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-0299.3",
+              "06210902993"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2190-0751.4",
+              "06219007514"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 5 1.8i (5, CR) Year of manufacture 2006 - 2007",
+          "MAZDA 5 2.0i (5, CR) Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-5n612c405ga-ate-06210950463-06210208664-2050-107241.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "5N61-2C405-GA",
+              "5N612C405GA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-5046.3",
+              "06210950463"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-0866.4",
+              "06210208664"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 5 1.8i (5, CR) Year of manufacture 2007 - 2008",
+          "MAZDA 5 2.0 MZR-CD (5, CR) Year of manufacture 2008",
+          "MAZDA 5 2.0i (5, CR) Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-6n612c405aa-ate-06210906983-06210204774-2050-107240.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "6N61-2C405-AA",
+              "6N612C405AA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-0698.3",
+              "06210906983"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-0477.4",
+              "06210204774"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6 MZ-CD (3, BK) Year of manufacture 2007",
+          "MAZDA 3 1.6i (3, BK) Year of manufacture 2006 - 2008",
+          "MAZDA 3 2.0 Hatchback (3, BK) Year of manufacture 2006 - 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk60-%28dsc%29/mazda-6n612c405aa-ate-06210951533-06210204774-2050-122837.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "6N61-2C405-AA",
+              "6N612C405AA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-5153.3",
+              "06210951533"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-0477.4",
+              "06210204774"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "2050"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0044",
+            "fault_description": "Brake pressure sensor circuit A faulty"
+          },
+          {
+            "fault_code": "C1288",
+            "fault_description": "Pressure sensor - circuit faulty"
+          },
+          {
+            "fault_code": "U3000",
+            "fault_description": "Internal electronics failure"
+          },
+          {
+            "fault_description": "Error codes concerning various magnetic valves memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6i (3, BK) Year of manufacture 2009"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ESP MK61 (DSC)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk61+dsc-8668.ts1628722671.jpg",
+    "product_link": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit-107/mazda/abs-tcs-dsc-control-unit/esp-mk61-%28dsc%29-5096",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk61-%28dsc%29/mazda-8v612c405ad-ate-10096101063-10021203254-631080-123419.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "8V61-2C405-AD",
+              "8V612C405AD"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0106.3",
+              "10096101063"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0325.4",
+              "10021203254"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "631080"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6 MZR (3, BL) Year of manufacture 2009 - 2010",
+          "MAZDA 3 2.0 MZR (3, BL) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk61-%28dsc%29/mazda-8v612c405ae-ate-10096101103-10021203504-119175.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "8V61-2C405-AE",
+              "8V612C405AE"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0110.3",
+              "10096101103"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0350.4",
+              "10021203504"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6 MZ-CD (3, BL) Year of manufacture 2009",
+          "MAZDA 3 1.6 MZR (3, BL) Year of manufacture 2009 - 2010",
+          "MAZDA 3 2.0 MZR (3, BL) Year of manufacture 2009 - 2010",
+          "MAZDA 3 2.2 MZ-CD (3, BL) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk61-%28dsc%29/mazda-8v612c405af-ate-10096101113-10021204244-631080-113685.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "8V61-2C405-AF",
+              "8V612C405AF"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0111.3",
+              "10096101113"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0424.4",
+              "10021204244"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "631080"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6 MZ-CD (3, BL) Year of manufacture 2009 - 2010",
+          "MAZDA 3 1.6 MZR (3, BL) Year of manufacture 2000 - 2010",
+          "MAZDA 3 2.0 MZR (3, BL) Year of manufacture 2009 - 2010",
+          "MAZDA 3 2.0 MZR DISI (3, BL) Year of manufacture 2009",
+          "MAZDA 3 2.2 MZ-CD (3, BL) Year of manufacture 2009",
+          "MAZDA 3 2.2 MZR-CD (3, BL) Year of manufacture 2009",
+          "MAZDA 3 2.3 MPS (3, BL) Year of manufacture 2009",
+          "MAZDA (3, BL) Year of manufacture 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk61-%28dsc%29/mazda-8v612c405ag-ate-10096101153-10021204584-631080-133525.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "8V61-2C405-AG",
+              "8V612C405AG"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0115.3",
+              "10096101153"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0212-0458.4",
+              "10021204584"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "631080"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6 MZ-CD (3, BL) Year of manufacture 2009 - 2011",
+          "MAZDA 3 1.6 MZR (3, BL) Year of manufacture 2001 - 2011",
+          "MAZDA 3 2.0 MZR (3, BL) Year of manufacture 2001 - 2010",
+          "MAZDA 3 2.0 MZR DISI (3, BL) Year of manufacture 2009",
+          "MAZDA 3 2.2 MZR-CD (3, BL) Year of manufacture 2009 - 2010",
+          "MAZDA 3 2.3 MPS (3, BL) Year of manufacture 2009 - 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk61-%28dsc%29/mazda-8v612c405ca-ate-06210958573-06210216144-631080-116301.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "8V61-2C405-CA",
+              "8V612C405CA"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-5857.3",
+              "06210958573"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-1614.4",
+              "06210216144"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "631080"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6 MZR (3, BL) Year of manufacture 2010 - 2011",
+          "MAZDA 3 2.0 MZR (3, BL) Year of manufacture 2010 - 2011",
+          "MAZDA 3 2.2 MZR-CD (3, BL) Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk61-%28dsc%29/mazda-bfd1437azc-06261338301-ate-06210962683-06210220714-631080-135531.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BFD1-437AZ-C",
+              "BFD1437AZC"
+            ]
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "06.2613-3830.1",
+              "06261338301"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-6268.3",
+              "06210962683"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-2071.4",
+              "06210220714"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "631080"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 2.3 MPS (3, BL) Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk61-%28dsc%29/mazda-bfd2437az-ate-06210964423-06210221304-631080-125113.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "BFD2-437AZ",
+              "BFD2437AZ"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-6442.3",
+              "06210964423"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-2130.4",
+              "06210221304"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "631080"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 3 1.6 MZR (3, BL) Year of manufacture 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/mazda/abs-tcs-dsc-control-unit/esp-mk61-%28dsc%29/mazda-c513437azb-ate-06210959453-06210218024-631080-122890.html",
+        "part_numbers": [
+          {
+            "title": "MAZDA",
+            "numbers": []
+          },
+          {
+            "title": "MAZDA - Part number",
+            "numbers": [
+              "C513-437AZB",
+              "C513437AZB"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2109-5945.3",
+              "06210959453"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "06.2102-1802.4",
+              "06210218024"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "631080"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0020",
+            "fault_description": "ABS pump motor (faulty circuit)"
+          },
+          {
+            "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "MAZDA 5 1.6CW (5, CW) Year of manufacture 2012",
+          "MAZDA 5 2.0i (5, CW) Year of manufacture 2011 - 2012"
+        ]
+      }
+    ]
+  }
+]

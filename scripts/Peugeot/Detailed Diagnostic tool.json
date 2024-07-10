@@ -1,0 +1,69 @@
+[
+  {
+    "part_name": "Midtronics Battery Diag-tool EXP-925",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/midtronics+battery+diag+tool+exp+925-789103.ts1642578722.jpg",
+    "product_link": "https://ecu.eu/peugeot/diagnostic-tool-2973/peugeot/diagnostic-tool/midtronics-battery-diag-tool-exp-925-6850",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/peugeot/diagnostic-tool/midtronics-battery-diag-tool-exp-925/peugeot-midtronics-testerexp925-144114.html",
+        "part_numbers": [
+          {
+            "title": "PEUGEOT",
+            "numbers": []
+          },
+          {
+            "title": "Midtronics - Part number",
+            "numbers": [
+              "Tester EXP-925",
+              "TesterEXP925"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Date/time incorrect and do not change"
+          },
+          {
+            "fault_description": "internal temperature sensor shows wrong values"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  },
+  {
+    "part_name": "Testerkabel f\u00fcr EXP-925",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/testerkabel+fuer+exp+925-1131029.ts1660213752.jpg",
+    "product_link": "https://ecu.eu/peugeot/diagnostic-tool-2973/peugeot/diagnostic-tool/testerkabel-f%C3%BCr-exp-925-7013",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/peugeot/diagnostic-tool/testerkabel-f%C3%BCr-exp-925/peugeot-midtronics-testerkabelexp925-146683.html",
+        "part_numbers": [
+          {
+            "title": "PEUGEOT",
+            "numbers": []
+          },
+          {
+            "title": "Midtronics - Part number",
+            "numbers": [
+              "Testerkabel EXP-925",
+              "TesterkabelEXP925"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Tester always returns error message \"Test invalid, check terminals\"."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

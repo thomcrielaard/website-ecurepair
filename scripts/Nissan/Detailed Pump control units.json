@@ -1,0 +1,73 @@
+[
+  {
+    "part_name": "Pump control unit PSG5 (VP44)",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/pump+control+unit+psg5+vp44-401.ts1628718729.jpg",
+    "product_link": "https://ecu.eu/nissan/pump-control-units-6971/pump-control-unit-psg5-%28vp44%29-4145",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/pump-control-unit-psg5-%28vp44%29/nissan-psg5-bosch-0281001827-105313.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "PSG5"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 001 827",
+              "0281001827"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Engine stops while driving and doesn't start again"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "NISSAN Almera 2.2 dCi (N16) Year of manufacture 2000 - 2001",
+          "NISSAN Almera Tino 2.2 TD (V10) Year of manufacture 2001",
+          "NISSAN Patrol GR 3.0 TD (Y61) Year of manufacture 2000 - 2001",
+          "NISSAN Pickup 2.5 TD (D22) Year of manufacture 2002",
+          "NISSAN Terrano II 3.0 TD 4x4 (R20)"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/pump-control-unit-psg5-%28vp44%29/nissan-psg5-bosch-0281010888-105314.html",
+        "part_numbers": [
+          {
+            "title": "NISSAN - Part number",
+            "numbers": [
+              "PSG5"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 010 888",
+              "0281010888"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Engine stops while driving and doesn't start again"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "NISSAN Patrol GR 3.0 TD (Y61)",
+          "NISSAN Pickup 2.5 TD (D22) Year of manufacture 2004",
+          "NISSAN Terrano II 3.0 TD 4x4 (R20) Year of manufacture 2003"
+        ]
+      }
+    ]
+  }
+]

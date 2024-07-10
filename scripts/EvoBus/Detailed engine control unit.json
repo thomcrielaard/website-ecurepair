@@ -1,0 +1,979 @@
+[
+  {
+    "part_name": "PLD",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/pld-1776.ts1628711299.jpg",
+    "product_link": "https://ecu.eu/evobus/engine-control-unit-7038/evobus/engine-control-unit/pld-7040",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0004467240-temic-3x6403a3-146944.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "000 446 72 40",
+              "0004467240"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "3x6403A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0004467440-a0614466040-temic-146941.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "000 446 74 40",
+              "0004467440"
+            ]
+          },
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "A 061 446 60 40",
+              "A0614466040"
+            ]
+          },
+          {
+            "title": "TEMIC",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0004467440-a0704464840-temic-146942.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "000 446 74 40",
+              "0004467440"
+            ]
+          },
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "A 070 446 48 40",
+              "A0704464840"
+            ]
+          },
+          {
+            "title": "TEMIC",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0004467440-temic-00006351a9-146949.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "000 446 74 40",
+              "0004467440"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00006351A9"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0004467440-temic-00006351b0-149295.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "000 446 74 40",
+              "0004467440"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00006351B0"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0004467440-temic-00006351b1-146943.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "000 446 74 40",
+              "0004467440"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00006351B1"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0004468440-temic-00004647a3-146940.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "000 446 84 40",
+              "0004468440"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00004647A3"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0014462040-temic-00004646a4-146939.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "001 446 20 40",
+              "0014462040"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00004646A4"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0014466440-temic-00004646a7-146945.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "001 446 64 40",
+              "0014466440"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00004646A7"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0044462340-temic-00401442a6-146946.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "004 446 23 40",
+              "0044462340"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401442A6"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0054460640-temic-00401441a9-146947.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "005 446 06 40",
+              "0054460640"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401441A9"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0054460840-temic-00401441b1-146948.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "005 446 08 40",
+              "0054460840"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401441B1"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0054460840-temic-00401442b0-151552.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "005 446 08 40",
+              "0054460840"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401442B0"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0054460840-temic-00401442b2-146950.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "005 446 08 40",
+              "0054460840"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00401442B2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0074467740-temic-00406603b1-146951.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "007 446 77 40",
+              "0074467740"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00406603B1"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/evobus/engine-control-unit/pld/evobus-0074467740-temic-00406604a2-146952.html",
+        "part_numbers": [
+          {
+            "title": "EVOBUS - Part number",
+            "numbers": [
+              "007 446 77 40",
+              "0074467740"
+            ]
+          },
+          {
+            "title": "TEMIC - Part number",
+            "numbers": [
+              "00406604A2"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "04024",
+            "fault_description": "internal error"
+          },
+          {
+            "fault_code": "4806",
+            "fault_description": "The feedback of the plug-in pumps of bank 1 has a short circuit to ground."
+          },
+          {
+            "fault_code": "4906",
+            "fault_description": "The return of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_code": "07543",
+            "fault_description": "Battery voltage low"
+          },
+          {
+            "fault_description": "Brakdown of one entire cylinder bank"
+          },
+          {
+            "fault_description": "Faulty actuation of one or more unit pumps"
+          },
+          {
+            "fault_description": "the 16-pole connector is broken"
+          },
+          {
+            "fault_description": "the 55-pin connector is broken"
+          },
+          {
+            "fault_code": "15026",
+            "fault_description": "plug-in pump for cyl. 1: valve no impactand15126plug-in pump for cyl. 2: valve no impactand15226plug-in pump for cyl. 3: valve no impactand24806The return of the plug-in pumps of bank 1 has a short circuit to ground"
+          },
+          {
+            "fault_code": "15326",
+            "fault_description": "Plug-in pump for cylinder 4: Valve no impactand15426Plug-in pump for cylinder 5: Valve no impactand15526Pump plug for cylinder 6: no percussion of valveand24906The feedback of the plug-in pumps of bank 2 has a short circuit to ground"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

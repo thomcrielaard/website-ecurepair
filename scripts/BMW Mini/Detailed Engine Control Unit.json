@@ -1,0 +1,2011 @@
+[
+  {
+    "part_name": "EDC15C4",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc15c4-378.ts1628718728.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/engine-control-unit-3738/bmw-mini/engine-control-unit/edc15c4-4618",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/edc15c4/bmw-mini-dde7792544-bosch-0281011085-109432.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "DDE7792544"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 011 085",
+              "0281011085"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code for various actuators memorised and non-erasable"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI One 1.4 d Year of manufacture 2004 - 2005"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "EDC16C35",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c35-171593.ts1628719312.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/engine-control-unit-3738/bmw-mini/engine-control-unit/edc16c35-6703",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/edc16c35/bmw-mini-dde7799152-bosch-0281012216-123779.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "DDE 7 799 152",
+              "DDE7799152"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 012 216",
+              "0281012216"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "46D1",
+            "fault_description": "control unit internal error (cannot be cleared)"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI One 1.4 d Year of manufacture 2006",
+          "BMW MINI One 1.4d Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/edc16c35/bmw-mini-dde7808454-bosch-0281012722-136540.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "DDE 7 808 454",
+              "DDE7808454"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "0 281 012 722",
+              "0281012722"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "46D1",
+            "fault_description": "control unit internal error (cannot be cleared)"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper D Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/edc16c35/bmw-mini-dde7809794-bosch-0281014856-127111.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "DDE7809794"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 014 856",
+              "0281014856"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "46D1",
+            "fault_description": "control unit internal error (cannot be cleared)"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper D Year of manufacture 2007 - 2008",
+          "BMW MINI Cooper D Clubman Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/edc16c35/bmw-mini-dde7810909-bosch-0281015233-125943.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "DDE 7 810 909",
+              "DDE7810909"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 015 233",
+              "0281015233"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "46D1",
+            "fault_description": "control unit internal error (cannot be cleared)"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper D Year of manufacture 2008",
+          "BMW MINI Cooper D Clubman Year of manufacture 2008 - 2009"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/edc16c35/bmw-mini-dde7823934-bosch-0281015233-120554.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "DDE 7 823 934",
+              "DDE7823934"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 281 015 233",
+              "0281015233"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "46D1",
+            "fault_description": "control unit internal error (cannot be cleared)"
+          },
+          {
+            "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+          },
+          {
+            "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper D Year of manufacture 2009 - 2010",
+          "BMW MINI One 1.6 Year of manufacture 2009 - 2010"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "EMS2K",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ems2k-5951.ts1628718749.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/engine-control-unit-3738/bmw-mini/engine-control-unit/ems2k-3740",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7513981-siemens-s118012001h-109401.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7513981"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S118012001 H",
+              "S118012001H"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7513983-siemens-s118012001k-130980.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7513983"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S118012001 K",
+              "S118012001K"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7514587-siemens-s118012001i-113959.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7514587"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S118012001 I",
+              "S118012001I"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini One 1.6i Year of manufacture 2001 - 2002",
+          "BMW MINI Mini One 1.6i (One, R50) Engine code W10B16A",
+          "BMW MINI One 1.6i Year of manufacture 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7520019-siemens-s118012001l-109395.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7520019"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S118012001 L",
+              "S118012001L"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2002",
+          "BMW MINI Mini Cooper 1.6 (Cooper, R50) Engine code W10B16A",
+          "BMW MINI Mini One 1.6i Year of manufacture 2002"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7520019-siemens-s118012001m-109402.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7520019"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S118012001 M",
+              "S118012001M"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Mini One 1.6i Year of manufacture 2003"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7526784-siemens-s118012001m-109396.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7526784"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S118012001 M",
+              "S118012001M"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7527610-siemens-s118012001n-109398.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7527610"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S118012001 N",
+              "S118012001N"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper 1.6 Year of manufacture 2003",
+          "BMW MINI Cooper S Year of manufacture 2012",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2003 - 2004",
+          "BMW MINI Mini Cooper 1.6 (Cooper, R50) Year of manufacture 2004 Engine code W10B16A",
+          "BMW MINI One 1.6i Year of manufacture 2003 - 2004",
+          "BMW MINI One 1.6i (One, R50) Year of manufacture 2003 Engine code W10B16A"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7542310-siemens-s118012003b-109399.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7542310"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S118012003 B",
+              "S118012003B"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Cabrio 1.6 Year of manufacture 2004",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2004 - 2005",
+          "BMW MINI One 1.6i Year of manufacture 2004"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7545789-siemens-s122237002a-109400.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7545789"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S122237002 A",
+              "S122237002A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Cabrio 1.6 Year of manufacture 2005",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7553735-siemens-s122237005a-113958.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7553735"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S122237005 A",
+              "S122237005A"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Cabrio 1.6 Year of manufacture 2005",
+          "BMW MINI Cooper S",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2005",
+          "BMW MINI One 1.6i Year of manufacture 2005"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7557395-siemens-s122237006b-109397.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7557395"
+            ]
+          },
+          {
+            "title": "Siemens - Part number",
+            "numbers": [
+              "S122237006 B",
+              "S122237006B"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper 1.6 Year of manufacture 2006",
+          "BMW MINI Cooper Cabrio 1.6 Year of manufacture 2005 - 2008",
+          "BMW MINI Cooper Cabrio 1.6 (Cooper Cabrio, R52) Year of manufacture 2006 Engine code W10B16A",
+          "BMW MINI Cooper S Year of manufacture 2005 - 2006",
+          "BMW MINI Cooper S Cabrio 1.6i Year of manufacture 2007 - 2008",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2005 - 2006",
+          "BMW MINI Cooper S Cabrio (Mini Cabrio, R52) Year of manufacture 2004 Engine code W11B16A",
+          "BMW MINI Cooper S JCW Cabrio 1.6i Year of manufacture 2006",
+          "BMW MINI John Cooper Works Year of manufacture 2006",
+          "BMW MINI John Cooper Works (Cooper, R53) Year of manufacture 2004 Engine code W11B16A",
+          "BMW MINI Mini Cooper 1.6 Year of manufacture 2005 - 2006",
+          "BMW MINI Mini One Cabrio Year of manufacture 2006 - 2008",
+          "BMW MINI Mini One Cabrio (One Cabrio, R52) Engine code W10B16A",
+          "BMW MINI One 1.6i Year of manufacture 2005 - 2007",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2006"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "MED17.2",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/med17+2-186423.ts1628719427.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/engine-control-unit-3738/bmw-mini/engine-control-unit/med17.2-3741",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7584113-bosch-0261s04163-120520.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 584 113",
+              "7584113"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S04 163",
+              "0261S04163"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2008",
+          "BMW MINI Cooper S Clubman Year of manufacture 2007 - 2008",
+          "BMW MINI Cooper S Clubman (Cooper Clubman, R55) Year of manufacture 2007 Engine code N14B16A"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7586134-bosch-0261s04363-123391.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 586 134",
+              "7586134"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S04 363",
+              "0261S04363"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2008 - 2009",
+          "BMW MINI Cooper S Clubman Year of manufacture 2008"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7587548-bosch-0261s04442-119815.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 587 548",
+              "7587548"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S04 442",
+              "0261S04442"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2007 - 2010",
+          "BMW MINI Cooper S Cabrio 1.6i Year of manufacture 2009 - 2010",
+          "BMW MINI Cooper S Clubman Year of manufacture 2008 - 2010",
+          "BMW MINI Cooper S Clubman (Cooper Clubman, R55) Engine code N14B16A",
+          "BMW MINI Cooper S (Cooper, R56) Engine code N14B16A"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7590857-bosch-0261s04443-121054.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 590 857",
+              "7590857"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S04 443",
+              "0261S04443"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2009",
+          "BMW MINI Cooper S Clubman JCW Year of manufacture 2009 - 2012",
+          "BMW MINI Cooper S JCW Year of manufacture 2008 - 2012",
+          "BMW MINI Cooper S JCW (Cooper, R56) Engine code N14B16C",
+          "BMW MINI John Cooper Works Cabrio",
+          "BMW MINI John Cooper Works Coupe Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7610006-bosch-0261201306-136159.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 610 006",
+              "7610006"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 201 306",
+              "0261201306"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2006"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7610009-bosch-0261201600-119835.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 610 009",
+              "7610009"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 201 600",
+              "0261201600"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2006 - 2007",
+          "BMW MINI Cooper S (Cooper, R56) Year of manufacture 2007 Engine code N14B16A"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7610011-bosch-0261201969-121052.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 610 011",
+              "7610011"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 201 969",
+              "0261201969"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7610081-bosch-0261201708-121053.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 610 081",
+              "7610081"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 201 708",
+              "0261201708"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2006 - 2007",
+          "BMW MINI Cooper S (Cooper, R56) Year of manufacture 2006 Engine code N14B16A"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7610105-bosch-0261201515-147862.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 610 105",
+              "7610105"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 201 515",
+              "0261201515"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2007"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7641003-bosch-0261s04158-121051.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 641 003",
+              "7641003"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S04 158",
+              "0261S04158"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2007",
+          "BMW MINI Cooper S Clubman Year of manufacture 2007",
+          "BMW MINI Cooper S (Cooper, R56) Engine code N14B16A"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "MEV17.2.2",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mev17+2+2-186423.ts1628719427.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/engine-control-unit-3738/bmw-mini/engine-control-unit/mev17.2.2-5863",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-7607685-bosch-0261s06125-119640.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 607 685",
+              "7607685"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S06 125",
+              "0261S06125"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2010",
+          "BMW MINI Cooper Cabrio Year of manufacture 2010",
+          "BMW MINI Cooper Clubman Year of manufacture 2010",
+          "BMW MINI One Year of manufacture 2010",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-7615981-bosch-0261s06541-121752.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 615 981",
+              "7615981"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S06 541",
+              "0261S06541"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2010",
+          "BMW MINI Cooper Cabrio Year of manufacture 2010",
+          "BMW MINI Cooper Clubman Year of manufacture 2010",
+          "BMW MINI One Year of manufacture 2010 - 2011",
+          "BMW MINI One Countryman Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-7619335-bosch-0261s06662-126831.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 619 335",
+              "7619335"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S06 662",
+              "0261S06662"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2010 - 2011",
+          "BMW MINI One Countryman Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-7620987-bosch-0261s06663-119512.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 620 987",
+              "7620987"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S06 663",
+              "0261S06663"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2011",
+          "BMW MINI Cooper Cabrio Year of manufacture 2011",
+          "BMW MINI Cooper (Cooper, R56) Year of manufacture 2011 Engine code N16B16A",
+          "BMW MINI Cooper Countryman Year of manufacture 2011",
+          "BMW MINI One",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-7627520-bosch-0261s07212-119513.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 627 520",
+              "7627520"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S07 212",
+              "0261S07212"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2011",
+          "BMW MINI Cooper Cabrio Year of manufacture 2011 - 2012",
+          "BMW MINI Cooper Cabrio (Cooper, R57) Engine code N16B16A",
+          "BMW MINI Cooper Countryman Year of manufacture 2011 - 2012",
+          "BMW MINI One Year of manufacture 2011",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2011",
+          "BMW MINI One (One, R56) Year of manufacture 2011 Engine code N16B16A"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-7638322-bosch-0261s07955-119486.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 638 322",
+              "7638322"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S07 955",
+              "0261S07955"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2012",
+          "BMW MINI Cooper Cabrio Year of manufacture 2012 - 2013",
+          "BMW MINI One Year of manufacture 2012",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-8600124-bosch-0261s08678-128726.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "8 600 124",
+              "8600124"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S08 678",
+              "0261S08678"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2013",
+          "BMW MINI Cooper Clubman Year of manufacture 2012 - 2013",
+          "BMW MINI Cooper Countryman Year of manufacture 2013",
+          "BMW MINI Cooper Coupe Year of manufacture 2013",
+          "BMW MINI One Year of manufacture 2012 - 2013",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2013",
+          "BMW MINI One Countryman Year of manufacture 2012 - 2013",
+          "BMW MINI One (One, R56) Year of manufacture 2012 Engine code N16B16A"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-8617050-bosch-0261s09706-128562.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "8 617 050",
+              "8617050"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S09 706",
+              "0261S09706"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2014",
+          "BMW MINI One Year of manufacture 2013 - 2014",
+          "BMW MINI One Cabrio 1.6 Year of manufacture 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-8625068-bosch-0261s10129-144847.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "8 625 068",
+              "8625068"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S10 129",
+              "0261S10129"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Year of manufacture 2010",
+          "BMW MINI Cooper Countryman Year of manufacture 2014",
+          "BMW MINI One Countryman Year of manufacture 2012 - 2014"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-8652745-bosch-0261s13661-147551.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "8 652 745",
+              "8652745"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S13 661",
+              "0261S13661"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "2BD2",
+            "fault_description": "Voltage supply to Sensor 1 out of range"
+          },
+          {
+            "fault_code": "2BD3",
+            "fault_description": "Power supply sensors 2 out of range"
+          },
+          {
+            "fault_code": "2BD4",
+            "fault_description": "Power supply sensors 3 out of range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper Countryman ALL4 Year of manufacture 2016"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "MEVD17.2.x",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mevd17+2+x-186423.ts1628719427.jpg",
+    "product_link": "https://ecu.eu/bmw-mini/engine-control-unit-3738/bmw-mini/engine-control-unit/mevd17.2.x-6158",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7612190-bosch-0261s06340-122071.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 612 190",
+              "7612190"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S06 340",
+              "0261S06340"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "36E2",
+            "fault_description": "Monitoring 5V sensor supply: voltage outside valid range"
+          },
+          {
+            "fault_code": "36E3",
+            "fault_description": "Monitoring 5V sensor supply 2: Voltage outside valid range"
+          },
+          {
+            "fault_code": "36E4",
+            "fault_description": "Monitoring 5V sensor supply 3: Voltage outside valid range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2010",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2010",
+          "BMW MINI Cooper S Clubman Year of manufacture 2010",
+          "BMW MINI Cooper S (Cooper, R56) Year of manufacture 2010 Engine code N18B16A"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7613226-bosch-0261s06382-122072.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 613 226",
+              "7613226"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S06 382",
+              "0261S06382"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "36E2",
+            "fault_description": "Monitoring 5V sensor supply: voltage outside valid range"
+          },
+          {
+            "fault_code": "36E3",
+            "fault_description": "Monitoring 5V sensor supply 2: Voltage outside valid range"
+          },
+          {
+            "fault_code": "36E4",
+            "fault_description": "Monitoring 5V sensor supply 3: Voltage outside valid range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2010",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2010"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7619333-bosch-0261s06658-130505.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 619 333",
+              "7619333"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S06 658",
+              "0261S06658"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "36E2",
+            "fault_description": "Monitoring 5V sensor supply: voltage outside valid range"
+          },
+          {
+            "fault_code": "36E3",
+            "fault_description": "Monitoring 5V sensor supply 2: Voltage outside valid range"
+          },
+          {
+            "fault_code": "36E4",
+            "fault_description": "Monitoring 5V sensor supply 3: Voltage outside valid range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2011",
+          "BMW MINI Cooper S Countryman Year of manufacture 2011",
+          "BMW MINI Cooper S Countryman ALL4 Year of manufacture 2010 - 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7620984-bosch-0261s06661-152832.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 620 984",
+              "7620984"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S06 661",
+              "0261S06661"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "36E2",
+            "fault_description": "Monitoring 5V sensor supply: voltage outside valid range"
+          },
+          {
+            "fault_code": "36E3",
+            "fault_description": "Monitoring 5V sensor supply 2: Voltage outside valid range"
+          },
+          {
+            "fault_code": "36E4",
+            "fault_description": "Monitoring 5V sensor supply 3: Voltage outside valid range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7620985-bosch-0261s06659-121947.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 620 985",
+              "7620985"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S06 659",
+              "0261S06659"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "36E2",
+            "fault_description": "Monitoring 5V sensor supply: voltage outside valid range"
+          },
+          {
+            "fault_code": "36E3",
+            "fault_description": "Monitoring 5V sensor supply 2: Voltage outside valid range"
+          },
+          {
+            "fault_code": "36E4",
+            "fault_description": "Monitoring 5V sensor supply 3: Voltage outside valid range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2011",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2001 - 2012",
+          "BMW MINI Cooper S Cabrio (Cooper, R57) Engine code N18B16A",
+          "BMW MINI Cooper S Clubman Year of manufacture 2010 - 2011",
+          "BMW MINI Cooper S (Cooper, R56) Engine code N18B16A",
+          "BMW MINI Cooper S Countryman Year of manufacture 2011 - 2012",
+          "BMW MINI Cooper S Countryman ALL4 Year of manufacture 2011",
+          "BMW MINI Cooper S Coupe Year of manufacture 2011"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7639049-bosch-0261s08046-144584.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 639 049",
+              "7639049"
+            ]
+          },
+          {
+            "title": "BOSCH - Part number",
+            "numbers": [
+              "0 261 S08 046",
+              "0261S08046"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "36E2",
+            "fault_description": "Monitoring 5V sensor supply: voltage outside valid range"
+          },
+          {
+            "fault_code": "36E3",
+            "fault_description": "Monitoring 5V sensor supply 2: Voltage outside valid range"
+          },
+          {
+            "fault_code": "36E4",
+            "fault_description": "Monitoring 5V sensor supply 3: Voltage outside valid range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2017",
+          "BMW MINI Cooper S Clubman Year of manufacture 2010",
+          "BMW MINI Cooper S Countryman ALL4 Year of manufacture 2010",
+          "BMW MINI Cooper S Roadster Year of manufacture 2012"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7639421-bosch-0261s07739-132841.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 639 421",
+              "7639421"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S07 739",
+              "0261S07739"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "36E2",
+            "fault_description": "Monitoring 5V sensor supply: voltage outside valid range"
+          },
+          {
+            "fault_code": "36E3",
+            "fault_description": "Monitoring 5V sensor supply 2: Voltage outside valid range"
+          },
+          {
+            "fault_code": "36E4",
+            "fault_description": "Monitoring 5V sensor supply 3: Voltage outside valid range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2012",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2012",
+          "BMW MINI Cooper S Countryman ALL4 Year of manufacture 2012",
+          "BMW MINI Cooper S Coupe Year of manufacture 2012",
+          "BMW MINI Cooper S Roadster Year of manufacture 2010 - 2012",
+          "BMW MINI Cooper S Roadster (Cooper, R59) Engine code N18B16A"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7648190-bosch-0261s08557-137597.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "7 648 190",
+              "7648190"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S08 557",
+              "0261S08557"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "36E2",
+            "fault_description": "Monitoring 5V sensor supply: voltage outside valid range"
+          },
+          {
+            "fault_code": "36E3",
+            "fault_description": "Monitoring 5V sensor supply 2: Voltage outside valid range"
+          },
+          {
+            "fault_code": "36E4",
+            "fault_description": "Monitoring 5V sensor supply 3: Voltage outside valid range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2012 - 2013",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2012 - 2013",
+          "BMW MINI Cooper S Clubman Year of manufacture 2012 - 2013",
+          "BMW MINI Cooper S Countryman Year of manufacture 2013",
+          "BMW MINI Cooper S Countryman ALL4 Year of manufacture 2012",
+          "BMW MINI Cooper S JCW Year of manufacture 2012",
+          "BMW MINI Cooper S Roadster Year of manufacture 2013",
+          "BMW MINI John Cooper Works Countryman Year of manufacture 2013"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-8610006-bosch-0261s09291-135087.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "8 610 006",
+              "8610006"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S09 291",
+              "0261S09291"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "36E2",
+            "fault_description": "Monitoring 5V sensor supply: voltage outside valid range"
+          },
+          {
+            "fault_code": "36E3",
+            "fault_description": "Monitoring 5V sensor supply 2: Voltage outside valid range"
+          },
+          {
+            "fault_code": "36E4",
+            "fault_description": "Monitoring 5V sensor supply 3: Voltage outside valid range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2012 - 2015",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2013 - 2014",
+          "BMW MINI Cooper S Clubman Year of manufacture 2013",
+          "BMW MINI Cooper S Countryman Year of manufacture 2013",
+          "BMW MINI Cooper S JCW Year of manufacture 2013",
+          "BMW MINI Cooper S Roadster Year of manufacture 2016",
+          "BMW MINI Paceman Cooper S ALL4 Year of manufacture 2013 - 2014",
+          "BMW MINI Paceman Cooper S ALL4 (Paceman, R61) Engine code N18B16A"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-8621260-bosch-0261s09942-129410.html",
+        "part_numbers": [
+          {
+            "title": "BMW MINI - Part number",
+            "numbers": [
+              "8 621 260",
+              "8621260"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 261 S09 942",
+              "0261S09942"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "36E2",
+            "fault_description": "Monitoring 5V sensor supply: voltage outside valid range"
+          },
+          {
+            "fault_code": "36E3",
+            "fault_description": "Monitoring 5V sensor supply 2: Voltage outside valid range"
+          },
+          {
+            "fault_code": "36E4",
+            "fault_description": "Monitoring 5V sensor supply 3: Voltage outside valid range"
+          },
+          {
+            "fault_description": "No communication possible with the ecu"
+          },
+          {
+            "fault_description": "No ignition spark on one cylinder"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MINI Cooper S Year of manufacture 2016",
+          "BMW MINI Cooper S Cabrio Year of manufacture 2014 - 2015",
+          "BMW MINI Cooper S Countryman Year of manufacture 2014",
+          "BMW MINI Cooper S Countryman ALL4 Year of manufacture 2014 - 2015"
+        ]
+      }
+    ]
+  }
+]

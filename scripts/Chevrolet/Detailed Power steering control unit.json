@@ -1,0 +1,93 @@
+[
+  {
+    "part_name": "Aveo (T300) electric power steering wheel",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/aveo+t300+electric+power+steering+wheel-390655.ts1628716810.jpg",
+    "product_link": "https://ecu.eu/chevrolet/power-steering-control-unit-2839/chevrolet/power-steering-control-unit/aveo-%28t300%29-electric-power-steering-wheel-6385",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/chevrolet/power-steering-control-unit/aveo-%28t300%29-electric-power-steering-wheel/chevrolet-95249783-delphi-2823594603g-blm049-139135.html",
+        "part_numbers": [
+          {
+            "title": "Chevrolet - Part number",
+            "numbers": [
+              "95249783"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "28235946 03G",
+              "2823594603G"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "BLM049"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0545",
+            "fault_description": "Torque sensor"
+          },
+          {
+            "fault_code": "C0550",
+            "fault_description": "Ecu internal error"
+          },
+          {
+            "fault_description": "Steering assistance fails completely in cold weather"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/chevrolet/power-steering-control-unit/aveo-%28t300%29-electric-power-steering-wheel/chevrolet-95421251-delphi-28235946002-blm049-139117.html",
+        "part_numbers": [
+          {
+            "title": "Chevrolet - Part number",
+            "numbers": [
+              "95421251"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "28235946 002",
+              "28235946002"
+            ]
+          },
+          {
+            "title": "DELPHI - Part number",
+            "numbers": [
+              "BLM049"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "C0545",
+            "fault_description": "Torque sensor"
+          },
+          {
+            "fault_code": "C0550",
+            "fault_description": "Ecu internal error"
+          },
+          {
+            "fault_description": "Steering assistance fails completely in cold weather"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "Chevrolet (T300) Year of manufacture 2012"
+        ]
+      }
+    ]
+  }
+]

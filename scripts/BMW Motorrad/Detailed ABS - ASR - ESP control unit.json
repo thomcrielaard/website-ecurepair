@@ -1,0 +1,636 @@
+[
+  {
+    "part_name": "ABS 8.0",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+8+0-4104.ts1628718748.jpg",
+    "product_link": "https://ecu.eu/abs-asr-esp-control-unit-220/abs-asr-esp-control-unit/abs-8.0-6618",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/abs-asr-esp-control-unit/abs-8.0/bmw-motorrad-7699065-bosch-0265800497-0265231021-703-140225.html",
+        "part_numbers": [
+          {
+            "title": "BMW MOTORRAD",
+            "numbers": []
+          },
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7699065"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 497",
+              "0265800497"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 021",
+              "0265231021"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "703"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MOTORRAD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/abs-asr-esp-control-unit/abs-8.0/bmw-motorrad-7711209-bosch-0265800627-0265231073-702-127295.html",
+        "part_numbers": [
+          {
+            "title": "BMW MOTORRAD",
+            "numbers": []
+          },
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7711209"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 627",
+              "0265800627"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 073",
+              "0265231073"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "702"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/abs-asr-esp-control-unit/abs-8.0/bmw-motorrad-7711210-bosch-0265800628-0265231075-703-127379.html",
+        "part_numbers": [
+          {
+            "title": "BMW MOTORRAD",
+            "numbers": []
+          },
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7711210"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 800 628",
+              "0265800628"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "0 265 231 075",
+              "0265231075"
+            ]
+          },
+          {
+            "title": "Bosch - Part number",
+            "numbers": [
+              "703"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Error code valve relay memorised"
+          },
+          {
+            "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+          },
+          {
+            "fault_description": "No communication with the ESP ecu possible"
+          },
+          {
+            "fault_description": "Pump motor runs permanently"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MOTORRAD"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ABS AB01.5 / AB02.5",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+ab01+5+ab02+5-806.ts1628722660.jpg",
+    "product_link": "https://ecu.eu/abs-asr-esp-control-unit-220/abs-asr-esp-control-unit/abs-ab01.5-ab02.5-4522",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/abs-asr-esp-control-unit/abs-ab01.5-ab02.5/bmw-motorrad-1459699-hella-5sd00558300-104023.html",
+        "part_numbers": [
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "1 459 699",
+              "1459699"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5SD 005 583-00",
+              "5SD00558300"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "7",
+            "fault_description": "ABS control unit (intermittent or permanent error)"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MOTORRAD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/abs-asr-esp-control-unit/abs-ab01.5-ab02.5/bmw-motorrad-1459699-hella-5sd00558302-1482.html",
+        "part_numbers": [
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "1 459 699",
+              "1459699"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5SD 005 583-02",
+              "5SD00558302"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "7",
+            "fault_description": "ABS control unit (intermittent or permanent error)"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/abs-asr-esp-control-unit/abs-ab01.5-ab02.5/bmw-motorrad-1459924-hella-5sd00558301-109213.html",
+        "part_numbers": [
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "1 459 924",
+              "1459924"
+            ]
+          },
+          {
+            "title": "HELLA - Part number",
+            "numbers": [
+              "5SD 005 583-01",
+              "5SD00558301"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "7",
+            "fault_description": "ABS control unit (intermittent or permanent error)"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MOTORRAD"
+        ]
+      }
+    ]
+  },
+  {
+    "part_name": "ABS MK61",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+mk61-5139.ts1628722665.jpg",
+    "product_link": "https://ecu.eu/abs-asr-esp-control-unit-220/abs-asr-esp-control-unit/abs-mk61-4523",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/abs-asr-esp-control-unit/abs-mk61/bmw-motorrad-7682002-7707617-ate-10096108593-10021450034-re0001-108187.html",
+        "part_numbers": [
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7682002"
+            ]
+          },
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7707617"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0859.3",
+              "10096108593"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0214-5003.4",
+              "10021450034"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "RE0001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF0",
+            "fault_description": "Pump motor voltage supply (24048)"
+          },
+          {
+            "fault_code": "5DF1",
+            "fault_description": "Pump motor power supply (24049)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MOTORRAD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/abs-asr-esp-control-unit/abs-mk61/bmw-motorrad-7682002-7711978-ate-10096108593-10021450084-re0001-119164.html",
+        "part_numbers": [
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7682002"
+            ]
+          },
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7711978"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0859.3",
+              "10096108593"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0214-5008.4",
+              "10021450084"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "RE0001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF0",
+            "fault_description": "Pump motor voltage supply (24048)"
+          },
+          {
+            "fault_code": "5DF1",
+            "fault_description": "Pump motor power supply (24049)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MOTORRAD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/abs-asr-esp-control-unit/abs-mk61/bmw-motorrad-7682002-7715107-ate-10096108593-10021450094-re0001-128418.html",
+        "part_numbers": [
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7682002"
+            ]
+          },
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7715107"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0859.3",
+              "10096108593"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0214-5009.4",
+              "10021450094"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "RE0001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF0",
+            "fault_description": "Pump motor voltage supply (24048)"
+          },
+          {
+            "fault_code": "5DF1",
+            "fault_description": "Pump motor power supply (24049)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/abs-asr-esp-control-unit/abs-mk61/bmw-motorrad-7682002-7715107-ate-10096108633-10021450094-rb0001-113689.html",
+        "part_numbers": [
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7682002"
+            ]
+          },
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7715107"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0863.3",
+              "10096108633"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0214-5009.4",
+              "10021450094"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "RB0001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF0",
+            "fault_description": "Pump motor voltage supply (24048)"
+          },
+          {
+            "fault_code": "5DF1",
+            "fault_description": "Pump motor power supply (24049)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MOTORRAD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/abs-asr-esp-control-unit/abs-mk61/bmw-motorrad-7704436-7705387-ate-10096108333-10021450024-re0001-108188.html",
+        "part_numbers": [
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7704436"
+            ]
+          },
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7705387"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0833.3",
+              "10096108333"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0214-5002.4",
+              "10021450024"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "RE0001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF0",
+            "fault_description": "Pump motor voltage supply (24048)"
+          },
+          {
+            "fault_code": "5DF1",
+            "fault_description": "Pump motor power supply (24049)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MOTORRAD"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/abs-asr-esp-control-unit/abs-mk61/bmw-motorrad-7707617-7707617-34517715109-ate-10096108473-10021450034-re0001-108186.html",
+        "part_numbers": [
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7707617"
+            ]
+          },
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "7707617"
+            ]
+          },
+          {
+            "title": "BMW MOTORRAD - Part number",
+            "numbers": [
+              "3451 7715109",
+              "34517715109"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0961-0847.3",
+              "10096108473"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "10.0214-5003.4",
+              "10021450034"
+            ]
+          },
+          {
+            "title": "ATE - Part number",
+            "numbers": [
+              "RE0001"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "5DF0",
+            "fault_description": "Pump motor voltage supply (24048)"
+          },
+          {
+            "fault_code": "5DF1",
+            "fault_description": "Pump motor power supply (24049)"
+          },
+          {
+            "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+          },
+          {
+            "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units -only on request!"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "BMW MOTORRAD"
+        ]
+      }
+    ]
+  }
+]

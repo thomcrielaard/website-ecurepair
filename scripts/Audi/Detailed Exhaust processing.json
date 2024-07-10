@@ -1,0 +1,398 @@
+[
+  {
+    "part_name": "SCR ECU",
+    "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/scr+ecu-625292.ts1635324876.jpg",
+    "product_link": "https://ecu.eu/audi/exhaust-processing-6806/audi/exhaust-processing/scr-ecu-6807",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/audi/exhaust-processing/scr-ecu/audi-4m0907355-helbako-7920006ab-141767.html",
+        "part_numbers": [
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4M0 907 355",
+              "4M0907355"
+            ]
+          },
+          {
+            "title": "Helbako - Part number",
+            "numbers": [
+              "7920006AB"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "0003",
+            "fault_description": "Control unit for reducing agent metering system - Power supply electrical fault"
+          },
+          {
+            "fault_code": "0016",
+            "fault_description": "Supply voltage - Voltage too high"
+          },
+          {
+            "fault_code": "0018",
+            "fault_description": "Functional restriction - due to overvoltage"
+          },
+          {
+            "fault_code": "0512",
+            "fault_description": "Encoder for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "0514",
+            "fault_description": "Sensor for power supply 1"
+          },
+          {
+            "fault_code": "0521",
+            "fault_description": "Sensor for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "327946",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "B2000",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P06B1",
+            "fault_description": "Sensor for power supply 1"
+          },
+          {
+            "fault_code": "P06B2",
+            "fault_description": "Encoder for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "P21CA",
+            "fault_description": "Control unit for reducing agent dosing system - voltage supply electrical fault"
+          },
+          {
+            "fault_code": "U1012",
+            "fault_description": "Supply voltage - Voltage too high"
+          },
+          {
+            "fault_code": "U1401",
+            "fault_description": "functional limitation due to overvoltage - sporadic"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "AUDI (A4) Year of manufacture 16 - 2017"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/audi/exhaust-processing/scr-ecu/audi-4m0907355b-helbako-7920006kb-141764.html",
+        "part_numbers": [
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4M0 907 355 B",
+              "4M0907355B"
+            ]
+          },
+          {
+            "title": "Helbako - Part number",
+            "numbers": [
+              "7920006KB"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "0003",
+            "fault_description": "Control unit for reducing agent metering system - Power supply electrical fault"
+          },
+          {
+            "fault_code": "0016",
+            "fault_description": "Supply voltage - Voltage too high"
+          },
+          {
+            "fault_code": "0018",
+            "fault_description": "Functional restriction - due to overvoltage"
+          },
+          {
+            "fault_code": "0512",
+            "fault_description": "Encoder for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "0514",
+            "fault_description": "Sensor for power supply 1"
+          },
+          {
+            "fault_code": "0521",
+            "fault_description": "Sensor for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "327946",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "B2000",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P06B1",
+            "fault_description": "Sensor for power supply 1"
+          },
+          {
+            "fault_code": "P06B2",
+            "fault_description": "Encoder for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "P21CA",
+            "fault_description": "Control unit for reducing agent dosing system - voltage supply electrical fault"
+          },
+          {
+            "fault_code": "U1012",
+            "fault_description": "Supply voltage - Voltage too high"
+          },
+          {
+            "fault_code": "U1401",
+            "fault_description": "functional limitation due to overvoltage - sporadic"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "AUDI (A4) Year of manufacture 2011 - 2018"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/audi/exhaust-processing/scr-ecu/audi-4m0907355d-helbako-141765.html",
+        "part_numbers": [
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4M0 907 355 D",
+              "4M0907355D"
+            ]
+          },
+          {
+            "title": "Helbako",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "0003",
+            "fault_description": "Control unit for reducing agent metering system - Power supply electrical fault"
+          },
+          {
+            "fault_code": "0016",
+            "fault_description": "Supply voltage - Voltage too high"
+          },
+          {
+            "fault_code": "0018",
+            "fault_description": "Functional restriction - due to overvoltage"
+          },
+          {
+            "fault_code": "0512",
+            "fault_description": "Encoder for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "0514",
+            "fault_description": "Sensor for power supply 1"
+          },
+          {
+            "fault_code": "0521",
+            "fault_description": "Sensor for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "327946",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "B2000",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P06B1",
+            "fault_description": "Sensor for power supply 1"
+          },
+          {
+            "fault_code": "P06B2",
+            "fault_description": "Encoder for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "P21CA",
+            "fault_description": "Control unit for reducing agent dosing system - voltage supply electrical fault"
+          },
+          {
+            "fault_code": "U1012",
+            "fault_description": "Supply voltage - Voltage too high"
+          },
+          {
+            "fault_code": "U1401",
+            "fault_description": "functional limitation due to overvoltage - sporadic"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": [
+          "AUDI (A4) Year of manufacture 2017 - 2020"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/audi/exhaust-processing/scr-ecu/audi-4m0907355e-helbako-141766.html",
+        "part_numbers": [
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4M0 907 355 E",
+              "4M0907355E"
+            ]
+          },
+          {
+            "title": "Helbako",
+            "numbers": []
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "0003",
+            "fault_description": "Control unit for reducing agent metering system - Power supply electrical fault"
+          },
+          {
+            "fault_code": "0016",
+            "fault_description": "Supply voltage - Voltage too high"
+          },
+          {
+            "fault_code": "0018",
+            "fault_description": "Functional restriction - due to overvoltage"
+          },
+          {
+            "fault_code": "0512",
+            "fault_description": "Encoder for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "0514",
+            "fault_description": "Sensor for power supply 1"
+          },
+          {
+            "fault_code": "0521",
+            "fault_description": "Sensor for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "327946",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "B2000",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P06B1",
+            "fault_description": "Sensor for power supply 1"
+          },
+          {
+            "fault_code": "P06B2",
+            "fault_description": "Encoder for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "P21CA",
+            "fault_description": "Control unit for reducing agent dosing system - voltage supply electrical fault"
+          },
+          {
+            "fault_code": "U1012",
+            "fault_description": "Supply voltage - Voltage too high"
+          },
+          {
+            "fault_code": "U1401",
+            "fault_description": "functional limitation due to overvoltage - sporadic"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/audi/exhaust-processing/scr-ecu/audi-4m0907355h-4m0907355b-helbako-7920006kh-152153.html",
+        "part_numbers": [
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4M0 907 355 H",
+              "4M0907355H"
+            ]
+          },
+          {
+            "title": "AUDI - Part number",
+            "numbers": [
+              "4M0 907 355 B",
+              "4M0907355B"
+            ]
+          },
+          {
+            "title": "Helbako - Part number",
+            "numbers": [
+              "7920006KH"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_code": "0003",
+            "fault_description": "Control unit for reducing agent metering system - Power supply electrical fault"
+          },
+          {
+            "fault_code": "0016",
+            "fault_description": "Supply voltage - Voltage too high"
+          },
+          {
+            "fault_code": "0018",
+            "fault_description": "Functional restriction - due to overvoltage"
+          },
+          {
+            "fault_code": "0512",
+            "fault_description": "Encoder for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "0514",
+            "fault_description": "Sensor for power supply 1"
+          },
+          {
+            "fault_code": "0521",
+            "fault_description": "Sensor for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "327946",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "B2000",
+            "fault_description": "Unit faulty"
+          },
+          {
+            "fault_code": "P06B1",
+            "fault_description": "Sensor for power supply 1"
+          },
+          {
+            "fault_code": "P06B2",
+            "fault_description": "Encoder for power supply 1 - Short circuit to plus"
+          },
+          {
+            "fault_code": "P21CA",
+            "fault_description": "Control unit for reducing agent dosing system - voltage supply electrical fault"
+          },
+          {
+            "fault_code": "U1012",
+            "fault_description": "Supply voltage - Voltage too high"
+          },
+          {
+            "fault_code": "U1401",
+            "fault_description": "functional limitation due to overvoltage - sporadic"
+          },
+          {
+            "fault_description": "Other fault on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]

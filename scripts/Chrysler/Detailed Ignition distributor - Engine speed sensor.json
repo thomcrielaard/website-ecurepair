@@ -1,0 +1,76 @@
+[
+  {
+    "part_name": "EUR",
+    "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/chrysler+mitsubishi+electric+t5t57172-732.ts1628722659.jpg",
+    "product_link": "https://ecu.eu/chrysler/ignition-distributor-engine-speed-sensor-2855",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/chrysler/ignition-distributor-engine-speed-sensor/chrysler-mitsubishi-electric-t5t57172-107298.html",
+        "part_numbers": [
+          {
+            "title": "CHRYSLER",
+            "numbers": []
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T5T57172"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "CHRYSLER Stratus 2.5i 24V Cabriolet Year of manufacture 1996 - 1999 Engine code EEB"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/chrysler/ignition-distributor-engine-speed-sensor/chrysler-mitsubishi-electric-t5t57271-107299.html",
+        "part_numbers": [
+          {
+            "title": "CHRYSLER",
+            "numbers": []
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T5T57271"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/chrysler/ignition-distributor-engine-speed-sensor/chrysler-mitsubishi-electric-t5t57272-107300.html",
+        "part_numbers": [
+          {
+            "title": "CHRYSLER",
+            "numbers": []
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T5T57272"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "CHRYSLER Stratus 2.5i 24V Cabriolet Year of manufacture 1999 - 2000 Engine code EEB"
+        ]
+      }
+    ]
+  }
+]

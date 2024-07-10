@@ -1,0 +1,190 @@
+[
+  {
+    "part_name": "EUR",
+    "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/suzuki+3310056b1+mitsubishi+electric+t2t53471-668.ts1628711295.jpg",
+    "product_link": "https://ecu.eu/suzuki/ignition-distributor-engine-speed-sensor-3059",
+    "products": [
+      {
+        "product_url": "https://ecu.eu/suzuki/ignition-distributor-engine-speed-sensor/suzuki-3310056b1-mitsubishi-electric-t2t53471-113473.html",
+        "part_numbers": [
+          {
+            "title": "SUZUKI - Part number",
+            "numbers": [
+              "33100-56B1",
+              "3310056B1"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T2T53471"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/suzuki/ignition-distributor-engine-speed-sensor/suzuki-3310056b10-mitsubishi-electric-t2t53471-107338.html",
+        "part_numbers": [
+          {
+            "title": "SUZUKI - Part number",
+            "numbers": [
+              "33100-56B10",
+              "3310056B10"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T2T53471"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/suzuki/ignition-distributor-engine-speed-sensor/suzuki-3310056b11-mitsubishi-electric-t2t54471-107337.html",
+        "part_numbers": [
+          {
+            "title": "SUZUKI - Part number",
+            "numbers": [
+              "33100-56B11",
+              "3310056B11"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T2T54471"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "SUZUKI Vitara 1.6i Cabrio (Vitara, ET) Year of manufacture 1993"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/suzuki/ignition-distributor-engine-speed-sensor/suzuki-3310070e00-mitsubishi-electric-t2t59071-107339.html",
+        "part_numbers": [
+          {
+            "title": "SUZUKI - Part number",
+            "numbers": [
+              "33100-70E00",
+              "3310070E00"
+            ]
+          },
+          {
+            "title": "Mitsubishi Electric - Part number",
+            "numbers": [
+              "T2T59071"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      },
+      {
+        "product_url": "https://ecu.eu/suzuki/ignition-distributor-engine-speed-sensor/suzuki-3310075f50-hitachi-d4s9601-112547.html",
+        "part_numbers": [
+          {
+            "title": "SUZUKI - Part number",
+            "numbers": [
+              "33100-75F50",
+              "3310075F50"
+            ]
+          },
+          {
+            "title": "SUZUKI",
+            "numbers": []
+          },
+          {
+            "title": "Hitachi - Part number",
+            "numbers": [
+              "D4S96-01",
+              "D4S9601"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "SUZUKI Wagon R+ 1.2i (Wagon R, EM) Year of manufacture 1999"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/suzuki/ignition-distributor-engine-speed-sensor/suzuki-3310080c10-denso-2291007180-107336.html",
+        "part_numbers": [
+          {
+            "title": "SUZUKI - Part number",
+            "numbers": [
+              "33100-80C10",
+              "3310080C10"
+            ]
+          },
+          {
+            "title": "Denso - Part number",
+            "numbers": [
+              "229100-7180",
+              "2291007180"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": [
+          "SUZUKI Samurai 1.3i (Samurai, SJ) Year of manufacture 1992 - 2000"
+        ]
+      },
+      {
+        "product_url": "https://ecu.eu/suzuki/ignition-distributor-engine-speed-sensor/suzuki-3310083020-denso-1002910430-121240.html",
+        "part_numbers": [
+          {
+            "title": "SUZUKI - Part number",
+            "numbers": [
+              "33100-83020",
+              "3310083020"
+            ]
+          },
+          {
+            "title": "Denso - Part number",
+            "numbers": [
+              "100291-0430",
+              "1002910430"
+            ]
+          }
+        ],
+        "faults": [
+          {
+            "fault_description": "Faults on request"
+          }
+        ],
+        "cars": []
+      }
+    ]
+  }
+]
