@@ -9,24 +9,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0DL 300 013 A",
-              "0DL300013A"
-            ]
+            "numbers": ["0DL 300 013 A", "0DL300013A"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 G",
-              "0GC927711G"
-            ]
+            "numbers": ["0GC 927 711 G", "0GC927711G"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 109",
-              "0260550109"
-            ]
+            "numbers": ["0 260 550 109", "0260550109"]
           }
         ],
         "faults": [
@@ -39,13 +30,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -59,24 +51,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0DL 300 013 A",
-              "0DL300013A"
-            ]
+            "numbers": ["0DL 300 013 A", "0DL300013A"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 H",
-              "0GC927711H"
-            ]
+            "numbers": ["0GC 927 711 H", "0GC927711H"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 150",
-              "0260550150"
-            ]
+            "numbers": ["0 260 550 150", "0260550150"]
           }
         ],
         "faults": [
@@ -89,13 +72,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -109,24 +93,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 011 B",
-              "0GC300011B"
-            ]
+            "numbers": ["0GC 300 011 B", "0GC300011B"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0DE 927 711 C",
-              "0DE927711C"
-            ]
+            "numbers": ["0DE 927 711 C", "0DE927711C"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 126",
-              "0260550126"
-            ]
+            "numbers": ["0 260 550 126", "0260550126"]
           }
         ],
         "faults": [
@@ -139,13 +114,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -159,24 +135,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 011 G",
-              "0GC300011G"
-            ]
+            "numbers": ["0GC 300 011 G", "0GC300011G"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 G",
-              "0GC927711G"
-            ]
+            "numbers": ["0GC 927 711 G", "0GC927711G"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 109",
-              "0260550109"
-            ]
+            "numbers": ["0 260 550 109", "0260550109"]
           }
         ],
         "faults": [
@@ -189,13 +156,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -210,24 +178,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 011 Q",
-              "0GC300011Q"
-            ]
+            "numbers": ["0GC 300 011 Q", "0GC300011Q"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 G",
-              "0GC927711G"
-            ]
+            "numbers": ["0GC 927 711 G", "0GC927711G"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 109",
-              "0260550109"
-            ]
+            "numbers": ["0 260 550 109", "0260550109"]
           }
         ],
         "faults": [
@@ -240,13 +199,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -260,24 +220,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 011 S",
-              "0GC300011S"
-            ]
+            "numbers": ["0GC 300 011 S", "0GC300011S"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0DE 927 711 C",
-              "0DE927711C"
-            ]
+            "numbers": ["0DE 927 711 C", "0DE927711C"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 126",
-              "0260550126"
-            ]
+            "numbers": ["0 260 550 126", "0260550126"]
           }
         ],
         "faults": [
@@ -290,13 +241,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -310,24 +262,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 011 S",
-              "0GC300011S"
-            ]
+            "numbers": ["0GC 300 011 S", "0GC300011S"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 G",
-              "0GC927711G"
-            ]
+            "numbers": ["0GC 927 711 G", "0GC927711G"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 109",
-              "0260550109"
-            ]
+            "numbers": ["0 260 550 109", "0260550109"]
           }
         ],
         "faults": [
@@ -340,13 +283,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -358,24 +302,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 012",
-              "0GC300012"
-            ]
+            "numbers": ["0GC 300 012", "0GC300012"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 G",
-              "0GC927711G"
-            ]
+            "numbers": ["0GC 927 711 G", "0GC927711G"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 109",
-              "0260550109"
-            ]
+            "numbers": ["0 260 550 109", "0260550109"]
           }
         ],
         "faults": [
@@ -388,13 +323,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -409,24 +345,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 012 B",
-              "0GC300012B"
-            ]
+            "numbers": ["0GC 300 012 B", "0GC300012B"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 G",
-              "0GC927711G"
-            ]
+            "numbers": ["0GC 927 711 G", "0GC927711G"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 109",
-              "0260550109"
-            ]
+            "numbers": ["0 260 550 109", "0260550109"]
           }
         ],
         "faults": [
@@ -439,13 +366,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -460,24 +388,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 012 S",
-              "0GC300012S"
-            ]
+            "numbers": ["0GC 300 012 S", "0GC300012S"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 H",
-              "0GC927711H"
-            ]
+            "numbers": ["0GC 927 711 H", "0GC927711H"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 138",
-              "0260550138"
-            ]
+            "numbers": ["0 260 550 138", "0260550138"]
           }
         ],
         "faults": [
@@ -490,13 +409,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -508,24 +428,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 013 K",
-              "0GC300013K"
-            ]
+            "numbers": ["0GC 300 013 K", "0GC300013K"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 H",
-              "0GC927711H"
-            ]
+            "numbers": ["0GC 927 711 H", "0GC927711H"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 150",
-              "0260550150"
-            ]
+            "numbers": ["0 260 550 150", "0260550150"]
           }
         ],
         "faults": [
@@ -538,13 +449,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -558,24 +470,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 013 L",
-              "0GC300013L"
-            ]
+            "numbers": ["0GC 300 013 L", "0GC300013L"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 H",
-              "0GC927711H"
-            ]
+            "numbers": ["0GC 927 711 H", "0GC927711H"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 138",
-              "0260550138"
-            ]
+            "numbers": ["0 260 550 138", "0260550138"]
           }
         ],
         "faults": [
@@ -588,13 +491,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -608,24 +512,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 013 L",
-              "0GC300013L"
-            ]
+            "numbers": ["0GC 300 013 L", "0GC300013L"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 H",
-              "0GC927711H"
-            ]
+            "numbers": ["0GC 927 711 H", "0GC927711H"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 150",
-              "0260550150"
-            ]
+            "numbers": ["0 260 550 150", "0260550150"]
           }
         ],
         "faults": [
@@ -638,13 +533,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -658,24 +554,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 013 N",
-              "0GC300013N"
-            ]
+            "numbers": ["0GC 300 013 N", "0GC300013N"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 H",
-              "0GC927711H"
-            ]
+            "numbers": ["0GC 927 711 H", "0GC927711H"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 138",
-              "0260550138"
-            ]
+            "numbers": ["0 260 550 138", "0260550138"]
           }
         ],
         "faults": [
@@ -688,13 +575,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -708,24 +596,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 013 N",
-              "0GC300013N"
-            ]
+            "numbers": ["0GC 300 013 N", "0GC300013N"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 H",
-              "0GC927711H"
-            ]
+            "numbers": ["0GC 927 711 H", "0GC927711H"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 150",
-              "0260550150"
-            ]
+            "numbers": ["0 260 550 150", "0260550150"]
           }
         ],
         "faults": [
@@ -738,13 +617,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -758,24 +638,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 013 P",
-              "0GC300013P"
-            ]
+            "numbers": ["0GC 300 013 P", "0GC300013P"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 H",
-              "0GC927711H"
-            ]
+            "numbers": ["0GC 927 711 H", "0GC927711H"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 138",
-              "0260550138"
-            ]
+            "numbers": ["0 260 550 138", "0260550138"]
           }
         ],
         "faults": [
@@ -788,13 +659,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -808,24 +680,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 014 C",
-              "0GC300014C"
-            ]
+            "numbers": ["0GC 300 014 C", "0GC300014C"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 H",
-              "0GC927711H"
-            ]
+            "numbers": ["0GC 927 711 H", "0GC927711H"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 138",
-              "0260550138"
-            ]
+            "numbers": ["0 260 550 138", "0260550138"]
           }
         ],
         "faults": [
@@ -838,13 +701,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -858,24 +722,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 014 C",
-              "0GC300014C"
-            ]
+            "numbers": ["0GC 300 014 C", "0GC300014C"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 H",
-              "0GC927711H"
-            ]
+            "numbers": ["0GC 927 711 H", "0GC927711H"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 150",
-              "0260550150"
-            ]
+            "numbers": ["0 260 550 150", "0260550150"]
           }
         ],
         "faults": [
@@ -888,13 +743,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -908,24 +764,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 014 E",
-              "0GC300014E"
-            ]
+            "numbers": ["0GC 300 014 E", "0GC300014E"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 H",
-              "0GC927711H"
-            ]
+            "numbers": ["0GC 927 711 H", "0GC927711H"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 138",
-              "0260550138"
-            ]
+            "numbers": ["0 260 550 138", "0260550138"]
           }
         ],
         "faults": [
@@ -938,13 +785,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -958,24 +806,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 300 014 E",
-              "0GC300014E"
-            ]
+            "numbers": ["0GC 300 014 E", "0GC300014E"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0GC 927 711 H",
-              "0GC927711H"
-            ]
+            "numbers": ["0GC 927 711 H", "0GC927711H"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 260 550 150",
-              "0260550150"
-            ]
+            "numbers": ["0 260 550 150", "0260550150"]
           }
         ],
         "faults": [
@@ -988,13 +827,14 @@
             "fault_description": "Clutch position sensor function faulty"
           },
           {
-            "fault_code": "P1735",
-            "fault_description": "(10666) Position sensor clutch 1, electrical fault"
+            "fault_code": "P1735 10666",
+            "fault_description": "Position sensor clutch 1, electrical fault"
           },
           {
-            "fault_code": "P1736",
-            "fault_description": "(10668) Position sensor clutch 2, electrical fault"
+            "fault_code": "P1736 10668",
+            "fault_description": "Position sensor clutch 2, electrical fault"
           },
+
           {
             "fault_description": "Other fault on request"
           }
@@ -1015,30 +855,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 052 H",
-              "02E300052H"
-            ]
+            "numbers": ["02E 300 052 H", "02E300052H"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AL",
-              "02E927770AL"
-            ]
+            "numbers": ["02E 927 770 AL", "02E927770AL"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AL",
-              "02E325025AL"
-            ]
+            "numbers": ["02E 325 025 AL", "02E325025AL"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00406403A2"
-            ]
+            "numbers": ["00406403A2"]
           }
         ],
         "faults": [
@@ -1123,30 +952,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AD",
-              "02E927770AD"
-            ]
+            "numbers": ["02E 927 770 AD", "02E927770AD"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 041",
-              "02E300041"
-            ]
+            "numbers": ["02E 300 041", "02E300041"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AD",
-              "02E325025AD"
-            ]
+            "numbers": ["02E 325 025 AD", "02E325025AD"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401974A1"
-            ]
+            "numbers": ["00401974A1"]
           }
         ],
         "faults": [
@@ -1231,30 +1049,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AD",
-              "02E927770AD"
-            ]
+            "numbers": ["02E 927 770 AD", "02E927770AD"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 041",
-              "02E300041"
-            ]
+            "numbers": ["02E 300 041", "02E300041"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AD",
-              "02E325025AD"
-            ]
+            "numbers": ["02E 325 025 AD", "02E325025AD"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401974A2"
-            ]
+            "numbers": ["00401974A2"]
           }
         ],
         "faults": [
@@ -1340,30 +1147,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AD",
-              "02E927770AD"
-            ]
+            "numbers": ["02E 927 770 AD", "02E927770AD"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 042 G",
-              "02E300042G"
-            ]
+            "numbers": ["02E 300 042 G", "02E300042G"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AD",
-              "02E325025AD"
-            ]
+            "numbers": ["02E 325 025 AD", "02E325025AD"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401974A3"
-            ]
+            "numbers": ["00401974A3"]
           }
         ],
         "faults": [
@@ -1448,30 +1244,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 042 G",
-              "02E300042G"
-            ]
+            "numbers": ["02E 300 042 G", "02E300042G"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401975A3"
-            ]
+            "numbers": ["00401975A3"]
           }
         ],
         "faults": [
@@ -1547,39 +1332,26 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "SEAT Altea 2.0 TDI (Altea, 5P) Engine code BKD"
-        ]
+        "cars": ["SEAT Altea 2.0 TDI (Altea, 5P) Engine code BKD"]
       },
       {
         "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300042t-02e325025ae-temic-00401975a3-118486.html",
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 042 T",
-              "02E300042T"
-            ]
+            "numbers": ["02E 300 042 T", "02E300042T"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401975A3"
-            ]
+            "numbers": ["00401975A3"]
           }
         ],
         "faults": [
@@ -1662,30 +1434,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 042 T",
-              "02E300042T"
-            ]
+            "numbers": ["02E 300 042 T", "02E300042T"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401975A4"
-            ]
+            "numbers": ["00401975A4"]
           }
         ],
         "faults": [
@@ -1771,30 +1532,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 043 K",
-              "02E300043K"
-            ]
+            "numbers": ["02E 300 043 K", "02E300043K"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401975A4"
-            ]
+            "numbers": ["00401975A4"]
           }
         ],
         "faults": [
@@ -1877,30 +1627,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 043 K",
-              "02E300043K"
-            ]
+            "numbers": ["02E 300 043 K", "02E300043K"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401975A5"
-            ]
+            "numbers": ["00401975A5"]
           }
         ],
         "faults": [
@@ -1983,30 +1722,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 043 Q",
-              "02E300043Q"
-            ]
+            "numbers": ["02E 300 043 Q", "02E300043Q"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401975A4"
-            ]
+            "numbers": ["00401975A4"]
           }
         ],
         "faults": [
@@ -2089,30 +1817,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 044 D",
-              "02E300044D"
-            ]
+            "numbers": ["02E 300 044 D", "02E300044D"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401975A5"
-            ]
+            "numbers": ["00401975A5"]
           }
         ],
         "faults": [
@@ -2197,30 +1914,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 044 G",
-              "02E300044G"
-            ]
+            "numbers": ["02E 300 044 G", "02E300044G"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "Part number",
-            "numbers": [
-              "00401975A5"
-            ]
+            "numbers": ["00401975A5"]
           }
         ],
         "faults": [
@@ -2303,30 +2009,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 044 G",
-              "02E300044G"
-            ]
+            "numbers": ["02E 300 044 G", "02E300044G"]
           },
           {
             "title": "Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401975A5"
-            ]
+            "numbers": ["00401975A5"]
           }
         ],
         "faults": [
@@ -2411,30 +2106,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 050 E",
-              "02E300050E"
-            ]
+            "numbers": ["02E 300 050 E", "02E300050E"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401975A3"
-            ]
+            "numbers": ["00401975A3"]
           }
         ],
         "faults": [
@@ -2519,30 +2203,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 050 E",
-              "02E300050E"
-            ]
+            "numbers": ["02E 300 050 E", "02E300050E"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401975A4"
-            ]
+            "numbers": ["00401975A4"]
           }
         ],
         "faults": [
@@ -2618,39 +2291,26 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "SEAT Altea 2.0 TDI (Altea, 5P) Engine code BMM"
-        ]
+        "cars": ["SEAT Altea 2.0 TDI (Altea, 5P) Engine code BMM"]
       },
       {
         "product_url": "https://ecu.eu/seat/transmission-control-unit/dsg-dq250-%2802e%29/seat-02e927770ae-02e300050f-02e325025ae-temic-00401975a7-136582.html",
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 050 F",
-              "02E300050F"
-            ]
+            "numbers": ["02E 300 050 F", "02E300050F"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00401975A7"
-            ]
+            "numbers": ["00401975A7"]
           }
         ],
         "faults": [
@@ -2733,30 +2393,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AE",
-              "02E927770AE"
-            ]
+            "numbers": ["02E 927 770 AE", "02E927770AE"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 058 J",
-              "02E300058J"
-            ]
+            "numbers": ["02E 300 058 J", "02E300058J"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AE",
-              "02E325025AE"
-            ]
+            "numbers": ["02E 325 025 AE", "02E325025AE"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00406403A4"
-            ]
+            "numbers": ["00406403A4"]
           }
         ],
         "faults": [
@@ -2839,30 +2488,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AJ",
-              "02E927770AJ"
-            ]
+            "numbers": ["02E 927 770 AJ", "02E927770AJ"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 051 R",
-              "02E300051R"
-            ]
+            "numbers": ["02E 300 051 R", "02E300051R"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AJ",
-              "02E325025AJ"
-            ]
+            "numbers": ["02E 325 025 AJ", "02E325025AJ"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00406177A3"
-            ]
+            "numbers": ["00406177A3"]
           }
         ],
         "faults": [
@@ -2945,30 +2583,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AL",
-              "02E927770AL"
-            ]
+            "numbers": ["02E 927 770 AL", "02E927770AL"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 012 K",
-              "02E300012K"
-            ]
+            "numbers": ["02E 300 012 K", "02E300012K"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AL",
-              "02E325025AL"
-            ]
+            "numbers": ["02E 325 025 AL", "02E325025AL"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00406403A2"
-            ]
+            "numbers": ["00406403A2"]
           }
         ],
         "faults": [
@@ -3053,30 +2680,19 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 927 770 AL",
-              "02E927770AL"
-            ]
+            "numbers": ["02E 927 770 AL", "02E927770AL"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 300 013 J",
-              "02E300013J"
-            ]
+            "numbers": ["02E 300 013 J", "02E300013J"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02E 325 025 AL",
-              "02E325025AL"
-            ]
+            "numbers": ["02E 325 025 AL", "02E325025AL"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00406403A2"
-            ]
+            "numbers": ["00406403A2"]
           }
         ],
         "faults": [
@@ -3166,10 +2782,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "2Q1 713 023 Q",
-              "2Q1713023Q"
-            ]
+            "numbers": ["2Q1 713 023 Q", "2Q1713023Q"]
           }
         ],
         "faults": [
@@ -3197,10 +2810,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "2Q1 713 023 T",
-              "2Q1713023T"
-            ]
+            "numbers": ["2Q1 713 023 T", "2Q1713023T"]
           }
         ],
         "faults": [
@@ -3230,10 +2840,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "5Q1 713 023 AB",
-              "5Q1713023AB"
-            ]
+            "numbers": ["5Q1 713 023 AB", "5Q1713023AB"]
           }
         ],
         "faults": [
@@ -3266,10 +2873,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "5Q1 713 023 AC",
-              "5Q1713023AC"
-            ]
+            "numbers": ["5Q1 713 023 AC", "5Q1713023AC"]
           }
         ],
         "faults": [
@@ -3295,10 +2899,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "5Q1 713 023 AS",
-              "5Q1713023AS"
-            ]
+            "numbers": ["5Q1 713 023 AS", "5Q1713023AS"]
           }
         ],
         "faults": [
@@ -3326,10 +2927,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "5Q1 713 023 BG",
-              "5Q1713023BG"
-            ]
+            "numbers": ["5Q1 713 023 BG", "5Q1713023BG"]
           }
         ],
         "faults": [
@@ -3357,10 +2955,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "5Q1 713 023 BH",
-              "5Q1713023BH"
-            ]
+            "numbers": ["5Q1 713 023 BH", "5Q1713023BH"]
           }
         ],
         "faults": [
@@ -3393,10 +2988,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "5Q1 713 023 T",
-              "5Q1713023T"
-            ]
+            "numbers": ["5Q1 713 023 T", "5Q1713023T"]
           }
         ],
         "faults": [
@@ -3429,10 +3021,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "5Q1 713 025",
-              "5Q1713025"
-            ]
+            "numbers": ["5Q1 713 025", "5Q1713025"]
           }
         ],
         "faults": [
@@ -3458,10 +3047,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "5Q1 713 025 J",
-              "5Q1713025J"
-            ]
+            "numbers": ["5Q1 713 025 J", "5Q1713025J"]
           }
         ],
         "faults": [
@@ -3491,10 +3077,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "5Q1 713 025 R",
-              "5Q1713025R"
-            ]
+            "numbers": ["5Q1 713 025 R", "5Q1713025R"]
           }
         ],
         "faults": [
@@ -3526,10 +3109,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "5Q1 713 041 G",
-              "5Q1713041G"
-            ]
+            "numbers": ["5Q1 713 041 G", "5Q1713041G"]
           }
         ],
         "faults": [
@@ -3555,10 +3135,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "6C1 713 025",
-              "6C1713025"
-            ]
+            "numbers": ["6C1 713 025", "6C1713025"]
           }
         ],
         "faults": [
@@ -3584,10 +3161,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "6RA 713 025 N",
-              "6RA713025N"
-            ]
+            "numbers": ["6RA 713 025 N", "6RA713025N"]
           }
         ],
         "faults": [
@@ -3620,57 +3194,49 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "8E4 910 156 M",
-              "8E4910156M"
-            ]
+            "numbers": ["8E4 910 156 M", "8E4910156M"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "01J 927 156 HT",
-              "01J927156HT"
-            ]
+            "numbers": ["01J 927 156 HT", "01J927156HT"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00402418A6"
-            ]
+            "numbers": ["00402418A6"]
           }
         ],
         "faults": [
           {
-            "fault_code": "17090",
-            "fault_description": "2221 P0706 Speed step sensor (F125) implausible signal"
+            "fault_code": "17090 2221 P0706",
+            "fault_description": "Speed step sensor (F125) implausible signal"
           },
           {
-            "fault_code": "17106",
-            "fault_description": "2228 P0722 Gearbox output speed sensor G195 no signal"
+            "fault_code": "17106 2228 P0722",
+            "fault_description": "Gearbox output speed sensor (G195) no signal"
           },
           {
-            "fault_code": "17111",
-            "fault_description": "P0272 Rounds count singnal from engine ECU, no signal"
+            "fault_code": "17111 P0272",
+            "fault_description": "Rounds count signal from engine ECU, no signal"
           },
           {
-            "fault_code": "17134",
-            "fault_description": "P0750 Control valve 1/Solenoid valve N88 function disturbance"
+            "fault_code": "17134 P0750",
+            "fault_description": "Control valve 1/Solenoid valve (N88) function disturbance"
           },
           {
-            "fault_code": "17137",
-            "fault_description": "P0753 Control valve 1/Solenoid valve N88 electric error"
+            "fault_code": "17137 P0753",
+            "fault_description": "Control valve 1/Solenoid valve (N88) electric error"
           },
           {
-            "fault_code": "18165",
-            "fault_description": "P1757 power supply, interruption"
+            "fault_code": "18165 P1757",
+            "fault_description": "Power supply, interruption"
           },
           {
-            "fault_code": "18222",
-            "fault_description": "P1813 Pressure regulating valve 1 N215 Electrical fault"
+            "fault_code": "18222 P1813",
+            "fault_description": "Pressure regulating valve 1 (N215) Electrical fault"
           },
           {
-            "fault_code": "18226",
-            "fault_description": "P1818 Pressure control valve 2 N216 Electrical fault"
+            "fault_code": "18226 P1818",
+            "fault_description": "Pressure control valve 2 (N216) Electrical fault"
           },
           {
             "fault_code": "P1793",
@@ -3690,57 +3256,49 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "8E4 910 156 N",
-              "8E4910156N"
-            ]
+            "numbers": ["8E4 910 156 N", "8E4910156N"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "01J 927 156 HT",
-              "01J927156HT"
-            ]
+            "numbers": ["01J 927 156 HT", "01J927156HT"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00402418A6"
-            ]
+            "numbers": ["00402418A6"]
           }
         ],
         "faults": [
           {
-            "fault_code": "17090",
-            "fault_description": "2221 P0706 Speed step sensor (F125) implausible signal"
+            "fault_code": "17090 2221 P0706",
+            "fault_description": "Speed step sensor (F125) implausible signal"
           },
           {
-            "fault_code": "17106",
-            "fault_description": "2228 P0722 Gearbox output speed sensor G195 no signal"
+            "fault_code": "17106 2228 P0722",
+            "fault_description": "Gearbox output speed sensor (G195) no signal"
           },
           {
-            "fault_code": "17111",
-            "fault_description": "P0272 Rounds count singnal from engine ECU, no signal"
+            "fault_code": "17111 P0272",
+            "fault_description": "Rounds count signal from engine ECU, no signal"
           },
           {
-            "fault_code": "17134",
-            "fault_description": "P0750 Control valve 1/Solenoid valve N88 function disturbance"
+            "fault_code": "17134 P0750",
+            "fault_description": "Control valve 1/Solenoid valve (N88) function disturbance"
           },
           {
-            "fault_code": "17137",
-            "fault_description": "P0753 Control valve 1/Solenoid valve N88 electric error"
+            "fault_code": "17137 P0753",
+            "fault_description": "Control valve 1/Solenoid valve (N88) electric error"
           },
           {
-            "fault_code": "18165",
-            "fault_description": "P1757 power supply, interruption"
+            "fault_code": "18165 P1757",
+            "fault_description": "Power supply, interruption"
           },
           {
-            "fault_code": "18222",
-            "fault_description": "P1813 Pressure regulating valve 1 N215 Electrical fault"
+            "fault_code": "18222 P1813",
+            "fault_description": "Pressure regulating valve 1 (N215) Electrical fault"
           },
           {
-            "fault_code": "18226",
-            "fault_description": "P1818 Pressure control valve 2 N216 Electrical fault"
+            "fault_code": "18226 P1818",
+            "fault_description": "Pressure control valve 2 (N216) Electrical fault"
           },
           {
             "fault_code": "P1793",
@@ -3753,66 +3311,56 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "SEAT Exeo ST 2.0 TDI (Exeo, 3R) Engine code CAGA"
-        ]
+        "cars": ["SEAT Exeo ST 2.0 TDI (Exeo, 3R) Engine code CAGA"]
       },
       {
         "product_url": "https://ecu.eu/seat/transmission-control-unit/multitronic-vl300/seat-8e4910156p-01j927156ht-temic-00402418a3-139395.html",
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "8E4 910 156 P",
-              "8E4910156P"
-            ]
+            "numbers": ["8E4 910 156 P", "8E4910156P"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "01J 927 156 HT",
-              "01J927156HT"
-            ]
+            "numbers": ["01J 927 156 HT", "01J927156HT"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00402418A3"
-            ]
+            "numbers": ["00402418A3"]
           }
         ],
         "faults": [
           {
-            "fault_code": "17090",
-            "fault_description": "2221 P0706 Speed step sensor (F125) implausible signal"
+            "fault_code": "17090 2221 P0706",
+            "fault_description": "Speed step sensor (F125) implausible signal"
           },
           {
-            "fault_code": "17106",
-            "fault_description": "2228 P0722 Gearbox output speed sensor G195 no signal"
+            "fault_code": "17106 2228 P0722",
+            "fault_description": "Gearbox output speed sensor (G195) no signal"
           },
           {
-            "fault_code": "17111",
-            "fault_description": "P0272 Rounds count singnal from engine ECU, no signal"
+            "fault_code": "17111 P0272",
+            "fault_description": "Rounds count signal from engine ECU, no signal"
           },
           {
-            "fault_code": "17134",
-            "fault_description": "P0750 Control valve 1/Solenoid valve N88 function disturbance"
+            "fault_code": "17134 P0750",
+            "fault_description": "Control valve 1/Solenoid valve (N88) function disturbance"
           },
           {
-            "fault_code": "17137",
-            "fault_description": "P0753 Control valve 1/Solenoid valve N88 electric error"
+            "fault_code": "17137 P0753",
+            "fault_description": "Control valve 1/Solenoid valve (N88) electric error"
           },
           {
-            "fault_code": "18165",
-            "fault_description": "P1757 power supply, interruption"
+            "fault_code": "18165 P1757",
+            "fault_description": "Power supply, interruption"
           },
           {
-            "fault_code": "18222",
-            "fault_description": "P1813 Pressure regulating valve 1 N215 Electrical fault"
+            "fault_code": "18222 P1813",
+            "fault_description": "Pressure regulating valve 1 (N215) Electrical fault"
           },
           {
-            "fault_code": "18226",
-            "fault_description": "P1818 Pressure control valve 2 N216 Electrical fault"
+            "fault_code": "18226 P1818",
+            "fault_description": "Pressure control valve 2 (N216) Electrical fault"
           },
           {
             "fault_code": "P1793",
@@ -3832,57 +3380,49 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "8E4 910 156 P",
-              "8E4910156P"
-            ]
+            "numbers": ["8E4 910 156 P", "8E4910156P"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "01J 927 156 HT",
-              "01J927156HT"
-            ]
+            "numbers": ["01J 927 156 HT", "01J927156HT"]
           },
           {
             "title": "TEMIC - Part number",
-            "numbers": [
-              "00402418A6"
-            ]
+            "numbers": ["00402418A6"]
           }
         ],
         "faults": [
           {
-            "fault_code": "17090",
-            "fault_description": "2221 P0706 Speed step sensor (F125) implausible signal"
+            "fault_code": "17090 2221 P0706",
+            "fault_description": "Speed step sensor (F125) implausible signal"
           },
           {
-            "fault_code": "17106",
-            "fault_description": "2228 P0722 Gearbox output speed sensor G195 no signal"
+            "fault_code": "17106 2228 P0722",
+            "fault_description": "Gearbox output speed sensor (G195) no signal"
           },
           {
-            "fault_code": "17111",
-            "fault_description": "P0272 Rounds count singnal from engine ECU, no signal"
+            "fault_code": "17111 P0272",
+            "fault_description": "Rounds count signal from engine ECU, no signal"
           },
           {
-            "fault_code": "17134",
-            "fault_description": "P0750 Control valve 1/Solenoid valve N88 function disturbance"
+            "fault_code": "17134 P0750",
+            "fault_description": "Control valve 1/Solenoid valve (N88) function disturbance"
           },
           {
-            "fault_code": "17137",
-            "fault_description": "P0753 Control valve 1/Solenoid valve N88 electric error"
+            "fault_code": "17137 P0753",
+            "fault_description": "Control valve 1/Solenoid valve (N88) electric error"
           },
           {
-            "fault_code": "18165",
-            "fault_description": "P1757 power supply, interruption"
+            "fault_code": "18165 P1757",
+            "fault_description": "Power supply, interruption"
           },
           {
-            "fault_code": "18222",
-            "fault_description": "P1813 Pressure regulating valve 1 N215 Electrical fault"
+            "fault_code": "18222 P1813",
+            "fault_description": "Pressure regulating valve 1 (N215) Electrical fault"
           },
           {
-            "fault_code": "18226",
-            "fault_description": "P1818 Pressure control valve 2 N216 Electrical fault"
+            "fault_code": "18226 P1818",
+            "fault_description": "Pressure control valve 2 (N216) Electrical fault"
           },
           {
             "fault_code": "P1793",

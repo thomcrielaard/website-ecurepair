@@ -1,0 +1,34 @@
+[
+    {
+        "part_name": "Transistor coil ignition inductive (TSZ-I)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/transistor+coil+ignition+inductive+tsz+i-316593.ts1628715409.jpg",
+        "product_link": "https://ecu.eu/alfa-romeo/ignition-ecu-6232/alfa-romeo/ignition-ecu/transistor-coil-ignition-inductive-%28tsz-i%29-6233",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/ignition-ecu/transistor-coil-ignition-inductive-%28tsz-i%29/alfa-romeo-bosch-0227100017-120924.html",
+                "part_numbers": [
+                    {
+                        "title": "ALFA ROMEO",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 100 017",
+                            "0227100017"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "ALFA ROMEO (GTV, GTV 6) Year of manufacture 1983"
+                ]
+            }
+        ]
+    }
+]

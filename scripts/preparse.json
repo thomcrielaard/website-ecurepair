@@ -84,5 +84,24 @@
     "ecu fails when cold",
     "no ignition available",
     "no rotary release"
+  ],
+  "17849 P1441Valve for flue gas recirculation (N18) – interruption/ short circuit after GND": [
+    "Valve for flue gas recirculation (N18) – interruption/ short circuit after GND"
+  ],
+  "Motor control unit- no communicationand-only on request!Engine doesn't start, there is no communication between the ecu and the diagnostic tool -only on request!": [
+    "Motor control unit - no communication",
+    "Engine doesn't start, there is no communication between the ecu and the diagnostic tool"
+  ],
+  "Motor control unit- no communicationandEngine doesn't start, there is no communication between the ecu and the diagnostic toolandthe fuse for the motor control burns out when the engine ecu is connected": [
+    "Motor control unit - no communication",
+    "Engine doesn't start, there is no communication between the ecu and the diagnostic tool",
+    "the fuse for the motor control burns out when the engine ecu is connected"
+  ],
+  "Motor control unit- no communicationandEngine temporarily doesn't start – when the error occurs, there is no communication possible with the ecu and the motor-/pre-ignite control light is not lighted up": [
+    "Motor control unit - no communication",
+    "Engine temporarily doesn't start – when the error occurs, there is no communication possible with the ecu and the motor-/pre-ignite control light is not lighted up"
+  ],
+  "Unit faultyorFFFFcontrol unit faulty": [
+    "Unit faulty or FFFF control unit faulty"
   ]
 }

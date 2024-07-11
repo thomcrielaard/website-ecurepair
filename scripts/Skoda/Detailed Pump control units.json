@@ -9,26 +9,25 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "PSG5"
-            ]
+            "numbers": ["PSG5"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 010 837",
-              "0281010837"
-            ]
+            "numbers": ["0 281 010 837", "0281010837"]
           }
         ],
         "faults": [
           {
             "fault_code": "0526",
-            "fault_description": "Injection pump ecu J399or01318Injection pump ecu J399"
+            "fault_description": "Injection pump ECU (J399)"
           },
           {
-            "fault_code": "01268",
-            "fault_description": "04F4 Flow regulator N146"
+            "fault_code": "01318",
+            "fault_description": "Injection pump ECU (J399)"
+          },
+          {
+            "fault_code": "01268 04F4",
+            "fault_description": "Flow regulator (N146)"
           },
           {
             "fault_description": "Engine stops while driving and doesn't start again"
@@ -46,26 +45,25 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "PSG5"
-            ]
+            "numbers": ["PSG5"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 010 889",
-              "0281010889"
-            ]
+            "numbers": ["0 281 010 889", "0281010889"]
           }
         ],
         "faults": [
           {
             "fault_code": "0526",
-            "fault_description": "Injection pump ecu J399or01318Injection pump ecu J399"
+            "fault_description": "Injection pump ECU (J399)"
           },
           {
-            "fault_code": "01268",
-            "fault_description": "04F4 Flow regulator N146"
+            "fault_code": "01318",
+            "fault_description": "Injection pump ECU (J399)"
+          },
+          {
+            "fault_code": "01268 04F4",
+            "fault_description": "Flow regulator (N146)"
           },
           {
             "fault_description": "Engine stops while driving and doesn't start again"

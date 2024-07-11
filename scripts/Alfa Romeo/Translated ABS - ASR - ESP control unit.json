@@ -1,0 +1,1719 @@
+[
+    {
+        "part_name": "ABS/ASR 5.7",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+5+7-2229.ts1628724451.jpg",
+        "product_link": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit-2752/alfa-romeo/abs-asr-esp-control-unit/abs-asr-5.7-5582",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-5.7/alfa-romeo-46743750-bosch-0265800005-0265222011-116791.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46743750"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 005",
+                            "0265800005"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 222 011",
+                            "0265222011"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (147, 937) Bouwjaar 2001 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-5.7/alfa-romeo-46811818-bosch-0265900031-0265224061-884-105383.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46811818"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 900 031",
+                            "0265900031"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 224 061",
+                            "0265224061"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "884"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er worden foutcodes opgeslagen met betrekking tot de wielsnelheidssensoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (147, 937) Bouwjaar 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-5.7/alfa-romeo-46831063-bosch-0265900042-0265224083-884-153767.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46831063"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 900 042",
+                            "0265900042"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 224 083",
+                            "0265224083"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "884"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er worden foutcodes opgeslagen met betrekking tot de wielsnelheidssensoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-5.7/alfa-romeo-51739028-bosch-0265800019-0265222040-102077.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51739028"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 019",
+                            "0265800019"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 222 040",
+                            "0265222040"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-5.7/alfa-romeo-51748609-bosch-0265900051-0265224097-884-117737.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51748609"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 900 051",
+                            "0265900051"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 224 097",
+                            "0265224097"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "884"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er worden foutcodes opgeslagen met betrekking tot de wielsnelheidssensoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-5.7/alfa-romeo-51754309-bosch-0265900053-0265224101-884-105382.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51754309"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 900 053",
+                            "0265900053"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 224 101",
+                            "0265224101"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "884"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er worden foutcodes opgeslagen met betrekking tot de wielsnelheidssensoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (147, 937) Bouwjaar 2006"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS/ASR/ABD 5.3",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+abd+5+3-1080.ts1628711298.jpg",
+        "product_link": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit-2752/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3-5580",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-46479194-bosch-0273004337-0265216531-109507.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46479194"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 337",
+                            "0273004337"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 531",
+                            "0265216531"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (GTV, 916)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-46481862-bosch-0273004402-0265216571-102075.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46481862"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 402",
+                            "0273004402"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 571",
+                            "0265216571"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-46513013-71712412-bosch-0273004383-0265216401-117733.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46513013"
+                        ]
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "71712412"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 383",
+                            "0273004383"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 401",
+                            "0265216401"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (156, 932) Bouwjaar 1998 - 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-46513088-71712412-bosch-0273004383-0265216401-901-111447.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46513088"
+                        ]
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "71712412"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 383",
+                            "0273004383"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 401",
+                            "0265216401"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "901"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (156, 932) Bouwjaar 1998 - 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-46513088-bosch-0273004483-0265216401-901-102076.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46513088"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 483",
+                            "0273004483"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 401",
+                            "0265216401"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "901"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (156, 932) Bouwjaar 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-46520022-bosch-0273004421-0265216533-822-117735.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46520022"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 421",
+                            "0273004421"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 533",
+                            "0265216533"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "822"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-46733919-bosch-0273004495-0265216781-822-105385.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46733919"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 495",
+                            "0273004495"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 781",
+                            "0265216781"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "822"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (GTV, 916) Bouwjaar 2000 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-46825344-bosch-0273004624-0265220656-850-105384.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46825344"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 624",
+                            "0273004624"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 220 656",
+                            "0265220656"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "850"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (156, 932) Bouwjaar 2002 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-60652611-bosch-0273004167-0265220414-850-105381.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "60652611"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 167",
+                            "0273004167"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 220 414",
+                            "0265220414"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "850"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (166, 936) Bouwjaar 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-60652611-bosch-0273004497-0265220414-850-116236.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "60652611"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 497",
+                            "0273004497"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 220 414",
+                            "0265220414"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "850"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (166, 936) Bouwjaar 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-60652775-bosch-0273004345-0265220453-803-149653.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "60652775"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 345",
+                            "0273004345"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 220 453",
+                            "0265220453"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "803"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-71712392-bosch-0265216534-117736.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "71712392"
+                        ]
+                    },
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 534",
+                            "0265216534"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-71712405-bosch-0265220415-121118.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "71712405"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 220 415",
+                            "0265220415"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-bosch-0273004261-116449.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 261",
+                            "0273004261"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (156, 932) Bouwjaar 1997"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/abs-asr-abd-5.3/alfa-romeo-bosch-1273004383-117734.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 273 004 383",
+                            "1273004383"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (156, 932) Bouwjaar 1998 - 1999"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 1.34",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+1+34-805.ts1628722660.jpg",
+        "product_link": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit-2752/alfa-romeo/abs-asr-esp-control-unit/esp-1.34-5581",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-1.34/alfa-romeo-46557538-bosch-0265950020-0265225033-111170.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46557538"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 020",
+                            "0265950020"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 033",
+                            "0265225033"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (147, 937) Bouwjaar 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-1.34/alfa-romeo-46745936-bosch-0265950018-0265225031-997-121031.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46745936"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 018",
+                            "0265950018"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 031",
+                            "0265225031"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "997"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verschillende wielsensoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (156, 932) Bouwjaar 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-1.34/alfa-romeo-46825820-bosch-0265950060-0265225142-997-131872.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46825820"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 060",
+                            "0265950060"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 142",
+                            "0265225142"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "997"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verschillende wielsensoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (147, 937) Bouwjaar 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-1.34/alfa-romeo-46847306-bosch-0265950100-0265225226-152074.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "46847306"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 100",
+                            "0265950100"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 226",
+                            "0265225226"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verschillende wielsensoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-1.34/alfa-romeo-51714525-bosch-0265950119-0265225263-149902.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51714525"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 119",
+                            "0265950119"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 263",
+                            "0265225263"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (156, 932) Bouwjaar 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-1.34/alfa-romeo-51721792-bosch-0265950121-0265225268-997-152075.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51721792"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 121",
+                            "0265950121"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 268",
+                            "0265225268"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "997"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verschillende wielsensoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-1.34/alfa-romeo-51724650-bosch-0265950127-0265225280-997-130162.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51724650"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 127",
+                            "0265950127"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 280",
+                            "0265225280"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "997"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verschillende wielsensoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (156, 932) Bouwjaar 2003 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-1.34/alfa-romeo-51758544-bosch-0265950182-0265225360-131873.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51758544"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 182",
+                            "0265950182"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 360",
+                            "0265225360"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verschillende wielsensoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-1.34/alfa-romeo-71732683-71732682-bosch-1265950127-0265225281-131871.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "71732683"
+                        ]
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "71732682"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 265 950 127",
+                            "1265950127"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 281",
+                            "0265225281"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verschillende wielsensoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (156, 932) Bouwjaar 2003 - 2005"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 430",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+430-387986.ts1628723669.jpg",
+        "product_link": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit-2752/alfa-romeo/abs-asr-esp-control-unit/esp-430-6391",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-430/alfa-romeo-54084738e-trw-15314102e-51781780-15314002-138808.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "54084738E"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "15314102E"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "51781780"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "15314002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4082.ts1628718747.jpg",
+        "product_link": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit-2752/alfa-romeo/abs-asr-esp-control-unit/esp-8.0-4776",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-8.0/alfa-romeo-51792630-bosch-0265950711-0265235357-104842.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51792630"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 711",
+                            "0265950711"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 357",
+                            "0265235357"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (147, 937) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-8.0/alfa-romeo-51807043-bosch-0265950912-0265230191-111171.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51807043"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 912",
+                            "0265950912"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 230 191",
+                            "0265230191"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (147, 937) Bouwjaar 2009",
+                    "Alfa Romeo (Mito, 955) Bouwjaar 2008 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-8.0/alfa-romeo-51837728-bosch-0265951337-0265230804-733-121135.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51837728"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 951 337",
+                            "0265951337"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 230 804",
+                            "0265230804"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "733"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (Mito, 955) Bouwjaar 2009"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK61",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk61-5139.ts1628722665.jpg",
+        "product_link": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit-2752/alfa-romeo/abs-asr-esp-control-unit/esp-mk61-6571",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-mk61/alfa-romeo-51896323-ate-10096128063-10021205984-1101-152056.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51896323"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "10.0961-2806.3",
+                            "10096128063"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "10.0212-0598.4",
+                            "10021205984"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "1101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-mk61/alfa-romeo-51901331-ate-10096128083-10021207214-1101-144680.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51901331"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "10.0961-2808.3",
+                            "10096128083"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "10.0212-0721.4",
+                            "10021207214"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "1101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (Giulietta, 940) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/abs-asr-esp-control-unit/esp-mk61/alfa-romeo-51913822-ate-10096128093-10021208024-1101-140182.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "51913822"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "10.0961-2809.3",
+                            "10096128093"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "10.0212-0802.4",
+                            "10021208024"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "1101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (Giulietta, 940) Bouwjaar 2011"
+                ]
+            }
+        ]
+    }
+]

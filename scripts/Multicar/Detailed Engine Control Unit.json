@@ -9,16 +9,11 @@
         "part_numbers": [
           {
             "title": "MULTICAR - Part number",
-            "numbers": [
-              "500332361"
-            ]
+            "numbers": ["500332361"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 001 537",
-              "0281001537"
-            ]
+            "numbers": ["0 281 001 537", "0281001537"]
           }
         ],
         "faults": [
@@ -47,16 +42,11 @@
         "part_numbers": [
           {
             "title": "BUCHER-SCHOERLING - Part number",
-            "numbers": [
-              "43002034F"
-            ]
+            "numbers": ["43002034F"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 013 348",
-              "0281013348"
-            ]
+            "numbers": ["0 281 013 348", "0281013348"]
           }
         ],
         "faults": [
@@ -92,119 +82,109 @@
         "part_numbers": [
           {
             "title": "MULTICAR - Part number",
-            "numbers": [
-              "03L 906 019 BB",
-              "03L906019BB"
-            ]
+            "numbers": ["03L 906 019 BB", "03L906019BB"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 016 760",
-              "0281016760"
-            ]
+            "numbers": ["0 281 016 760", "0281016760"]
           }
         ],
         "faults": [
           {
             "fault_code": "01314",
-            "fault_description": "Motor control unit- no communicationandEngine doesn't start, there is no communication between the ecu and the diagnostic toolandthe fuse for the motor control burns out when the engine ecu is connected"
+            "fault_description": "Motor control unit - no communication"
+          },
+          {
+            "fault_code": "01314",
+            "fault_description": "Engine doesn't start, there is no communication between the ECU and the diagnostic tool"
+          },
+          {
+            "fault_code": "01314",
+            "fault_description": "The fuse for the motor control burns out when the engine ECU is connected"
           },
           {
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "MULTICAR (Tremo) Year of manufacture 2010"
-        ]
+        "cars": ["MULTICAR (Tremo) Year of manufacture 2010"]
       },
       {
         "product_url": "https://ecu.eu/multicar/engine-control-unit/edc17cp20/multicar-03l906019er-03l906019er-volkswagen-vw-03l906019ba-bosch-0281018053-119433.html",
         "part_numbers": [
           {
             "title": "MULTICAR - Part number",
-            "numbers": [
-              "03L 906 019 ER",
-              "03L906019ER"
-            ]
+            "numbers": ["03L 906 019 ER", "03L906019ER"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "03L 906 019 BA",
-              "03L906019BA"
-            ]
+            "numbers": ["03L 906 019 BA", "03L906019BA"]
           },
           {
             "title": "MULTICAR - Part number",
-            "numbers": [
-              "03L906019ER"
-            ]
+            "numbers": ["03L906019ER"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 018 053",
-              "0281018053"
-            ]
+            "numbers": ["0 281 018 053", "0281018053"]
           }
         ],
         "faults": [
           {
             "fault_code": "01314",
-            "fault_description": "Motor control unit- no communicationandEngine doesn't start, there is no communication between the ecu and the diagnostic toolandthe fuse for the motor control burns out when the engine ecu is connected"
+            "fault_description": "Motor control unit - no communication"
+          },
+          {
+            "fault_code": "01314",
+            "fault_description": "Engine doesn't start, there is no communication between the ECU and the diagnostic tool"
+          },
+          {
+            "fault_code": "01314",
+            "fault_description": "The fuse for the motor control burns out when the engine ECU is connected"
           },
           {
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "MULTICAR (M30)"
-        ]
+        "cars": ["MULTICAR (M30)"]
       },
       {
         "product_url": "https://ecu.eu/multicar/engine-control-unit/edc17cp20/multicar-03l906019er-volkswagen-vw-03l906019bb-03l906019ba-bosch-0281016760-120006.html",
         "part_numbers": [
           {
             "title": "MULTICAR - Part number",
-            "numbers": [
-              "03L906019ER"
-            ]
+            "numbers": ["03L906019ER"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "03L 906 019 BB",
-              "03L906019BB"
-            ]
+            "numbers": ["03L 906 019 BB", "03L906019BB"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "03L 906 019 BA",
-              "03L906019BA"
-            ]
+            "numbers": ["03L 906 019 BA", "03L906019BA"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 016 760",
-              "0281016760"
-            ]
+            "numbers": ["0 281 016 760", "0281016760"]
           }
         ],
         "faults": [
           {
             "fault_code": "01314",
-            "fault_description": "Motor control unit- no communicationandEngine doesn't start, there is no communication between the ecu and the diagnostic toolandthe fuse for the motor control burns out when the engine ecu is connected"
+            "fault_description": "Motor control unit - no communication"
+          },
+          {
+            "fault_code": "01314",
+            "fault_description": "Engine doesn't start, there is no communication between the ECU and the diagnostic tool"
+          },
+          {
+            "fault_code": "01314",
+            "fault_description": "The fuse for the motor control burns out when the engine ECU is connected"
           },
           {
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "MULTICAR (M30) Year of manufacture 2011 - 2012"
-        ]
+        "cars": ["MULTICAR (M30) Year of manufacture 2011 - 2012"]
       }
     ]
   },
@@ -218,22 +198,15 @@
         "part_numbers": [
           {
             "title": "MULTICAR - Part number",
-            "numbers": [
-              "504359918"
-            ]
+            "numbers": ["504359918"]
           },
           {
             "title": "MULTICAR - Part number",
-            "numbers": [
-              "10R035562"
-            ]
+            "numbers": ["10R035562"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 020 149",
-              "0281020149"
-            ]
+            "numbers": ["0 281 020 149", "0281020149"]
           }
         ],
         "faults": [
@@ -268,9 +241,7 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "MULTICAR (M31) Year of manufacture 2013 - 2014"
-        ]
+        "cars": ["MULTICAR (M31) Year of manufacture 2013 - 2014"]
       }
     ]
   }

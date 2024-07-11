@@ -1,0 +1,121 @@
+[
+    {
+        "part_name": "Automatische transmissie regelunit GS8.11.x (ZF 4HP20)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/automatic+transmission+control+unit+gs8+11+x+zf+4hp20-799079.ts1643021296.jpg",
+        "product_link": "https://ecu.eu/alfa-romeo/transmission-control-unit-2753/alfa-romeo/transmission-control-unit/automatic-transmission-control-unit-gs8.11.x-%28zf-4hp20%29-2761",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/transmission-control-unit/automatic-transmission-control-unit-gs8.11.x-%28zf-4hp20%29/alfa-romeo-464649360-bosch-0260002453-bosch-gs8110-128289.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "464649360"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 260 002 453",
+                            "0260002453"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "GS8.11.0",
+                            "GS8110"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie met de transmissieregelunit, schade door binnendringende koelvloeistof."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (166, 936) Bouwjaar 1999 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/transmission-control-unit/automatic-transmission-control-unit-gs8.11.x-%28zf-4hp20%29/alfa-romeo-464805060-bosch-0260002580-bosch-gs8110-134834.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "464805060"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 260 002 580",
+                            "0260002580"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "GS8.11.0",
+                            "GS8110"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie met de transmissieregelunit, schade door binnendringende koelvloeistof."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/alfa-romeo/transmission-control-unit/automatic-transmission-control-unit-gs8.11.x-%28zf-4hp20%29/alfa-romeo-467675070-bosch-0260002783-bosch-gs8110-122050.html",
+                "part_numbers": [
+                    {
+                        "title": "Alfa Romeo - Onderdeelnummer",
+                        "numbers": [
+                            "467675070"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 260 002 783",
+                            "0260002783"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "GS8.11.0",
+                            "GS8110"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie met de transmissieregelunit, schade door binnendringende koelvloeistof."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Alfa Romeo (166, 936) Bouwjaar 2001 - 2004"
+                ]
+            }
+        ]
+    }
+]
