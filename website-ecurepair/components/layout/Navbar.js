@@ -59,6 +59,11 @@ export default function Navbar(props) {
       )}
       <MobileNavExpanded open={isOpen} setOpen={setOpen} />
 
+      {vacation && (
+        <div className={styles.NavbarVacation}>
+          Wij zijn gesloten in verband met vakantie van 19 juli tot 9 augustus.
+        </div>
+      )}
       <Container
         className={`${styles.NavbarContainer} 
         ${showNavbar && styles.ShowNavbar} 
@@ -67,12 +72,6 @@ export default function Navbar(props) {
         paddingVert="15px"
         background="transparent"
       >
-        {vacation && (
-          <div className={styles.NavbarVacation}>
-            Wij zijn gesloten in verband met vakantie van 19 juli tot 9
-            augustus.
-          </div>
-        )}
         <div className={styles.NavbarWrapper}>
           <NavbarLink href="/" text="Home" active={router.pathname == "/"} />
           <div className={styles.NavbarDropdownWrapper}>
