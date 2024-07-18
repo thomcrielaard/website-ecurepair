@@ -17,6 +17,8 @@ import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import Background from "@/assets/img/navbar-bg.jpg";
 import Chevron from "@/assets/svg/Chevron";
 
+const vacation = true;
+
 export default function Navbar(props) {
   const router = useRouter();
 
@@ -40,7 +42,10 @@ export default function Navbar(props) {
   return (
     <>
       {!props.transparent && (
-        <div className={styles.NavbarBackground}>
+        <div
+          className={`${styles.NavbarBackground} 
+        ${vacation && styles.BackgroundVacation}`}
+        >
           <Image
             src={Background}
             fill
@@ -53,13 +58,21 @@ export default function Navbar(props) {
         </div>
       )}
       <MobileNavExpanded open={isOpen} setOpen={setOpen} />
+
       <Container
         className={`${styles.NavbarContainer} 
         ${showNavbar && styles.ShowNavbar} 
-        ${isOpen && styles.isOpen}`}
+        ${isOpen && styles.isOpen}
+        ${vacation && styles.VacationContainer}`}
         paddingVert="15px"
         background="transparent"
       >
+        {vacation && (
+          <div className={styles.NavbarVacation}>
+            Wij zijn gesloten in verband met vakantie van 19 juli tot 9
+            augustus.
+          </div>
+        )}
         <div className={styles.NavbarWrapper}>
           <NavbarLink href="/" text="Home" active={router.pathname == "/"} />
           <div className={styles.NavbarDropdownWrapper}>
@@ -158,7 +171,8 @@ function MobileNavExpanded(props) {
     <>
       <Container
         className={`${styles.NavbarMobileNavContainer} 
-        ${props.open && styles.NavbarMobileOpen}`}
+        ${props.open && styles.NavbarMobileOpen}
+        ${vacation && styles.MobileVacation}`}
         paddingVert="30px"
       >
         <div className={styles.NavbarMobileNavWrapper}>
