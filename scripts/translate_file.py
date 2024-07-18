@@ -2,11 +2,8 @@ import json
 import os
 
 # Define file paths
-input_file_path = "volkswagen_tcu/detailed_product_data_volkswagen_tcu.json"
 preparse_file_path = "preparse.json"
-preparsed_output_file_path = "volkswagen_tcu/preparsed_product_data_volkswagen_tcu.json"
 translations_file_path = "translations.json"
-translations_output_file_path = "translated_product_data_volkswagen_tcu.json"
 
 # Load or create the translations file
 if os.path.exists(translations_file_path):
@@ -46,77 +43,94 @@ def preparse_fault_descriptions(fault_code, fault_description):
     else:
         return [{"fault_code": fault_code, "fault_description": fault_description}]
 
-# Load the input JSON file
-with open(input_file_path, "r", encoding="utf-8") as file:
-    data = json.load(file)
+# Load the brands data from the JSON file
+with open('brands.json', 'r') as file:
+    brands_data = json.load(file)
 
-# Preparse the data
-preparsed_data = []
-for part in data:
-    parsed_part = {
-        "part_name": part["part_name"],
-        "image_url": part["image_url"],
-        "product_link": part["product_link"],
-        "products": []
-    }
-    for product in part.get("products", []):
-        parsed_product = {
-            "product_url": product["product_url"],
-            "part_numbers": product.get("part_numbers", []),
-            "faults": [],
-            "cars": product.get("cars", [])
-        }
-        for fault in product.get("faults", []):
-            fault_code = fault.get("fault_code", None)
-            fault_description = fault["fault_description"]
-            parsed_product["faults"].extend(preparse_fault_descriptions(fault_code, fault_description))
-        parsed_part["products"].append(parsed_product)
-    preparsed_data.append(parsed_part)
+for brand in brands_data:
+    texts_to_translate = set()
+    for brand_part in brand['brand_parts']:
+        input_file_path = f"{brand['brand_name']}/Detailed {brand_part['part_name'].replace('/', '-')}.json"
+        preparsed_output_file_path = f"{brand['brand_name']}/Preparsed {brand_part['part_name'].replace('/', '-')}.json"
 
-# Save the preparsed data to a new JSON file
-with open(preparsed_output_file_path, "w", encoding="utf-8") as file:
-    json.dump(preparsed_data, file, ensure_ascii=False, indent=4)
+        # Load the input JSON file
+        with open(input_file_path, "r", encoding="utf-8") as file:
+            data = json.load(file)
 
-print(f"Preparsed data saved to {preparsed_output_file_path}")
+        # Preparse the data
+        preparsed_data = []
+        for part in data:
+            parsed_part = {
+                "part_name": part["part_name"],
+                "image_url": part["image_url"],
+                "product_link": part["product_link"],
+                "products": []
+            }
+            for product in part.get("products", []):
+                parsed_product = {
+                    "product_url": product["product_url"],
+                    "part_numbers": product.get("part_numbers", []),
+                    "faults": [],
+                    "cars": product.get("cars", [])
+                }
+                for fault in product.get("faults", []):
+                    fault_code = fault.get("fault_code", None)
+                    fault_description = fault["fault_description"]
+                    parsed_product["faults"].extend(preparse_fault_descriptions(fault_code, fault_description))
+                parsed_part["products"].append(parsed_product)
+            preparsed_data.append(parsed_part)
 
-# Load the preparsed data for translation
-with open(preparsed_output_file_path, "r", encoding="utf-8") as file:
-    data = json.load(file)
+        # Save the preparsed data to a new JSON file
+        with open(preparsed_output_file_path, "w", encoding="utf-8") as file:
+            json.dump(preparsed_data, file, ensure_ascii=False, indent=4)
 
-# Collect texts that need translation
-texts_to_translate = set()
-for part in data:
-    collect_texts_to_translate(texts_to_translate, part["part_name"])
-    for product in part.get("products", []):
-        for part_number in product.get("part_numbers", []):
-            collect_texts_to_translate(texts_to_translate, part_number["title"])
-        for fault in product.get("faults", []):
-            collect_texts_to_translate(texts_to_translate, fault["fault_description"])
-        for car in product.get("cars", []):
-            collect_texts_to_translate(texts_to_translate, car)
+        print(f"Preparsed data saved to {preparsed_output_file_path}")
 
-# Print texts that need translation
-print("Texts that need translation:")
-for text in sorted(texts_to_translate):
-    print(text)
+        # Load the preparsed data for translation
+        with open(preparsed_output_file_path, "r", encoding="utf-8") as file:
+            data = json.load(file)
 
-# Translate the texts
-for text in texts_to_translate:
-    translate_text(text)
+        # Collect texts that need translation
+        for part in data:
+            collect_texts_to_translate(texts_to_translate, part["part_name"])
+            for product in part.get("products", []):
+                for part_number in product.get("part_numbers", []):
+                    collect_texts_to_translate(texts_to_translate, part_number["title"])
+                for fault in product.get("faults", []):
+                    collect_texts_to_translate(texts_to_translate, fault["fault_description"])
+                for car in product.get("cars", []):
+                    collect_texts_to_translate(texts_to_translate, car)
 
-# Traverse the data and translate the required fields
-for part in data:
-    part["part_name"] = translate_text(part["part_name"])
-    for product in part.get("products", []):
-        for part_number in product.get("part_numbers", []):
-            part_number["title"] = translate_text(part_number["title"])
-        for fault in product.get("faults", []):
-            fault["fault_description"] = translate_text(fault["fault_description"])
-        for i, car in enumerate(product.get("cars", [])):
-            product["cars"][i] = translate_text(car)
+    # Print texts that need translation
+    print("Texts that need translation:")
+    for text in sorted(texts_to_translate):
+        print(text)
 
-# Save the translated data to a new JSON file
-with open(translations_output_file_path, "w", encoding="utf-8") as file:
-    json.dump(data, file, ensure_ascii=False, indent=4)
+    # Translate the texts
+    for text in texts_to_translate:
+        translate_text(text)
+        
 
-print(f"Translated data saved to {translations_output_file_path}")
+    for brand_part in brand['brand_parts']:
+        preparsed_output_file_path = f"{brand['brand_name']}/Preparsed {brand_part['part_name'].replace('/', '-')}.json"
+        translations_output_file_path = f"{brand['brand_name']}/Translated {brand_part['part_name'].replace('/', '-')}.json"
+        # Load the preparsed data for translation
+        with open(preparsed_output_file_path, "r", encoding="utf-8") as file:
+            data = json.load(file)
+
+        # Traverse the data and translate the required fields
+        for part in data:
+            part["part_name"] = translate_text(part["part_name"])
+            for product in part.get("products", []):
+                for part_number in product.get("part_numbers", []):
+                    part_number["title"] = translate_text(part_number["title"])
+                for fault in product.get("faults", []):
+                    fault["fault_description"] = translate_text(fault["fault_description"])
+                for i, car in enumerate(product.get("cars", [])):
+                    product["cars"][i] = translate_text(car)
+
+        # Save the translated data to a new JSON file
+        with open(translations_output_file_path, "w", encoding="utf-8") as file:
+            json.dump(data, file, ensure_ascii=False, indent=4)
+
+        print(f"Translated data saved to {translations_output_file_path}")

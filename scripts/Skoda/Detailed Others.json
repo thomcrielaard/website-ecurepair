@@ -9,22 +9,15 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "1K0 525 130 L",
-              "1K0525130L"
-            ]
+            "numbers": ["1K0 525 130 L", "1K0525130L"]
           },
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "104572"
-            ]
+            "numbers": ["104572"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22202"
-            ]
+            "numbers": ["5WP22202"]
           }
         ],
         "faults": [
@@ -33,16 +26,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -62,24 +55,15 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "1K0 907 554 A",
-              "1K0907554A"
-            ]
+            "numbers": ["1K0 907 554 A", "1K0907554A"]
           },
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "104572-04",
-              "10457204"
-            ]
+            "numbers": ["104572-04", "10457204"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22222-01",
-              "5WP2222201"
-            ]
+            "numbers": ["5WP22222-01", "5WP2222201"]
           }
         ],
         "faults": [
@@ -88,16 +72,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -119,24 +103,15 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "1K0 907 554 B",
-              "1K0907554B"
-            ]
+            "numbers": ["1K0 907 554 B", "1K0907554B"]
           },
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "104572-05",
-              "10457205"
-            ]
+            "numbers": ["104572-05", "10457205"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22222-02",
-              "5WP2222202"
-            ]
+            "numbers": ["5WP22222-02", "5WP2222202"]
           }
         ],
         "faults": [
@@ -145,16 +120,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -177,24 +152,15 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "1K0 907 554 C",
-              "1K0907554C"
-            ]
+            "numbers": ["1K0 907 554 C", "1K0907554C"]
           },
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "107718-01",
-              "10771801"
-            ]
+            "numbers": ["107718-01", "10771801"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22232-01",
-              "5WP2223201"
-            ]
+            "numbers": ["5WP22232-01", "5WP2223201"]
           }
         ],
         "faults": [
@@ -203,16 +169,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -235,24 +201,15 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "1K0 907 554 F",
-              "1K0907554F"
-            ]
+            "numbers": ["1K0 907 554 F", "1K0907554F"]
           },
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "107718-02",
-              "10771802"
-            ]
+            "numbers": ["107718-02", "10771802"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22232-02",
-              "5WP2223202"
-            ]
+            "numbers": ["5WP22232-02", "5WP2223202"]
           }
         ],
         "faults": [
@@ -261,16 +218,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -294,24 +251,15 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "1K0 907 554 L",
-              "1K0907554L"
-            ]
+            "numbers": ["1K0 907 554 L", "1K0907554L"]
           },
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "109429-01",
-              "10942901"
-            ]
+            "numbers": ["109429-01", "10942901"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22241-01",
-              "5WP2224101"
-            ]
+            "numbers": ["5WP22241-01", "5WP2224101"]
           }
         ],
         "faults": [
@@ -320,16 +268,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -361,10 +309,7 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "0AY 907 554 F",
-              "0AY907554F"
-            ]
+            "numbers": ["0AY 907 554 F", "0AY907554F"]
           },
           {
             "title": "Haldex",
@@ -373,8 +318,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -396,10 +341,7 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "0AY 907 554 J",
-              "0AY907554J"
-            ]
+            "numbers": ["0AY 907 554 J", "0AY907554J"]
           },
           {
             "title": "Haldex",
@@ -408,8 +350,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -434,10 +376,7 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "0CQ 907 554 D",
-              "0CQ907554D"
-            ]
+            "numbers": ["0CQ 907 554 D", "0CQ907554D"]
           },
           {
             "title": "Haldex",
@@ -446,8 +385,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -470,10 +409,7 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "0CQ 907 554 H",
-              "0CQ907554H"
-            ]
+            "numbers": ["0CQ 907 554 H", "0CQ907554H"]
           },
           {
             "title": "Haldex",
@@ -482,8 +418,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -507,10 +443,7 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "0CQ 907 554 J",
-              "0CQ907554J"
-            ]
+            "numbers": ["0CQ 907 554 J", "0CQ907554J"]
           },
           {
             "title": "Haldex",
@@ -519,8 +452,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -549,10 +482,7 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "0BR 598 554 C",
-              "0BR598554C"
-            ]
+            "numbers": ["0BR 598 554 C", "0BR598554C"]
           }
         ],
         "faults": [
@@ -561,16 +491,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -586,24 +516,15 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "0BR 907 554 A",
-              "0BR907554A"
-            ]
+            "numbers": ["0BR 907 554 A", "0BR907554A"]
           },
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "111852-02",
-              "11185202"
-            ]
+            "numbers": ["111852-02", "11185202"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33523-02",
-              "5WP3352302"
-            ]
+            "numbers": ["5WP33523-02", "5WP3352302"]
           }
         ],
         "faults": [
@@ -612,16 +533,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -642,17 +563,11 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "0BR 907 554 A",
-              "0BR907554A"
-            ]
+            "numbers": ["0BR 907 554 A", "0BR907554A"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33523-01",
-              "5WP3352301"
-            ]
+            "numbers": ["5WP33523-01", "5WP3352301"]
           }
         ],
         "faults": [
@@ -661,16 +576,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -690,24 +605,15 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "0BR 907 554 B",
-              "0BR907554B"
-            ]
+            "numbers": ["0BR 907 554 B", "0BR907554B"]
           },
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "114479-01",
-              "11447901"
-            ]
+            "numbers": ["114479-01", "11447901"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33523-03",
-              "5WP3352303"
-            ]
+            "numbers": ["5WP33523-03", "5WP3352303"]
           }
         ],
         "faults": [
@@ -716,16 +622,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -746,24 +652,15 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "0BR 907 554 C",
-              "0BR907554C"
-            ]
+            "numbers": ["0BR 907 554 C", "0BR907554C"]
           },
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "115928-01",
-              "11592801"
-            ]
+            "numbers": ["115928-01", "11592801"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33523-04",
-              "5WP3352304"
-            ]
+            "numbers": ["5WP33523-04", "5WP3352304"]
           }
         ],
         "faults": [
@@ -772,16 +669,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -811,10 +708,7 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "02D 900 554 B",
-              "02D900554B"
-            ]
+            "numbers": ["02D 900 554 B", "02D900554B"]
           },
           {
             "title": "Siemens",
@@ -827,8 +721,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"
@@ -845,16 +739,11 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "02D 900 554 C",
-              "02D900554C"
-            ]
+            "numbers": ["02D 900 554 C", "02D900554C"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "HA1"
-            ]
+            "numbers": ["HA1"]
           }
         ],
         "faults": [
@@ -863,8 +752,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"
@@ -881,10 +770,7 @@
         "part_numbers": [
           {
             "title": "Skoda - Part number",
-            "numbers": [
-              "02D 900 554 D",
-              "02D900554D"
-            ]
+            "numbers": ["02D 900 554 D", "02D900554D"]
           },
           {
             "title": "Siemens",
@@ -897,8 +783,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"

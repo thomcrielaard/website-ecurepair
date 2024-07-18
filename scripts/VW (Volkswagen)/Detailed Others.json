@@ -9,10 +9,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 907 554 F",
-              "0AY907554F"
-            ]
+            "numbers": ["0AY 907 554 F", "0AY907554F"]
           },
           {
             "title": "Haldex",
@@ -21,8 +18,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -46,10 +43,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 907 554 J",
-              "0AY907554J"
-            ]
+            "numbers": ["0AY 907 554 J", "0AY907554J"]
           },
           {
             "title": "Haldex",
@@ -58,8 +52,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -90,10 +84,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 907 554 L",
-              "0AY907554L"
-            ]
+            "numbers": ["0AY 907 554 L", "0AY907554L"]
           },
           {
             "title": "Haldex",
@@ -102,8 +93,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -130,10 +121,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0CQ 907 554",
-              "0CQ907554"
-            ]
+            "numbers": ["0CQ 907 554", "0CQ907554"]
           },
           {
             "title": "Haldex",
@@ -142,8 +130,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -164,10 +152,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0CQ 907 554 B",
-              "0CQ907554B"
-            ]
+            "numbers": ["0CQ 907 554 B", "0CQ907554B"]
           },
           {
             "title": "Haldex",
@@ -176,8 +161,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -196,16 +181,13 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0CQ 907 554 C",
-              "0CQ907554C"
-            ]
+            "numbers": ["0CQ 907 554 C", "0CQ907554C"]
           }
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -224,10 +206,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0CQ 907 554 D",
-              "0CQ907554D"
-            ]
+            "numbers": ["0CQ 907 554 D", "0CQ907554D"]
           },
           {
             "title": "Haldex",
@@ -236,8 +215,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -266,10 +245,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0CQ 907 554 F",
-              "0CQ907554F"
-            ]
+            "numbers": ["0CQ 907 554 F", "0CQ907554F"]
           },
           {
             "title": "Haldex",
@@ -278,8 +254,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -300,10 +276,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0CQ 907 554 H",
-              "0CQ907554H"
-            ]
+            "numbers": ["0CQ 907 554 H", "0CQ907554H"]
           },
           {
             "title": "Haldex",
@@ -312,8 +285,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -337,10 +310,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0CQ 907 554 J",
-              "0CQ907554J"
-            ]
+            "numbers": ["0CQ 907 554 J", "0CQ907554J"]
           },
           {
             "title": "Haldex",
@@ -349,8 +319,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -373,10 +343,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0CQ 907 554 L",
-              "0CQ907554L"
-            ]
+            "numbers": ["0CQ 907 554 L", "0CQ907554L"]
           },
           {
             "title": "Haldex",
@@ -385,8 +352,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -412,17 +379,11 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "09N 907 554",
-              "09N907554"
-            ]
+            "numbers": ["09N 907 554", "09N907554"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33526-02",
-              "5WP3352602"
-            ]
+            "numbers": ["5WP33526-02", "5WP3352602"]
           }
         ],
         "faults": [
@@ -431,16 +392,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -459,24 +420,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "09N 907 554 A",
-              "09N907554A"
-            ]
+            "numbers": ["09N 907 554 A", "09N907554A"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "114368-01",
-              "11436801"
-            ]
+            "numbers": ["114368-01", "11436801"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33526-03",
-              "5WP3352603"
-            ]
+            "numbers": ["5WP33526-03", "5WP3352603"]
           }
         ],
         "faults": [
@@ -485,16 +437,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -514,24 +466,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "09N 907 554 B",
-              "09N907554B"
-            ]
+            "numbers": ["09N 907 554 B", "09N907554B"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "115930-01",
-              "11593001"
-            ]
+            "numbers": ["115930-01", "11593001"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33526-04",
-              "5WP3352604"
-            ]
+            "numbers": ["5WP33526-04", "5WP3352604"]
           }
         ],
         "faults": [
@@ -540,16 +483,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -570,17 +513,11 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "09N 907 554 B",
-              "09N907554B"
-            ]
+            "numbers": ["09N 907 554 B", "09N907554B"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33526-04",
-              "5WP3352604"
-            ]
+            "numbers": ["5WP33526-04", "5WP3352604"]
           }
         ],
         "faults": [
@@ -589,16 +526,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -617,24 +554,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "09N 907 554 C",
-              "09N907554C"
-            ]
+            "numbers": ["09N 907 554 C", "09N907554C"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "119840-02",
-              "11984002"
-            ]
+            "numbers": ["119840-02", "11984002"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33526-05",
-              "5WP3352605"
-            ]
+            "numbers": ["5WP33526-05", "5WP3352605"]
           }
         ],
         "faults": [
@@ -643,16 +571,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -673,10 +601,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 598 554 C",
-              "0AY598554C"
-            ]
+            "numbers": ["0AY 598 554 C", "0AY598554C"]
           },
           {
             "title": "Continental",
@@ -689,16 +614,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -714,10 +639,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 598 554 J",
-              "0AY598554J"
-            ]
+            "numbers": ["0AY 598 554 J", "0AY598554J"]
           }
         ],
         "faults": [
@@ -726,16 +648,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -751,24 +673,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 907 554 A",
-              "0AY907554A"
-            ]
+            "numbers": ["0AY 907 554 A", "0AY907554A"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "108252-01",
-              "10825201"
-            ]
+            "numbers": ["108252-01", "10825201"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP33514-01",
-              "5WP3351401"
-            ]
+            "numbers": ["5WP33514-01", "5WP3351401"]
           }
         ],
         "faults": [
@@ -777,16 +690,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -805,24 +718,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 907 554 A",
-              "0AY907554A"
-            ]
+            "numbers": ["0AY 907 554 A", "0AY907554A"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "108252-02",
-              "10825202"
-            ]
+            "numbers": ["108252-02", "10825202"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP33514-02",
-              "5WP3351402"
-            ]
+            "numbers": ["5WP33514-02", "5WP3351402"]
           }
         ],
         "faults": [
@@ -831,16 +735,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -859,24 +763,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 907 554 B",
-              "0AY907554B"
-            ]
+            "numbers": ["0AY 907 554 B", "0AY907554B"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "108252-03",
-              "10825203"
-            ]
+            "numbers": ["108252-03", "10825203"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP33514-03",
-              "5WP3351403"
-            ]
+            "numbers": ["5WP33514-03", "5WP3351403"]
           }
         ],
         "faults": [
@@ -885,16 +780,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -914,24 +809,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 907 554 C",
-              "0AY907554C"
-            ]
+            "numbers": ["0AY 907 554 C", "0AY907554C"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "111818-01",
-              "11181801"
-            ]
+            "numbers": ["111818-01", "11181801"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33522-01",
-              "5WP3352201"
-            ]
+            "numbers": ["5WP33522-01", "5WP3352201"]
           }
         ],
         "faults": [
@@ -940,16 +826,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -970,24 +856,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 907 554 C",
-              "0AY907554C"
-            ]
+            "numbers": ["0AY 907 554 C", "0AY907554C"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "111818-02",
-              "11181802"
-            ]
+            "numbers": ["111818-02", "11181802"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33522-02",
-              "5WP3352202"
-            ]
+            "numbers": ["5WP33522-02", "5WP3352202"]
           }
         ],
         "faults": [
@@ -996,16 +873,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -1026,24 +903,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 907 554 D",
-              "0AY907554D"
-            ]
+            "numbers": ["0AY 907 554 D", "0AY907554D"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "114478-01",
-              "11447801"
-            ]
+            "numbers": ["114478-01", "11447801"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP33522-03",
-              "5WP3352203"
-            ]
+            "numbers": ["5WP33522-03", "5WP3352203"]
           }
         ],
         "faults": [
@@ -1052,16 +920,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -1081,24 +949,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 907 554 E",
-              "0AY907554E"
-            ]
+            "numbers": ["0AY 907 554 E", "0AY907554E"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "116642-01",
-              "11664201"
-            ]
+            "numbers": ["116642-01", "11664201"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33522-04",
-              "5WP3352204"
-            ]
+            "numbers": ["5WP33522-04", "5WP3352204"]
           }
         ],
         "faults": [
@@ -1107,16 +966,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -1138,24 +997,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AY 907 554 H",
-              "0AY907554H"
-            ]
+            "numbers": ["0AY 907 554 H", "0AY907554H"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "120330-01",
-              "12033001"
-            ]
+            "numbers": ["120330-01", "12033001"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33532-01",
-              "5WP3353201"
-            ]
+            "numbers": ["5WP33532-01", "5WP3353201"]
           }
         ],
         "faults": [
@@ -1164,16 +1014,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -1189,10 +1039,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0BR 598 554",
-              "0BR598554"
-            ]
+            "numbers": ["0BR 598 554", "0BR598554"]
           }
         ],
         "faults": [
@@ -1201,16 +1048,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -1226,10 +1073,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0BR 598 554 A",
-              "0BR598554A"
-            ]
+            "numbers": ["0BR 598 554 A", "0BR598554A"]
           }
         ],
         "faults": [
@@ -1238,16 +1082,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -1263,10 +1107,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0BR 598 554 B",
-              "0BR598554B"
-            ]
+            "numbers": ["0BR 598 554 B", "0BR598554B"]
           }
         ],
         "faults": [
@@ -1275,16 +1116,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -1300,10 +1141,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0BR 598 554 D",
-              "0BR598554D"
-            ]
+            "numbers": ["0BR 598 554 D", "0BR598554D"]
           }
         ],
         "faults": [
@@ -1312,16 +1150,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -1337,24 +1175,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0BR 907 554 A",
-              "0BR907554A"
-            ]
+            "numbers": ["0BR 907 554 A", "0BR907554A"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "111852-01",
-              "11185201"
-            ]
+            "numbers": ["111852-01", "11185201"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33523-01",
-              "5WP3352301"
-            ]
+            "numbers": ["5WP33523-01", "5WP3352301"]
           }
         ],
         "faults": [
@@ -1363,16 +1192,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -1397,31 +1226,19 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7P6 907 217",
-              "7P6907217"
-            ]
+            "numbers": ["7P6 907 217", "7P6907217"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7P6 907 217",
-              "7P6907217"
-            ]
+            "numbers": ["7P6 907 217", "7P6907217"]
           },
           {
             "title": "BOSCH - Part number",
-            "numbers": [
-              "0 275 003 008",
-              "0275003008"
-            ]
+            "numbers": ["0 275 003 008", "0275003008"]
           },
           {
             "title": "BOSCH - Part number",
-            "numbers": [
-              "1 039 S41 782",
-              "1039S41782"
-            ]
+            "numbers": ["1 039 S41 782", "1039S41782"]
           }
         ],
         "faults": [
@@ -1442,31 +1259,19 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7P6 907 217",
-              "7P6907217"
-            ]
+            "numbers": ["7P6 907 217", "7P6907217"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7P6 907 217",
-              "7P6907217"
-            ]
+            "numbers": ["7P6 907 217", "7P6907217"]
           },
           {
             "title": "BOSCH - Part number",
-            "numbers": [
-              "0 275 003 008",
-              "0275003008"
-            ]
+            "numbers": ["0 275 003 008", "0275003008"]
           },
           {
             "title": "BOSCH - Part number",
-            "numbers": [
-              "1 039 S43 652",
-              "1039S43652"
-            ]
+            "numbers": ["1 039 S43 652", "1039S43652"]
           }
         ],
         "faults": [
@@ -1487,31 +1292,19 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7P6 907 217 B",
-              "7P6907217B"
-            ]
+            "numbers": ["7P6 907 217 B", "7P6907217B"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7P6 907 217",
-              "7P6907217"
-            ]
+            "numbers": ["7P6 907 217", "7P6907217"]
           },
           {
             "title": "BOSCH - Part number",
-            "numbers": [
-              "0 203 500 000",
-              "0203500000"
-            ]
+            "numbers": ["0 203 500 000", "0203500000"]
           },
           {
             "title": "BOSCH - Part number",
-            "numbers": [
-              "1 039 S47 740",
-              "1039S47740"
-            ]
+            "numbers": ["1 039 S47 740", "1039S47740"]
           }
         ],
         "faults": [
@@ -1532,31 +1325,19 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7P6 907 217 B",
-              "7P6907217B"
-            ]
+            "numbers": ["7P6 907 217 B", "7P6907217B"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7P6 907 217",
-              "7P6907217"
-            ]
+            "numbers": ["7P6 907 217", "7P6907217"]
           },
           {
             "title": "BOSCH - Part number",
-            "numbers": [
-              "0 203 500 000",
-              "0203500000"
-            ]
+            "numbers": ["0 203 500 000", "0203500000"]
           },
           {
             "title": "BOSCH - Part number",
-            "numbers": [
-              "1 039 S61 349",
-              "1039S61349"
-            ]
+            "numbers": ["1 039 S61 349", "1039S61349"]
           }
         ],
         "faults": [
@@ -1577,31 +1358,19 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7P6 907 217 B",
-              "7P6907217B"
-            ]
+            "numbers": ["7P6 907 217 B", "7P6907217B"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7P6 907 217",
-              "7P6907217"
-            ]
+            "numbers": ["7P6 907 217", "7P6907217"]
           },
           {
             "title": "BOSCH - Part number",
-            "numbers": [
-              "0 203 500 000",
-              "0203500000"
-            ]
+            "numbers": ["0 203 500 000", "0203500000"]
           },
           {
             "title": "BOSCH - Part number",
-            "numbers": [
-              "1 039 S64 552",
-              "1039S64552"
-            ]
+            "numbers": ["1 039 S64 552", "1039S64552"]
           }
         ],
         "faults": [
@@ -1629,10 +1398,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "02D 525 554",
-              "02D525554"
-            ]
+            "numbers": ["02D 525 554", "02D525554"]
           },
           {
             "title": "Haldex",
@@ -1645,8 +1411,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"
@@ -1662,10 +1428,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "02D 900 554 A",
-              "02D900554A"
-            ]
+            "numbers": ["02D 900 554 A", "02D900554A"]
           },
           {
             "title": "Siemens",
@@ -1678,8 +1441,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"
@@ -1692,10 +1455,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "02D 900 554 B",
-              "02D900554B"
-            ]
+            "numbers": ["02D 900 554 B", "02D900554B"]
           },
           {
             "title": "Siemens",
@@ -1708,8 +1468,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"
@@ -1738,16 +1498,11 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "02D 900 554 C",
-              "02D900554C"
-            ]
+            "numbers": ["02D 900 554 C", "02D900554C"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "HA1"
-            ]
+            "numbers": ["HA1"]
           }
         ],
         "faults": [
@@ -1756,8 +1511,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"
@@ -1781,10 +1536,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "02D 900 554 D",
-              "02D900554D"
-            ]
+            "numbers": ["02D 900 554 D", "02D900554D"]
           },
           {
             "title": "Siemens",
@@ -1797,8 +1549,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"
@@ -1814,10 +1566,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "02D 900 554 DV",
-              "02D900554DV"
-            ]
+            "numbers": ["02D 900 554 DV", "02D900554DV"]
           },
           {
             "title": "Siemens",
@@ -1830,8 +1579,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"
@@ -1844,10 +1593,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "02D 900 554 DX",
-              "02D900554DX"
-            ]
+            "numbers": ["02D 900 554 DX", "02D900554DX"]
           },
           {
             "title": "Siemens",
@@ -1860,8 +1606,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"
@@ -1874,10 +1620,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "02D 900 554 E",
-              "02D900554E"
-            ]
+            "numbers": ["02D 900 554 E", "02D900554E"]
           },
           {
             "title": "Siemens",
@@ -1890,8 +1633,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"
@@ -1911,10 +1654,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "1K0 525 130 H",
-              "1K0525130H"
-            ]
+            "numbers": ["1K0 525 130 H", "1K0525130H"]
           },
           {
             "title": "Siemens",
@@ -1927,16 +1667,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -1956,10 +1696,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "1K0 525 130 K",
-              "1K0525130K"
-            ]
+            "numbers": ["1K0 525 130 K", "1K0525130K"]
           },
           {
             "title": "Siemens",
@@ -1972,16 +1709,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2001,22 +1738,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "1K0 525 130 L",
-              "1K0525130L"
-            ]
+            "numbers": ["1K0 525 130 L", "1K0525130L"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "104572"
-            ]
+            "numbers": ["104572"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22202"
-            ]
+            "numbers": ["5WP22202"]
           }
         ],
         "faults": [
@@ -2025,16 +1755,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2059,24 +1789,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "1K0 907 554",
-              "1K0907554"
-            ]
+            "numbers": ["1K0 907 554", "1K0907554"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "104572-02",
-              "10457202"
-            ]
+            "numbers": ["104572-02", "10457202"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22212-03",
-              "5WP2221203"
-            ]
+            "numbers": ["5WP22212-03", "5WP2221203"]
           }
         ],
         "faults": [
@@ -2085,16 +1806,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2118,24 +1839,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "1K0 907 554 A",
-              "1K0907554A"
-            ]
+            "numbers": ["1K0 907 554 A", "1K0907554A"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "104572-04",
-              "10457204"
-            ]
+            "numbers": ["104572-04", "10457204"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22222-01",
-              "5WP2222201"
-            ]
+            "numbers": ["5WP22222-01", "5WP2222201"]
           }
         ],
         "faults": [
@@ -2144,16 +1856,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2179,24 +1891,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "1K0 907 554 B",
-              "1K0907554B"
-            ]
+            "numbers": ["1K0 907 554 B", "1K0907554B"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "104572-05",
-              "10457205"
-            ]
+            "numbers": ["104572-05", "10457205"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22222-02",
-              "5WP2222202"
-            ]
+            "numbers": ["5WP22222-02", "5WP2222202"]
           }
         ],
         "faults": [
@@ -2205,16 +1908,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2239,24 +1942,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "1K0 907 554 C",
-              "1K0907554C"
-            ]
+            "numbers": ["1K0 907 554 C", "1K0907554C"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "107718-01",
-              "10771801"
-            ]
+            "numbers": ["107718-01", "10771801"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22232-01",
-              "5WP2223201"
-            ]
+            "numbers": ["5WP22232-01", "5WP2223201"]
           }
         ],
         "faults": [
@@ -2265,16 +1959,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2305,17 +1999,11 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "1K0 907 554 E",
-              "1K0907554E"
-            ]
+            "numbers": ["1K0 907 554 E", "1K0907554E"]
           },
           {
             "title": "SiemensVDO - Part number",
-            "numbers": [
-              "5WP22231-02",
-              "5WP2223102"
-            ]
+            "numbers": ["5WP22231-02", "5WP2223102"]
           }
         ],
         "faults": [
@@ -2324,16 +2012,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2355,24 +2043,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "1K0 907 554 F",
-              "1K0907554F"
-            ]
+            "numbers": ["1K0 907 554 F", "1K0907554F"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "107718-02",
-              "10771802"
-            ]
+            "numbers": ["107718-02", "10771802"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22232-02",
-              "5WP2223202"
-            ]
+            "numbers": ["5WP22232-02", "5WP2223202"]
           }
         ],
         "faults": [
@@ -2381,16 +2060,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2417,24 +2096,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "1K0 907 554 H",
-              "1K0907554H"
-            ]
+            "numbers": ["1K0 907 554 H", "1K0907554H"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "108710-02",
-              "10871002"
-            ]
+            "numbers": ["108710-02", "10871002"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22234-01",
-              "5WP2223401"
-            ]
+            "numbers": ["5WP22234-01", "5WP2223401"]
           }
         ],
         "faults": [
@@ -2443,16 +2113,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2478,24 +2148,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "1K0 907 554 K",
-              "1K0907554K"
-            ]
+            "numbers": ["1K0 907 554 K", "1K0907554K"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "109430-01",
-              "10943001"
-            ]
+            "numbers": ["109430-01", "10943001"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22243-01",
-              "5WP2224301"
-            ]
+            "numbers": ["5WP22243-01", "5WP2224301"]
           }
         ],
         "faults": [
@@ -2504,16 +2165,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2539,24 +2200,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "1K0 907 554 L",
-              "1K0907554L"
-            ]
+            "numbers": ["1K0 907 554 L", "1K0907554L"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "109429-01",
-              "10942901"
-            ]
+            "numbers": ["109429-01", "10942901"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22241-01",
-              "5WP2224101"
-            ]
+            "numbers": ["5WP22241-01", "5WP2224101"]
           }
         ],
         "faults": [
@@ -2565,16 +2217,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2600,16 +2252,11 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7H0 525 130 F",
-              "7H0525130F"
-            ]
+            "numbers": ["7H0 525 130 F", "7H0525130F"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22202"
-            ]
+            "numbers": ["5WP22202"]
           }
         ],
         "faults": [
@@ -2618,16 +2265,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2651,24 +2298,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7H0 907 554",
-              "7H0907554"
-            ]
+            "numbers": ["7H0 907 554", "7H0907554"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "104573-01",
-              "10457301"
-            ]
+            "numbers": ["104573-01", "10457301"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22213-01",
-              "5WP2221301"
-            ]
+            "numbers": ["5WP22213-01", "5WP2221301"]
           }
         ],
         "faults": [
@@ -2677,16 +2315,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2709,24 +2347,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7H0 907 554",
-              "7H0907554"
-            ]
+            "numbers": ["7H0 907 554", "7H0907554"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "104573-01",
-              "10457301"
-            ]
+            "numbers": ["104573-01", "10457301"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22213-02",
-              "5WP2221302"
-            ]
+            "numbers": ["5WP22213-02", "5WP2221302"]
           }
         ],
         "faults": [
@@ -2735,16 +2364,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2766,17 +2395,11 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7H0 907 554",
-              "7H0907554"
-            ]
+            "numbers": ["7H0 907 554", "7H0907554"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22213-04",
-              "5WP2221304"
-            ]
+            "numbers": ["5WP22213-04", "5WP2221304"]
           }
         ],
         "faults": [
@@ -2785,16 +2408,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2818,24 +2441,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7H0 907 554 A",
-              "7H0907554A"
-            ]
+            "numbers": ["7H0 907 554 A", "7H0907554A"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "104573-04",
-              "10457304"
-            ]
+            "numbers": ["104573-04", "10457304"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22223-01",
-              "5WP2222301"
-            ]
+            "numbers": ["5WP22223-01", "5WP2222301"]
           }
         ],
         "faults": [
@@ -2844,16 +2458,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2878,24 +2492,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7H0 907 554 C",
-              "7H0907554C"
-            ]
+            "numbers": ["7H0 907 554 C", "7H0907554C"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "104573-05",
-              "10457305"
-            ]
+            "numbers": ["104573-05", "10457305"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22223-02",
-              "5WP2222302"
-            ]
+            "numbers": ["5WP22223-02", "5WP2222302"]
           }
         ],
         "faults": [
@@ -2904,16 +2509,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2936,24 +2541,15 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7H0 907 554 D",
-              "7H0907554D"
-            ]
+            "numbers": ["7H0 907 554 D", "7H0907554D"]
           },
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "104573-06",
-              "10457306"
-            ]
+            "numbers": ["104573-06", "10457306"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22223-03",
-              "5WP2222303"
-            ]
+            "numbers": ["5WP22223-03", "5WP2222303"]
           }
         ],
         "faults": [
@@ -2962,16 +2558,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -2997,17 +2593,11 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7H0 907 554 D",
-              "7H0907554D"
-            ]
+            "numbers": ["7H0 907 554 D", "7H0907554D"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22223-02",
-              "5WP2222302"
-            ]
+            "numbers": ["5WP22223-02", "5WP2222302"]
           }
         ],
         "faults": [
@@ -3016,16 +2606,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -3052,10 +2642,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "5K0 953 549",
-              "5K0953549"
-            ]
+            "numbers": ["5K0 953 549", "5K0953549"]
           }
         ],
         "faults": [
@@ -3074,10 +2661,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "5K0 953 569 AB",
-              "5K0953569AB"
-            ]
+            "numbers": ["5K0 953 569 AB", "5K0953569AB"]
           },
           {
             "title": "Valeo",
@@ -3100,10 +2684,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "5K0 953 569 AL",
-              "5K0953569AL"
-            ]
+            "numbers": ["5K0 953 569 AL", "5K0953569AL"]
           }
         ],
         "faults": [
@@ -3124,10 +2705,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "5K0 953 569 AP",
-              "5K0953569AP"
-            ]
+            "numbers": ["5K0 953 569 AP", "5K0953569AP"]
           },
           {
             "title": "Valeo",
@@ -3152,10 +2730,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "5K0 953 569 AS",
-              "5K0953569AS"
-            ]
+            "numbers": ["5K0 953 569 AS", "5K0953569AS"]
           },
           {
             "title": "Valeo",
@@ -3180,10 +2755,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "5K0 953 569 H",
-              "5K0953569H"
-            ]
+            "numbers": ["5K0 953 569 H", "5K0953569H"]
           },
           {
             "title": "Valeo",
@@ -3208,10 +2780,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "5K0 953 569 L",
-              "5K0953569L"
-            ]
+            "numbers": ["5K0 953 569 L", "5K0953569L"]
           }
         ],
         "faults": [
@@ -3239,10 +2808,7 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "0AB 341 601",
-              "0AB341601"
-            ]
+            "numbers": ["0AB 341 601", "0AB341601"]
           }
         ],
         "faults": [
@@ -3250,19 +2816,14 @@
             "fault_description": "Faults on request"
           }
         ],
-        "cars": [
-          "VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7L) Engine code BKS"
-        ]
+        "cars": ["VOLKSWAGEN-VW Touareg 3.0 TDI (Touareg, 7L) Engine code BKS"]
       },
       {
         "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/touareg-%287l%29-servomotor-differential-rear-axle/volkswagen-vw-7l0598001-151261.html",
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "7L0 598 001",
-              "7L0598001"
-            ]
+            "numbers": ["7L0 598 001", "7L0598001"]
           }
         ],
         "faults": [
@@ -3284,16 +2845,11 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "6NW 008 412",
-              "6NW008412"
-            ]
+            "numbers": ["6NW 008 412", "6NW008412"]
           },
           {
             "title": "HELLA - Part number",
-            "numbers": [
-              "712120"
-            ]
+            "numbers": ["712120"]
           }
         ],
         "faults": [
@@ -3314,16 +2870,11 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "6NW 009 228",
-              "6NW009228"
-            ]
+            "numbers": ["6NW 009 228", "6NW009228"]
           },
           {
             "title": "HELLA - Part number",
-            "numbers": [
-              "730314"
-            ]
+            "numbers": ["730314"]
           }
         ],
         "faults": [
@@ -3345,16 +2896,11 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "6NW 009 550",
-              "6NW009550"
-            ]
+            "numbers": ["6NW 009 550", "6NW009550"]
           },
           {
             "title": "HELLA - Part number",
-            "numbers": [
-              "767649"
-            ]
+            "numbers": ["767649"]
           }
         ],
         "faults": [

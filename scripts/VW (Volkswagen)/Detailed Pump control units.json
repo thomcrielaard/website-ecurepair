@@ -9,26 +9,25 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "PSG5"
-            ]
+            "numbers": ["PSG5"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 001 827",
-              "0281001827"
-            ]
+            "numbers": ["0 281 001 827", "0281001827"]
           }
         ],
         "faults": [
           {
             "fault_code": "0526",
-            "fault_description": "Injection pump ecu J399or01318Injection pump ecu J399"
+            "fault_description": "Injection pump ECU (J399)"
           },
           {
-            "fault_code": "01268",
-            "fault_description": "04F4 Flow regulator N146"
+            "fault_code": "01318",
+            "fault_description": "Injection pump ECU (J399)"
+          },
+          {
+            "fault_code": "01268 04F4",
+            "fault_description": "Flow regulator (N146)"
           },
           {
             "fault_description": "Engine stops while driving and doesn't start again"
@@ -37,35 +36,32 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "VOLKSWAGEN-VW Passat 2.5 TDI (Passat, 3B) Engine code AFB"
-        ]
+        "cars": ["VOLKSWAGEN-VW Passat 2.5 TDI (Passat, 3B) Engine code AFB"]
       },
       {
         "product_url": "https://ecu.eu/injection-pump-psg5-%28vp44%29/volkswagen-vw-psg5-bosch-0281010479-114127.html",
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "PSG5"
-            ]
+            "numbers": ["PSG5"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 010 479",
-              "0281010479"
-            ]
+            "numbers": ["0 281 010 479", "0281010479"]
           }
         ],
         "faults": [
           {
             "fault_code": "0526",
-            "fault_description": "Injection pump ecu J399or01318Injection pump ecu J399"
+            "fault_description": "Injection pump ECU (J399)"
           },
           {
-            "fault_code": "01268",
-            "fault_description": "04F4 Flow regulator N146"
+            "fault_code": "01318",
+            "fault_description": "Injection pump ECU (J399)"
+          },
+          {
+            "fault_code": "01268 04F4",
+            "fault_description": "Flow regulator (N146)"
           },
           {
             "fault_description": "Engine stops while driving and doesn't start again"
@@ -83,26 +79,25 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "PSG5"
-            ]
+            "numbers": ["PSG5"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 010 479",
-              "0281010479"
-            ]
+            "numbers": ["0 281 010 479", "0281010479"]
           }
         ],
         "faults": [
           {
             "fault_code": "0526",
-            "fault_description": "Injection pump ecu J399or01318Injection pump ecu J399"
+            "fault_description": "Injection pump ECU (J399)"
           },
           {
-            "fault_code": "01268",
-            "fault_description": "04F4 Flow regulator N146"
+            "fault_code": "01318",
+            "fault_description": "Injection pump ECU (J399)"
+          },
+          {
+            "fault_code": "01268 04F4",
+            "fault_description": "Flow regulator (N146)"
           },
           {
             "fault_description": "Engine stops while driving and doesn't start again"
@@ -121,26 +116,25 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "PSG5"
-            ]
+            "numbers": ["PSG5"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 010 837",
-              "0281010837"
-            ]
+            "numbers": ["0 281 010 837", "0281010837"]
           }
         ],
         "faults": [
           {
             "fault_code": "0526",
-            "fault_description": "Injection pump ecu J399or01318Injection pump ecu J399"
+            "fault_description": "Injection pump ECU (J399)"
           },
           {
-            "fault_code": "01268",
-            "fault_description": "04F4 Flow regulator N146"
+            "fault_code": "01318",
+            "fault_description": "Injection pump ECU (J399)"
+          },
+          {
+            "fault_code": "01268 04F4",
+            "fault_description": "Flow regulator (N146)"
           },
           {
             "fault_description": "Engine stops while driving and doesn't start again"
@@ -159,26 +153,25 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "PSG5"
-            ]
+            "numbers": ["PSG5"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 010 888",
-              "0281010888"
-            ]
+            "numbers": ["0 281 010 888", "0281010888"]
           }
         ],
         "faults": [
           {
             "fault_code": "0526",
-            "fault_description": "Injection pump ecu J399or01318Injection pump ecu J399"
+            "fault_description": "Injection pump ECU (J399)"
           },
           {
-            "fault_code": "01268",
-            "fault_description": "04F4 Flow regulator N146"
+            "fault_code": "01318",
+            "fault_description": "Injection pump ECU (J399)"
+          },
+          {
+            "fault_code": "01268 04F4",
+            "fault_description": "Flow regulator (N146)"
           },
           {
             "fault_description": "Engine stops while driving and doesn't start again"
@@ -194,26 +187,25 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "PSG5"
-            ]
+            "numbers": ["PSG5"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 281 010 889",
-              "0281010889"
-            ]
+            "numbers": ["0 281 010 889", "0281010889"]
           }
         ],
         "faults": [
           {
             "fault_code": "0526",
-            "fault_description": "Injection pump ecu J399or01318Injection pump ecu J399"
+            "fault_description": "Injection pump ECU (J399)"
           },
           {
-            "fault_code": "01268",
-            "fault_description": "04F4 Flow regulator N146"
+            "fault_code": "01318",
+            "fault_description": "Injection pump ECU (J399)"
+          },
+          {
+            "fault_code": "01268 04F4",
+            "fault_description": "Flow regulator (N146)"
           },
           {
             "fault_description": "Engine stops while driving and doesn't start again"
@@ -234,26 +226,25 @@
         "part_numbers": [
           {
             "title": "VOLKSWAGEN-VW - Part number",
-            "numbers": [
-              "PSG5"
-            ]
+            "numbers": ["PSG5"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "1 277 022 037",
-              "1277022037"
-            ]
+            "numbers": ["1 277 022 037", "1277022037"]
           }
         ],
         "faults": [
           {
             "fault_code": "0526",
-            "fault_description": "Injection pump ecu J399or01318Injection pump ecu J399"
+            "fault_description": "Injection pump ECU (J399)"
           },
           {
-            "fault_code": "01268",
-            "fault_description": "04F4 Flow regulator N146"
+            "fault_code": "01318",
+            "fault_description": "Injection pump ECU (J399)"
+          },
+          {
+            "fault_code": "01268 04F4",
+            "fault_description": "Flow regulator (N146)"
           },
           {
             "fault_description": "Engine stops while driving and doesn't start again"

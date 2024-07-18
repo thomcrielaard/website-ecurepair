@@ -9,10 +9,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0AY 907 554 F",
-              "0AY907554F"
-            ]
+            "numbers": ["0AY 907 554 F", "0AY907554F"]
           },
           {
             "title": "Haldex",
@@ -21,8 +18,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -43,10 +40,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0AY 907 554 J",
-              "0AY907554J"
-            ]
+            "numbers": ["0AY 907 554 J", "0AY907554J"]
           },
           {
             "title": "Haldex",
@@ -55,8 +49,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -78,10 +72,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0CQ 907 554 D",
-              "0CQ907554D"
-            ]
+            "numbers": ["0CQ 907 554 D", "0CQ907554D"]
           },
           {
             "title": "Haldex",
@@ -90,8 +81,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -113,10 +104,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0CQ 907 554 H",
-              "0CQ907554H"
-            ]
+            "numbers": ["0CQ 907 554 H", "0CQ907554H"]
           },
           {
             "title": "Haldex",
@@ -125,8 +113,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -138,19 +126,14 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "SEAT LEON 2.0 TDI (Leon, 5F) Year of manufacture 2016"
-        ]
+        "cars": ["SEAT LEON 2.0 TDI (Leon, 5F) Year of manufacture 2016"]
       },
       {
         "product_url": "https://ecu.eu/seat/other/4drive-all-wheel-drive-unit-%28haldex-gen.5%29/seat-0cq907554j-haldex-131973.html",
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0CQ 907 554 J",
-              "0CQ907554J"
-            ]
+            "numbers": ["0CQ 907 554 J", "0CQ907554J"]
           },
           {
             "title": "Haldex",
@@ -159,8 +142,8 @@
         ],
         "faults": [
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "No ECU function"
@@ -188,24 +171,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0AY 907 554 D",
-              "0AY907554D"
-            ]
+            "numbers": ["0AY 907 554 D", "0AY907554D"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "114478-01",
-              "11447801"
-            ]
+            "numbers": ["114478-01", "11447801"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP33522-03",
-              "5WP3352203"
-            ]
+            "numbers": ["5WP33522-03", "5WP3352203"]
           }
         ],
         "faults": [
@@ -214,16 +188,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -241,24 +215,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0AY 907 554 E",
-              "0AY907554E"
-            ]
+            "numbers": ["0AY 907 554 E", "0AY907554E"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "116642-01",
-              "11664201"
-            ]
+            "numbers": ["116642-01", "11664201"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33522-04",
-              "5WP3352204"
-            ]
+            "numbers": ["5WP33522-04", "5WP3352204"]
           }
         ],
         "faults": [
@@ -267,16 +232,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -294,24 +259,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0BR 907 554 B",
-              "0BR907554B"
-            ]
+            "numbers": ["0BR 907 554 B", "0BR907554B"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "114479-01",
-              "11447901"
-            ]
+            "numbers": ["114479-01", "11447901"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33523-03",
-              "5WP3352303"
-            ]
+            "numbers": ["5WP33523-03", "5WP3352303"]
           }
         ],
         "faults": [
@@ -320,16 +276,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -345,24 +301,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "0BR 907 554 C",
-              "0BR907554C"
-            ]
+            "numbers": ["0BR 907 554 C", "0BR907554C"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "115928-01",
-              "11592801"
-            ]
+            "numbers": ["115928-01", "11592801"]
           },
           {
             "title": "Continental - Part number",
-            "numbers": [
-              "5WP33523-04",
-              "5WP3352304"
-            ]
+            "numbers": ["5WP33523-04", "5WP3352304"]
           }
         ],
         "faults": [
@@ -371,16 +318,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
             "fault_code": "00532",
             "fault_description": "supply voltage - upper limit exceeded"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_description": "No communication possible with the ecu"
@@ -405,22 +352,15 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "1K0 525 130 L",
-              "1K0525130L"
-            ]
+            "numbers": ["1K0 525 130 L", "1K0525130L"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "104572"
-            ]
+            "numbers": ["104572"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22202"
-            ]
+            "numbers": ["5WP22202"]
           }
         ],
         "faults": [
@@ -429,16 +369,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -451,33 +391,22 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "SEAT Altea 2.0 TDI (Altea, 5P) Year of manufacture 2007"
-        ]
+        "cars": ["SEAT Altea 2.0 TDI (Altea, 5P) Year of manufacture 2007"]
       },
       {
         "product_url": "https://ecu.eu/seat/other/haldex-control-unit-%28gen.2%29/seat-1k0907554l-10942901-siemens-5wp2224101-132658.html",
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "1K0 907 554 L",
-              "1K0907554L"
-            ]
+            "numbers": ["1K0 907 554 L", "1K0907554L"]
           },
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "109429-01",
-              "10942901"
-            ]
+            "numbers": ["109429-01", "10942901"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "5WP22241-01",
-              "5WP2224101"
-            ]
+            "numbers": ["5WP22241-01", "5WP2224101"]
           }
         ],
         "faults": [
@@ -486,16 +415,16 @@
             "fault_description": "control unit - 014 - defective"
           },
           {
-            "fault_code": "00448",
-            "fault_description": "(01C0) Pre-charging pump for Haldex clutch (V181)"
+            "fault_code": "00448 01C0",
+            "fault_description": "Pre-charging pump for Haldex clutch (V181)"
           },
           {
-            "fault_code": "01324",
-            "fault_description": "(J492) Control unit for all-wheel drive - no communication"
+            "fault_code": "01324 J492",
+            "fault_description": "Control unit for all-wheel drive - no communication"
           },
           {
-            "fault_code": "02248",
-            "fault_description": "(08C8) Valve for control of clutch opening ratio (N373)"
+            "fault_code": "02248 08C8",
+            "fault_description": "Valve for control of clutch opening ratio (N373)"
           },
           {
             "fault_code": "16347",
@@ -525,10 +454,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02D 900 554",
-              "02D900554"
-            ]
+            "numbers": ["02D 900 554", "02D900554"]
           },
           {
             "title": "Siemens",
@@ -541,8 +467,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"
@@ -555,10 +481,7 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02D 900 554 B",
-              "02D900554B"
-            ]
+            "numbers": ["02D 900 554 B", "02D900554B"]
           },
           {
             "title": "Siemens",
@@ -571,8 +494,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"
@@ -587,16 +510,11 @@
         "part_numbers": [
           {
             "title": "SEAT - Part number",
-            "numbers": [
-              "02D 900 554 C",
-              "02D900554C"
-            ]
+            "numbers": ["02D 900 554 C", "02D900554C"]
           },
           {
             "title": "Siemens - Part number",
-            "numbers": [
-              "HA1"
-            ]
+            "numbers": ["HA1"]
           }
         ],
         "faults": [
@@ -605,8 +523,8 @@
             "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
           },
           {
-            "fault_code": "052C",
-            "fault_description": "(01324) Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+            "fault_code": "052C 01324",
+            "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
           },
           {
             "fault_description": "Other fault on request"

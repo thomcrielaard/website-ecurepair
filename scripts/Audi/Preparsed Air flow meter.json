@@ -1,0 +1,44 @@
+[
+    {
+        "part_name": "LMM-4",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/lmm+4-215142.ts1628723017.jpg",
+        "product_link": "https://ecu.eu/audi/air-flow-meter-7143/audi/air-flow-meter/lmm-4-7144",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/audi/air-flow-meter/lmm-4/audi-0379063010-bosch-0280202130-122205.html",
+                "part_numbers": [
+                    {
+                        "title": "AUDI - Part number",
+                        "numbers": [
+                            "0379063010"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 280 202 130",
+                            "0280202130"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Air flow meter signal defective"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The signal voltage of the air flow meter is noisy"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "AUDI (80) Year of manufacture 1992 - 1996"
+                ]
+            }
+        ]
+    }
+]

@@ -9,23 +9,37 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "099 927 733 AP",
-              "099927733AP"
-            ]
+            "numbers": ["099 927 733 AP", "099927733AP"]
           },
           {
             "title": "HELLA - Part number",
-            "numbers": [
-              "5DG008077-01",
-              "5DG00807701"
-            ]
+            "numbers": ["5DG008077-01", "5DG00807701"]
           }
         ],
         "faults": [
           {
             "fault_code": "00258",
-            "fault_description": "Magnetic valve 1 (N88) - interruptionand00260Magnetic valve 2 (N89) - interruptionand00262Magnetic valve 3 (N90) - interruptionand00264Magnetic valve 4 (N91) - interruptionand00266Magnetic valve 5 (N92) - interruptionand00270Magnetic valve 7 (N94) - interruption"
+            "fault_description": "Magnetic valve 1 (N88) - interruption"
+          },
+          {
+            "fault_code": "00260",
+            "fault_description": "Magnetic valve 2 (N89) - interruption"
+          },
+          {
+            "fault_code": "00262",
+            "fault_description": "Magnetic valve 3 (N90) - interruption"
+          },
+          {
+            "fault_code": "00264",
+            "fault_description": "Magnetic valve 4 (N91) - interruption"
+          },
+          {
+            "fault_code": "00266",
+            "fault_description": "Magnetic valve 5 (N92) - interruption"
+          },
+          {
+            "fault_code": "00270",
+            "fault_description": "Magnetic valve 7 (N94) - interruption"
           },
           {
             "fault_code": "00268",
@@ -36,38 +50,58 @@
           },
           {
             "fault_code": "00281",
-            "fault_description": "Drive speed sensor (G68) - no signaland00297Transmission speed sensor (G38) - no signalandThe errors occur together and cannot be deleted"
+            "fault_description": "Drive speed sensor (G68) - no signal"
+          },
+          {
+            "fault_code": "00297",
+            "fault_description": "Transmission speed sensor (G38) - no signal"
+          },
+          {
+            "fault_code": "00281 00297",
+            "fault_description": "The errors occur together and cannot be deleted"
           },
           {
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Galaxy 2.3i (Galaxy) Year of manufacture 2001"
-        ]
+        "cars": ["FORD Galaxy 2.3i (Galaxy) Year of manufacture 2001"]
       },
       {
         "product_url": "https://ecu.eu/ford/transmission-control-unit/ag4/ford-099927733q-hella-5dg00753461-117303.html",
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "099 927 733 Q",
-              "099927733Q"
-            ]
+            "numbers": ["099 927 733 Q", "099927733Q"]
           },
           {
             "title": "HELLA - Part number",
-            "numbers": [
-              "5DG007534-61",
-              "5DG00753461"
-            ]
+            "numbers": ["5DG007534-61", "5DG00753461"]
           }
         ],
         "faults": [
           {
             "fault_code": "00258",
-            "fault_description": "Magnetic valve 1 (N88) - interruptionand00260Magnetic valve 2 (N89) - interruptionand00262Magnetic valve 3 (N90) - interruptionand00264Magnetic valve 4 (N91) - interruptionand00266Magnetic valve 5 (N92) - interruptionand00270Magnetic valve 7 (N94) - interruption"
+            "fault_description": "Magnetic valve 1 (N88) - interruption"
+          },
+          {
+            "fault_code": "00260",
+            "fault_description": "Magnetic valve 2 (N89) - interruption"
+          },
+          {
+            "fault_code": "00262",
+            "fault_description": "Magnetic valve 3 (N90) - interruption"
+          },
+          {
+            "fault_code": "00264",
+            "fault_description": "Magnetic valve 4 (N91) - interruption"
+          },
+          {
+            "fault_code": "00266",
+            "fault_description": "Magnetic valve 5 (N92) - interruption"
+          },
+          {
+            "fault_code": "00270",
+            "fault_description": "Magnetic valve 7 (N94) - interruption"
           },
           {
             "fault_code": "00268",
@@ -78,15 +112,21 @@
           },
           {
             "fault_code": "00281",
-            "fault_description": "Drive speed sensor (G68) - no signaland00297Transmission speed sensor (G38) - no signalandThe errors occur together and cannot be deleted"
+            "fault_description": "Drive speed sensor (G68) - no signal"
+          },
+          {
+            "fault_code": "00297",
+            "fault_description": "Transmission speed sensor (G38) - no signal"
+          },
+          {
+            "fault_code": "00281 00297",
+            "fault_description": "The errors occur together and cannot be deleted"
           },
           {
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Galaxy 2.3i (Galaxy) Year of manufacture 1998 - 1999"
-        ]
+        "cars": ["FORD Galaxy 2.3i (Galaxy) Year of manufacture 1998 - 1999"]
       }
     ]
   },
@@ -100,10 +140,7 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "26NR-7M168",
-              "26NR7M168"
-            ]
+            "numbers": ["26NR-7M168", "26NR7M168"]
           },
           {
             "title": "LUK",
@@ -135,16 +172,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "26SR-7M168GF",
-              "26SR7M168GF"
-            ]
+            "numbers": ["26SR-7M168GF", "26SR7M168GF"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG9D307700a"
-            ]
+            "numbers": ["AG9D307700a"]
           }
         ],
         "faults": [
@@ -169,17 +201,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2N1R-7M168-BD",
-              "2N1R7M168BD"
-            ]
+            "numbers": ["2N1R-7M168-BD", "2N1R7M168BD"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG 9D3 018 04 a",
-              "AG9D301804a"
-            ]
+            "numbers": ["AG 9D3 018 04 a", "AG9D301804a"]
           }
         ],
         "faults": [
@@ -197,25 +223,18 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2003"
-        ]
+        "cars": ["FORD Fiesta 1.4i (Fiesta) Year of manufacture 2003"]
       },
       {
         "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2n1r7m168be-luk-ag9d301805a-2843.html",
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2N1R-7M168-BE",
-              "2N1R7M168BE"
-            ]
+            "numbers": ["2N1R-7M168-BE", "2N1R7M168BE"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG9D301805a"
-            ]
+            "numbers": ["AG9D301805a"]
           }
         ],
         "faults": [
@@ -243,16 +262,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2N1R-7M168-BF",
-              "2N1R7M168BF"
-            ]
+            "numbers": ["2N1R-7M168-BF", "2N1R7M168BF"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG9D301806a"
-            ]
+            "numbers": ["AG9D301806a"]
           }
         ],
         "faults": [
@@ -280,16 +294,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2N1R-7M168BG",
-              "2N1R7M168BG"
-            ]
+            "numbers": ["2N1R-7M168BG", "2N1R7M168BG"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG9D307300a"
-            ]
+            "numbers": ["AG9D307300a"]
           }
         ],
         "faults": [
@@ -314,16 +323,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2N1R-7M168BG",
-              "2N1R7M168BG"
-            ]
+            "numbers": ["2N1R-7M168BG", "2N1R7M168BG"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG9D307300b"
-            ]
+            "numbers": ["AG9D307300b"]
           }
         ],
         "faults": [
@@ -351,16 +355,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7M168-BE",
-              "2S6R7M168BE"
-            ]
+            "numbers": ["2S6R-7M168-BE", "2S6R7M168BE"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG9D301903a"
-            ]
+            "numbers": ["AG9D301903a"]
           }
         ],
         "faults": [
@@ -385,16 +384,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7M168-GC",
-              "2S6R7M168GC"
-            ]
+            "numbers": ["2S6R-7M168-GC", "2S6R7M168GC"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG9D301903a"
-            ]
+            "numbers": ["AG9D301903a"]
           }
         ],
         "faults": [
@@ -422,10 +416,7 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7M168-GD",
-              "2S6R7M168GD"
-            ]
+            "numbers": ["2S6R-7M168-GD", "2S6R7M168GD"]
           },
           {
             "title": "LUK",
@@ -454,16 +445,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7M168-GD",
-              "2S6R7M168GD"
-            ]
+            "numbers": ["2S6R-7M168-GD", "2S6R7M168GD"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG9D301903a"
-            ]
+            "numbers": ["AG9D301903a"]
           }
         ],
         "faults": [
@@ -481,25 +467,18 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Fusion 1.4 TDCi (Fusion) Year of manufacture 2006"
-        ]
+        "cars": ["FORD Fusion 1.4 TDCi (Fusion) Year of manufacture 2006"]
       },
       {
         "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7m168gd-luk-ag9d301904a-109289.html",
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7M168-GD",
-              "2S6R7M168GD"
-            ]
+            "numbers": ["2S6R-7M168-GD", "2S6R7M168GD"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG9D301904a"
-            ]
+            "numbers": ["AG9D301904a"]
           }
         ],
         "faults": [
@@ -517,25 +496,18 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Fusion 1.4 TDCi (Fusion) Year of manufacture 2006"
-        ]
+        "cars": ["FORD Fusion 1.4 TDCi (Fusion) Year of manufacture 2006"]
       },
       {
         "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7m168gf-luk-ag9d307700a-136212.html",
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7M168-GF",
-              "2S6R7M168GF"
-            ]
+            "numbers": ["2S6R-7M168-GF", "2S6R7M168GF"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG9D307700a"
-            ]
+            "numbers": ["AG9D307700a"]
           }
         ],
         "faults": [
@@ -560,16 +532,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7M168GF",
-              "2S6R7M168GF"
-            ]
+            "numbers": ["2S6R-7M168GF", "2S6R7M168GF"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG9D307700b"
-            ]
+            "numbers": ["AG9D307700b"]
           }
         ],
         "faults": [
@@ -597,17 +564,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7M168-SB",
-              "2S6R7M168SB"
-            ]
+            "numbers": ["2S6R-7M168-SB", "2S6R7M168SB"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG 6D3 003 02 a",
-              "AG6D300302a"
-            ]
+            "numbers": ["AG 6D3 003 02 a", "AG6D300302a"]
           }
         ],
         "faults": [
@@ -632,17 +593,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7M168-SC",
-              "2S6R7M168SC"
-            ]
+            "numbers": ["2S6R-7M168-SC", "2S6R7M168SC"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG 6D3 011 00 a",
-              "AG6D301100a"
-            ]
+            "numbers": ["AG 6D3 011 00 a", "AG6D301100a"]
           }
         ],
         "faults": [
@@ -660,26 +615,18 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2003 - 2004"
-        ]
+        "cars": ["FORD Fiesta 1.4i (Fiesta) Year of manufacture 2003 - 2004"]
       },
       {
         "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7n168gs-luk-ag9d307400a-109290.html",
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7N168-GS",
-              "2S6R7N168GS"
-            ]
+            "numbers": ["2S6R-7N168-GS", "2S6R7N168GS"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG 9D3 074 00 a",
-              "AG9D307400a"
-            ]
+            "numbers": ["AG 9D3 074 00 a", "AG9D307400a"]
           }
         ],
         "faults": [
@@ -708,9 +655,7 @@
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "AG9D301802a"
-            ]
+            "numbers": ["AG9D301802a"]
           }
         ],
         "faults": [
@@ -728,9 +673,7 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2002"
-        ]
+        "cars": ["FORD Fiesta 1.4i (Fiesta) Year of manufacture 2002"]
       }
     ]
   },
@@ -744,17 +687,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7K004-AB",
-              "2S6R7K004AB"
-            ]
+            "numbers": ["2S6R-7K004-AB", "2S6R7K004AB"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "G 4D4 003 02 b",
-              "G4D400302b"
-            ]
+            "numbers": ["G 4D4 003 02 b", "G4D400302b"]
           }
         ],
         "faults": [
@@ -773,17 +710,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7K004-AC",
-              "2S6R7K004AC"
-            ]
+            "numbers": ["2S6R-7K004-AC", "2S6R7K004AC"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "G 4D4 003 03 b",
-              "G4D400303b"
-            ]
+            "numbers": ["G 4D4 003 03 b", "G4D400303b"]
           }
         ],
         "faults": [
@@ -805,17 +736,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7K004-AC",
-              "2S6R7K004AC"
-            ]
+            "numbers": ["2S6R-7K004-AC", "2S6R7K004AC"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "G 4D4 003 03 c",
-              "G4D400303c"
-            ]
+            "numbers": ["G 4D4 003 03 c", "G4D400303c"]
           }
         ],
         "faults": [
@@ -837,17 +762,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7K004-AC",
-              "2S6R7K004AC"
-            ]
+            "numbers": ["2S6R-7K004-AC", "2S6R7K004AC"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "G 4D4 003 03 e",
-              "G4D400303e"
-            ]
+            "numbers": ["G 4D4 003 03 e", "G4D400303e"]
           }
         ],
         "faults": [
@@ -869,17 +788,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7K004-AD",
-              "2S6R7K004AD"
-            ]
+            "numbers": ["2S6R-7K004-AD", "2S6R7K004AD"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "G 4D4 003 03 f",
-              "G4D400303f"
-            ]
+            "numbers": ["G 4D4 003 03 f", "G4D400303f"]
           }
         ],
         "faults": [
@@ -891,26 +804,18 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Fusion 1.4i (Fusion) Year of manufacture 2004"
-        ]
+        "cars": ["FORD Fusion 1.4i (Fusion) Year of manufacture 2004"]
       },
       {
         "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-actuator-actuator-motor/ford-2s6r7k004ad-luk-g4d400304a-119880.html",
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7K004-AD",
-              "2S6R7K004AD"
-            ]
+            "numbers": ["2S6R-7K004-AD", "2S6R7K004AD"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "G 4D4 003 04 a",
-              "G4D400304a"
-            ]
+            "numbers": ["G 4D4 003 04 a", "G4D400304a"]
           }
         ],
         "faults": [
@@ -932,17 +837,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7K004-AD",
-              "2S6R7K004AD"
-            ]
+            "numbers": ["2S6R-7K004-AD", "2S6R7K004AD"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "G 4D4 020 03a",
-              "G4D402003a"
-            ]
+            "numbers": ["G 4D4 020 03a", "G4D402003a"]
           }
         ],
         "faults": [
@@ -954,40 +853,26 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Fusion 1.4i (Fusion) Year of manufacture 2004"
-        ]
+        "cars": ["FORD Fusion 1.4i (Fusion) Year of manufacture 2004"]
       },
       {
         "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-actuator-actuator-motor/ford-2s6r7k004ae-luk-l0g4d4000305-bosch-0130008505-0130008506-120737.html",
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "2S6R-7K004-AE",
-              "2S6R7K004AE"
-            ]
+            "numbers": ["2S6R-7K004-AE", "2S6R7K004AE"]
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "L0G 4D4 0003 05",
-              "L0G4D4000305"
-            ]
+            "numbers": ["L0G 4D4 0003 05", "L0G4D4000305"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 130 008 505",
-              "0130008505"
-            ]
+            "numbers": ["0 130 008 505", "0130008505"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 130 008 506",
-              "0130008506"
-            ]
+            "numbers": ["0 130 008 506", "0130008506"]
           }
         ],
         "faults": [
@@ -1014,17 +899,11 @@
           },
           {
             "title": "LUK - Part number",
-            "numbers": [
-              "G 1D6 003 07 d",
-              "G1D600307d"
-            ]
+            "numbers": ["G 1D6 003 07 d", "G1D600307d"]
           },
           {
             "title": "Bosch - Part number",
-            "numbers": [
-              "0 130 008 505",
-              "0130008505"
-            ]
+            "numbers": ["0 130 008 505", "0130008505"]
           }
         ],
         "faults": [
@@ -1036,9 +915,7 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2005"
-        ]
+        "cars": ["FORD Fiesta 1.4i (Fiesta) Year of manufacture 2005"]
       }
     ]
   },
@@ -1052,10 +929,7 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-AE",
-              "7M5R14C247AE"
-            ]
+            "numbers": ["7M5R-14C247-AE", "7M5R14C247AE"]
           },
           {
             "title": "Continental",
@@ -1080,10 +954,7 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-AG",
-              "7M5R14C247AG"
-            ]
+            "numbers": ["7M5R-14C247-AG", "7M5R14C247AG"]
           },
           {
             "title": "Continental",
@@ -1105,10 +976,7 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-7H035-CA",
-              "7M5R7H035CA"
-            ]
+            "numbers": ["7M5R-7H035-CA", "7M5R7H035CA"]
           },
           {
             "title": "Continental",
@@ -1133,17 +1001,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "AG91-14C471-AB",
-              "AG9114C471AB"
-            ]
+            "numbers": ["AG91-14C471-AB", "AG9114C471AB"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-FA",
-              "7M5R14C247FA"
-            ]
+            "numbers": ["7M5R-14C247-FA", "7M5R14C247FA"]
           },
           {
             "title": "Continental",
@@ -1168,17 +1030,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "AG91-7Z369-AH",
-              "AG917Z369AH"
-            ]
+            "numbers": ["AG91-7Z369-AH", "AG917Z369AH"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-AE",
-              "7M5R14C247AE"
-            ]
+            "numbers": ["7M5R-14C247-AE", "7M5R14C247AE"]
           },
           {
             "title": "Continental",
@@ -1193,26 +1049,18 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Galaxy 2.0 TDCi (Galaxy) Year of manufacture 2011"
-        ]
+        "cars": ["FORD Galaxy 2.0 TDCi (Galaxy) Year of manufacture 2011"]
       },
       {
         "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-ag917z369ak-7m5r14c247fa-continental-153385.html",
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "AG917Z369-AK",
-              "AG917Z369AK"
-            ]
+            "numbers": ["AG917Z369-AK", "AG917Z369AK"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-FA",
-              "7M5R14C247FA"
-            ]
+            "numbers": ["7M5R-14C247-FA", "7M5R14C247FA"]
           },
           {
             "title": "Continental",
@@ -1234,17 +1082,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "AG91-7Z369-AL",
-              "AG917Z369AL"
-            ]
+            "numbers": ["AG91-7Z369-AL", "AG917Z369AL"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-FA",
-              "7M5R14C247FA"
-            ]
+            "numbers": ["7M5R-14C247-FA", "7M5R14C247FA"]
           },
           {
             "title": "Continental",
@@ -1266,17 +1108,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "AG91-7Z369-AM",
-              "AG917Z369AM"
-            ]
+            "numbers": ["AG91-7Z369-AM", "AG917Z369AM"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-AE",
-              "7M5R14C247AE"
-            ]
+            "numbers": ["7M5R-14C247-AE", "7M5R14C247AE"]
           },
           {
             "title": "Continental",
@@ -1298,17 +1134,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "AG91-7Z369-AM",
-              "AG917Z369AM"
-            ]
+            "numbers": ["AG91-7Z369-AM", "AG917Z369AM"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-FA",
-              "7M5R14C247FA"
-            ]
+            "numbers": ["7M5R-14C247-FA", "7M5R14C247FA"]
           },
           {
             "title": "Continental",
@@ -1333,17 +1163,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "AG91-7Z369-CD",
-              "AG917Z369CD"
-            ]
+            "numbers": ["AG91-7Z369-CD", "AG917Z369CD"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-AE",
-              "7M5R14C247AE"
-            ]
+            "numbers": ["7M5R-14C247-AE", "7M5R14C247AE"]
           },
           {
             "title": "Continental",
@@ -1365,17 +1189,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "AM51-07Z369-CD",
-              "AM5107Z369CD"
-            ]
+            "numbers": ["AM51-07Z369-CD", "AM5107Z369CD"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-FA",
-              "7M5R14C247FA"
-            ]
+            "numbers": ["7M5R-14C247-FA", "7M5R14C247FA"]
           },
           {
             "title": "Continental",
@@ -1397,17 +1215,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "AM51-7Z369-DF",
-              "AM517Z369DF"
-            ]
+            "numbers": ["AM51-7Z369-DF", "AM517Z369DF"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-FA",
-              "7M5R14C247FA"
-            ]
+            "numbers": ["7M5R-14C247-FA", "7M5R14C247FA"]
           },
           {
             "title": "Continental",
@@ -1422,26 +1234,18 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD C-Max 2.0 TDCi (C-Max) Year of manufacture 2013"
-        ]
+        "cars": ["FORD C-Max 2.0 TDCi (C-Max) Year of manufacture 2013"]
       },
       {
         "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-am517z369dg-7m5r14c247fa-152126.html",
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "AM51-7Z369-DG",
-              "AM517Z369DG"
-            ]
+            "numbers": ["AM51-7Z369-DG", "AM517Z369DG"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-FA",
-              "7M5R14C247FA"
-            ]
+            "numbers": ["7M5R-14C247-FA", "7M5R14C247FA"]
           }
         ],
         "faults": [
@@ -1452,26 +1256,18 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD C-Max 2.0 TDCi (C-Max) Year of manufacture 2014"
-        ]
+        "cars": ["FORD C-Max 2.0 TDCi (C-Max) Year of manufacture 2014"]
       },
       {
         "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-av4107z369aj-7m5r14c247fa-continental-151922.html",
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "AV41-07Z369-AJ",
-              "AV4107Z369AJ"
-            ]
+            "numbers": ["AV41-07Z369-AJ", "AV4107Z369AJ"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-FA",
-              "7M5R14C247FA"
-            ]
+            "numbers": ["7M5R-14C247-FA", "7M5R14C247FA"]
           },
           {
             "title": "Continental",
@@ -1486,26 +1282,18 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2012"
-        ]
+        "cars": ["FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2012"]
       },
       {
         "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-ca617z369ac-7m5r14c247fa-continental-151273.html",
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "CA61-7Z369-AC",
-              "CA617Z369AC"
-            ]
+            "numbers": ["CA61-7Z369-AC", "CA617Z369AC"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-FA",
-              "7M5R14C247FA"
-            ]
+            "numbers": ["7M5R-14C247-FA", "7M5R14C247FA"]
           },
           {
             "title": "Continental",
@@ -1527,17 +1315,11 @@
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "CV61-7Z369-AC",
-              "CV617Z369AC"
-            ]
+            "numbers": ["CV61-7Z369-AC", "CV617Z369AC"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "7M5R-14C247-FA",
-              "7M5R14C247FA"
-            ]
+            "numbers": ["7M5R-14C247-FA", "7M5R14C247FA"]
           },
           {
             "title": "Continental",
@@ -1552,26 +1334,18 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2013"
-        ]
+        "cars": ["FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2013"]
       },
       {
         "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-fc417z369ac-ds7r14c247ad-continental-150570.html",
         "part_numbers": [
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "FC41-7Z369-AC",
-              "FC417Z369AC"
-            ]
+            "numbers": ["FC41-7Z369-AC", "FC417Z369AC"]
           },
           {
             "title": "FORD - Part number",
-            "numbers": [
-              "DS7R-14C247-AD",
-              "DS7R14C247AD"
-            ]
+            "numbers": ["DS7R-14C247-AD", "DS7R14C247AD"]
           },
           {
             "title": "Continental",
@@ -1586,9 +1360,7 @@
             "fault_description": "Other fault on request"
           }
         ],
-        "cars": [
-          "FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2015"
-        ]
+        "cars": ["FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2015"]
       }
     ]
   }
