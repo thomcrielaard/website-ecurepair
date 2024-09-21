@@ -1,0 +1,634 @@
+[
+    {
+        "part_name": "Contact plate with speed sensors 5-speed automatic (722.6)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/contact+plate+with+speed+sensors+5+speed+automatic+722+6-313628.ts1628715350.jpg",
+        "product_link": "https://ecu.eu/jeep/gearbox-control-5902/jeep/gearbox-control/contact-plate-with-speed-sensors-5-speed-automatic-%28722.6%29-6068",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/contact-plate-with-speed-sensors-5-speed-automatic-%28722.6%29/jeep-1402701161-133232.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "140 270 11 61",
+                            "1402701161"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "13",
+                        "fault_description": "Speed sensor N3"
+                    },
+                    {
+                        "fault_code": "109",
+                        "fault_description": "Speed sensor N3"
+                    },
+                    {
+                        "fault_code": "2767",
+                        "fault_description": "(Gutmann 10087) The signal from component Y3/8n2 (internal speed sensor (VGS)) is not available."
+                    },
+                    {
+                        "fault_code": "P2200",
+                        "fault_description": "(Gutmann 8704) Y§/6n2 Speed sensor 2 - faulty"
+                    },
+                    {
+                        "fault_code": "P2203",
+                        "fault_description": "(Gutmann 8707) Y3/6n3 Speed sensor 3 - faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2002 - 2007"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Control unit 5-speed automatic (722.6)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+unit+5+speed+automatic+722+6-108687.ts1628718946.jpg",
+        "product_link": "https://ecu.eu/jeep/gearbox-control-5902/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29-6372",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-56041906bc-continental-5wp20007ae-148733.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "56041906BC"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP20007AE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-56041906bd-continental-5wp20007bbe-139230.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "56041906BD"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP20007BBE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p04692392ag-siemens-5wp20005ny-127104.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "P04692392AG"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20005NY"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p04692392ai-siemens-5wp20005ogk-122750.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "P04692392AI"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20005OGK"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p05150186ag-siemens-5wp20104abk-120794.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "P05150186AG"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20104ABK"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0743",
+                        "fault_description": "Solenoid valve converter lock-up clutch Y3/6y6 - electrical fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p05150729ac-siemens-5wp20133bok-141487.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "P05150729AC"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20133BOK"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0743",
+                        "fault_description": "Solenoid valve converter lock-up clutch Y3/6y6 - electrical fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p05150808ab-continental-5wp20133bwk-152857.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "P05150808AB"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP20133BWK"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0743",
+                        "fault_description": "Solenoid valve converter lock-up clutch Y3/6y6 - electrical fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p056041906ba-siemens-5wp20007ac-138740.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "P056041906BA"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20007AC"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p056041906bb-siemens-5wp20007ad-122152.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "P056041906BB"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20007AD"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p056041906bc-siemens-5wp200077ae-126528.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "P056041906BC"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP200077AE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p056041906bc-siemens-5wp20007ae-122277.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "P056041906BC"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20007AE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2003 - 2004"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Grand Cherokee 2.7 CRD (WJ / WG) Selector lever module",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/grand+cherokee+2+7+crd+wj+wg+selector+lever+module-220791.ts1628725387.jpg",
+        "product_link": "https://ecu.eu/jeep/gearbox-control-5902/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module-5903",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-1547302f-trw-58024h-135974.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "1547302F"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "58024H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signal from selector lever - coding incorrect (the fault code comes from the gearbox unit, cause: defective selector lever module or a wiring problem)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-1547303e-trw-58024h-134157.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "1547303E"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "58024H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signal from selector lever - coding incorrect (the fault code comes from the gearbox unit, cause: defective selector lever module or a wiring problem)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-1547303f-trw-58024h-131955.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "1547303F"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "58024H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signal from selector lever - coding incorrect (the fault code comes from the gearbox unit, cause: defective selector lever module or a wiring problem)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-1547303fa-trw-58024e-134837.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "1547303FA"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "58024E"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signal from selector lever - coding incorrect (the fault code comes from the gearbox unit, cause: defective selector lever module or a wiring problem)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-1547303fa-trw-58024h-132640.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "1547303FA"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "58024H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signal from selector lever - coding incorrect (the fault code comes from the gearbox unit, cause: defective selector lever module or a wiring problem)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-501131-trw-58024h-144405.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "501131"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "58024H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signal from selector lever - coding incorrect (the fault code comes from the gearbox unit, cause: defective selector lever module or a wiring problem)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-501132-trw-58024h-129851.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "501132"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "58024H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signal from selector lever - coding incorrect (the fault code comes from the gearbox unit, cause: defective selector lever module or a wiring problem)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-8442134-128415.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "8442134"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signal from selector lever - coding incorrect (the fault code comes from the gearbox unit, cause: defective selector lever module or a wiring problem)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-8442216-130524.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "8442216"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signal from selector lever - coding incorrect (the fault code comes from the gearbox unit, cause: defective selector lever module or a wiring problem)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-8442216a-128412.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "8442216A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signal from selector lever - coding incorrect (the fault code comes from the gearbox unit, cause: defective selector lever module or a wiring problem)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

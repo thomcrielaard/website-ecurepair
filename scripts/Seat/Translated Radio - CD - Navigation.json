@@ -1,0 +1,838 @@
+[
+    {
+        "part_name": "Hoofdeenheid / Navigatie-eenheid MIB.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/main+unit+navigation+unit+mib-215577.ts1628713334.jpg",
+        "product_link": "https://ecu.eu/seat/radio-cd-navigation-3035/seat/radio-cd-navigation/main-unit-navigation-unit-mib-5885",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/main-unit-navigation-unit-mib/seat-5f0035020d-harman-automotive-hba441-149641.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "5F0 035 020 D",
+                            "5F0035020D"
+                        ]
+                    },
+                    {
+                        "title": "Harman Automotive - Onderdeelnummer",
+                        "numbers": [
+                            "HB A441",
+                            "HBA441"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen functie door installatie van onjuiste software."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van één of meerdere luidsprekers."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Leon ST 2.0 TSI (Leon, 5F) Bouwjaar 2015 Motorcode CJXA",
+                    "Seat Leon ST Cupra 2.0 TSI (Leon, 5F) Bouwjaar 2015 Motorcode CJXA TCU code CJXA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/main-unit-navigation-unit-mib/seat-5f0035020d-harman-automotive-hba678-129540.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "5F0 035 020 D",
+                            "5F0035020D"
+                        ]
+                    },
+                    {
+                        "title": "Harman Automotive - Onderdeelnummer",
+                        "numbers": [
+                            "HB A678",
+                            "HBA678"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen functie door installatie van onjuiste software."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van één of meerdere luidsprekers."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Leon 2.0 TDI (Leon, 5F) Bouwjaar 2014",
+                    "Seat Leon ST 2.0 TDI 4x4 X-Perience (Leon, 5F) Bouwjaar 2016 Motorcode CUNA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/main-unit-navigation-unit-mib/seat-5f0035020j-harman-automotive-hba678-152427.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "5F0 035 020 J",
+                            "5F0035020J"
+                        ]
+                    },
+                    {
+                        "title": "Harman Automotive - Onderdeelnummer",
+                        "numbers": [
+                            "HB A678",
+                            "HBA678"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen functie door installatie van onjuiste software."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van één of meerdere luidsprekers."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/main-unit-navigation-unit-mib/seat-5f0035043a-5f0035043-harman-automotive-hba529-136579.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "5F0 035 043 A",
+                            "5F0035043A"
+                        ]
+                    },
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "5F0 035 043",
+                            "5F0035043"
+                        ]
+                    },
+                    {
+                        "title": "Harman Automotive - Onderdeelnummer",
+                        "numbers": [
+                            "HB A529",
+                            "HBA529"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen functie door installatie van onjuiste software."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van één of meerdere luidsprekers."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Leon SC 1.8 TSI (Leon, 5F) Bouwjaar 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/main-unit-navigation-unit-mib/seat-5f0035043b-harman-automotive-hba679-133061.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "5F0 035 043 B",
+                            "5F0035043B"
+                        ]
+                    },
+                    {
+                        "title": "Harman Automotive - Onderdeelnummer",
+                        "numbers": [
+                            "HB A679",
+                            "HBA679"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen functie door installatie van onjuiste software."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van één of meerdere luidsprekers."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Leon ST 1.6 TDI (Leon, 5F) Bouwjaar 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/main-unit-navigation-unit-mib/seat-5f0035043c-harman-automotive-hba679-147373.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "5F0 035 043 C",
+                            "5F0035043C"
+                        ]
+                    },
+                    {
+                        "title": "Harman Automotive - Onderdeelnummer",
+                        "numbers": [
+                            "HB A679",
+                            "HBA679"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen functie door installatie van onjuiste software."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van één of meerdere luidsprekers."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Radio / CD / Discover Media MIB STD2.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+cd+discover+media+mib+std2-432176.ts1628721180.jpg",
+        "product_link": "https://ecu.eu/seat/radio-cd-navigation-3035/seat/radio-cd-navigation/radio-cd-discover-media-mib-std2-7345",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/radio-cd-discover-media-mib-std2/seat-7n5035200c-technisat-2256110000712-141500.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "7N5 035 200 C",
+                            "7N5035200C"
+                        ]
+                    },
+                    {
+                        "title": "Technisat - Onderdeelnummer.",
+                        "numbers": [
+                            "2256110000712"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD mislukt of wordt niet herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD wordt niet ingevoerd of uitgeworpen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pixelfout / structurele schade in het display."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Touchscreen reageert niet of is kapot."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Radio / CD / MIB Entry.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+cd+mib+entry-264612.ts1628720087.jpg",
+        "product_link": "https://ecu.eu/seat/radio-cd-navigation-3035/seat/radio-cd-navigation/radio-cd-mib-entry-6801",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/radio-cd-mib-entry/seat-5f0035869a-lg-electronics-lac9313se-139569.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "5F0 035 869 A",
+                            "5F0035869A"
+                        ]
+                    },
+                    {
+                        "title": "LG Electronics - Onderdeelnummer.",
+                        "numbers": [
+                            "LAC9313SE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD mislukt of wordt niet herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD wordt niet ingevoerd of uitgeworpen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Leon 1.2 TSI (Leon, 5F) Bouwjaar 2014 Motorcode CJZA"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Radio / CD / Navigatie RNS2 DX.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+cd+navigation+rns2+dx-13400.ts1628711394.jpg",
+        "product_link": "https://ecu.eu/seat/radio-cd-navigation-3035/seat/radio-cd-navigation/radio-cd-navigation-rns2-dx-6735",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/radio-cd-navigation-rns2-dx/seat-5p0035192a-blaupunkt-7612002032-bno881-122428.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "5P0 035 192 A",
+                            "5P0035192A"
+                        ]
+                    },
+                    {
+                        "title": "Blaupunkt - Onderdeelnummer",
+                        "numbers": [
+                            "7 612 002 032",
+                            "7612002032"
+                        ]
+                    },
+                    {
+                        "title": "Blaupunkt - Onderdeelnummer",
+                        "numbers": [
+                            "BNO 881",
+                            "BNO881"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD's / DVD's kunnen niet worden ingevoerd of uitgeworpen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Altea 2.0 FSI (Altea, 5P) Bouwjaar 2006 Motorcode BLR"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Radio / DVD / Navigatie RNS 510.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+dvd+navigation+rns+510-13276.ts1628722680.jpg",
+        "product_link": "https://ecu.eu/seat/radio-cd-navigation-3035/seat/radio-cd-navigation/radio-dvd-navigation-rns-510-5127",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/radio-dvd-navigation-rns-510/seat-5p0035680-continental-a2c53330833-114163.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "5P0 035 680",
+                            "5P0035680"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C 533 308 33",
+                            "A2C53330833"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01305",
+                        "fault_description": "Databus voor Infotainment - 004 - Geen signaal/communicatie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus verstoord of werkt helemaal niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Apparaat blijft vastzitten op het opstartscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Instrument schakelt uit of start opnieuw op na het startscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Volledige storing - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen geluid."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De luidsprekers knetteren en het apparaat schakelt uit / weer in - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Leon Cupra 2.0 TFSI (Leon, 1P) Bouwjaar 2008 Motorcode BWJ"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/radio-dvd-navigation-rns-510/seat-5p0035680a-continental-a2c53356501-133299.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "5P0 035 680 A",
+                            "5P0035680A"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C 533 565 01",
+                            "A2C53356501"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01305",
+                        "fault_description": "Databus voor Infotainment - 004 - Geen signaal/communicatie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus verstoord of werkt helemaal niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Apparaat blijft vastzitten op het opstartscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Instrument schakelt uit of start opnieuw op na het startscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Volledige storing - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen geluid."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De luidsprekers knetteren en het apparaat schakelt uit / weer in - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Altea 1.4 TSI (Altea, 5P) Bouwjaar 2010 Motorcode CAXC",
+                    "Seat Leon 1.4 TSI (Leon, 1P) Bouwjaar 2009 Motorcode CAXC"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/radio-dvd-navigation-rns-510/seat-7n5035686-continental-a2c86154300-138860.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "7N5 035 686",
+                            "7N5035686"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C 861 543 00",
+                            "A2C86154300"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01305",
+                        "fault_description": "Databus voor Infotainment - 004 - Geen signaal/communicatie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus verstoord of werkt helemaal niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Apparaat blijft vastzitten op het opstartscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Instrument schakelt uit of start opnieuw op na het startscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen geluid."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Alhambra 2.0 TDI (Alhambra, 7N) Bouwjaar 2013 Motorcode CFFB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/radio-dvd-navigation-rns-510/seat-7n5035686a-continental-a2c91598500-132454.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "7N5 035 686 A",
+                            "7N5035686A"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C 915 985 00",
+                            "A2C91598500"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01305",
+                        "fault_description": "Databus voor Infotainment - 004 - Geen signaal/communicatie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus verstoord of werkt helemaal niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Apparaat blijft vastzitten op het opstartscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Instrument schakelt uit of start opnieuw op na het startscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen geluid."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Alhambra 2.0 TDI (Alhambra, 7N) Bouwjaar 2013 - 2014 Motorcode CFFB, CFGC",
+                    "Seat Alhambra 2.0 TSI (Alhambra, 7N) Bouwjaar 2014 - 2015 Motorcode CCZA",
+                    "Seat Altea XL 2.0 TDI (Altea XL, 5P) Bouwjaar 2014 Motorcode CFHC"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/radio-dvd-navigation-rns-510/seat-7n5035686a-continental-a2c93125600-136013.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "7N5 035 686 A",
+                            "7N5035686A"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C 931 256 00",
+                            "A2C93125600"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01305",
+                        "fault_description": "Databus voor Infotainment - 004 - Geen signaal/communicatie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus verstoord of werkt helemaal niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Apparaat blijft vastzitten op het opstartscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Instrument schakelt uit of start opnieuw op na het startscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen geluid."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Alhambra 2.0 TDI (Alhambra, 7N) Bouwjaar 2014 Motorcode CFFB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/radio-dvd-navigation-rns-510/seat-7n5035686a-continental-a2c95766200-140966.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "7N5 035 686 A",
+                            "7N5035686A"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C 957 662 00",
+                            "A2C95766200"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01305",
+                        "fault_description": "Databus voor Infotainment - 004 - Geen signaal/communicatie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus verstoord of werkt helemaal niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Apparaat blijft vastzitten op het opstartscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Instrument schakelt uit of start opnieuw op na het startscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen geluid."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Alhambra 2.0 TDI (Alhambra, 7N) Bouwjaar 2014 - 2015 Motorcode CFFB",
+                    "Seat Alhambra 2.0 TSI (Alhambra, 7N) Bouwjaar 2015 Motorcode CCZA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/radio-dvd-navigation-rns-510/seat-7n5035686a-continental-a2c95941200-146472.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "7N5 035 686 A",
+                            "7N5035686A"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C 959 412 00",
+                            "A2C95941200"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01305",
+                        "fault_description": "Databus voor Infotainment - 004 - Geen signaal/communicatie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus verstoord of werkt helemaal niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Apparaat blijft vastzitten op het opstartscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Instrument schakelt uit of start opnieuw op na het startscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen geluid."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Alhambra 2.0 TDI (Alhambra, 7N) Bouwjaar 2014 Motorcode CFFB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/radio-cd-navigation/radio-dvd-navigation-rns-510/seat-7n5035686a-continental-a2c98451300-136208.html",
+                "part_numbers": [
+                    {
+                        "title": "Seat - Part number",
+                        "numbers": [
+                            "7N5 035 686 A",
+                            "7N5035686A"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C 984 513 00",
+                            "A2C98451300"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01305",
+                        "fault_description": "Databus voor Infotainment - 004 - Geen signaal/communicatie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus verstoord of werkt helemaal niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Apparaat blijft vastzitten op het opstartscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Instrument schakelt uit of start opnieuw op na het startscherm."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen geluid."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Seat Alhambra 1.4 TSI (Alhambra, 7N) Bouwjaar 2014 Motorcode CAVA",
+                    "Seat Alhambra 2.0 TDI (Alhambra, 7N) Bouwjaar 2014 - 2015 Motorcode CFFB"
+                ]
+            }
+        ]
+    }
+]

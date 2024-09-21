@@ -1,0 +1,127 @@
+[
+    {
+        "part_name": "EUR",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/mercedes+1298200097+becker+09090589731898-1984.ts1628711307.jpg",
+        "product_link": "https://ecu.eu/mercedes/sliding-roof-control-unit-4045",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/sliding-roof-control-unit/mercedes-1298200097-becker-09090589731898-104506.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "129 820 00 97",
+                            "1298200097"
+                        ]
+                    },
+                    {
+                        "title": "Becker - Part number",
+                        "numbers": [
+                            "0909 0589 731-898",
+                            "09090589731898"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Sliding roof out of operation"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Sliding roof switch blinks only, no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "undiagnosable"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 300SL (SL-Klasse, 129) Year of manufacture 1989 - 1996 Engine code 103.984",
+                    "MERCEDES 300SL-24 (SL-Klasse, 129) Year of manufacture 1989 - 1996",
+                    "MERCEDES 500SL (SL-Klasse, 129) Engine code 119.960",
+                    "MERCEDES SL500 (SL-Klasse, 129) Year of manufacture 1991 - 1994 Engine code 119.972",
+                    "MERCEDES SL600 (SL-Klasse, 129) Year of manufacture 1993 - 2000 Engine code 120.981"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/sliding-roof-control-unit/mercedes-1298200097-becker-09090589731898-125396.html",
+                "part_numbers": [],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Sliding roof out of operation"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Sliding roof switch blinks only, no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "undiagnosable"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 300SL (SL-Klasse, 129) Year of manufacture 1989 - 1996 Engine code 103.984",
+                    "MERCEDES 300SL-24 (SL-Klasse, 129) Year of manufacture 1989 - 1996",
+                    "MERCEDES 500SL (SL-Klasse, 129) Engine code 119.960",
+                    "MERCEDES SL500 (SL-Klasse, 129) Year of manufacture 1991 - 1994 Engine code 119.972",
+                    "MERCEDES SL600 (SL-Klasse, 129) Year of manufacture 1993 - 2000 Engine code 120.981"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/sliding-roof-control-unit/mercedes-1298202426-temic-09091165801898-104507.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "129 820 24 26",
+                            "1298202426"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "0909 1165.801-898",
+                            "09091165801898"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Sliding roof out of operation"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Sliding roof switch blinks only, no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "undiagnosable"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 300SL (SL-Klasse, 129) Year of manufacture 1993",
+                    "MERCEDES 300SL-24 (SL-Klasse, 129) Year of manufacture 1991 - 1993 Engine code 104.981",
+                    "MERCEDES SL280 (SL-Klasse, 129) Year of manufacture 1993 - 1994 Engine code 104.943",
+                    "MERCEDES SL320 (SL-Klasse, 129) Year of manufacture 1993 - 1998 Engine code 104.991",
+                    "MERCEDES SL500 (SL-Klasse, 129) Year of manufacture 1989 - 1994",
+                    "MERCEDES SL600 (SL-Klasse, 129) Year of manufacture 1993 Engine code 120.981"
+                ]
+            }
+        ]
+    }
+]

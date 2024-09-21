@@ -1,0 +1,223 @@
+[
+    {
+        "part_name": "Mazda 2 (DE) electric power steering",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mazda+2+de+electric+power+steering-169102.ts1628712428.jpg",
+        "product_link": "https://ecu.eu/mazda/power-steering-control-unit-2944/mazda/power-steering-control-unit/mazda-2-%28de%29-electric-power-steering-5648",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mazda/power-steering-control-unit/mazda-2-%28de%29-electric-power-steering/mazda-df713210x-dpy432150a-trw-54084964d-122825.html",
+                "part_numbers": [
+                    {
+                        "title": "MAZDA - Part number",
+                        "numbers": [
+                            "DF71-32-10X",
+                            "DF713210X"
+                        ]
+                    },
+                    {
+                        "title": "MAZDA - Part number",
+                        "numbers": [
+                            "DPY4-32-150A",
+                            "DPY432150A"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "54084964D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "U3000:96",
+                        "fault_description": "Steering assistance Control unit Internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MAZDA 2 1.3i (2, DE) Year of manufacture 2008 - 2009 Engine code ZJ",
+                    "MAZDA 2 1.5i (2, DE) Year of manufacture 2007 - 2009 Engine code ZY"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/power-steering-control-unit/mazda-2-%28de%29-electric-power-steering/mazda-df713210x-trw-54084964a-128402.html",
+                "part_numbers": [
+                    {
+                        "title": "MAZDA - Part number",
+                        "numbers": [
+                            "DF71 32 10X",
+                            "DF713210X"
+                        ]
+                    },
+                    {
+                        "title": "MAZDA",
+                        "numbers": []
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "54084964A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "U3000:96",
+                        "fault_description": "Steering assistance Control unit Internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MAZDA 2 1.5i (2, DE) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/power-steering-control-unit/mazda-2-%28de%29-electric-power-steering/mazda-df713210x-trw-54084964e-130259.html",
+                "part_numbers": [
+                    {
+                        "title": "MAZDA - Part number",
+                        "numbers": [
+                            "DF71-32-10X",
+                            "DF713210X"
+                        ]
+                    },
+                    {
+                        "title": "MAZDA",
+                        "numbers": []
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "54084964E"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "U3000:96",
+                        "fault_description": "Steering assistance Control unit Internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MAZDA 2 1.3i (2, DE) Year of manufacture 2009 - 2011",
+                    "MAZDA 2 1.4 CD (2, DE) Year of manufacture 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/power-steering-control-unit/mazda-2-%28de%29-electric-power-steering/mazda-df713210xm-dpy432150a-trw-126691.html",
+                "part_numbers": [
+                    {
+                        "title": "MAZDA - Part number",
+                        "numbers": [
+                            "DF71-32-10XM",
+                            "DF713210XM"
+                        ]
+                    },
+                    {
+                        "title": "MAZDA - Part number",
+                        "numbers": [
+                            "DPY4-32-150A",
+                            "DPY432150A"
+                        ]
+                    },
+                    {
+                        "title": "TRW",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "U3000:96",
+                        "fault_description": "Steering assistance Control unit Internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/power-steering-control-unit/mazda-2-%28de%29-electric-power-steering/mazda-df713210xn-dpy432150a-trw-126692.html",
+                "part_numbers": [
+                    {
+                        "title": "MAZDA - Part number",
+                        "numbers": [
+                            "DF71-32-10XN",
+                            "DF713210XN"
+                        ]
+                    },
+                    {
+                        "title": "MAZDA - Part number",
+                        "numbers": [
+                            "DPY4-32-150A",
+                            "DPY432150A"
+                        ]
+                    },
+                    {
+                        "title": "TRW",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "U3000:96",
+                        "fault_description": "Steering assistance Control unit Internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/power-steering-control-unit/mazda-2-%28de%29-electric-power-steering/mazda-df713210xv-dpy432150a-trw-126690.html",
+                "part_numbers": [
+                    {
+                        "title": "MAZDA - Part number",
+                        "numbers": [
+                            "DF71-32-10XV",
+                            "DF713210XV"
+                        ]
+                    },
+                    {
+                        "title": "MAZDA - Part number",
+                        "numbers": [
+                            "DPY4-32-150A",
+                            "DPY432150A"
+                        ]
+                    },
+                    {
+                        "title": "TRW",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "U3000:96",
+                        "fault_description": "Steering assistance Control unit Internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MAZDA 2 1.5i (2, DE) Year of manufacture 2007"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,634 @@
+[
+    {
+        "part_name": "Contactplaat met snelheidsensoren 5-versnellingen automaat (722.6).",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/contact+plate+with+speed+sensors+5+speed+automatic+722+6-313628.ts1628715350.jpg",
+        "product_link": "https://ecu.eu/jeep/gearbox-control-5902/jeep/gearbox-control/contact-plate-with-speed-sensors-5-speed-automatic-%28722.6%29-6068",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/contact-plate-with-speed-sensors-5-speed-automatic-%28722.6%29/jeep-1402701161-133232.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "140 270 11 61",
+                            "1402701161"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "13",
+                        "fault_description": "Snelheidssensor N3."
+                    },
+                    {
+                        "fault_code": "109",
+                        "fault_description": "Snelheidssensor N3."
+                    },
+                    {
+                        "fault_code": "2767",
+                        "fault_description": "(Gutmann 10087) Het signaal van component Y3/8n2 (interne snelheidsensor (VGS)) is niet beschikbaar."
+                    },
+                    {
+                        "fault_code": "P2200",
+                        "fault_description": "(Gutmann 8704) Y§/6n2 Snelheidssensor 2 - defect."
+                    },
+                    {
+                        "fault_code": "P2203",
+                        "fault_description": "(Gutmann 8707) Y3/6n3 Snelheidssensor 3 - defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jeep (Grand Cherokee) Bouwjaar 2002 - 2007"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Regelunit 5-versnellingen automaat (722.6).",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+unit+5+speed+automatic+722+6-108687.ts1628718946.jpg",
+        "product_link": "https://ecu.eu/jeep/gearbox-control-5902/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29-6372",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-56041906bc-continental-5wp20007ae-148733.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "56041906BC"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP20007AE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jeep (Grand Cherokee) Bouwjaar 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-56041906bd-continental-5wp20007bbe-139230.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "56041906BD"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP20007BBE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p04692392ag-siemens-5wp20005ny-127104.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "P04692392AG"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP20005NY"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p04692392ai-siemens-5wp20005ogk-122750.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "P04692392AI"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP20005OGK"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jeep (Grand Cherokee) Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p05150186ag-siemens-5wp20104abk-120794.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "P05150186AG"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP20104ABK"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0743",
+                        "fault_description": "Magneetventiel converter lock-up koppeling Y3/6y6 - elektrische fout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jeep (Grand Cherokee) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p05150729ac-siemens-5wp20133bok-141487.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "P05150729AC"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP20133BOK"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0743",
+                        "fault_description": "Magneetventiel converter lock-up koppeling Y3/6y6 - elektrische fout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p05150808ab-continental-5wp20133bwk-152857.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "P05150808AB"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP20133BWK"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0743",
+                        "fault_description": "Magneetventiel converter lock-up koppeling Y3/6y6 - elektrische fout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jeep (Grand Cherokee) Bouwjaar 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p056041906ba-siemens-5wp20007ac-138740.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "P056041906BA"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP20007AC"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jeep (Grand Cherokee) Bouwjaar 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p056041906bb-siemens-5wp20007ad-122152.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "P056041906BB"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP20007AD"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p056041906bc-siemens-5wp200077ae-126528.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "P056041906BC"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP200077AE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/control-unit-5-speed-automatic-%28722.6%29/jeep-p056041906bc-siemens-5wp20007ae-122277.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "P056041906BC"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP20007AE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jeep (Grand Cherokee) Bouwjaar 2003 - 2004"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Grand Cherokee 2.7 CRD (WJ / WG) Schakelhendelmodule.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/grand+cherokee+2+7+crd+wj+wg+selector+lever+module-220791.ts1628725387.jpg",
+        "product_link": "https://ecu.eu/jeep/gearbox-control-5902/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module-5903",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-1547302f-trw-58024h-135974.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "1547302F"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "58024H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signaal van schakelhendel - codering onjuist (de foutcode komt van de versnellingsbakunit, oorzaak: defecte schakelhendelmodule of een bedradingprobleem)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-1547303e-trw-58024h-134157.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "1547303E"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "58024H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signaal van schakelhendel - codering onjuist (de foutcode komt van de versnellingsbakunit, oorzaak: defecte schakelhendelmodule of een bedradingprobleem)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-1547303f-trw-58024h-131955.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "1547303F"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "58024H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signaal van schakelhendel - codering onjuist (de foutcode komt van de versnellingsbakunit, oorzaak: defecte schakelhendelmodule of een bedradingprobleem)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jeep (Grand Cherokee) Bouwjaar 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-1547303fa-trw-58024e-134837.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "1547303FA"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "58024E"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signaal van schakelhendel - codering onjuist (de foutcode komt van de versnellingsbakunit, oorzaak: defecte schakelhendelmodule of een bedradingprobleem)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jeep (Grand Cherokee) Bouwjaar 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-1547303fa-trw-58024h-132640.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "1547303FA"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "58024H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signaal van schakelhendel - codering onjuist (de foutcode komt van de versnellingsbakunit, oorzaak: defecte schakelhendelmodule of een bedradingprobleem)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jeep (Grand Cherokee) Bouwjaar 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-501131-trw-58024h-144405.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "501131"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "58024H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signaal van schakelhendel - codering onjuist (de foutcode komt van de versnellingsbakunit, oorzaak: defecte schakelhendelmodule of een bedradingprobleem)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-501132-trw-58024h-129851.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "501132"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "58024H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signaal van schakelhendel - codering onjuist (de foutcode komt van de versnellingsbakunit, oorzaak: defecte schakelhendelmodule of een bedradingprobleem)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-8442134-128415.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "8442134"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signaal van schakelhendel - codering onjuist (de foutcode komt van de versnellingsbakunit, oorzaak: defecte schakelhendelmodule of een bedradingprobleem)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jeep (Grand Cherokee) Bouwjaar 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-8442216-130524.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "8442216"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signaal van schakelhendel - codering onjuist (de foutcode komt van de versnellingsbakunit, oorzaak: defecte schakelhendelmodule of een bedradingprobleem)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/gearbox-control/grand-cherokee-2.7-crd-%28wj-wg%29-selector-lever-module/jeep-8442216a-128412.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "8442216A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2210",
+                        "fault_description": "Signaal van schakelhendel - codering onjuist (de foutcode komt van de versnellingsbakunit, oorzaak: defecte schakelhendelmodule of een bedradingprobleem)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

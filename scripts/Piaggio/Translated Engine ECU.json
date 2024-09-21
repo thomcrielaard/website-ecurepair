@@ -1,0 +1,109 @@
+[
+    {
+        "part_name": "EDC17C08.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc17c08-567564.ts1632313001.jpg",
+        "product_link": "https://ecu.eu/piaggio/engine-ecu-5697/piaggio/engine-ecu/edc17c08-6780",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/piaggio/engine-ecu/edc17c08/piaggio-660610-bosch-0281020177-140921.html",
+                "part_numbers": [
+                    {
+                        "title": "Piaggio - Onderdeelnummer",
+                        "numbers": [
+                            "660610"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 020 177",
+                            "0281020177"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0404",
+                        "fault_description": "Uitlaatgasrecirculatie-actuator - component blijft open."
+                    },
+                    {
+                        "fault_code": "P0490",
+                        "fault_description": "Uitlaatgasrecirculatie regelcircuit hoog."
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P2111",
+                        "fault_description": "Gasklephuis beweegt niet soepel."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Porter motormanagement.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/porter+engine+management-171308.ts1628712481.jpg",
+        "product_link": "https://ecu.eu/piaggio/engine-ecu-5697/piaggio/engine-ecu/porter-engine-management-5698",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/piaggio/engine-ecu/porter-engine-management/piaggio-8956087532-denso-1122001152-127044.html",
+                "part_numbers": [
+                    {
+                        "title": "Piaggio - Onderdeelnummer",
+                        "numbers": [
+                            "89560-87532",
+                            "8956087532"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "112200-1152",
+                            "1122001152"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/piaggio/engine-ecu/porter-engine-management/piaggio-8956087537-denso-1123001630-127043.html",
+                "part_numbers": [
+                    {
+                        "title": "Piaggio - Onderdeelnummer",
+                        "numbers": [
+                            "89560-87537",
+                            "8956087537"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "112300-1630",
+                            "1123001630"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

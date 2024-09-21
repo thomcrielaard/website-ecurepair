@@ -1,0 +1,1218 @@
+[
+    {
+        "part_name": "ABS/ASR 5.3",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+5+3-1080.ts1628711298.jpg",
+        "product_link": "https://ecu.eu/saab/abs-asr-esp-control-unit-2787/saab/abs-asr-esp-control-unit/abs-asr-5.3-5598",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/abs-asr-5.3/saab-4426904-bosch-0273004221-0265216469-100463.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "44 26 904",
+                            "4426904"
+                        ]
+                    },
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 221",
+                            "0273004221"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 216 469",
+                            "0265216469"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/abs-asr-5.3/saab-4689889-bosch-0273004222-0265220447-101915.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "46 89 889",
+                            "4689889"
+                        ]
+                    },
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 222",
+                            "0273004222"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 220 447",
+                            "0265220447"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ABS control unit possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-5) Year of manufacture 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/abs-asr-5.3/saab-4779484-bosch-0273004223-0265216471-100462.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "47 79 484",
+                            "4779484"
+                        ]
+                    },
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 223",
+                            "0273004223"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 216 471",
+                            "0265216471"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-3) Year of manufacture 1997 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/abs-asr-5.3/saab-4779526-bosch-1273004223-118030.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "47 79 526",
+                            "4779526"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "1 273 004 223",
+                            "1273004223"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/abs-asr-5.3/saab-4835591-bosch-0265220448-117761.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "48 35 591",
+                            "4835591"
+                        ]
+                    },
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 220 448",
+                            "0265220448"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ABS control unit possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/abs-asr-5.3/saab-4909829-bosch-0273004352-0265220520-100467.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "49 09 829",
+                            "4909829"
+                        ]
+                    },
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 352",
+                            "0273004352"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 220 520",
+                            "0265220520"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ABS control unit possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-5)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/abs-asr-5.3/saab-5060462-bosch-0273004451-0265220556-849-100465.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "50 60 462",
+                            "5060462"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 451",
+                            "0273004451"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 220 556",
+                            "0265220556"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "849"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ABS control unit possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-3) Year of manufacture 1999 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/abs-asr-5.3/saab-5230180-bosch-0265220557-117759.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "52 30 180",
+                            "5230180"
+                        ]
+                    },
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 220 557",
+                            "0265220557"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ABS control unit possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/abs-asr-5.3/saab-5233911-bosch-0265220626-117760.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "52 33 911",
+                            "5233911"
+                        ]
+                    },
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 220 626",
+                            "0265220626"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ABS control unit possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/abs-asr-5.3/saab-52358740-5231204-bosch-0273004578-0265220625-849-100466.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "52358740"
+                        ]
+                    },
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "52 31 204",
+                            "5231204"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 578",
+                            "0273004578"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 220 625",
+                            "0265220625"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "849"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ABS control unit possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-3) Year of manufacture 2001 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/abs-asr-5.3/saab-5390000-bosch-0265216471-118028.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "53 90 000",
+                            "5390000"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 216 471",
+                            "0265216471"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-3) Year of manufacture 1997 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/abs-asr-5.3/saab-5390091-bosch-0265216472-118029.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "53 90 091",
+                            "5390091"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 216 472",
+                            "0265216472"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Bosch ABS 2E",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/bosch+abs+2e-1576.ts1628718733.jpg",
+        "product_link": "https://ecu.eu/saab/abs-asr-esp-control-unit-2787/saab/abs-asr-esp-control-unit/bosch-abs-2e-4155",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/bosch-abs-2e/saab-bosch-0273004124-105346.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 124",
+                            "0273004124"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (900)"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 1.34",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+1+34-891.ts1628722662.jpg",
+        "product_link": "https://ecu.eu/saab/abs-asr-esp-control-unit-2787/saab/abs-asr-esp-control-unit/esp-1.34-2790",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-1.34/saab-5060686-bosch-0273004514-0265202477-901-101916.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "5060686"
+                        ]
+                    },
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 514",
+                            "0273004514"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 202 477",
+                            "0265202477"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "901"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-5) Year of manufacture 2001 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-1.34/saab-5062146-bosch-1273004514-0265202478-118812.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "5062146"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "1 273 004 514",
+                            "1273004514"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 202 478",
+                            "0265202478"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-5) Year of manufacture 2001 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-1.34/saab-5392774-bosch-0273004701-0265202520-100468.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "5392774"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 701",
+                            "0273004701"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 202 520",
+                            "0265202520"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-5) Year of manufacture 2002 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-1.34/saab-5392790-bosch-0265202521-118447.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "5392790"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 202 521",
+                            "0265202521"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-5) Year of manufacture 2002 - 2004"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 430",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+430-387986.ts1628723669.jpg",
+        "product_link": "https://ecu.eu/saab/abs-asr-esp-control-unit-2787/saab/abs-asr-esp-control-unit/esp-430-6392",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-430/saab-13663920-trw-54084713a-13509221ae-129141.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "13663920"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "54084713A"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "13509221AE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-3) Year of manufacture 2003 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-430/saab-bw-gm-12773674-trw-54084772d-15052410-15114110f-129400.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "GM - Part number",
+                        "numbers": [
+                            "12773674"
+                        ]
+                    },
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "BW"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "54084772D"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "15052410"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "15114110F"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-3) Year of manufacture 2007 - 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-430/saab-gm-12783966-trw-54085103b-15052413-15114113b-140074.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "GM - Part number",
+                        "numbers": [
+                            "12783966"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "54085103B"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "15052413"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "15114113B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-3) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-430/saab-je-gm-13191186-trw-54084771b-15052407-15114107-146257.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "GM - Part number",
+                        "numbers": [
+                            "13191186"
+                        ]
+                    },
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "JE"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "54084771B"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "15052407"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "15114107"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-430/saab-je-gm-13191186-trw-54084771c-15052407-15114107f-129023.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "GM - Part number",
+                        "numbers": [
+                            "13191186"
+                        ]
+                    },
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "JE"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "54084771C"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "15052407"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "15114107F"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-3) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-430/saab-jh-gm-12822907-trw-54085106e-15052421-15114121a-150386.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "GM - Part number",
+                        "numbers": [
+                            "12822907"
+                        ]
+                    },
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "JH"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "54085106E"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "15052421"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Part number",
+                        "numbers": [
+                            "15114121A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "no communication with ABS ECU possible, CAN faults stored in other control units"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-3) Year of manufacture 2011"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4083.ts1628718747.jpg",
+        "product_link": "https://ecu.eu/saab/abs-asr-esp-control-unit-2787/saab/abs-asr-esp-control-unit/esp-8.0-3555",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-8.0/saab-12757280-bosch-0265950538-0265234430-648-117762.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "12757280"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 538",
+                            "0265950538"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 234 430",
+                            "0265234430"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "648"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SAAB (9-5) Year of manufacture 2006 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-8.0/saab-5532809-bosch-0265950372-0265234148-104867.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "5532809"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 372",
+                            "0265950372"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 234 148",
+                            "0265234148"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/saab/abs-asr-esp-control-unit/esp-8.0/saab-93185388-bosch-0265234431-118031.html",
+                "part_numbers": [
+                    {
+                        "title": "SAAB",
+                        "numbers": []
+                    },
+                    {
+                        "title": "SAAB - Part number",
+                        "numbers": [
+                            "93185388"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 234 431",
+                            "0265234431"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

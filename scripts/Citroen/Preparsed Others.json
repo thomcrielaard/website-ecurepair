@@ -1,0 +1,71 @@
+[
+    {
+        "part_name": "Turbo-charger actuator",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+        "product_link": "https://ecu.eu/citroen/others-2863/citroen/others/turbo-charger-actuator-4786",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/citroen/others/turbo-charger-actuator/citroen-6nw009483-hella-761963-111204.html",
+                "part_numbers": [
+                    {
+                        "title": "CITROEN - Part number",
+                        "numbers": [
+                            "6NW 009 483",
+                            "6NW009483"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "761963"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CITROEN C-Crosser 2.2 HDi 4x4"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/citroen/others/turbo-charger-actuator/citroen-6nw009550-hella-767649-111203.html",
+                "part_numbers": [
+                    {
+                        "title": "CITROEN - Part number",
+                        "numbers": [
+                            "6NW 009 550",
+                            "6NW009550"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "767649"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CITROEN Jumper 2.2 HDi"
+                ]
+            }
+        ]
+    }
+]

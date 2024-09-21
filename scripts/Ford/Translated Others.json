@@ -1,0 +1,548 @@
+[
+    {
+        "part_name": "Vierwielaandrijving regelunit Haldex.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/all+wheel+drive+control+haldex-9869.ts1628711371.jpg",
+        "product_link": "https://ecu.eu/ford/others-2894/ford/others/all-wheel-drive-control-haldex-5995",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-11199701-continental-5wp3351302-112837.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "111997-01",
+                            "11199701"
+                        ]
+                    },
+                    {
+                        "title": "Ford",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33513-02",
+                            "5WP3351302"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Regelunit configuratiefout."
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Drukregelingsmagneetklep Elektrische circuitfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Kuga 2.0 TDCi 4x4 (Kuga) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-11265601-9v4n04c016ab-continental-5wp3352102-128599.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "112656-01",
+                            "11265601"
+                        ]
+                    },
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "9V4N-04C016-AB",
+                            "9V4N04C016AB"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33521-02",
+                            "5WP3352102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Regelunit configuratiefout."
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Drukregelingsmagneetklep Elektrische circuitfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Kuga 2.5i 4x4 (Kuga) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-11288001-9v4n04c016ac-continental-5wp3352103-148481.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "112880-01",
+                            "11288001"
+                        ]
+                    },
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "9V4N-04C016-AC",
+                            "9V4N04C016AC"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33521-03",
+                            "5WP3352103"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Regelunit configuratiefout."
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Drukregelingsmagneetklep Elektrische circuitfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-11368001-9v4n04c016ac-continental-5wp3352104-131742.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "113680-01",
+                            "11368001"
+                        ]
+                    },
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "9V4N-04C016-AC",
+                            "9V4N04C016AC"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33521-04",
+                            "5WP3352104"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Regelunit configuratiefout."
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Drukregelingsmagneetklep Elektrische circuitfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Kuga 2.0 TDCi 4x4 (Kuga)",
+                    "Ford Kuga 2.5i 4x4 (Kuga) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-11479301-9v4n04c016ad-9v4n04c016ae-continental-5wp3353102-135196.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "114793-01",
+                            "11479301"
+                        ]
+                    },
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "9V4N-04C016-AD",
+                            "9V4N04C016AD"
+                        ]
+                    },
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "9V4N-04C016-AE",
+                            "9V4N04C016AE"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33531-02",
+                            "5WP3353102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Regelunit configuratiefout."
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Drukregelingsmagneetklep Elektrische circuitfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Kuga 2.0 TDCi 4x4 (Kuga) Bouwjaar 2010 - 2011",
+                    "Ford Kuga 2.5i 4x4 (Kuga) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-11728801-9v4n04c016ad-continental-5wp3353103-129989.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "117288-01",
+                            "11728801"
+                        ]
+                    },
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "9V4N-04C016-AD",
+                            "9V4N04C016AD"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33531-03",
+                            "5WP3353103"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Regelunit configuratiefout."
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Drukregelingsmagneetklep Elektrische circuitfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Kuga 2.0 TDCi 4x4 (Kuga) Bouwjaar 2009 - 2012",
+                    "Ford Kuga 2.5i 4x4 (Kuga) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-1681551-141223.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "1681551"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Regelunit configuratiefout."
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Drukregelingsmagneetklep Elektrische circuitfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Turbo-oplader actuator.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+        "product_link": "https://ecu.eu/ford/others-2894/ford/others/turbo-charger-actuator-4093",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/ford/others/turbo-charger-actuator/ford-6nw008412-hella-712120-104898.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "6NW 008 412",
+                            "6NW008412"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "712120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P132A",
+                        "fault_description": "Turbo-oplader turbodrukregeling A: elektrische fout."
+                    },
+                    {
+                        "fault_code": "P132B",
+                        "fault_description": "Turbodrukregeling A - defecte (elektrische) stroomvoorziening."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tijdelijke problemen met de laaddrukregeling – foutcode met betrekking tot de laaddrukregeling, voertuig heeft vermogensverlies, motorcontrolelampje brandt, na aan- en uitzetten van de ontsteking werkt de motor weer normaal – tot de volgende fout optreedt."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Focus 1.8 TDCi (Focus) Bouwjaar 2007",
+                    "Ford Mondeo 2.0 TDCI (Mondeo) Bouwjaar 2004",
+                    "Ford Mondeo 2.0 TDCi (Mondeo) Bouwjaar 2004 - 2007",
+                    "Ford Mondeo 2.0 TDCi (Mondeo, MK 3) Motorcode HJBC, FMBA",
+                    "Ford Mondeo Turnier 2.0 TDCi (Mondeo) Bouwjaar 2003 - 2021",
+                    "Ford Mondeo Turnier 2.0 TDCi (Mondeo, MK 3) Motorcode HJB.., HJBC, FMBA",
+                    "Ford Mondeo Turnier 2.0 TDDi (Mondeo)",
+                    "Ford Mondeo Turnier 2.2 TDCi (Mondeo) Bouwjaar 2005 - 2007",
+                    "Ford Mondeo Turnier 2.2 TDCi (Mondeo, MK 3) Bouwjaar 2004 - 2006 Motorcode QJB..."
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/turbo-charger-actuator/ford-6nw009206-hella-752406-104899.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "6NW 009 206",
+                            "6NW009206"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "752406"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P132A",
+                        "fault_description": "Turbo-oplader turbodrukregeling A: elektrische fout."
+                    },
+                    {
+                        "fault_code": "P132B",
+                        "fault_description": "Turbodrukregeling A - defecte (elektrische) stroomvoorziening."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tijdelijke problemen met de laaddrukregeling – foutcode met betrekking tot de laaddrukregeling, voertuig heeft vermogensverlies, motorcontrolelampje brandt, na aan- en uitzetten van de ontsteking werkt de motor weer normaal – tot de volgende fout optreedt."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Focus 1.8 TDCi (Focus) Bouwjaar 2010",
+                    "Ford Tourneo Connect 1.8 TDCi (Tourneo Connect) Bouwjaar 2007 - 2009",
+                    "Ford Transit 2.2 TDCi (Transit)",
+                    "Ford Transit 2.2 TDCi (Transit, MK 6) Bouwjaar 2008 Motorcode PGFA",
+                    "Ford Transit 2.4 TDCi (Transit)",
+                    "Ford Transit 2.4 TDCi (Transit, MK 6) Bouwjaar 2006 Motorcode H9FB",
+                    "Ford Transit Connect 1.8 TDCi (Transit Connect) Bouwjaar 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/turbo-charger-actuator/ford-6nw009483-hella-761963-106117.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "6NW 009 483",
+                            "6NW009483"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "761963"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P132A",
+                        "fault_description": "Turbo-oplader turbodrukregeling A: elektrische fout."
+                    },
+                    {
+                        "fault_code": "P132B",
+                        "fault_description": "Turbodrukregeling A - defecte (elektrische) stroomvoorziening."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tijdelijke problemen met de laaddrukregeling – foutcode met betrekking tot de laaddrukregeling, voertuig heeft vermogensverlies, motorcontrolelampje brandt, na aan- en uitzetten van de ontsteking werkt de motor weer normaal – tot de volgende fout optreedt."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Galaxy 2.2 TDCi (Galaxy) Bouwjaar 2008 - 2010",
+                    "Ford Mondeo Turnier 2.2 TDCi (Mondeo) Bouwjaar 2008 - 2010",
+                    "Ford Transit 2.4 TDCi 4x4 (Transit) Bouwjaar 2008",
+                    "Ford Transit 3.2 TDCi (Transit)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/turbo-charger-actuator/ford-6nw009543-hella-763797-130187.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "6NW 009 543",
+                            "6NW009543"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "763797"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P132A",
+                        "fault_description": "Turbo-oplader turbodrukregeling A: elektrische fout."
+                    },
+                    {
+                        "fault_code": "P132B",
+                        "fault_description": "Turbodrukregeling A - defecte (elektrische) stroomvoorziening."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tijdelijke problemen met de laaddrukregeling – foutcode met betrekking tot de laaddrukregeling, voertuig heeft vermogensverlies, motorcontrolelampje brandt, na aan- en uitzetten van de ontsteking werkt de motor weer normaal – tot de volgende fout optreedt."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/turbo-charger-actuator/ford-6nw009550-hella-767649-117185.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "6NW 009 550",
+                            "6NW009550"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "767649"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P132A",
+                        "fault_description": "Turbo-oplader turbodrukregeling A: elektrische fout."
+                    },
+                    {
+                        "fault_code": "P132B",
+                        "fault_description": "Turbodrukregeling A - defecte (elektrische) stroomvoorziening."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tijdelijke problemen met de laaddrukregeling – foutcode met betrekking tot de laaddrukregeling, voertuig heeft vermogensverlies, motorcontrolelampje brandt, na aan- en uitzetten van de ontsteking werkt de motor weer normaal – tot de volgende fout optreedt."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Ranger 2.2 TDCi 4x4 (Ranger) Bouwjaar 2012 - 2014",
+                    "Ford Tourneo Custom 2.2 TDCi (Tourneo Custom) Bouwjaar 2014",
+                    "Ford Transit 2.2 TDCi (Transit)",
+                    "Ford Transit 2.4 TDCi (Transit) Bouwjaar 2007",
+                    "Ford (Transit) Bouwjaar 2017",
+                    "Ford Transit Custom 2.2 TDCi (Transit Custom) Bouwjaar 2013 - 2015"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "part_name": "Accutester VAS 6161.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/battery+tester+vas+6161-242030.ts1628719876.jpg",
+        "product_link": "https://ecu.eu/vw-%28volkswagen%29/diagnostic-tool-3080/vw-%28volkswagen%29/diagnostic-tool/battery-tester-vas-6161-5985",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/diagnostic-tool/battery-tester-vas-6161/volkswagen-vw-vas6161-midtronics-testerexp830-130356.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "VAS 6161",
+                            "VAS6161"
+                        ]
+                    },
+                    {
+                        "title": "Midtronics - Onderdeelnummer",
+                        "numbers": [
+                            "Tester EXP-830",
+                            "TesterEXP830"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Datum / tijd onjuist en worden niet gewijzigd."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Interne temperatuursensor geeft verkeerde waarden weer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Testerkabel voor VAS 6161.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/tester+cable+for+vas+6161-1121716.ts1659619404.jpg",
+        "product_link": "https://ecu.eu/vw-%28volkswagen%29/diagnostic-tool-3080/vw-%28volkswagen%29/diagnostic-tool/tester-cable-for-vas-6161-6996",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/diagnostic-tool/tester-cable-for-vas-6161/volkswagen-vw-midtronics-testerkabelvas6161-146600.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Midtronics - Onderdeelnummer",
+                        "numbers": [
+                            "Testerkabel VAS6161",
+                            "TesterkabelVAS6161"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tester geeft altijd foutmelding \"Test ongeldig, controleer aansluitingen\"."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

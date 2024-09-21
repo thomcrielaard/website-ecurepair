@@ -1,0 +1,1134 @@
+[
+    {
+        "part_name": "ABS 5.3.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+5+3-1080.ts1628711298.jpg",
+        "product_link": "https://ecu.eu/kia/abs-asr-esp-control-unit-2916/kia/abs-asr-esp-control-unit/abs-5.3-4750",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-5.3/kia-motors-589103e310-bosch-0273004660-0265216928-838-111112.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58910 3E310",
+                            "589103E310"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 660",
+                            "0273004660"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 928",
+                            "0265216928"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "838"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Sorento 2.5 CRDi (Sorento, JC) Bouwjaar 2005",
+                    "Kia Motors Sorento 3.5i (Sorento, JC) Bouwjaar 2006"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS 8.0.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+8+0-4104.ts1628718748.jpg",
+        "product_link": "https://ecu.eu/kia/abs-asr-esp-control-unit-2916/kia/abs-asr-esp-control-unit/abs-8.0-7197",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-8.0/kia-motors-589103e450-y45-bosch-0265800562-0265231811-803-150655.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58910-3E450",
+                            "589103E450"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "Y 45",
+                            "Y45"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 562",
+                            "0265800562"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 231 811",
+                            "0265231811"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "803"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Sorento 2.5 CRDi (Sorento, JC) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-8.0/kia-motors-589201h400-bosch-0265800972-0265232609-603-152955.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58920-1H400",
+                            "589201H400"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 972",
+                            "0265800972"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 232 609",
+                            "0265232609"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "603"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Ceed 1.4 CVVT (Ceed, ED) Bouwjaar 2012"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS-systeem.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+system-802.ts1628722660.jpg",
+        "product_link": "https://ecu.eu/kia/abs-asr-esp-control-unit-2916/kia/abs-asr-esp-control-unit/abs-system-4315",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-system/kia-motors-0295607001-5891007300-mando-5wy7513a-bh60103500-121168.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "02956-07001",
+                            "0295607001"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58910-07300",
+                            "5891007300"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7513A"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60103500"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Picanto 1.1i (Picanto, BA) Bouwjaar 2007 - 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-system/kia-motors-0k2fa667b0-mando-5wy7213b-106351.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "0K2FA-667B0",
+                            "0K2FA667B0"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7213B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Carnival 2.9 CRDi (Carnival, UP) Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-system/kia-motors-0k2fd437a0-mando-5wy7207b-bh60113600-109696.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "0K2FD 437A0",
+                            "0K2FD437A0"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7207B"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60113600"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Carens 1.8i (Carens, FC) Bouwjaar 2002 - 2003",
+                    "Kia Motors Carens 2.0 CRDi (Carens, FC) Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-system/kia-motors-5891007300-mando-5wy7401b-bh60103500-106348.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58910-07300",
+                            "5891007300"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7401B"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60103500"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Picanto 1.1i (Picanto, BA) Bouwjaar 2004 - 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-system/kia-motors-5891007370-mando-5wy7826a-bh60109210-154253.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58910-07370",
+                            "5891007370"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7826A"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60109210"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-system/kia-motors-5891007370-mando-5wy7826c-bh60109210-121170.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58910-07370",
+                            "5891007370"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7826C"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60109210"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Picanto 1.1i (Picanto, BA) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-system/kia-motors-5891007470-da-mando-5wy7e22a-bh6010f010-be6000f002-128297.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58910-07470",
+                            "5891007470"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "DA"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7E22A"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH6010F010"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BE6000F002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Picanto 1.0i (Picanto, BA) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-system/kia-motors-589200z650-mando-5wy7860b-121169.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58920-0Z650",
+                            "589200Z650"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7860B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-system/kia-motors-95610fd330-58970fd100-mando-5wy7208a-bh60103900-106349.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "95610-FD330",
+                            "95610FD330"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58970-FD100",
+                            "58970FD100"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7208A"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60103900"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-system/kia-motors-95610fd330-58970fd100-mando-5wy7208b-bh60103900-106350.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "95610-FD330",
+                            "95610FD330"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58970-FD100",
+                            "58970FD100"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7208B"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60103900"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-system/kia-motors-ok08e437a0-mando-5wy7119a-118520.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "OK08E 43 7A0",
+                            "OK08E437A0"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7119A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-system/kia-motors-ok56t437ae-ok56t437a0-mando-5wy7114a-bh60102400-242aab1b103-106347.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "OK56T 43 7AE",
+                            "OK56T437AE"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "OK56T 43 7A0",
+                            "OK56T437A0"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7114A"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60102400"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "242AAB1B10-3",
+                            "242AAB1B103"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ABS/FTCS.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+ftcs-2729.ts1628718740.jpg",
+        "product_link": "https://ecu.eu/kia/abs-asr-esp-control-unit-2916/kia/abs-asr-esp-control-unit/abs-ftcs-4314",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/abs-ftcs/kia-motors-956002f100-589202f100-mando-5wy7222a-bh60114900-106344.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "95600-2F100",
+                            "956002F100"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58920-2F100",
+                            "589202F100"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7222A"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60114900"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2112",
+                        "fault_description": "Regelklep relais defect."
+                    },
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Cerato 1.5 CRDI (Cerato, FE) Bouwjaar 2007"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4082.ts1628718747.jpg",
+        "product_link": "https://ecu.eu/kia/abs-asr-esp-control-unit-2916/kia/abs-asr-esp-control-unit/esp-8.0-4070",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/esp-8.0/kia-motors-589103e500-bosch-0265950564-0265235110-829-104869.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58910-3E500",
+                            "589103E500"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 564",
+                            "0265950564"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 110",
+                            "0265235110"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "6402",
+                        "fault_description": "Pompmotor / motorrelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Carnival 2.7 V6 (Carnival, MB) Bouwjaar 2007",
+                    "Kia Motors Sorento 2.2 CRDi 4x4 (Sorento, XM) Bouwjaar 2008",
+                    "Kia Motors Sorento 2.5 CRDi (Sorento, JC) Bouwjaar 2006 - 2010",
+                    "Kia Motors Sorento 3,3 (Sorento, JC) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/esp-8.0/kia-motors-589201h600-bosch-0265950694-0265235330-629-149343.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58920-1H600",
+                            "589201H600"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 694",
+                            "0265950694"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 330",
+                            "0265235330"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "6402",
+                        "fault_description": "Pompmotor / motorrelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Ceed 1.4 CVVT (Ceed, ED) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/esp-8.0/kia-motors-589201h650-bosch-0265950938-0265230231-152078.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58920-1H650",
+                            "589201H650"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 938",
+                            "0265950938"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 230 231",
+                            "0265230231"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "6402",
+                        "fault_description": "Pompmotor / motorrelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/esp-8.0/kia-motors-589201p200-bosch-0265951240-0265238058-629-117773.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58920-1P200",
+                            "589201P200"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 951 240",
+                            "0265951240"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 238 058",
+                            "0265238058"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "6402",
+                        "fault_description": "Pompmotor / motorrelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Venga 1.6 (Venga, YN) Bouwjaar 2009 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/esp-8.0/kia-motors-589204d300-bosch-0265950614-0265235218-829-107391.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58920-4D300",
+                            "589204D300"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 614",
+                            "0265950614"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 218",
+                            "0265235218"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "6402",
+                        "fault_description": "Pompmotor / motorrelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Carnival 2.9 CRDi (Carnival, MB) Bouwjaar 2006 - 2009"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK25.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk25-3707.ts1628718745.jpg",
+        "product_link": "https://ecu.eu/kia/abs-asr-esp-control-unit-2916/kia/abs-asr-esp-control-unit/esp-mk25-6596",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/esp-mk25/kia-motors-589203f600-ate-06210906473-06210203614-140277.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58920-3F600",
+                            "589203F600"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0647.3",
+                            "06210906473"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0361.4",
+                            "06210203614"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Opirus 3.8i (Opirus, LD) Bouwjaar 2010"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Mobis ABS.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mobis+abs-377508.ts1628716621.jpg",
+        "product_link": "https://ecu.eu/kia/abs-asr-esp-control-unit-2916/kia/abs-asr-esp-control-unit/mobis-abs-6350",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/kia/abs-asr-esp-control-unit/mobis-abs/kia-motors-6158944200-589201h450-mobis-1h58930250-1h58920250-300-122835.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "61589-44200",
+                            "6158944200"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "58920-1H450",
+                            "589201H450"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1H589-30250",
+                            "1H58930250"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1H589-20250",
+                            "1H58920250"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "300"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Ceed 1.4 CVVT (Ceed, ED) Bouwjaar 2010 - 2013",
+                    "Kia Motors Ceed 1.4 (Ceed, ED) Bouwjaar 2011",
+                    "Kia Motors Ceed 1.6 CRDi (Ceed, ED) Bouwjaar 2010 - 2012",
+                    "Kia Motors Ceed 1.6i (Ceed, ED) Bouwjaar 2011"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,2438 @@
+[
+    {
+        "part_name": "ABS 8.0.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+8+0-4104.ts1628718748.jpg",
+        "product_link": "https://ecu.eu/hyundai/abs-asr-esp-control-unit-123/hyundai/abs-asr-esp-control-unit/abs-8.0-3493",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-8.0/hyundai-589101c310-bosch-0265800328-0265231357-803-107385.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910 1C310",
+                            "589101C310"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 328",
+                            "0265800328"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 231 357",
+                            "0265231357"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "803"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Getz 1.1i (Getz, TB) Bouwjaar 2003 - 2004",
+                    "Hyundai Getz 1.3i (Getz, TB) Bouwjaar 2003 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-8.0/hyundai-589101c310-bosch-0265800389-0265231357-803-107386.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910 1C310",
+                            "589101C310"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 389",
+                            "0265800389"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 231 357",
+                            "0265231357"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "803"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Getz 1.1i (Getz, TB) Bouwjaar 2003 - 2009",
+                    "Hyundai Getz 1.3i (Getz, TB) Bouwjaar 2004 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-8.0/hyundai-589101c800-bosch-0265800388-0265231448-803-107387.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-1C800",
+                            "589101C800"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 388",
+                            "0265800388"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 231 448",
+                            "0265231448"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "803"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Getz 1.5 CRDi (Getz, TB) Bouwjaar 2006 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-8.0/hyundai-589101j000-bosch-0265800795-0265237019-883-129519.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-1J000",
+                            "589101J000"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 795",
+                            "0265800795"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 237 019",
+                            "0265237019"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "883"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ABS-systeem.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+system-1631.ts1628718735.jpg",
+        "product_link": "https://ecu.eu/hyundai/abs-asr-esp-control-unit-123/hyundai/abs-asr-esp-control-unit/abs-system-3865",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-system/hyundai-95600m2100-sumitomo-odzaak01000-2700.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "95600-M2100",
+                            "95600M2100"
+                        ]
+                    },
+                    {
+                        "title": "Sumitomo - Onderdeelnummer.",
+                        "numbers": [
+                            "ODZAAK 01000",
+                            "ODZAAK01000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Santamo 2.0i (Santamo, M-200E) Bouwjaar 1999"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS-systeem.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+system-1630.ts1628718735.jpg",
+        "product_link": "https://ecu.eu/hyundai/abs-asr-esp-control-unit-123/hyundai/abs-asr-esp-control-unit/abs-system-3866",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-system/hyundai-5891002800-denso-281.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-02800",
+                            "5891002800"
+                        ]
+                    },
+                    {
+                        "title": "Denso.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Atos 1.0i (Atos, MX) Bouwjaar 2002 - 2006",
+                    "Hyundai Atos Prime 1.1i (Atos, MX) Bouwjaar 2004 - 2009"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS-systeem.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+system-802.ts1628722660.jpg",
+        "product_link": "https://ecu.eu/hyundai/abs-asr-esp-control-unit-123/hyundai/abs-asr-esp-control-unit/abs-system-4317",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-system/hyundai-0295625000-mando-5wy7209a-112230.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "02956-25000",
+                            "0295625000"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7209A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Accent 1.3i (Accent, LC) Bouwjaar 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-system/hyundai-589100x500-mando-5wy7825a-bh60109100-121853.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-0X500",
+                            "589100X500"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7825A"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60109100"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I10 1.1i (i10, PA) Bouwjaar 2008 - 2011",
+                    "Hyundai I10 1.2i (i10, PA) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-system/hyundai-589100x500-mando-5wy7825c-bh60109100-139745.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-0X500",
+                            "589100X500"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7825C"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60109100"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I10 1.1i (i10, PA) Bouwjaar 2008 - 2011",
+                    "Hyundai I10 1.2i (i10, PA) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-system/hyundai-589203a300-mando-5wy7402a-106357.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-3A300",
+                            "589203A300"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7402A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Trajet 2.0i (Trajet, FO) Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-system/hyundai-9566017000-5891017300-mando-5wy7201a-bh60102000-202aba2a204-112228.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "95660-17000",
+                            "9566017000"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-17300",
+                            "5891017300"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7201A"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60102000"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "202ABA2A20-4",
+                            "202ABA2A204"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Matrix 1.6i (Matrix, FC) Bouwjaar 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-system/hyundai-9566017000-5891017300-mando-5wy7201b-bh60102000-202aba2b204-112227.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "95660-17000",
+                            "9566017000"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-17300",
+                            "5891017300"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7201B"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60102000"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "202ABA2B20-4",
+                            "202ABA2B204"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Matrix 1.6i (Matrix, FC) Bouwjaar 2003 - 2012",
+                    "Hyundai Matrix 1.8i (Matrix, FC) Bouwjaar 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-system/hyundai-9566025000-5891025310-mando-5wy7101a-bh60100900-092aan2c133-106356.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "95660-25000",
+                            "9566025000"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-25310",
+                            "5891025310"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7101A"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60100900"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "092AAN2C13-3",
+                            "092AAN2C133"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Accent 1.5i (Accent, LC) Bouwjaar 2001 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-system/hyundai-9566026300-5890026050-mando-5wy7103b-bh60101100-112229.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "95660-26300",
+                            "9566026300"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-26050",
+                            "5890026050"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7103B"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60101100"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Santa Fe 2.4i (Santa Fe, SM) Bouwjaar 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-system/hyundai-9566026500-5890026150-mando-5wy7113b-bh60101110-116aan2j173-107625.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "95660-26500",
+                            "9566026500"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-26150",
+                            "5890026150"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7113B"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60101110"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "116AAN2J17-3",
+                            "116AAN2J173"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Santa Fe 2.0 CRDi 4x4 (Santa Fe, SM) Bouwjaar 2004"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS/ASR/ASC MK20.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+asc+mk20-171414.ts1628719308.jpg",
+        "product_link": "https://ecu.eu/hyundai/abs-asr-esp-control-unit-123/hyundai/abs-asr-esp-control-unit/abs-asr-asc-mk20-6582",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-asr-asc-mk20/hyundai-9566038000-ate-10094621013-128685.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "95660-38000",
+                            "9566038000"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "10.0946-2101.3",
+                            "10094621013"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "De foutcode voor de ABS-pompmotor is geregistreerd. Stuur ons de complete ABS-unit, inclusief het hydraulische blok (niet gedemonteerd)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-asr-asc-mk20/hyundai-9566039400-5892039200-ate-10094921043-10020401704-102317.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "95660-39400",
+                            "9566039400"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-39200",
+                            "5892039200"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "10.0949-2104.3",
+                            "10094921043"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "10.0204-0170.4",
+                            "10020401704"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verschillende wielsensoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De foutcode voor de ABS-pompmotor is geregistreerd. Stuur ons de complete ABS-unit, inclusief het hydraulische blok (niet gedemonteerd)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai XG30 3.0i (XG30, F) Bouwjaar 1999 - 2002"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS/FTCS.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+ftcs-2729.ts1628718740.jpg",
+        "product_link": "https://ecu.eu/hyundai/abs-asr-esp-control-unit-123/hyundai/abs-asr-esp-control-unit/abs-ftcs-4318",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-ftcs/hyundai-5890026180-mando-5wy7122a-bh60114210-112231.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-26180",
+                            "5890026180"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7122A"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60114210"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2112",
+                        "fault_description": "Regelklep relais defect."
+                    },
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-ftcs/hyundai-5890026500-mando-5wy7501c-bh60107500-118521.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-26500",
+                            "5890026500"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7501C"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60107500"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2112",
+                        "fault_description": "Regelklep relais defect."
+                    },
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Santa Fe 2.4i (Santa Fe, SM) Bouwjaar 2004 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-ftcs/hyundai-5890026560-mando-5wy7427b-bh60117510-127483.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-26560",
+                            "5890026560"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7427B"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60117510"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2112",
+                        "fault_description": "Regelklep relais defect."
+                    },
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-ftcs/hyundai-589002e150-589202e150-mando-5wy7407b-bh60123410-106360.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-2E150",
+                            "589002E150"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-2E150",
+                            "589202E150"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7407B"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60123410"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2112",
+                        "fault_description": "Regelklep relais defect."
+                    },
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Tucson 2.0 CRDi (Tucson, JM) Bouwjaar 2004 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-ftcs/hyundai-589002e150-589202e150-mando-5wy7407c-bh60123410-134598.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-2E150",
+                            "589002E150"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-2E150",
+                            "589202E150"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7407C"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60123410"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2112",
+                        "fault_description": "Regelklep relais defect."
+                    },
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Tucson 2.0 CRDi (Tucson, JM) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/abs-ftcs/hyundai-956002c200-589202c200-mando-5wy7204b-bh60122100-106358.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "95600-2C200",
+                            "956002C200"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-2C200",
+                            "589202C200"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "5WY7204B"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "BH60122100"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2112",
+                        "fault_description": "Regelklep relais defect."
+                    },
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4082.ts1628718747.jpg",
+        "product_link": "https://ecu.eu/hyundai/abs-asr-esp-control-unit-123/hyundai/abs-asr-esp-control-unit/esp-8.0-4628",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-8.0/hyundai-589101j200-bosch-0265950980-0265238004-829-144363.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-1J200",
+                            "589101J200"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 980",
+                            "0265950980"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 238 004",
+                            "0265238004"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I20 1.2i (i20, PB) Bouwjaar 2010 - 2011",
+                    "Hyundai I20 1.4 CRDI (i20, PB) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-8.0/hyundai-589102b500-bosch-0265951250-0265230768-829-119200.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-2B500",
+                            "589102B500"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 951 250",
+                            "0265951250"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 230 768",
+                            "0265230768"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Santa Fe 2.2 CRDi (Santa Fe, CM) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-8.0/hyundai-589102b550-bosch-0265951248-0265230762-829-119199.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-2B550",
+                            "589102B550"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 951 248",
+                            "0265951248"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 230 762",
+                            "0265230762"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-8.0/hyundai-589102b800-bosch-0265950524-0265235067-829-114186.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-2B800",
+                            "589102B800"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 524",
+                            "0265950524"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 067",
+                            "0265235067"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Santa Fe 2.7i (Santa Fe, CM) Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-8.0/hyundai-589102b850-bosch-0265950525-0265235070-829-118814.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-2B850",
+                            "589102B850"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 525",
+                            "0265950525"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 070",
+                            "0265235070"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Santa Fe 2.2 CRDi (Santa Fe, CM) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-8.0/hyundai-589102b860-bosch-0265950914-0265230183-829-122729.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-2B860",
+                            "589102B860"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 914",
+                            "0265950914"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 230 183",
+                            "0265230183"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Santa Fe 2.2 CRDi (Santa Fe, CM) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-8.0/hyundai-589202l500-bosch-0265950695-0265235333-829-109660.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-2L500",
+                            "589202L500"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 695",
+                            "0265950695"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 333",
+                            "0265235333"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30 1.4i (i30, FD) Bouwjaar 2009 - 2010",
+                    "Hyundai I30 1.6 CRDi CW (i30, FD) Bouwjaar 2009",
+                    "Hyundai I30 1.6i CW (i30, FD) Bouwjaar 2009 - 2010",
+                    "Hyundai I30 1.6i (i30, FD) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-8.0/hyundai-589202r500-bosch-0265951617-0235251576-829-117775.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-2R500",
+                            "589202R500"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 951 617",
+                            "0265951617"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 235 251 576",
+                            "0235251576"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30 1.4i (i30, FD) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-8.0/hyundai-589203k100-bosch-0265950390-0265234182-829-117774.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-3K100",
+                            "589203K100"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 390",
+                            "0265950390"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 234 182",
+                            "0265234182"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Sonata 2.4i (Sonata, NF) Bouwjaar 2005 - 2006",
+                    "Hyundai Sonata 3.3i V6 (Sonata, NF) Bouwjaar 2005 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-8.0/hyundai-589203k101-bosch-0265950612-0265235212-829-131817.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-3K101",
+                            "589203K101"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 612",
+                            "0265950612"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 212",
+                            "0265235212"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Sonata 2.0i (Sonata, NF) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-8.0/hyundai-589203k500-bosch-0265950826-0265230021-829-151431.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920 3K500",
+                            "589203K500"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 826",
+                            "0265950826"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 230 021",
+                            "0265230021"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Sonata 2.0 CRDi (Sonata, NF) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-8.0/hyundai-589204d300-bosch-0265950612-0265235218-829-153560.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-4D300",
+                            "589204D300"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 612",
+                            "0265950612"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 218",
+                            "0265235218"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK100.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk100-253760.ts1628714193.jpg",
+        "product_link": "https://ecu.eu/hyundai/abs-asr-esp-control-unit-123/hyundai/abs-asr-esp-control-unit/esp-mk100-7215",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-mk100/hyundai-06262132111-58900b4800-28515485023-ate-06210968313-06210224304-02274g352-142304.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "06.2621-3211.1",
+                            "06262132111"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-B4800",
+                            "58900B4800"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "28.5154-8502.3",
+                            "28515485023"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-6831.3",
+                            "06210968313"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-2430.4",
+                            "06210224304"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "0227 4G352",
+                            "02274G352"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2380",
+                        "fault_description": "ASR-magneetklep component defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I10 1.0i (i10, IA) Bouwjaar 2013 - 2015",
+                    "Hyundai I10 1.2i (i10, IA) Bouwjaar 2015",
+                    "Hyundai I20 1.1 CRDI (i20, PB) Bouwjaar 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/esp-mk100/hyundai-06262331501-58900b9800-ate-06210981053-06210247104-153802.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "06.2623-3150.1",
+                            "06262331501"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-B9800",
+                            "58900B9800"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-8105.3",
+                            "06210981053"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-4710.4",
+                            "06210247104"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2380",
+                        "fault_description": "ASR-magneetklep component defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I10 1.0i (i10, IA) Bouwjaar 2018"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Mobis ABS.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mobis+abs-377508.ts1628716621.jpg",
+        "product_link": "https://ecu.eu/hyundai/abs-asr-esp-control-unit-123/hyundai/abs-asr-esp-control-unit/mobis-abs-6349",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/mobis-abs/hyundai-589101j020-6158944200-mobis-1j58930300-1j58920300-300-125966.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58910-1J020",
+                            "589101J020"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "61589-44200",
+                            "6158944200"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1J589-30300",
+                            "1J58930300"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1J589-20300",
+                            "1J58920300"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "300"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I20 1.2i (i20, PB) Bouwjaar 2011 - 2013"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Mobis ESP EU.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mobis+esp+eu-3594588.ts1710413123.jpg",
+        "product_link": "https://ecu.eu/hyundai/abs-asr-esp-control-unit-123/hyundai/abs-asr-esp-control-unit/mobis-esp-eu-7293",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/mobis-esp-eu/hyundai-5944059550-5944159550-mobis-5958930620-5958920620-850-145484.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "59440-59550",
+                            "5944059550"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "59441-59550",
+                            "5944159550"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "59589-30620",
+                            "5958930620"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "59589-20620",
+                            "5958920620"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "850"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai H350 (H350) Bouwjaar 2015 - 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/mobis-esp-eu/hyundai-5944059600-5944159600-6158947300-mobis-5958930640-5958920640-85-153200.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "59440-59600",
+                            "5944059600"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "59441-59600",
+                            "5944159600"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "61589-47300",
+                            "6158947300"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "59589-30640",
+                            "5958930640"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "59589-20640",
+                            "5958920640"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "85"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai H350 2.5 CRDi (H350, EU) Bouwjaar 2017"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/mobis-esp-eu/hyundai-5944059650-5944159650-6158947300-mobis-5958930680-5958920680-85-152888.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "59440-59650",
+                            "5944059650"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "59441-59650",
+                            "5944159650"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "61589-47300",
+                            "6158947300"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "59589-30680",
+                            "5958930680"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "59589-20680",
+                            "5958920680"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "85"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Mobis ESP PD.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mobis+esp+pd-1774235.ts1688035835.jpg",
+        "product_link": "https://ecu.eu/hyundai/abs-asr-esp-control-unit-123/hyundai/abs-asr-esp-control-unit/mobis-esp-pd-7292",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/mobis-esp-pd/hyundai-58900g4350-58920g4350-6158943100-mobis-g458930900-g458920900-08-151738.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-G4350",
+                            "58900G4350"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-G4350",
+                            "58920G4350"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "61589-43100",
+                            "6158943100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "G4589-30900",
+                            "G458930900"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "G4589-20900",
+                            "G458920900"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "08"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30 1.4 SW (i30, PD) Bouwjaar 2018",
+                    "Hyundai I30 1.4 (i30, PD) Bouwjaar 2017 - 2019"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/mobis-esp-pd/hyundai-58900g4400-58920g4400-6158943100-mobis-g458932700-g458922700-74-137261.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-G4400",
+                            "58900G4400"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-G4400",
+                            "58920G4400"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "61589-43100",
+                            "6158943100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "G4589-32700",
+                            "G458932700"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "G4589-22700",
+                            "G458922700"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "74"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30 1.0 (i30, PD) Bouwjaar 2017 - 2019",
+                    "Hyundai I30 1.4 CVVT-i (i30, PD) Bouwjaar 2017 - 2018",
+                    "Hyundai I30 1.4 SW (i30, PD) Bouwjaar 2017 - 2018",
+                    "Hyundai I30 1.4 (i30, PD) Bouwjaar 2017 - 2018"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/mobis-esp-pd/hyundai-58900g4450-58920g4450-6158943100-mobis-g458930800-g458920800-84-152240.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-G4450",
+                            "58900G4450"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-G4450",
+                            "58920G4450"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "61589-43100",
+                            "6158943100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "G4589-30800",
+                            "G458930800"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "G4589-20800",
+                            "G458920800"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "84"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30 1.4 SW (i30, PD) Bouwjaar 2017 - 2018",
+                    "Hyundai I30 1.4 (i30, PD) Bouwjaar 2018"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/mobis-esp-pd/hyundai-58900s0000-58920s0000-6158943100-mobis-s058930500-s058920500-74-150434.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-S0000",
+                            "58900S0000"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-S0000",
+                            "58920S0000"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "61589-43100",
+                            "6158943100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "S0589-30500",
+                            "S058930500"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "S0589-20500",
+                            "S058920500"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "74"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30N 2.0 T-GDi (i30, PD) Bouwjaar 2017 - 2018"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/abs-asr-esp-control-unit/mobis-esp-pd/hyundai-58900s0100-58920s0100-6158943100-mobis-s058930520-s058920520-74-149638.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58900-S0100",
+                            "58900S0100"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "58920-S0100",
+                            "58920S0100"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "61589-43100",
+                            "6158943100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "S0589-30520",
+                            "S058930520"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "S0589-20520",
+                            "S058920520"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "74"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2402",
+                        "fault_description": "Pompmotor elektrisch circuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30N 2.0 T-GDi (i30, PD) Bouwjaar 2020"
+                ]
+            }
+        ]
+    }
+]

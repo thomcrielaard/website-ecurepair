@@ -1,0 +1,953 @@
+[
+    {
+        "part_name": "Haldex control unit (Gen.2)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/haldex+control+unit+gen+2-9869.ts1628711371.jpg",
+        "product_link": "https://ecu.eu/skoda/others-3046/skoda/others/haldex-control-unit-%28gen.2%29-4888",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-control-unit-%28gen.2%29/skoda-1k0525130l-104572-siemens-5wp22202-111890.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "1K0 525 130 L",
+                            "1K0525130L"
+                        ]
+                    },
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "104572"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP22202"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Control unit for all-wheel drive - no communication"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Control unit - error in EEPROM"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-control-unit-%28gen.2%29/skoda-1k0907554a-10457204-siemens-5wp2222201-133389.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "1K0 907 554 A",
+                            "1K0907554A"
+                        ]
+                    },
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "104572-04",
+                            "10457204"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP22222-01",
+                            "5WP2222201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Control unit for all-wheel drive - no communication"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Control unit - error in EEPROM"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 2.0 FSI Combi 4x4 (Octavia, 1Z) Year of manufacture 2005 Engine code BLX"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-control-unit-%28gen.2%29/skoda-1k0907554b-10457205-siemens-5wp2222202-132355.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "1K0 907 554 B",
+                            "1K0907554B"
+                        ]
+                    },
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "104572-05",
+                            "10457205"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP22222-02",
+                            "5WP2222202"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Control unit for all-wheel drive - no communication"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Control unit - error in EEPROM"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 1.9 TDI Combi 4x4 (Octavia, 1Z) Year of manufacture 2005 - 2006 Engine code BKC",
+                    "Skoda Octavia 2.0 FSI Combi 4x4 (Octavia, 1Z) Year of manufacture 2005 Engine code BLX"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-control-unit-%28gen.2%29/skoda-1k0907554c-10771801-siemens-5wp2223201-132989.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "1K0 907 554 C",
+                            "1K0907554C"
+                        ]
+                    },
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "107718-01",
+                            "10771801"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP22232-01",
+                            "5WP2223201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Control unit for all-wheel drive - no communication"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Control unit - error in EEPROM"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Fabia 1.6 Combi (Fabia, 5J) Year of manufacture 2010 Engine code BTS",
+                    "Skoda Octavia 1.9 TDI Combi 4x4 (Octavia, 1Z) Year of manufacture 2006 Engine code BKC, BXE"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-control-unit-%28gen.2%29/skoda-1k0907554f-10771802-siemens-5wp2223202-132675.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "1K0 907 554 F",
+                            "1K0907554F"
+                        ]
+                    },
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "107718-02",
+                            "10771802"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP22232-02",
+                            "5WP2223202"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Control unit for all-wheel drive - no communication"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Control unit - error in EEPROM"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 1.9 TDI Combi 4x4 (Octavia, 1Z) Year of manufacture 2005 - 2007 Engine code BXE, BKC, BLS",
+                    "Skoda Octavia 2.0 FSI Combi 4x4 (Octavia, 1Z) Year of manufacture 2006 - 2007 Engine code BVX",
+                    "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 1Z) Year of manufacture 2006 Engine code BMM"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-control-unit-%28gen.2%29/skoda-1k0907554l-10942901-siemens-5wp2224101-132789.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "1K0 907 554 L",
+                            "1K0907554L"
+                        ]
+                    },
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "109429-01",
+                            "10942901"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP22241-01",
+                            "5WP2224101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Control unit for all-wheel drive - no communication"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Control unit - error in EEPROM"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 1.9 TDI Combi 4x4 (Octavia, 1Z) Year of manufacture 2005 - 2008 Engine code BKC, BLS, BXE",
+                    "Skoda Octavia 2.0 FSI Combi 4x4 (Octavia, 1Z) Year of manufacture 2006 - 2008 Engine code BLX, BVX",
+                    "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 1Z) Year of manufacture 2007 - 2008 Engine code BMM",
+                    "Skoda Octavia 2.0 TDI (Octavia, 1Z) Year of manufacture 2007 Engine code BKD"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Haldex ecu ( Gen.5)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/haldex+ecu+gen+5-248518.ts1628714081.jpg",
+        "product_link": "https://ecu.eu/skoda/others-3046/skoda/others/haldex-ecu-%28-gen.5%29-6005",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-ecu-%28-gen.5%29/skoda-0ay907554f-haldex-131972.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "0AY 907 554 F",
+                            "0AY907554F"
+                        ]
+                    },
+                    {
+                        "title": "Haldex",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Yeti 1.8 TSI 4x4 (Yeti, 5L) Year of manufacture 2014 Engine code CDAB, CDAA",
+                    "Skoda Yeti 2.0 TDI 4x4 (Yeti, 5L) Year of manufacture 2009 - 2015 Engine code CFJA, CFHC, CFHF"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-ecu-%28-gen.5%29/skoda-0ay907554j-haldex-134800.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "0AY 907 554 J",
+                            "0AY907554J"
+                        ]
+                    },
+                    {
+                        "title": "Haldex",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 1.8 TSI Combi 4x4 (Octavia, 5E) Year of manufacture 2014 Engine code CJSB",
+                    "Skoda Yeti 1.4 TSI (Yeti, 5L) Year of manufacture 2015 - 2017 Engine code CZDA",
+                    "Skoda Yeti 1.8 TSI 4x4 (Yeti, 5L) Year of manufacture 2014 - 2015 Engine code CDAB, CDAA",
+                    "Skoda Yeti 2.0 TDI 4x4 (Yeti, 5L) Year of manufacture 2014 - 2016 Engine code CUUA, CFHF, CFHC, CFJA",
+                    "Skoda Yeti 2.0 TDI (Yeti, 5L) Year of manufacture 2015 Engine code CUUB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-ecu-%28-gen.5%29/skoda-0cq907554d-haldex-134260.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "0CQ 907 554 D",
+                            "0CQ907554D"
+                        ]
+                    },
+                    {
+                        "title": "Haldex",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 1.6 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2014 Engine code CLHA",
+                    "Skoda Octavia 1.8 TSI Combi 4x4 (Octavia, 5E) Year of manufacture 2014 Engine code CJSB",
+                    "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2013 - 2015 Engine code CUNA, CKFC, CRMB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-ecu-%28-gen.5%29/skoda-0cq907554h-haldex-140149.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "0CQ 907 554 H",
+                            "0CQ907554H"
+                        ]
+                    },
+                    {
+                        "title": "Haldex",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS) Year of manufacture 2017 Engine code DFHA",
+                    "Skoda Octavia 1.6 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2016 Engine code CXXB",
+                    "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2015 - 2016 Engine code CUNA, CRMB TCU code CUNA, CRMB",
+                    "Skoda Superb 2.0 TDI Combi 4x4 (Superb, 3V) Engine code DFCA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-ecu-%28-gen.5%29/skoda-0cq907554j-haldex-146667.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "0CQ 907 554 J",
+                            "0CQ907554J"
+                        ]
+                    },
+                    {
+                        "title": "Haldex",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Kodiaq 2.0 TDI 4x4 Scout (Kodiaq, NS) Year of manufacture 2018 - 2019 Engine code DFHA",
+                    "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 5E) Year of manufacture 2018 Engine code CRMB"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Haldex ecu (Gen.3)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/haldex+ecu+gen+3-9869.ts1628711371.jpg",
+        "product_link": "https://ecu.eu/skoda/others-3046/skoda/others/haldex-ecu-%28gen.3%29-5994",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-ecu-%28gen.3%29/skoda-0br598554c-131734.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "0BR 598 554 C",
+                            "0BR598554C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "supply voltage - upper limit exceeded"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-ecu-%28gen.3%29/skoda-0br907554a-11185202-continental-5wp3352302-133075.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "0BR 907 554 A",
+                            "0BR907554A"
+                        ]
+                    },
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "111852-02",
+                            "11185202"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33523-02",
+                            "5WP3352302"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "supply voltage - upper limit exceeded"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 1.8 TSI Combi 4x4 (Octavia, 1Z) Year of manufacture 2009 Engine code CDAA",
+                    "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 1Z) Year of manufacture 2009 - 2010 Engine code BMM",
+                    "Skoda Yeti 1.8 TSI 4x4 (Yeti, 5L) Year of manufacture 2009 Engine code CDAA",
+                    "Skoda Yeti 2.0 TDI 4x4 (Yeti, 5L) Year of manufacture 2009 - 2010 Engine code CFHF, CBDB, CFJA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-ecu-%28gen.3%29/skoda-0br907554a-continental-5wp3352301-122611.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "0BR 907 554 A",
+                            "0BR907554A"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33523-01",
+                            "5WP3352301"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "supply voltage - upper limit exceeded"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 1.8 TSI Combi 4x4 (Octavia, 1Z) Year of manufacture 2009 Engine code CDAA",
+                    "Skoda Octavia 1.9 TDI Combi 4x4 (Octavia, 1Z) Year of manufacture 2009 Engine code BLS",
+                    "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 1Z) Year of manufacture 2008 Engine code BMM"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-ecu-%28gen.3%29/skoda-0br907554b-11447901-continental-5wp3352303-114101.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "0BR 907 554 B",
+                            "0BR907554B"
+                        ]
+                    },
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "114479-01",
+                            "11447901"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33523-03",
+                            "5WP3352303"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "supply voltage - upper limit exceeded"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 1.8 TSI Combi 4x4 (Octavia, 1Z) Year of manufacture 2010 Engine code CDAA",
+                    "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 1Z) Year of manufacture 2010 Engine code BMM",
+                    "Skoda Superb 2.0 TDI Combi 4x4 (Superb, 3T) Year of manufacture 2011 Engine code CFGB",
+                    "Skoda Yeti 2.0 TDI 4x4 (Yeti, 5L) Year of manufacture 2010 - 2011 Engine code CFJA, CFHF, CFHC"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/haldex-ecu-%28gen.3%29/skoda-0br907554c-11592801-continental-5wp3352304-114178.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "0BR 907 554 C",
+                            "0BR907554C"
+                        ]
+                    },
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "115928-01",
+                            "11592801"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33523-04",
+                            "5WP3352304"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "supply voltage - upper limit exceeded"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 1.6 TDI Combi 4x4 (Octavia, 1Z) Year of manufacture 2012 Engine code CAYC",
+                    "Skoda Octavia 2.0 TDI Combi 4x4 (Octavia, 1Z) Year of manufacture 2011 - 2012 Engine code CFHC",
+                    "Skoda Superb 2.0 TDI Combi 4x4 (Superb, 3T) Year of manufacture 2011 - 2014 Engine code CFFB, CFGB",
+                    "Skoda Superb 3.6 4x4 (Superb, 3T) Year of manufacture 2011 - 2012 Engine code CDVA",
+                    "Skoda Yeti 1.8 TSI 4x4 (Yeti, 5L) Year of manufacture 2012 - 2013 Engine code CDAB, CDAA",
+                    "Skoda Yeti 2.0 TDI 4x4 (Yeti, 5L) Year of manufacture 2010 - 2013 Engine code CFHF, CFHC, CFJA"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Syncro All Wheel Drive Unit (Haldex Gen.1)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/syncro+all+wheel+drive+unit+haldex+gen+1-53266.ts1628724461.jpg",
+        "product_link": "https://ecu.eu/skoda/others-3046/skoda/others/syncro-all-wheel-drive-unit-%28haldex-gen.1%29-6826",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/skoda/others/syncro-all-wheel-drive-unit-%28haldex-gen.1%29/skoda-02d900554b-siemens-132977.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "02D 900 554 B",
+                            "02D900554B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 1.8T 4x4 (Octavia, 1U) Year of manufacture 2002",
+                    "Skoda Octavia 1.9 TDI Combi 4x4 (Octavia, 1U) Year of manufacture 2001 Engine code ATD",
+                    "Skoda Octavia 2.0 Combi 4x4 (Octavia, 1U) Year of manufacture 2001 Engine code AZH"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/syncro-all-wheel-drive-unit-%28haldex-gen.1%29/skoda-02d900554c-siemens-ha1-133604.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "02D 900 554 C",
+                            "02D900554C"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "HA1"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 1.8T 4x4 (Octavia, 1U) Year of manufacture 2002 Engine code ARX",
+                    "Skoda Octavia 1.9 TDI Combi 4x4 (Octavia, 1U) Year of manufacture 2002 - 2003 Engine code ATD",
+                    "Skoda Octavia 2.0 Combi 4x4 (Octavia, 1U) Year of manufacture 2003 Engine code AZH"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/skoda/others/syncro-all-wheel-drive-unit-%28haldex-gen.1%29/skoda-02d900554d-siemens-152456.html",
+                "part_numbers": [
+                    {
+                        "title": "Skoda - Part number",
+                        "numbers": [
+                            "02D 900 554 D",
+                            "02D900554D"
+                        ]
+                    },
+                    {
+                        "title": "Siemens",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Skoda Octavia 1.9 TDI 4x4 (Octavia, 1U) Year of manufacture 2004 Engine code ATD"
+                ]
+            }
+        ]
+    }
+]

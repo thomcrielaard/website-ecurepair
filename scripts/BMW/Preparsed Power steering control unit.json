@@ -1,0 +1,664 @@
+[
+    {
+        "part_name": "Z4 (E85) electric power steering",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/z4+e85+electric+power+steering-400050.ts1628721091.jpg",
+        "product_link": "https://ecu.eu/bmw/power-steering-control-unit-2796/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering-6419",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-32303780730-139410.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "32 30 3 780 730",
+                            "32303780730"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-32306780728-139409.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "32 30 6 780 728",
+                            "32306780728"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW Z4 2.0i (Z4, E85) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-32306780729-139411.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "32 30 6 780 729",
+                            "32306780729"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-32306780731-139412.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "32 30 6 780 731",
+                            "32306780731"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-6763413-6762585ai01-bosch-0273010001-zf-7804974128-140616.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 763 413",
+                            "6763413"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6762585AI01"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 010 001",
+                            "0273010001"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Part number",
+                        "numbers": [
+                            "7804 974 128",
+                            "7804974128"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW Z4 2.5i (Z4, E85) Year of manufacture 2002 - 2003",
+                    "BMW Z4 3.0i (Z4, E85) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-6763764-139975.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 763 764",
+                            "6763764"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-6763764-4044013ai01-bosch-0273010010-zf-7804974152-152979.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 763 764",
+                            "6763764"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "4044013AI01"
+                        ]
+                    },
+                    {
+                        "title": "BOSCH - Part number",
+                        "numbers": [
+                            "0 273 010 010",
+                            "0273010010"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Part number",
+                        "numbers": [
+                            "7804974152"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-6763764-6766415ai01-bosch-0273010010-zf-7804974132-139285.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 763 764",
+                            "6763764"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6766415AI01"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 010 010",
+                            "0273010010"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Part number",
+                        "numbers": [
+                            "7804 974 132",
+                            "7804974132"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW Z4 2.2i (Z4, E85) Year of manufacture 2003 - 2008",
+                    "BMW Z4 2.5i (Z4, E85) Year of manufacture 2003 - 2005",
+                    "BMW Z4 3.0i (Z4, E85) Year of manufacture 2003 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-6763764-6766416ai01-bosch-0273010010-zf-7804974133-140146.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 763 764",
+                            "6763764"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6766416AI01"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 010 010",
+                            "0273010010"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Part number",
+                        "numbers": [
+                            "7804 974 133",
+                            "7804974133"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW Z4 2.2i (Z4, E85) Year of manufacture 2004",
+                    "BMW Z4 2.5i (Z4, E85) Year of manufacture 2003",
+                    "BMW Z4 3.0i (Z4, E85) Year of manufacture 2003 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-6763764-6766486ai01-bosch-0273010010-zf-7804974140-139238.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 763 764",
+                            "6763764"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6766486AI01"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 010 010",
+                            "0273010010"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Part number",
+                        "numbers": [
+                            "7804 974 140",
+                            "7804974140"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW Z4 2.0i (Z4, E85) Year of manufacture 2005 - 2007",
+                    "BMW Z4 2.2i (Z4, E85) Year of manufacture 2004 - 2005",
+                    "BMW Z4 2.5i (Z4, E85) Year of manufacture 2004 - 2007",
+                    "BMW Z4 3.0i (Z4, E85) Year of manufacture 2004 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-6763764-6766487ai01-bosch-0273010010-zf-7804277110-145203.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 763 764",
+                            "6763764"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6766487AI01"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 010 010",
+                            "0273010010"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Part number",
+                        "numbers": [
+                            "7804 277 110",
+                            "7804277110"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW Z4 2.2i (Z4, E85) Year of manufacture 2005",
+                    "BMW Z4 3.0i (Z4, E85) Year of manufacture 2004 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-6763764-6766487ai01-bosch-0273010010-zf-7804974141-153945.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 763 764",
+                            "6763764"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6766487AI01"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 010 010",
+                            "0273010010"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Part number",
+                        "numbers": [
+                            "7804 974 141",
+                            "7804974141"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW Z4 2.2i (Z4, E85) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-6763764-6773612ai01-bosch-0273010010-144451.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 763 764",
+                            "6763764"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6773612AI01"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 010 010",
+                            "0273010010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW Z4 2.5i (Z4, E85) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-6765161-bosch-0273010011-zf-7804277111-144703.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW",
+                        "numbers": []
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 765 161",
+                            "6765161"
+                        ]
+                    },
+                    {
+                        "title": "BOSCH - Part number",
+                        "numbers": [
+                            "0 273 010 011",
+                            "0273010011"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Part number",
+                        "numbers": [
+                            "7804 277 111",
+                            "7804277111"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW Z4 2.5i (Z4, E85) Year of manufacture 2003",
+                    "BMW Z4 3.0i (Z4, E85) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-6774539-6777327ai01-bosch-0273010052-zf-7804974160-147382.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 774 539",
+                            "6774539"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6777327AI01"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 010 052",
+                            "0273010052"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Part number",
+                        "numbers": [
+                            "7804 974 160",
+                            "7804974160"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW Z4 2.0i (Z4, E85) Year of manufacture 2007",
+                    "BMW Z4 2.2i (Z4, E85) Year of manufacture 2004",
+                    "BMW Z4 3.0i (Z4, E85) Year of manufacture 2006",
+                    "BMW Z4 3.0si (Z4, E85) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/power-steering-control-unit/z4-%28e85%29-electric-power-steering/bmw-6777246-145291.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 777 246",
+                            "6777246"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "In error case there is no communication with the power steering control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Power steering intermittent or permanent function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

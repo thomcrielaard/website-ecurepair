@@ -1,0 +1,618 @@
+[
+    {
+        "part_name": "Auxiliary heater Eberspächer Hydronic D5WS/Z",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/auxiliary+heater+eberspaecher+hydronic+d5ws+z-148657.ts1628719110.jpg",
+        "product_link": "https://ecu.eu/renault/heating-ac-5340/renault/heating-ac/auxiliary-heater-ebersp%C3%A4cher-hydronic-d5ws-z-5504",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/auxiliary-heater-ebersp%C3%A4cher-hydronic-d5ws-z/renault-8200322379-ebersp%C3%A4cher-123228.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200322379"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1448",
+                        "fault_description": "fan motor signal out of range"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/auxiliary-heater-ebersp%C3%A4cher-hydronic-d5ws-z/renault-8200500397-ebersp%C3%A4cher-25215402-225201024001-hella-5hb00817410-121503.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200500397"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Part number",
+                        "numbers": [
+                            "25 2154 02",
+                            "25215402"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "5HB 008 174-10",
+                            "5HB00817410"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Part number",
+                        "numbers": [
+                            "22 5201 02 40 01",
+                            "225201024001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1448",
+                        "fault_description": "fan motor signal out of range"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Trafic 2.0 dCi (Trafic II, L (X83)) Year of manufacture 2007 - 2014",
+                    "RENAULT Trafic 2.5 dCi (Trafic II, L (X83)) Year of manufacture 2007 - 2012"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Kadjar Control panel automatic air conditioning",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/kadjar+control+panel+automatic+air+conditioning-526256.ts1629957368.jpg",
+        "product_link": "https://ecu.eu/renault/heating-ac-5340/renault/heating-ac/kadjar-control-panel-automatic-air-conditioning-6722",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/kadjar-control-panel-automatic-air-conditioning/renault-275105707r-valeo-t95006a-140665.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "27510-5707R",
+                            "275105707R"
+                        ]
+                    },
+                    {
+                        "title": "Valeo - Part number",
+                        "numbers": [
+                            "T95006A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Laguna II / Vel Satis air conditioning control panel",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/laguna+ii+vel+satis+air+conditioning+control+panel-1051396.ts1654857173.jpg",
+        "product_link": "https://ecu.eu/renault/heating-ac-5340/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel-5341",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200001901c-delphi-52485201-736.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200001901-C",
+                            "8200001901C"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "52485201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Laguna Grandtour 1.8 16V (Laguna II, G (X74)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200181132-delphi-52485201-220.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200181132"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "52485201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Laguna 1.8 16V (Laguna II, G (X74)) Year of manufacture 2001 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200181132a-delphi-52485201-125071.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200181132 A",
+                            "8200181132A"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "52485201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Laguna 1.8 16V (Laguna II, G (X74)) Year of manufacture 2002",
+                    "RENAULT Laguna 2.2 dCi (Laguna II, G (X74)) Year of manufacture 2002",
+                    "RENAULT Laguna Grandtour 1.8 16V (Laguna II, G (X74)) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200264424b-delphi-5248520109-735.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200264424-B",
+                            "8200264424B"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "52485201-09",
+                            "5248520109"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Laguna 1.8 16V (Laguna II, G (X74)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200264425-delphi-5248891807-733.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200264425"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "52488918-07",
+                            "5248891807"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Vel Satis 3.5 V6 (Vel Satis, BJ (X73)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200264425a-delphi-5248891808-124678.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200264425-A",
+                            "8200264425A"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "52488918-08",
+                            "5248891808"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT (Vel Satis, BJ (X73)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200264425c-delphi-5248891810-117950.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200264425-C",
+                            "8200264425C"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "52488918-10",
+                            "5248891810"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Laguna 1.8 16V (Laguna II, G (X74)) Year of manufacture 2004",
+                    "RENAULT Laguna 2.0 16V (Laguna II, G (X74)) Year of manufacture 2004",
+                    "RENAULT Laguna Grandtour 1.9 dCi (Laguna II, G (X74)) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200264425d-delphi-117949.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200264425-D",
+                            "8200264425D"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Laguna 1.8 16V (Laguna II, G (X74)) Year of manufacture 2004 - 2005",
+                    "RENAULT Laguna Grandtour 1.8 16V (Laguna II, G (X74)) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200264429-delphi-52485201-734.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200264429"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "52485201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Laguna Grandtour 1.8 16V (Laguna II, G (X74)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200371295-delphi-123352.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200371295"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT (Laguna II, G (X74)) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200487008-delphi-5241336201-117948.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200487008"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "52413362-01",
+                            "5241336201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Laguna 2.0 16V (Laguna II, G (X74)) Year of manufacture 2005",
+                    "RENAULT Laguna Grandtour 3.0 V6 (Laguna II, G (X74)) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200575240-delphi-5241653003-133599.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200575240"
+                        ]
+                    },
+                    {
+                        "title": "RENAULT",
+                        "numbers": []
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "52416530-03",
+                            "5241653003"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Laguna Grandtour 2.0 IDE (Laguna II, G (X74)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200575240-delphi-5241981701-130451.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200575240"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "52419817-01",
+                            "5241981701"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Laguna 2.0 16V (Laguna II, G (X74)) Year of manufacture 2005 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/heating-ac/laguna-ii-vel-satis-air-conditioning-control-panel/renault-8200575240-delphi-5241981703-117947.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200575240"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "52419817-03",
+                            "5241981703"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "58",
+                        "fault_description": "(DF030) Activation Air conditioning compressor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display illumination flickers or fails"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

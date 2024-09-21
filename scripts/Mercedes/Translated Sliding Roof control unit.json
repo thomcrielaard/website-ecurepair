@@ -1,0 +1,127 @@
+[
+    {
+        "part_name": "EUR.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/mercedes+1298200097+becker+09090589731898-1984.ts1628711307.jpg",
+        "product_link": "https://ecu.eu/mercedes/sliding-roof-control-unit-4045",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/sliding-roof-control-unit/mercedes-1298200097-becker-09090589731898-104506.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "129 820 00 97",
+                            "1298200097"
+                        ]
+                    },
+                    {
+                        "title": "Becker - Onderdeelnummer",
+                        "numbers": [
+                            "0909 0589 731-898",
+                            "09090589731898"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Schuifdak buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Schuifdakschakelaar knippert alleen, geen functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Niet diagnoseerbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 300SL (SL-Klasse, 129) Bouwjaar 1989 - 1996 Motorcode 103.984",
+                    "Mercedes 300SL-24 (SL-Klasse, 129) Bouwjaar 1989 - 1996",
+                    "Mercedes 500SL (SL-Klasse, 129) Motorcode 119.960",
+                    "Mercedes SL500 (SL-Klasse, 129) Bouwjaar 1991 - 1994 Motorcode 119.972",
+                    "Mercedes SL600 (SL-Klasse, 129) Bouwjaar 1993 - 2000 Motorcode 120.981"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/sliding-roof-control-unit/mercedes-1298200097-becker-09090589731898-125396.html",
+                "part_numbers": [],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Schuifdak buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Schuifdakschakelaar knippert alleen, geen functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Niet diagnoseerbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 300SL (SL-Klasse, 129) Bouwjaar 1989 - 1996 Motorcode 103.984",
+                    "Mercedes 300SL-24 (SL-Klasse, 129) Bouwjaar 1989 - 1996",
+                    "Mercedes 500SL (SL-Klasse, 129) Motorcode 119.960",
+                    "Mercedes SL500 (SL-Klasse, 129) Bouwjaar 1991 - 1994 Motorcode 119.972",
+                    "Mercedes SL600 (SL-Klasse, 129) Bouwjaar 1993 - 2000 Motorcode 120.981"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/sliding-roof-control-unit/mercedes-1298202426-temic-09091165801898-104507.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "129 820 24 26",
+                            "1298202426"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "0909 1165.801-898",
+                            "09091165801898"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Schuifdak buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Schuifdakschakelaar knippert alleen, geen functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Niet diagnoseerbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 300SL (SL-Klasse, 129) Bouwjaar 1993",
+                    "Mercedes 300SL-24 (SL-Klasse, 129) Bouwjaar 1991 - 1993 Motorcode 104.981",
+                    "Mercedes SL280 (SL-Klasse, 129) Bouwjaar 1993 - 1994 Motorcode 104.943",
+                    "Mercedes SL320 (SL-Klasse, 129) Bouwjaar 1993 - 1998 Motorcode 104.991",
+                    "Mercedes SL500 (SL-Klasse, 129) Bouwjaar 1989 - 1994",
+                    "Mercedes SL600 (SL-Klasse, 129) Bouwjaar 1993 Motorcode 120.981"
+                ]
+            }
+        ]
+    }
+]

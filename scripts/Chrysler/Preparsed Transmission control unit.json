@@ -1,0 +1,121 @@
+[
+    {
+        "part_name": "Contact plate with speed sensors 5-speed automatic (722.6)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/contact+plate+with+speed+sensors+5+speed+automatic+722+6-313628.ts1628715350.jpg",
+        "product_link": "https://ecu.eu/chrysler/transmission-control-unit-2848/chrysler/transmission-control-unit/contact-plate-with-speed-sensors-5-speed-automatic-%28722.6%29-6067",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chrysler/transmission-control-unit/contact-plate-with-speed-sensors-5-speed-automatic-%28722.6%29/chrysler-1402701161-133231.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "140 270 11 61",
+                            "1402701161"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "13",
+                        "fault_description": "Speed sensor N3"
+                    },
+                    {
+                        "fault_code": "109",
+                        "fault_description": "Speed sensor N3"
+                    },
+                    {
+                        "fault_code": "P2200",
+                        "fault_description": "(Gutmann 8704) Y§/6n2 Speed sensor 2 - faulty"
+                    },
+                    {
+                        "fault_code": "P2203",
+                        "fault_description": "(Gutmann 8707) Y3/6n3 Speed sensor 3 - faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER 300C 3.0 CRD Touring"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Control unit 5-speed automatic (722.6)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+unit+5+speed+automatic+722+6-108687.ts1628718946.jpg",
+        "product_link": "https://ecu.eu/chrysler/transmission-control-unit-2848/chrysler/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29-6375",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chrysler/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29/chrysler-p05150186ag-siemens-5wp20104abk-138731.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P05150186AG"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20104ABK"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0743",
+                        "fault_description": "Solenoid valve converter lock-up clutch Y3/6y6 - electrical fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER 300C 3.0 CRD Year of manufacture 2006 - 2009 Engine code EXL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/transmission-control-unit/control-unit-5-speed-automatic-%28722.6%29/chrysler-p05150240ab-siemens-5wp20125ack-140150.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P05150240AB"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20125ACK"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0743",
+                        "fault_description": "Solenoid valve converter lock-up clutch Y3/6y6 - electrical fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER 300C 3.0 CRD Touring Year of manufacture 2008 - 2009 Engine code EXL"
+                ]
+            }
+        ]
+    }
+]

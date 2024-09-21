@@ -1,0 +1,147 @@
+[
+    {
+        "part_name": "EUR",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/proton+md192514+mitsubishi+electric+e2t39773-852.ts1628722661.jpg",
+        "product_link": "https://ecu.eu/proton/engine-control-unit-68",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/proton/engine-control-unit/proton-md192514-mitsubishi-electric-e2t39773-123.html",
+                "part_numbers": [
+                    {
+                        "title": "PROTON - Part number",
+                        "numbers": [
+                            "MD192514"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T39773"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/proton/engine-control-unit/proton-md325253-mitsubishi-electric-e2t39781-316.html",
+                "part_numbers": [
+                    {
+                        "title": "PROTON - Part number",
+                        "numbers": [
+                            "MD325253"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T39781"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/proton/engine-control-unit/proton-md325254-mitsubishi-electric-e2t39782-320.html",
+                "part_numbers": [
+                    {
+                        "title": "PROTON - Part number",
+                        "numbers": [
+                            "MD325254"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T39782"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/proton/engine-control-unit/proton-md326500-mitsubishi-electric-319.html",
+                "part_numbers": [
+                    {
+                        "title": "PROTON - Part number",
+                        "numbers": [
+                            "MD326500"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/proton/engine-control-unit/proton-pw550457-mitsubishi-electric-e2t39795-118527.html",
+                "part_numbers": [
+                    {
+                        "title": "PROTON - Part number",
+                        "numbers": [
+                            "PW550457"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T39795"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

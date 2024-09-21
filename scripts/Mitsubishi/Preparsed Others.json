@@ -1,0 +1,421 @@
+[
+    {
+        "part_name": "ECS running gear control",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ecs+running+gear+control-2981.ts1628718743.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/others-194/mitsubishi/others/ecs-running-gear-control-4235",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/others/ecs-running-gear-control/mitsubishi-mb529547-mitsubishi-electric-x4t61172-124653.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB529547"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "X4T61172"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/others/ecs-running-gear-control/mitsubishi-mb627111-mitsubishi-electric-x4t61272-105684.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB627111"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "X4T61272"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Sigma 3.0i 24V (Sigma, F10) Year of manufacture 1991"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/others/ecs-running-gear-control/mitsubishi-mb666715-mitsubishi-electric-x4t61175-124652.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB666715"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "X4T61175"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Galant 2.0i 4WD (Galant, E30) Year of manufacture 1989",
+                    "Mitsubishi Galant 2.0i (Galant, E30) Year of manufacture 1992"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/others/ecs-running-gear-control/mitsubishi-mb921831-mitsubishi-electric-x4t61275m-105683.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB921831"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "X4T61275M"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Sigma 3.0i 24V (Sigma, F10) Year of manufacture 1992"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/others/ecs-running-gear-control/mitsubishi-mb921832-mitsubishi-electric-x4t61276m-105686.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB921832"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "X4T61276M"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/others/ecs-running-gear-control/mitsubishi-mb954893-mitsubishi-electric-x4t61278m-121142.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB954893"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "X4T61278M"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Fuel Injector Driver",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/fuel+injector+driver-817.ts1628722661.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/others-194/fuel-injector-driver-23",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/fuel-injector-driver/mitsubishi-md340897-mitsubishi-electric-e8t11173-717.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MD340897"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E8T11173"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Defective input signal for injectors"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Carisma 1.8 GDI (Carisma, DA0) Year of manufacture 1997 - 2004",
+                    "Mitsubishi Galant 2.4 GDI (Galant, EA0) Year of manufacture 2000 - 2002",
+                    "Mitsubishi Pajero Pinin 1.8 GDI (Pajero Pinin, H60) Year of manufacture 2000 - 2001",
+                    "Mitsubishi Pajero Pinin 2.0 GDI (Pajero Pinin, H60) Year of manufacture 2003",
+                    "Mitsubishi Space Runner 2.4 GDI (Space Runner, N50) Year of manufacture 2001",
+                    "Mitsubishi Space Star 1.8 GDI (Space Star, DG0) Year of manufacture 1999 - 2002",
+                    "Mitsubishi Space Wagon 2.4 GDI (Space Wagon, N80) Year of manufacture 1998 - 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/fuel-injector-driver/mitsubishi-md346802-mitsubishi-electric-e8t10872-121223.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MD346802"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E8T10872"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Defective input signal for injectors"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Pajero 3.5 GDI V6-24V (Pajero, V60) Year of manufacture 2000 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/fuel-injector-driver/mitsubishi-mr507766-mitsubishi-electric-e8t11671-154.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR507766"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E8T11671"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Defective input signal for injectors"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Pajero Pinin 2.0 GDI (Pajero Pinin, H60) Year of manufacture 2001 - 2005",
+                    "Mitsubishi Space Wagon 2.4 GDI (Space Wagon, N80) Year of manufacture 2003 - 2004"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Traction control unit (TCL)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/traction+control+unit+tcl-1949.ts1628711305.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/others-194/mitsubishi/others/traction-control-unit-%28tcl%29-3978",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/others/traction-control-unit-%28tcl%29/mitsubishi-mb842062-mitsubishi-electric-x4t70371-165.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB842062"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "X4T70371"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Sigma 3.0i 24V (Sigma, F10) Year of manufacture 1992 - 1993"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/others/traction-control-unit-%28tcl%29/mitsubishi-mb863294-mitsubishi-electric-x4t70771-166.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB863294"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "X4T70771"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/others/traction-control-unit-%28tcl%29/mitsubishi-mb942236-mitsubishi-electric-x4t70773-164.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB942236"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "X4T70773"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/others/traction-control-unit-%28tcl%29/mitsubishi-mr172264-mitsubishi-electric-x4t70775-163.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR172264"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "X4T70775"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Turbo-charger actuator",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/others-194/mitsubishi/others/turbo-charger-actuator-4788",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/others/turbo-charger-actuator/mitsubishi-6nw009483-hella-761963-111206.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "6NW 009 483",
+                            "6NW009483"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "761963"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

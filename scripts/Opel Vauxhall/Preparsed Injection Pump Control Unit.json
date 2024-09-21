@@ -1,0 +1,730 @@
+[
+    {
+        "part_name": "Injection Pump ecu PSG5 (VP44)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/injection+pump+ecu+psg5+vp44-401.ts1628718729.jpg",
+        "product_link": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit-116/opel-vauxhall/injection-pump-control-unit/injection-pump-ecu-psg5-%28vp44%29-4148",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/injection-pump-ecu-psg5-%28vp44%29/opel-0470004003-bosch-0281001827-105299.html",
+                "part_numbers": [
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "0470004003"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 827",
+                            "0281001827"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1630",
+                        "fault_description": "Flow control valve, Replace injection pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine stops while driving and doesn't start again"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/injection-pump-ecu-psg5-%28vp44%29/opel-0470504004-bosch-0281001827-105302.html",
+                "part_numbers": [
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "0470504004"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 827",
+                            "0281001827"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1630",
+                        "fault_description": "Flow control valve, Replace injection pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine stops while driving and doesn't start again"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/injection-pump-ecu-psg5-%28vp44%29/opel-470504004-bosch-0281001371-105304.html",
+                "part_numbers": [
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "470504004"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 371",
+                            "0281001371"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1630",
+                        "fault_description": "Flow control valve, Replace injection pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine stops while driving and doesn't start again"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/injection-pump-ecu-psg5-%28vp44%29/opel-psg5-bosch-0281001371-105301.html",
+                "part_numbers": [
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 371",
+                            "0281001371"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1630",
+                        "fault_description": "Flow control valve, Replace injection pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine stops while driving and doesn't start again"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Astra 1.7 DTI (Astra, G) Engine code X17DTL",
+                    "OPEL Astra 2.0 DTI (Astra, G) Year of manufacture 1999 Engine code X20DTL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/injection-pump-ecu-psg5-%28vp44%29/opel-psg5-bosch-0281001740-105298.html",
+                "part_numbers": [
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 740",
+                            "0281001740"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1630",
+                        "fault_description": "Flow control valve, Replace injection pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine stops while driving and doesn't start again"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Astra 2.0 DTI (Astra, G) Year of manufacture 1999 - 2000 Engine code X20DTL, Y20DTH",
+                    "OPEL Vectra 2.0 DI Caravan (Vectra, B) Engine code X20DTL",
+                    "OPEL Vectra 2.0 DI (Vectra, B) Engine code X20DTL",
+                    "OPEL Vectra 2.0 DTI Caravan (Vectra, B) Year of manufacture 1999 - 2001 Engine code X20DTH",
+                    "OPEL Zafira 2.0 DTI (Zafira, A) Year of manufacture 1999 Engine code X20DTL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/injection-pump-ecu-psg5-%28vp44%29/opel-psg5-bosch-0281001827-105300.html",
+                "part_numbers": [
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 827",
+                            "0281001827"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1630",
+                        "fault_description": "Flow control valve, Replace injection pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine stops while driving and doesn't start again"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Astra 1.7 DTI Caravan (Astra, G) Engine code X17DTL",
+                    "OPEL Astra 2.0 DTI (Astra, G) Year of manufacture 1998 Engine code X20DTL",
+                    "OPEL Frontera 2.2 DTI (Frontera, B) Year of manufacture 1999 - 2000 Engine code X20DTH"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/injection-pump-ecu-psg5-%28vp44%29/opel-psg5-bosch-0281010479-105303.html",
+                "part_numbers": [
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 010 479",
+                            "0281010479"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1630",
+                        "fault_description": "Flow control valve, Replace injection pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine stops while driving and doesn't start again"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Astra 2.0 DTI (Astra, G) Year of manufacture 2000 - 2002 Engine code Y20DTH",
+                    "OPEL Omega 2.2 DTI Caravan (Omega, B) Year of manufacture 2001 Engine code Y22DTH",
+                    "OPEL Omega 2.2 DTI (Omega, B) Year of manufacture 2001 Engine code Y22DTH",
+                    "OPEL Vectra 2.0 DTI (Vectra, B) Year of manufacture 2001 Engine code Y20DTH",
+                    "OPEL Vectra 2.2 DTI Caravan (Vectra, B) Year of manufacture 2002 Engine code Y22DTR",
+                    "OPEL Vectra 2.2 DTI (Vectra, B) Year of manufacture 2001 Engine code Y22DTR",
+                    "OPEL Zafira 2.0 DTI (Zafira, A) Engine code Y20DTH"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/injection-pump-ecu-psg5-%28vp44%29/opel-psg5-bosch-0281010480-105306.html",
+                "part_numbers": [
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "PSG5",
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 010 480",
+                            "0281010480"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1630",
+                        "fault_description": "Flow control valve, Replace injection pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine stops while driving and doesn't start again"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Frontera 2.2 DTI (Frontera, B) Year of manufacture 2001 - 2002 Engine code X20DTH"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/injection-pump-ecu-psg5-%28vp44%29/opel-psg5-bosch-0281010888-105307.html",
+                "part_numbers": [
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 010 888",
+                            "0281010888"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1630",
+                        "fault_description": "Flow control valve, Replace injection pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine stops while driving and doesn't start again"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Astra 1.7 DTI (Astra, G) Year of manufacture 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/injection-pump-ecu-psg5-%28vp44%29/opel-psg5-bosch-0281010889-105305.html",
+                "part_numbers": [
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 010 889",
+                            "0281010889"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1630",
+                        "fault_description": "Flow control valve, Replace injection pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine stops while driving and doesn't start again"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Omega 2.2 DTI Caravan (Omega, B) Year of manufacture 2001 - 2003 Engine code Y22DTH",
+                    "OPEL Vectra 2.2 DTI Caravan (Vectra, B) Engine code Y22DTR",
+                    "OPEL Zafira 2.0 DTI (Zafira, A) Year of manufacture 2002 - 2003 Engine code Y20DTH"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Pump control unit Y17DT/L",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/pump+control+unit+y17dt+l-814.ts1628722661.jpg",
+        "product_link": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit-116/opel-vauxhall/injection-pump-control-unit/pump-control-unit-y17dt-l-4147",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/pump-control-unit-y17dt-l/isuzu-8971891360-opel-6237108-gm-97189136-delphi-16267710-1597.html",
+                "part_numbers": [
+                    {
+                        "title": "ISUZU - Part number",
+                        "numbers": [
+                            "8971891360"
+                        ]
+                    },
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "62 37 108",
+                            "6237108"
+                        ]
+                    },
+                    {
+                        "title": "GM - Part number",
+                        "numbers": [
+                            "97189136"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "16267710"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0251",
+                        "fault_description": "Overflow valve malfunction (injection pump)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Astra 1.7 DTI (Astra, G) Engine code Y17DT",
+                    "OPEL Astra 1.7 DTI Caravan (Astra, G) Year of manufacture 2000 - 2006 Engine code Y17DT",
+                    "OPEL Combo 1.7 DI (Combo, C) Year of manufacture 202 - 2005 Engine code Y17DTL",
+                    "OPEL Combo 1.7 DTI (Combo, C) Engine code Y17DT",
+                    "OPEL Corsa 1.7 DI (Corsa, C) Year of manufacture 2000 - 2004 Engine code Y17DTL",
+                    "OPEL Corsa 1.7 DTI (Corsa, C) Year of manufacture 2000 - 2004 Engine code Y17DT",
+                    "OPEL Meriva 1.7 DTI (Meriva, A) Year of manufacture 2003 - 2005 Engine code Y17DT"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/pump-control-unit-y17dt-l/isuzu-8971891361-opel-6237108-gm-97189136-delphi-16267710-246.html",
+                "part_numbers": [
+                    {
+                        "title": "ISUZU - Part number",
+                        "numbers": [
+                            "8971891361"
+                        ]
+                    },
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "62 37 108",
+                            "6237108"
+                        ]
+                    },
+                    {
+                        "title": "GM - Part number",
+                        "numbers": [
+                            "97189136"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "16267710"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0251",
+                        "fault_description": "Overflow valve malfunction (injection pump)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Astra 1.7 DTI (Astra, G) Engine code Y17DT",
+                    "OPEL Astra 1.7 DTI Caravan (Astra, G) Year of manufacture 2000 - 2006 Engine code Y17DT",
+                    "OPEL Combo 1.7 DI (Combo, C) Year of manufacture 202 - 2005 Engine code Y17DTL",
+                    "OPEL Combo 1.7 DTI (Combo, C) Engine code Y17DT",
+                    "OPEL Corsa 1.7 DI (Corsa, C) Year of manufacture 2000 - 2004 Engine code Y17DTL",
+                    "OPEL Corsa 1.7 DTI (Corsa, C) Year of manufacture 2000 - 2004 Engine code Y17DT",
+                    "OPEL Meriva 1.7 DTI (Meriva, A) Year of manufacture 2003 - 2005 Engine code Y17DT"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/pump-control-unit-y17dt-l/isuzu-8971891361-opel-6237108-gm-97189136-delphi-16267710-119114.html",
+                "part_numbers": [],
+                "faults": [
+                    {
+                        "fault_code": "P0251",
+                        "fault_description": "Overflow valve malfunction (injection pump)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Astra 1.7 DTI (Astra, G) Engine code Y17DT",
+                    "OPEL Astra 1.7 DTI Caravan (Astra, G) Year of manufacture 2000 - 2006 Engine code Y17DT",
+                    "OPEL Combo 1.7 DI (Combo, C) Year of manufacture 202 - 2005 Engine code Y17DTL",
+                    "OPEL Combo 1.7 DTI (Combo, C) Engine code Y17DT",
+                    "OPEL Corsa 1.7 DI (Corsa, C) Year of manufacture 2000 - 2004 Engine code Y17DTL",
+                    "OPEL Corsa 1.7 DTI (Corsa, C) Year of manufacture 2000 - 2004 Engine code Y17DT",
+                    "OPEL Meriva 1.7 DTI (Meriva, A) Year of manufacture 2003 - 2005 Engine code Y17DT"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/pump-control-unit-y17dt-l/isuzu-8971891362-opel-6237108-gm-97189136-delphi-16267710-2139.html",
+                "part_numbers": [
+                    {
+                        "title": "ISUZU - Part number",
+                        "numbers": [
+                            "8971891362"
+                        ]
+                    },
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "62 37 108",
+                            "6237108"
+                        ]
+                    },
+                    {
+                        "title": "GM - Part number",
+                        "numbers": [
+                            "97189136"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "16267710"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0251",
+                        "fault_description": "Overflow valve malfunction (injection pump)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Astra 1.7 DTI (Astra, G) Engine code Y17DT",
+                    "OPEL Astra 1.7 DTI Caravan (Astra, G) Year of manufacture 2000 - 2006 Engine code Y17DT",
+                    "OPEL Combo 1.7 DI (Combo, C) Year of manufacture 202 - 2005 Engine code Y17DTL",
+                    "OPEL Combo 1.7 DTI (Combo, C) Engine code Y17DT",
+                    "OPEL Corsa 1.7 DI (Corsa, C) Year of manufacture 2000 - 2004 Engine code Y17DTL",
+                    "OPEL Corsa 1.7 DTI (Corsa, C) Year of manufacture 2000 - 2004 Engine code Y17DT",
+                    "OPEL Meriva 1.7 DTI (Meriva, A) Year of manufacture 2003 - 2005 Engine code Y17DT"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/pump-control-unit-y17dt-l/isuzu-8971891363-opel-6237108-gm-97189136-delphi-16267710-2140.html",
+                "part_numbers": [
+                    {
+                        "title": "ISUZU - Part number",
+                        "numbers": [
+                            "8971891363"
+                        ]
+                    },
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "62 37 108",
+                            "6237108"
+                        ]
+                    },
+                    {
+                        "title": "GM - Part number",
+                        "numbers": [
+                            "97189136"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "16267710"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0251",
+                        "fault_description": "Overflow valve malfunction (injection pump)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Astra 1.7 DTI (Astra, G) Engine code Y17DT",
+                    "OPEL Astra 1.7 DTI Caravan (Astra, G) Year of manufacture 2000 - 2006 Engine code Y17DT",
+                    "OPEL Combo 1.7 DI (Combo, C) Year of manufacture 202 - 2005 Engine code Y17DTL",
+                    "OPEL Combo 1.7 DTI (Combo, C) Engine code Y17DT",
+                    "OPEL Corsa 1.7 DI (Corsa, C) Year of manufacture 2000 - 2004 Engine code Y17DTL",
+                    "OPEL Corsa 1.7 DTI (Corsa, C) Year of manufacture 2000 - 2004 Engine code Y17DT",
+                    "OPEL Meriva 1.7 DTI (Meriva, A) Year of manufacture 2003 - 2005 Engine code Y17DT"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/pump-control-unit-y17dt-l/isuzu-8982931580-opel-1249102-gm-98293158-delphi-28353446-117120.html",
+                "part_numbers": [
+                    {
+                        "title": "ISUZU - Part number",
+                        "numbers": [
+                            "8982931580"
+                        ]
+                    },
+                    {
+                        "title": "OPEL - Part number",
+                        "numbers": [
+                            "12 49 102",
+                            "1249102"
+                        ]
+                    },
+                    {
+                        "title": "GM - Part number",
+                        "numbers": [
+                            "98293158"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "28353446"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0251",
+                        "fault_description": "Overflow valve malfunction (injection pump)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Pump ecu PSG16",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/pump+ecu+psg16-186421.ts1628719427.jpg",
+        "product_link": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit-116/opel-vauxhall/injection-pump-control-unit/pump-ecu-psg16-5737",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/pump-ecu-psg16/opel-bosch-0281010717-119819.html",
+                "part_numbers": [
+                    {
+                        "title": "OPEL",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 010 717",
+                            "0281010717"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0243",
+                        "fault_description": "boost pressure - solenoid interruption"
+                    },
+                    {
+                        "fault_code": "P0340",
+                        "fault_description": "Cam shaft sensor no/ faulty signal"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "engine control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Vectra 2.2 DTI Caravan (Vectra, C) Engine code Y22DTR",
+                    "OPEL Vectra 2.2 DTI GTS (Vectra, C) Year of manufacture 2002 - 2003 Engine code Y22DTR",
+                    "OPEL Vectra 2.2 DTI (Vectra, C) Year of manufacture 2002 - 2003 Engine code Y22DTR",
+                    "OPEL Zafira 2.2 DTI (Zafira, A) Year of manufacture 2001 - 2002 Engine code Y22DTR"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/injection-pump-control-unit/pump-ecu-psg16/opel-bosch-0281011055-119654.html",
+                "part_numbers": [
+                    {
+                        "title": "OPEL",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 011 055",
+                            "0281011055"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0243",
+                        "fault_description": "boost pressure - solenoid interruption"
+                    },
+                    {
+                        "fault_code": "P0340",
+                        "fault_description": "Cam shaft sensor no/ faulty signal"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "engine control unit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "OPEL Astra 1.6 Caravan (Astra, G) Engine code Y22DTR",
+                    "OPEL Astra 2.0 DTI (Astra, G) Year of manufacture 2003 - 2004 Engine code Y20DTH",
+                    "OPEL Astra 2.2 DTI (Astra, G) Engine code Y22DTR",
+                    "OPEL Astra 2.2 DTI Cabrio (Astra, G) Year of manufacture 2003 Engine code Y22DTR",
+                    "OPEL Frontera 2.2 DTI (Frontera, B) Year of manufacture 2002 - 2004 Engine code Y20DTH",
+                    "OPEL Signum 2.2 DTI (Signum, A) Year of manufacture 2003 - 2005 Engine code Y22DTR",
+                    "OPEL Vectra 2.0 DTI Caravan (Vectra, C) Engine code Y20DTH",
+                    "OPEL Vectra 2.2 DTI Caravan (Vectra, C) Year of manufacture 2004 - 2005 Engine code Y22DTR",
+                    "OPEL Vectra 2.2 DTI GTS (Vectra, C) Engine code Y22DTR",
+                    "OPEL Zafira 2.0 DTI (Zafira, A) Year of manufacture 2003 - 2004 Engine code Y20DTH",
+                    "OPEL Zafira 2.2 DTI (Zafira, A) Engine code Y22DTR"
+                ]
+            }
+        ]
+    }
+]

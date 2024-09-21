@@ -1,0 +1,76 @@
+[
+    {
+        "part_name": "Turbo-oplader actuator.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+        "product_link": "https://ecu.eu/jaguar/others-4094/jaguar/others/turbo-charger-actuator-4095",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/others/turbo-charger-actuator/jaguar-6nw008412-hella-712120-104900.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "6NW 008 412",
+                            "6NW008412"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "712120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tijdelijke problemen met de laaddrukregeling – foutcode met betrekking tot de laaddrukregeling, voertuig heeft vermogensverlies, motorcontrolelampje brandt, na aan- en uitzetten van de ontsteking werkt de motor weer normaal – tot de volgende fout optreedt."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar S-Type 2.7 D (X200)",
+                    "Jaguar X-Type 2.0D Estate (X400) Bouwjaar 2007",
+                    "Jaguar X-Type 2.0D (X400) Bouwjaar 2005 - 2006",
+                    "Jaguar X-Type 2.2D Estate (X400)",
+                    "Jaguar X-Type 2.2D (X400)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/others/turbo-charger-actuator/jaguar-6nw009206-hella-752406-108231.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "6NW 009 206",
+                            "6NW009206"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "752406"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tijdelijke problemen met de laaddrukregeling – foutcode met betrekking tot de laaddrukregeling, voertuig heeft vermogensverlies, motorcontrolelampje brandt, na aan- en uitzetten van de ontsteking werkt de motor weer normaal – tot de volgende fout optreedt."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar S-Type 2.7 D (X200) Bouwjaar 2006 - 2008",
+                    "Jaguar XJ6 2.7 D V6 (X350) Bouwjaar 2008"
+                ]
+            }
+        ]
+    }
+]

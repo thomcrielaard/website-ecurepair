@@ -1,0 +1,3569 @@
+[
+    {
+        "part_name": "All-wheel drive control Haldex",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/all+wheel+drive+control+haldex-248519.ts1628714081.jpg",
+        "product_link": "https://ecu.eu/bmw/others-2798/bmw/others/all-wheel-drive-control-haldex-7298",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw/others/all-wheel-drive-control-haldex/bmw-33148692605-8692605-153166.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "3314 8692605",
+                            "33148692605"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "8692605"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/all-wheel-drive-control-haldex/bmw-3314947003701-9570037-153165.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "3314 9470037-01",
+                            "3314947003701"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "9570037"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 120d xDrive (1er Reihe, F40) Engine code B47D20A",
+                    "BMW 220d Gran Coupe xDrive (2er Reihe, F44) Engine code B47D20A",
+                    "BMW 220d Gran Tourer xDrive (2er Reihe, F46) Engine code B47C20A",
+                    "BMW X1 xDrive 20d (X1, F48) Engine code B47C20A",
+                    "BMW X2 xDrive20d (X2, F39) Engine code B47C20A"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "BMW LCM Loewe",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/bmw+lcm+loewe-391714.ts1628716815.jpg",
+        "product_link": "https://ecu.eu/bmw/others-2798/bmw/others/bmw-lcm-loewe-4266",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-61358370875-loewe-141217.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-8 370 875",
+                            "61358370875"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-61358372117-bmw-61358372117-135206.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-8 372 117",
+                            "61358372117"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-8 372 117",
+                            "61358372117"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 520i (5er Reihe, E39) Year of manufacture 1996",
+                    "BMW 523i (5er Reihe, E39) Year of manufacture 1996"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-61358372875-loewe-110136.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-8 372 875",
+                            "61358372875"
+                        ]
+                    },
+                    {
+                        "title": "BMW",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 520i (5er Reihe, E39) Year of manufacture 1996 - 1997",
+                    "BMW 523i (5er Reihe, E39) Year of manufacture 1996 - 1998",
+                    "BMW 523i Touring (5er Reihe, E39) Year of manufacture 1997",
+                    "BMW 525tds Touring (5er Reihe, E39) Year of manufacture 1997"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-6909508-61356909508-loewe-105945.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 909 508",
+                            "6909508"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 909 508",
+                            "61356909508"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-6915922-61356915922-loewe-105946.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 915 922",
+                            "6915922"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 915 922",
+                            "61356915922"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-6932559-61356932559-loewe-105947.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 932 559",
+                            "6932559"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 932 559",
+                            "61356932559"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 530d Touring (5er Reihe, E39) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-6942692-61356942692-loewe-105942.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 942 692",
+                            "6942692"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 942 692",
+                            "61356942692"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-6942695-61356942695-loewe-105943.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 942 695",
+                            "6942695"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 942 695",
+                            "61356942695"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-6942696-61356942696-loewe-105950.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 942 696",
+                            "6942696"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 942 696",
+                            "61356942696"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-83525225-loewe-150633.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "8 3525 225",
+                            "83525225"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-8370874-61358370874-loewe-086337050-105939.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "8 370 874",
+                            "8370874"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-8 370 874",
+                            "61358370874"
+                        ]
+                    },
+                    {
+                        "title": "Loewe - Part number",
+                        "numbers": [
+                            "086337050"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 520i (5er Reihe, E39) Year of manufacture 1996",
+                    "BMW 523i (5er Reihe, E39) Year of manufacture 1995 - 1997",
+                    "BMW 528i (5er Reihe, E39) Year of manufacture 1995 - 1996"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-8372116-loewe-086828050-127337.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "8 372 116",
+                            "8372116"
+                        ]
+                    },
+                    {
+                        "title": "Loewe - Part number",
+                        "numbers": [
+                            "086828050"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 520i (5er Reihe, E39) Year of manufacture 1996",
+                    "BMW 523i (5er Reihe, E39) Year of manufacture 1996",
+                    "BMW 525tds (5er Reihe, E39) Year of manufacture 1996",
+                    "BMW 528i (5er Reihe, E39) Year of manufacture 1996"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-8372874-61358372874-loewe-086811050-105937.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "8 372 874",
+                            "8372874"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-8 372 874",
+                            "61358372874"
+                        ]
+                    },
+                    {
+                        "title": "Loewe - Part number",
+                        "numbers": [
+                            "086811050"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 520i (5er Reihe, E39) Year of manufacture 1996 - 1998",
+                    "BMW 520i Touring (5er Reihe, E39) Year of manufacture 1997",
+                    "BMW 523i (5er Reihe, E39) Year of manufacture 1995 - 1998",
+                    "BMW 523i Touring (5er Reihe, E39) Year of manufacture 1997 - 1998",
+                    "BMW 525tds (5er Reihe, E39) Year of manufacture 1997 - 1999",
+                    "BMW 528i (5er Reihe, E39) Year of manufacture 1996 - 1998",
+                    "BMW 528i Touring (5er Reihe, E39) Year of manufacture 1997 - 1998",
+                    "BMW 535i (5er Reihe, E39) Year of manufacture 1997",
+                    "BMW 540i (5er Reihe, E39) Year of manufacture 1997",
+                    "BMW 740i (7er Reihe, E38) Year of manufacture 1997"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/bmw-lcm-loewe/bmw-8377398-61358377398-loewe-105940.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "8 377 398",
+                            "8377398"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-8 377 398",
+                            "61358377398"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Low beam or high beam permanently illuminated on one side"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Glow time control 4 cylinder",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/glow+time+control+4+cylinder-1042807.ts1654151875.jpg",
+        "product_link": "https://ecu.eu/bmw/others-2798/bmw/others/glow-time-control-4-cylinder-6940",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-4-cylinder/bmw-778682107-beru-0522120101-148166.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "778682107"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522120101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 120d (1er Reihe, E87) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-4-cylinder/bmw-779800003-beru-0522120102-148086.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "779800003"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522120102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-4-cylinder/bmw-779800005-beru-0522120102-148197.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "779800005"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522120102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-4-cylinder/bmw-779800006-beru-0522120102-148063.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "779800006"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522120102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 116d (1er Reihe, E87) Year of manufacture 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-4-cylinder/bmw-779800007-beru-0522120102-148305.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "779800007"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522120102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-4-cylinder/bmw-7801200-7786821-beru-145866.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "7 801 200",
+                            "7801200"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "7 786 821",
+                            "7786821"
+                        ]
+                    },
+                    {
+                        "title": "Beru",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW X3 3.0i (X3, E83) Engine code M54B30"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-4-cylinder/bmw-780120002-beru-0522120101-148139.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "780120002"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522120101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-4-cylinder/bmw-780120003-beru-e2110022357-148143.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "780120003"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "E2110022357"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-4-cylinder/bmw-78682107-beru-0522120101-148140.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "78682107"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522120101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-4-cylinder/bmw-859172301-beru-e2110022351-145863.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "8 591 723 01",
+                            "859172301"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "E2110022351"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW X1 sDrive 20d (X1, E84) Engine code N47D20C",
+                    "BMW X3 3.0i (X3, E83) Engine code M54B30"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-4-cylinder/bmw-beru-0522120701-e2110022358-148147.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522120701"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "E2110022358"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Glow time control 6 cylinders",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/glow+time+control+6+cylinders-1042817.ts1654151951.jpg",
+        "product_link": "https://ecu.eu/bmw/others-2798/bmw/others/glow-time-control-6-cylinders-6941",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-6-cylinders/bmw-778832704-beru-0522140101-148395.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "778832704"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522140101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-6-cylinders/bmw-780015602-beru-0522140102-148312.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "780015602"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522140102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-6-cylinders/bmw-780015603-beru-0522140102-148027.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "780015603"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522140102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-6-cylinders/bmw-780015604-beru-0522140102-147997.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "780015604"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522140102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-6-cylinders/bmw-780015605-beru-0522140102-136884.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "780015605"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522140102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW X5 xDrive 40d (X5, E70) Year of manufacture 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-6-cylinders/bmw-780120102-beru-0522140101-145673.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "780120102"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522140101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-6-cylinders/bmw-780120103-beru-0522140101-148141.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "780120103"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522140101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-6-cylinders/bmw-780120103-beru-e2110022359-145842.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "780120103"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "E2110022359"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW (5er Reihe, E60)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-6-cylinders/bmw-859172401-beru-e2110022352-145864.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "859172401"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "E2110022352"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 330d Touring xDrive (3er Reihe, E91) Year of manufacture 2012",
+                    "BMW (5er Reihe, F10)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/glow-time-control-6-cylinders/bmw-beru-0522140701-gse102-e2110022360-148332.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522140701"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "GSE102"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "E2110022360"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Glow system without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No control of individual glow plugs, error code may be stored for the affected glow plug"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "LCM E60 light module",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/lcm+e60+light+module-452020.ts1628717162.jpg",
+        "product_link": "https://ecu.eu/bmw/others-2798/bmw/others/lcm-e60-light-module-6545",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6936102-lear-531098801-lme6xdynlwr-140033.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 936 102",
+                            "6936102"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "531098801"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "LM E6X DYN.LWR",
+                            "LME6XDYNLWR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6936103-delphi-57762110-lme6xmanlwr-140027.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 936 103",
+                            "6936103"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "577 621 10",
+                            "57762110"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "LME6X MAN. LWR",
+                            "LME6XMANLWR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6936997-lear-037263066-lme6xdynlwr-153347.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 936 997",
+                            "6936997"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "037263066"
+                        ]
+                    },
+                    {
+                        "title": "LEAR",
+                        "numbers": []
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "LM E6X DYN.LWR",
+                            "LME6XDYNLWR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6937758-delphi-57762110-lme6xmanlwr-132933.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 937 758",
+                            "6937758"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "577 621 10",
+                            "57762110"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "LME6X MAN. LWR",
+                            "LME6XMANLWR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 520i (5er Reihe, E60) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6941592-delphi-57762110-145360.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 941 592",
+                            "6941592"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "577 621 10",
+                            "57762110"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6943283-lear-531098810-lme6xdynlwr-140030.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 943 283",
+                            "6943283"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "531098810"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "LM E6X DYN.LWR",
+                            "LME6XDYNLWR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6943284-lear-531098809-lme6xmanlwr-140032.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 943 284",
+                            "6943284"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "531098809"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "LM E6X MAN.LWR",
+                            "LME6XMANLWR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6943286-delphi-57762110-147547.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 943 286",
+                            "6943286"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "577 621 10",
+                            "57762110"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6943286-delphi-57762110-lme6xdynlwr-139891.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 943 286",
+                            "6943286"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "577 621 10",
+                            "57762110"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "LME6X DYN. LWR",
+                            "LME6XDYNLWR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 530i (5er Reihe, E60) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6943287-delphi-57762110-lme6xmanlwr-140029.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 943 287",
+                            "6943287"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "577 621 10",
+                            "57762110"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "LME6X MAN. LWR",
+                            "LME6XMANLWR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6943288-delphi-57762110-lme6xohnelwr-140028.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 943 288",
+                            "6943288"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "577 621 10",
+                            "57762110"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "LME6X ohne LWR",
+                            "LME6XohneLWR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6948578-lear-531098814-145771.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 948 578",
+                            "6948578"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "531098814"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6962722-delphi-57762110-lme6xdynlwr-127573.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 962 722",
+                            "6962722"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "577 621 10",
+                            "57762110"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "LME6X DYN. LWR",
+                            "LME6XDYNLWR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6962724-lear-532254808-lme6xmitahl-132760.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 962 724",
+                            "6962724"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "532254808"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "LM E6X MIT AHL",
+                            "LME6XMITAHL"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6983537-delphi-57762110-lme6xdynlwr-140026.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 983 537",
+                            "6983537"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "577 621 10",
+                            "57762110"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "LME6X DYN. LWR",
+                            "LME6XDYNLWR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6983538-delphi-57762110-lme6xmanlwr-140025.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 983 538",
+                            "6983538"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "577 621 10",
+                            "57762110"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "LME6X MAN. LWR",
+                            "LME6XMANLWR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-6983539-lear-532254811-lme6xmitahl-135488.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 983 539",
+                            "6983539"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "532254811"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "LM E6X MIT AHL",
+                            "LME6XMITAHL"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 530i Touring (5er Reihe, E61) Year of manufacture 2005",
+                    "BMW 535d Touring (5er Reihe, E61) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-9112630-lear-531098836-146717.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "9 112 630",
+                            "9112630"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "531098836"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-9116254-lear-531098835-151325.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "9 116 254",
+                            "9116254"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "531098835"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/lcm-e60-light-module/bmw-9116260-lear-532254815-lme6xmitahl-140031.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "9 116 260",
+                            "9116260"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "532254815"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "LM E6X MIT AHL",
+                            "LME6XMITAHL"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9CBC",
+                        "fault_description": "short-cut error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Back / backwards light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brake light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fog lamps malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "High beam malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "License plate light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Parking light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear fog light malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "malfunction of low beam"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Light module LCM III & IV",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/light+module+lcm+iii+iv-392116.ts1628716821.jpg",
+        "product_link": "https://ecu.eu/bmw/others-2798/bmw/others/light-module-lcm-iii-&-iv-6410",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-61356642693-lear-6016200019-140541.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 642 693",
+                            "61356642693"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "601-6200-019",
+                            "6016200019"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-61356908468-153341.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6908468",
+                            "61356908468"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-61356919453-61356919454-bmw-109110-132444.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 919 453",
+                            "61356919453"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 919 454",
+                            "61356919454"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "109 110",
+                            "109110"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 525i (5er Reihe, E39) Year of manufacture 2001 - 2003",
+                    "BMW 525i Touring (5er Reihe, E39) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-61356928931-lear-6016200010-151354.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 928 931",
+                            "61356928931"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "601-6200-010",
+                            "6016200010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-61356960253-bmw-144558.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6135 6 960 253",
+                            "61356960253"
+                        ]
+                    },
+                    {
+                        "title": "BMW",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW X5 3.0d (X5, E53) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-61356961140-lear-61356961140-127339.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 961 140",
+                            "61356961140"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "61.35-6 961 140",
+                            "61356961140"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW X5 3.0d (X5, E53) Year of manufacture 2005 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-61356961142-loewe-6016200104-105952.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 961 142",
+                            "61356961142"
+                        ]
+                    },
+                    {
+                        "title": "BMW",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Loewe - Part number",
+                        "numbers": [
+                            "601-6200-104",
+                            "6016200104"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 530i Touring (5er Reihe, E39) Year of manufacture 2003",
+                    "BMW X5 3.0d (X5, E53) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-61358386209-bmw-132109.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-8 386 209",
+                            "61358386209"
+                        ]
+                    },
+                    {
+                        "title": "BMW",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 523i (5er Reihe, E39) Year of manufacture 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-61358386210-bmw-144559.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61358 386 210",
+                            "61358386210"
+                        ]
+                    },
+                    {
+                        "title": "BMW",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 523i Touring (5er Reihe, E39) Year of manufacture 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-6908466-lear-086946055-139157.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 908 466",
+                            "6908466"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "086946055"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 520d (5er Reihe, E39) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-6915919-lear-6915919-139156.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 915 919",
+                            "6915919"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "6 915 919",
+                            "6915919"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 525i (5er Reihe, E39) Year of manufacture 2002",
+                    "BMW 525i Touring (5er Reihe, E39) Year of manufacture 2002",
+                    "BMW 530d Touring (5er Reihe, E39) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-6932559-lear-153910.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 932 559",
+                            "6932559"
+                        ]
+                    },
+                    {
+                        "title": "LEAR",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-6932559-lear-037260054-133278.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 932 559",
+                            "6932559"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "037260054"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 525d (5er Reihe, E39) Year of manufacture 2003",
+                    "BMW 525d Touring (5er Reihe, E39) Year of manufacture 2003",
+                    "BMW 525i Touring (5er Reihe, E39) Year of manufacture 2003",
+                    "BMW 530d Touring (5er Reihe, E39) Year of manufacture 2003 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-6932559-lear-037260054-136777.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 932 559",
+                            "6932559"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "037260054"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-6938084-61356938084-bmw-138174.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 938 084",
+                            "6938084"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 938 084",
+                            "61356938084"
+                        ]
+                    },
+                    {
+                        "title": "BMW",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW X5 3.0i (X5, E53) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-6938287-61356938287-loewe-105948.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 938 287",
+                            "6938287"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 938 287",
+                            "61356938287"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 525i Touring (5er Reihe, E39) Year of manufacture 2003",
+                    "BMW 530d Touring (5er Reihe, E39) Year of manufacture 2003 - 2004",
+                    "BMW X5 3.0d (X5, E53) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-6938288-61356938288-loewe-105941.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 938 288",
+                            "6938288"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 938 288",
+                            "61356938288"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 520i Touring (5er Reihe, E39) Year of manufacture 2003",
+                    "BMW 525d Touring (5er Reihe, E39) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-6938288-lear-037260059-133022.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 938 288",
+                            "6938288"
+                        ]
+                    },
+                    {
+                        "title": "LEAR - Part number",
+                        "numbers": [
+                            "037260059"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 525d Touring (5er Reihe, E39) Year of manufacture 2003",
+                    "BMW 525i Touring (5er Reihe, E39) Year of manufacture 2003 - 2004",
+                    "BMW 530d Touring (5er Reihe, E39) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-6942693-61356942693-loewe-105949.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 942 693",
+                            "6942693"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 942 693",
+                            "61356942693"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/light-module-lcm-iii-&-iv/bmw-6960254-61356960254-loewe-105944.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6 960 254",
+                            "6960254"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "61.35-6 960 254",
+                            "61356960254"
+                        ]
+                    },
+                    {
+                        "title": "Loewe",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "partial or complete failure of lighting"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Turbo-charger actuator",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+        "product_link": "https://ecu.eu/bmw/others-2798/bmw/others/turbo-charger-actuator-4091",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw/others/turbo-charger-actuator/bmw-6nw008412-hella-712120-104895.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6NW 008 412",
+                            "6NW008412"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "712120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 318d Touring (3er Reihe, E46) Year of manufacture 2005",
+                    "BMW 320d (3er Reihe, E46) Year of manufacture 2001 - 2004 Engine code M47D20TU",
+                    "BMW 320d (3er Reihe, E90) Year of manufacture 2006",
+                    "BMW 320d Touring (3er Reihe, E46) Year of manufacture 2004 - 2005",
+                    "BMW 320d Touring (3er Reihe, E91) Year of manufacture 2005 - 2006",
+                    "BMW 520d (5er Reihe, E60) Year of manufacture 2005 - 2007 Engine code M47D20TU2",
+                    "BMW 525d (5er Reihe, E60) Year of manufacture 2004 - 2006 Engine code M57D25TU",
+                    "BMW 525d Touring (5er Reihe, E61) Year of manufacture 2004 - 2006 Engine code M57D25TU",
+                    "BMW 530d (5er Reihe, E60) Year of manufacture 2003 Engine code M57D30TU",
+                    "BMW 530d Touring (5er Reihe, E61) Year of manufacture 2004 - 2011 Engine code M57D30TU",
+                    "BMW 740d (7er Reihe, E65) Year of manufacture 2004",
+                    "BMW X3 2.0d (X3, E83) Year of manufacture 2007",
+                    "BMW X5 3.0d (X5, E53)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/turbo-charger-actuator/bmw-6nw009228-hella-730314-104896.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6NW 009 228",
+                            "6NW009228"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "730314"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 330d (3er Reihe, E90) Engine code M57D30TU2",
+                    "BMW 530d (5er Reihe, E60) Engine code M57D30",
+                    "BMW 530d Touring (5er Reihe, E60) Year of manufacture 2008",
+                    "BMW 530d Touring (5er Reihe, E61) Year of manufacture 2005",
+                    "BMW 530xd Touring (5er Reihe, E61) Year of manufacture 2007",
+                    "BMW X3 3.0d (X3, E83) Engine code M57D30TU",
+                    "BMW X5 3.0d (X5, E70) Year of manufacture 2007 - 2008 Engine code M57D30TU2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/turbo-charger-actuator/bmw-6nw009420-hella-712120-108130.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6NW 009 420",
+                            "6NW009420"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "712120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 118d (1er Reihe, E87) Year of manufacture 2004 - 2005 Engine code M47D20TU2",
+                    "BMW 525d (5er Reihe, E60) Year of manufacture 2004",
+                    "BMW X3 2.0d (X3, E83) Engine code M47D20TU"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/turbo-charger-actuator/bmw-6nw009543-hella-763797-117183.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6NW 009 543",
+                            "6NW009543"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "763797"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 325d (3er Reihe, E90) Year of manufacture 2010 Engine code N57D30A",
+                    "BMW 330d Touring (3er Reihe, E91) Year of manufacture 2009",
+                    "BMW X6 xDrive 30d (X6, E71) Year of manufacture 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/others/turbo-charger-actuator/bmw-6nw009660-hella-781751-111489.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Part number",
+                        "numbers": [
+                            "6NW 009 660",
+                            "6NW009660"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "781751"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "BMW 118d (1er Reihe, E81) Engine code N47D20A",
+                    "BMW 118d (1er Reihe, E87) Year of manufacture 2009",
+                    "BMW 118d Cabrio (1er Reihe, E88) Year of manufacture 2012",
+                    "BMW 330xd Touring (3er Reihe, E91) Year of manufacture 2005 - 2006 Engine code M57D30TU2",
+                    "BMW X3 3.0d (X3, E83) Year of manufacture 2010"
+                ]
+            }
+        ]
+    }
+]

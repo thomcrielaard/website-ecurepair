@@ -1,0 +1,208 @@
+[
+    {
+        "part_name": "Hijet (S320V) electrical power steering",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/hijet+s320v+electrical+power+steering-145732.ts1628719101.jpg",
+        "product_link": "https://ecu.eu/daihatsu/power-steering-control-unit-5377/daihatsu/power-steering-control-unit/hijet-%28s320v%29-electrical-power-steering-5666",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/daihatsu/power-steering-control-unit/hijet-%28s320v%29-electrical-power-steering/daihatsu-b133400702-delphi-126962.html",
+                "part_numbers": [
+                    {
+                        "title": "DAIHATSU - Part number",
+                        "numbers": [
+                            "B133400702"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "DAIHATSU Hijet (Hijet, S320V) Year of manufacture 2011"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Sirion power steering control unit",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/sirion+power+steering+control+unit-102949.ts1628711620.jpg",
+        "product_link": "https://ecu.eu/daihatsu/power-steering-control-unit-5377/daihatsu/power-steering-control-unit/sirion-power-steering-control-unit-5378",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/daihatsu/power-steering-control-unit/sirion-power-steering-control-unit/daihatsu-89650b10301-nsk-eadcec009-119993.html",
+                "part_numbers": [
+                    {
+                        "title": "DAIHATSU - Part number",
+                        "numbers": [
+                            "89650-B1030-1",
+                            "89650B10301"
+                        ]
+                    },
+                    {
+                        "title": "NSK - Part number",
+                        "numbers": [
+                            "EADCEC-009",
+                            "EADCEC009"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1555",
+                        "fault_description": "Steering motor relay faulty (always send in power steering motor with this fault)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "DAIHATSU"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/power-steering-control-unit/sirion-power-steering-control-unit/daihatsu-89650b10302-nsk-eadcec021-118660.html",
+                "part_numbers": [
+                    {
+                        "title": "DAIHATSU - Part number",
+                        "numbers": [
+                            "89650-B1030-2",
+                            "89650B10302"
+                        ]
+                    },
+                    {
+                        "title": "NSK - Part number",
+                        "numbers": [
+                            "EADCEC-021",
+                            "EADCEC021"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1555",
+                        "fault_description": "Steering motor relay faulty (always send in power steering motor with this fault)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "DAIHATSU",
+                    "DAIHATSU Sirion 1.3i (Sirion, M3) Year of manufacture 2004 Engine code K3VE"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/power-steering-control-unit/sirion-power-steering-control-unit/daihatsu-89650b10303-nsk-eadcec027-45250b1021-122484.html",
+                "part_numbers": [
+                    {
+                        "title": "DAIHATSU - Part number",
+                        "numbers": [
+                            "89650-B1030-3",
+                            "89650B10303"
+                        ]
+                    },
+                    {
+                        "title": "NSK - Part number",
+                        "numbers": [
+                            "EADCEC-027",
+                            "EADCEC027"
+                        ]
+                    },
+                    {
+                        "title": "NSK - Part number",
+                        "numbers": [
+                            "45250-B1021",
+                            "45250B1021"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1555",
+                        "fault_description": "Steering motor relay faulty (always send in power steering motor with this fault)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "DAIHATSU"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/power-steering-control-unit/sirion-power-steering-control-unit/daihatsu-89650b1030b-nsk-eadcec025-118953.html",
+                "part_numbers": [
+                    {
+                        "title": "DAIHATSU - Part number",
+                        "numbers": [
+                            "89650-B1030-B",
+                            "89650B1030B"
+                        ]
+                    },
+                    {
+                        "title": "NSK - Part number",
+                        "numbers": [
+                            "EADCEC-025",
+                            "EADCEC025"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1555",
+                        "fault_description": "Steering motor relay faulty (always send in power steering motor with this fault)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "DAIHATSU"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/power-steering-control-unit/sirion-power-steering-control-unit/daihatsu-89650b1140a-nsk-eadcec038-118659.html",
+                "part_numbers": [
+                    {
+                        "title": "DAIHATSU - Part number",
+                        "numbers": [
+                            "89650-B1140-A",
+                            "89650B1140A"
+                        ]
+                    },
+                    {
+                        "title": "NSK - Part number",
+                        "numbers": [
+                            "EADCEC-038",
+                            "EADCEC038"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1555",
+                        "fault_description": "Steering motor relay faulty (always send in power steering motor with this fault)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "DAIHATSU"
+                ]
+            }
+        ]
+    }
+]

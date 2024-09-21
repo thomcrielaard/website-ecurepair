@@ -1,0 +1,978 @@
+[
+    {
+        "part_name": "Control panel automatic air conditioning",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+panel+automatic+air+conditioning-93706.ts1628718851.jpg",
+        "product_link": "https://ecu.eu/volvo/heating-ac-3073/volvo/heating-ac/control-panel-automatic-air-conditioning-6418",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-132443.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2002 Engine code B5244S"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-30710682-alps-141186.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30710682"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO XC90 D5 (XC90) Year of manufacture 2007 Engine code D5244T4"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-30746019-alps-130370.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30746019"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-30746019-alps-139216.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30746019"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-30746022-alps-119364.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30746022"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2005 - 2006 Engine code B5244S, B5244S2",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 2006 Engine code B5244S",
+                    "VOLVO V70 D5 (V70) Year of manufacture 2005 Engine code D5244T4",
+                    "VOLVO XC70 2.4 D AWD (XC70) Year of manufacture 2005 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-30746025-123221.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30746025"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO XC90 D5 AWD (XC90) Year of manufacture 2005 - 2006 Engine code D5244T4"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-30782329-alps-116654.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30782329"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO XC90 D5 AWD (XC90) Year of manufacture 2008 - 2010 Engine code D5244T4"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-31346603-alps-116653.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "31346603"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO XC90 D5 AWD (XC90) Year of manufacture 2012 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-8651242-alps-119088.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8651242"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO S60 2.4 (S60) Year of manufacture 2001 - 2002 Engine code B5244S2",
+                    "VOLVO S60 T5 (S60) Year of manufacture 2001 Engine code B5234T3",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2001 - 2002 Engine code B5244T3, B5244S, B5244S2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-8682734-alps-116655.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8682734"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-8682735-alps-116657.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8682735"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-8682930-alps-m6105300004-118957.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8682930"
+                        ]
+                    },
+                    {
+                        "title": "ALPS - Part number",
+                        "numbers": [
+                            "M610530-0004",
+                            "M6105300004"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2002 Engine code B5244T3, B5244S2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-8691876-alps-m6372100030-116745.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8691876"
+                        ]
+                    },
+                    {
+                        "title": "ALPS - Part number",
+                        "numbers": [
+                            "M637210-0030",
+                            "M6372100030"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO S60 2.4 D (S60) Year of manufacture 2004 Engine code D5244T",
+                    "VOLVO S60 T5 (S60) Year of manufacture 2001 Engine code B5234T3",
+                    "VOLVO V70 2.4 D (V70) Year of manufacture 2003 - 2005 Engine code B5244T",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2004 Engine code B5244S"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-8691950-alps-m6511100003-148318.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8691950"
+                        ]
+                    },
+                    {
+                        "title": "ALPS - Part number",
+                        "numbers": [
+                            "M651110-0003",
+                            "M6511100003"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2003 Engine code B5244S2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-8697137-alps-116656.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8697137"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO XC90 D5 AWD (XC90) Year of manufacture 2004 Engine code D5244T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-8697137-alps-m844ec00126-139215.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8697137"
+                        ]
+                    },
+                    {
+                        "title": "ALPS - Part number",
+                        "numbers": [
+                            "M844EC0-0126",
+                            "M844EC00126"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-8697140-alps-116652.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8697140"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V70 2.4 D (V70) Year of manufacture 2004 Engine code B5244T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-9452368-alps-120053.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "9452368"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2000 - 2001 Engine code B5244T, B5244T3, B5244S, B5244S2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-9494263-alps-118718.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "9494263"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO S80 2.9 (S80) Year of manufacture 1999 Engine code B6294S"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/control-panel-automatic-air-conditioning/volvo-9496811-alps-127326.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "9496811"
+                        ]
+                    },
+                    {
+                        "title": "ALPS",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "CCM-0004",
+                        "fault_description": "passenger compartment temperature sensor; signal too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO S80 2.4 (S80) Year of manufacture 2000 Engine code B5244S"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Volvo V40 (V) air conditioning control panel (2000-2004)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/volvo+v40+v+air+conditioning+control+panel+2000+2004-91137.ts1628718836.jpg",
+        "product_link": "https://ecu.eu/volvo/heating-ac-3073/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29-5286",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29/volvo-30612623-motorola-00wk31-119577.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30612623"
+                        ]
+                    },
+                    {
+                        "title": "Motorola - Part number",
+                        "numbers": [
+                            "00WK31"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "At times the fan is not controlled"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V40 1.8 (V40) Year of manufacture 2000 Engine code B4184S9"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29/volvo-30612630-motorola-00wk37-131869.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30612630"
+                        ]
+                    },
+                    {
+                        "title": "Motorola - Part number",
+                        "numbers": [
+                            "00WK37"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "At times the fan is not controlled"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V40 1.9 D (V40) Year of manufacture 2000 Engine code D4192T4",
+                    "VOLVO V40 2.0 (V40) Year of manufacture 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29/volvo-30623767-motorola-01wk24-134106.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30623767"
+                        ]
+                    },
+                    {
+                        "title": "Motorola - Part number",
+                        "numbers": [
+                            "01WK24"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "At times the fan is not controlled"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO S40 1.6 (S40) Year of manufacture 2002 Engine code B4164S2",
+                    "VOLVO V40 2.0 (V40) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29/volvo-30623768-motorola-01wk36-116648.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30623768"
+                        ]
+                    },
+                    {
+                        "title": "Motorola - Part number",
+                        "numbers": [
+                            "01WK36"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "At times the fan is not controlled"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V40 1.8 (V40) Year of manufacture 2001 - 2002 Engine code B4184S9",
+                    "VOLVO V40 2.0 (V40) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29/volvo-30623769-motorola-01wk24-119381.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30623769"
+                        ]
+                    },
+                    {
+                        "title": "Motorola - Part number",
+                        "numbers": [
+                            "01WK24"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "At times the fan is not controlled"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V40 1.6 (V40) Year of manufacture 2001 Engine code B4164S2",
+                    "VOLVO V40 2.0 T (V40) Year of manufacture 2001 Engine code B4204T5"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29/volvo-30623774-motorola-02wk14-152382.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30623774"
+                        ]
+                    },
+                    {
+                        "title": "Motorola - Part number",
+                        "numbers": [
+                            "02WK14"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "At times the fan is not controlled"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO S40 1.6 (S40) Year of manufacture 2001 Engine code B4164S2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29/volvo-30638411-motorola-117873.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30638411"
+                        ]
+                    },
+                    {
+                        "title": "Motorola",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "At times the fan is not controlled"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO S40 1.8 (S40) Year of manufacture 2002",
+                    "VOLVO V40 1.9 D (V40) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29/volvo-30638412-motorola-03wk9-124995.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30638412"
+                        ]
+                    },
+                    {
+                        "title": "Motorola - Part number",
+                        "numbers": [
+                            "03WK9"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "At times the fan is not controlled"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V40 2.0 T (V40) Year of manufacture 2003 Engine code B4204T3"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29/volvo-30638416-motorola-02wk46-127491.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30638416"
+                        ]
+                    },
+                    {
+                        "title": "Motorola - Part number",
+                        "numbers": [
+                            "02WK46"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "At times the fan is not controlled"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V40 1.9 D (V40) Year of manufacture 2002 Engine code D4192T4"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29/volvo-30638417-motorola-03wk5-136716.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30638417"
+                        ]
+                    },
+                    {
+                        "title": "Motorola - Part number",
+                        "numbers": [
+                            "03WK5"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "At times the fan is not controlled"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V40 1.9 D (V40) Year of manufacture 2003 Engine code D4192T4"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29/volvo-30662243-motorola-03wk42-136180.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30662243"
+                        ]
+                    },
+                    {
+                        "title": "Motorola - Part number",
+                        "numbers": [
+                            "03WK42"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "At times the fan is not controlled"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V40 1.8 (V40) Year of manufacture 2004 Engine code B4184S10",
+                    "VOLVO V40 1.9 D (V40) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/heating-ac/volvo-v40-%28v%29-air-conditioning-control-panel-%282000-2004%29/volvo-612698-motorola-116649.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "612698"
+                        ]
+                    },
+                    {
+                        "title": "Motorola",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "At times the fan is not controlled"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V40 1.9 D (V40) Year of manufacture 2003"
+                ]
+            }
+        ]
+    }
+]

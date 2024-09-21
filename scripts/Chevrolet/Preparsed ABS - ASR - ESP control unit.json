@@ -1,0 +1,1806 @@
+[
+    {
+        "part_name": "ABS MK25",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+mk25-279348.ts1628714698.jpg",
+        "product_link": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit-5221/chevrolet/abs-asr-esp-control-unit/abs-mk25-6101",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/abs-mk25/chevrolet-96817763-ate-25092645813-06210210634-630156-122583.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96817763"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0926-4581.3",
+                            "25092645813"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-1063.4",
+                            "06210210634"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "630156"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C) Year of manufacture 2008 - 2011",
+                    "Chevrolet (KLAC) Year of manufacture 2009 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/abs-mk25/chevrolet-96817763-ate-25092645813-25021206184-145579.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96817763"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0926-4581.3",
+                            "25092645813"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-0618.4",
+                            "25021206184"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C) Year of manufacture 2008 - 2011",
+                    "Chevrolet (KLAC) Year of manufacture 2009 - 2010"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS MK70",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+mk70-2199.ts1628724449.jpg",
+        "product_link": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit-5221/chevrolet/abs-asr-esp-control-unit/abs-mk70-6608",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/abs-mk70/chevrolet-95106373-ate-06210965823-06210223024-153750.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "95 106 373",
+                            "95106373"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2109-6582.3",
+                            "06210965823"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-2302.4",
+                            "06210223024"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-Bus system disrupted"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/abs-mk70/chevrolet-96438440-ate-06210908263-06210204444-149386.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96 438 440",
+                            "96438440"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2109-0826.3",
+                            "06210908263"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-0444.4",
+                            "06210204444"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-Bus system disrupted"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/abs-mk70/chevrolet-96464491-ate-06210908273-06210204734-126869.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96 464 491",
+                            "96464491"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2109-0827.3",
+                            "06210908273"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-0473.4",
+                            "06210204734"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-Bus system disrupted"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/abs-mk70/chevrolet-96666542-ate-06210909843-06210207724-127913.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96 666 542",
+                            "96666542"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2109-0984.3",
+                            "06210909843"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-0772.4",
+                            "06210207724"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-Bus system disrupted"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1K) Year of manufacture 2007 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/abs-mk70/chevrolet-96806328-ate-06210909853-06210207704-149031.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96 806 328",
+                            "96806328"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2109-0985.3",
+                            "06210909853"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-0770.4",
+                            "06210207704"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-Bus system disrupted"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1N) Year of manufacture 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/abs-mk70/chevrolet-96809543-ate-06210950673-06210206204-146418.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96 809 543",
+                            "96809543"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2109-5067.3",
+                            "06210950673"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-0620.4",
+                            "06210206204"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-Bus system disrupted"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (T250) Year of manufacture 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/abs-mk70/chevrolet-96812708-ate-06210951163-06210206184-148595.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96 812 708",
+                            "96812708"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2109-5116.3",
+                            "06210951163"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-0618.4",
+                            "06210206184"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-Bus system disrupted"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/abs-mk70/chevrolet-96964985-sj-ate-06210956003-06210213524-140723.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96 964 985",
+                            "96964985"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "SJ"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2109-5600.3",
+                            "06210956003"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-1352.4",
+                            "06210213524"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-Bus system disrupted"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (T250) Year of manufacture 2009 - 2011"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Delphi Delco ABS 5.3/TCS",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/delphi+delco+abs+5+3+tcs-314.ts1628718727.jpg",
+        "product_link": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit-5221/delphi-delco-abs-5.3-tcs-3433",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/delphi-delco-abs-5.3-tcs/chevrolet-09364250-25697697-jj-delphi-09374739-bosch-0265202443002-142-115514.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "09364250"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "2569 7697",
+                            "25697697"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "JJ"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "09374739"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 202 443 / 002",
+                            "0265202443002"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "142"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1214",
+                        "fault_description": "SYSTEM RELAY CONTACT OR COIL CIRCUIT OPEN"
+                    },
+                    {
+                        "fault_code": "C1242",
+                        "fault_description": "Brake Pressure Modulator Valve (BPMV) PUMP MOTOR CIRCUIT"
+                    },
+                    {
+                        "fault_code": "C1243",
+                        "fault_description": "BPMV PUMP MOTOR CIRCUIT"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/delphi-delco-abs-5.3-tcs/chevrolet-10304696-10309488-sb-delphi-09390570-bosch-0265202455003-132-133469.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "1030 4696",
+                            "10304696"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "1030 9488",
+                            "10309488"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "SB"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "09390570"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 202 455 / 003",
+                            "0265202455003"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "132"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1214",
+                        "fault_description": "SYSTEM RELAY CONTACT OR COIL CIRCUIT OPEN"
+                    },
+                    {
+                        "fault_code": "C1242",
+                        "fault_description": "Brake Pressure Modulator Valve (BPMV) PUMP MOTOR CIRCUIT"
+                    },
+                    {
+                        "fault_code": "C1243",
+                        "fault_description": "BPMV PUMP MOTOR CIRCUIT"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (C5) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/delphi-delco-abs-5.3-tcs/chevrolet-10306496-10306494-sb-delphi-09390570-bosch-0265202455002-132-139279.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "1030 6496",
+                            "10306496"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "1030 6494",
+                            "10306494"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "SB"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "09390570"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 202 455 / 002",
+                            "0265202455002"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "132"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1214",
+                        "fault_description": "SYSTEM RELAY CONTACT OR COIL CIRCUIT OPEN"
+                    },
+                    {
+                        "fault_code": "C1242",
+                        "fault_description": "Brake Pressure Modulator Valve (BPMV) PUMP MOTOR CIRCUIT"
+                    },
+                    {
+                        "fault_code": "C1243",
+                        "fault_description": "BPMV PUMP MOTOR CIRCUIT"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/delphi-delco-abs-5.3-tcs/chevrolet-10315150-10315149-sb-delphi-09390570-bosch-0265202455005-132-126532.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "1031 5150",
+                            "10315150"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "1031 5149",
+                            "10315149"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "SB"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "09390570"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 202 455 / 005",
+                            "0265202455005"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "132"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1214",
+                        "fault_description": "SYSTEM RELAY CONTACT OR COIL CIRCUIT OPEN"
+                    },
+                    {
+                        "fault_code": "C1242",
+                        "fault_description": "Brake Pressure Modulator Valve (BPMV) PUMP MOTOR CIRCUIT"
+                    },
+                    {
+                        "fault_code": "C1243",
+                        "fault_description": "BPMV PUMP MOTOR CIRCUIT"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (C5) Year of manufacture 2003 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/delphi-delco-abs-5.3-tcs/chevrolet-10323578-10331728-sf-delphi-09390570-bosch-0265202455005-115513.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "1032 3578",
+                            "10323578"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "1033 1728",
+                            "10331728"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "SF"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "09390570"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 202 455 / 005",
+                            "0265202455005"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1214",
+                        "fault_description": "SYSTEM RELAY CONTACT OR COIL CIRCUIT OPEN"
+                    },
+                    {
+                        "fault_code": "C1242",
+                        "fault_description": "Brake Pressure Modulator Valve (BPMV) PUMP MOTOR CIRCUIT"
+                    },
+                    {
+                        "fault_code": "C1243",
+                        "fault_description": "BPMV PUMP MOTOR CIRCUIT"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (C5) Year of manufacture 2003 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/delphi-delco-abs-5.3-tcs/chevrolet-10331729-10331728-pb-delphi-12231076-bosch-0265202455008-017-130088.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "1033 1729",
+                            "10331729"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "1033 1728",
+                            "10331728"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "PB"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "12231076"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 202 455 / 008",
+                            "0265202455008"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "017"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1214",
+                        "fault_description": "SYSTEM RELAY CONTACT OR COIL CIRCUIT OPEN"
+                    },
+                    {
+                        "fault_code": "C1242",
+                        "fault_description": "Brake Pressure Modulator Valve (BPMV) PUMP MOTOR CIRCUIT"
+                    },
+                    {
+                        "fault_code": "C1243",
+                        "fault_description": "BPMV PUMP MOTOR CIRCUIT"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (C5) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/delphi-delco-abs-5.3-tcs/chevrolet-96349932-bosch-0273004613-0265220650-136237.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96 349 932",
+                            "96349932"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 613",
+                            "0273004613"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 220 650",
+                            "0265220650"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet Year of manufacture 2006",
+                    "Chevrolet (KL1N) Year of manufacture 2005"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4082.ts1628718747.jpg",
+        "product_link": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit-5221/chevrolet/abs-asr-esp-control-unit/esp-8.0-6401",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/esp-8.0/chevrolet-20817961-bosch-0265951545-0265251074-152079.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "20817961"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 951 545",
+                            "0265951545"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 251 074",
+                            "0265251074"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/esp-8.0/chevrolet-bosch-0265951483-126863.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 951 483",
+                            "0265951483"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (C6) Year of manufacture 2012"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK25",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk25-5139.ts1628722665.jpg",
+        "product_link": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit-5221/chevrolet/abs-asr-esp-control-unit/esp-mk25-5349",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/esp-mk25/chevrolet-20946171-an5-gm-95196739-ate-25092653903-25021219354-1259-131845.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "20946171"
+                        ]
+                    },
+                    {
+                        "title": "GM - Part number",
+                        "numbers": [
+                            "95196739"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "AN5"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0926-5390.3",
+                            "25092653903"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-1935.4",
+                            "25021219354"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "1259"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": "C0550",
+                        "fault_description": "Ecu internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C) Year of manufacture 2013",
+                    "Chevrolet (KLAC) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/esp-mk25/chevrolet-25840170-ate-25092745023-25021205954-1251-137321.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "25840170"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0927-4502.3",
+                            "25092745023"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-0595.4",
+                            "25021205954"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "1251"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": "C0550",
+                        "fault_description": "Ecu internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet Year of manufacture 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/esp-mk25/chevrolet-96626091-ate-25092645873-25021201904-1259-145430.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96626091"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0926-4587.3",
+                            "25092645873"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-0190.4",
+                            "25021201904"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "1259"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": "C0550",
+                        "fault_description": "Ecu internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C) Year of manufacture 2007",
+                    "Chevrolet (KLAC) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/esp-mk25/chevrolet-96812710-ate-06210950313-06210206134-630134-115940.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96 812 710",
+                            "96812710"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2109-5031.3",
+                            "06210950313"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-0613.4",
+                            "06210206134"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "630134"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": "C0550",
+                        "fault_description": "Ecu internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C) Year of manufacture 2009",
+                    "Chevrolet (KL1L) Year of manufacture 2007 - 2009",
+                    "Chevrolet (KLAL) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/esp-mk25/chevrolet-96851869-96626061-ate-25092745464-25039921924-1259-126243.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96851869"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96626061"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0927-4546.4",
+                            "25092745464"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0399-2192.4",
+                            "25039921924"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "1259"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": "C0550",
+                        "fault_description": "Ecu internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/esp-mk25/chevrolet-96859390-ate-25092745423-25021206684-115939.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96859390"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0927-4542.3",
+                            "25092745423"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25-0212-0668.4",
+                            "25021206684"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": "C0550",
+                        "fault_description": "Ecu internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C) Year of manufacture 2007 - 2010",
+                    "Chevrolet (KLAC) Year of manufacture 2008 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/esp-mk25/chevrolet-96859392-ate-25092745433-25021206714-1259-120998.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96859392"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0927-4543.3",
+                            "25092745433"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-0671.4",
+                            "25021206714"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "1259"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": "C0550",
+                        "fault_description": "Ecu internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C) Year of manufacture 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/esp-mk25/chevrolet-gm-96817720-ate-25092645293-25021203194-111562.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "GM - Part number",
+                        "numbers": [
+                            "96817720"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0926-4529.3",
+                            "25092645293"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-0319.4",
+                            "25021203194"
+                        ]
+                    },
+                    {
+                        "title": "ATE",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0110",
+                        "fault_description": "recirculation pump"
+                    },
+                    {
+                        "fault_code": "C0550",
+                        "fault_description": "Ecu internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C) Year of manufacture 2006 - 2007",
+                    "Chevrolet (KLAC) Year of manufacture 2008"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK60",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk60-8.ts1628711279.jpg",
+        "product_link": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit-5221/chevrolet/abs-asr-esp-control-unit/esp-mk60-6573",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/esp-mk60/chevrolet-13306969-cq-ate-10096045063-10020603954-2077-135055.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "13306969"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "CQ"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0960-4506.3",
+                            "10096045063"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0206-0395.4",
+                            "10020603954"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "2077"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (J300) Year of manufacture 2009 - 2010",
+                    "Chevrolet (KL1J) Year of manufacture 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit/esp-mk60/chevrolet-13349239-ab2-ate-10096045543-10020604304-2077-121537.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "13 349 239",
+                            "13349239"
+                        ]
+                    },
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "AB2"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0960-4554.3",
+                            "10096045543"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0206-0430.4",
+                            "10020604304"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "2077"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet Year of manufacture 2011",
+                    "Chevrolet (KL1J) Year of manufacture 2011"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Kelsey-Hayes EBC 325",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/kelsey+hayes+ebc+325-1577.ts1628718733.jpg",
+        "product_link": "https://ecu.eu/chevrolet/abs-asr-esp-control-unit-5221/kelsey-hayes-ebc-325-4167",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/kelsey-hayes-ebc-325/chevrolet-kelsey-hayes-116776.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Kelsey-Hayes",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0265",
+                        "fault_description": "Solenoid valve relay - circuit open or short circuit to ground"
+                    },
+                    {
+                        "fault_code": "C0276",
+                        "fault_description": "Acceleration sensor error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Chevrolet Year of manufacture 2000 - 2001",
+                    "Chevrolet (GMT330) Year of manufacture 2001 - 2002"
+                ]
+            }
+        ]
+    }
+]

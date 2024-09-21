@@ -1,0 +1,651 @@
+[
+    {
+        "part_name": "4Drive All Wheel Drive Unit (Haldex Gen.5)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/4drive+all+wheel+drive+unit+haldex+gen+5-248518.ts1628714081.jpg",
+        "product_link": "https://ecu.eu/seat/other-3036/seat/other/4drive-all-wheel-drive-unit-%28haldex-gen.5%29-6827",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/seat/other/4drive-all-wheel-drive-unit-%28haldex-gen.5%29/seat-0ay907554f-haldex-136973.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "0AY 907 554 F",
+                            "0AY907554F"
+                        ]
+                    },
+                    {
+                        "title": "Haldex",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SEAT Alhambra 2.0 TDI 4Drive (Alhambra, 7N) Year of manufacture 2014 Engine code CFFB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/other/4drive-all-wheel-drive-unit-%28haldex-gen.5%29/seat-0ay907554j-haldex-142386.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "0AY 907 554 J",
+                            "0AY907554J"
+                        ]
+                    },
+                    {
+                        "title": "Haldex",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SEAT Alhambra 2.0 TDI 4Drive (Alhambra, 7N) Year of manufacture 2014 - 2015 Engine code CFFB",
+                    "SEAT Alhambra 2.0 TDI 4x4 (Alhambra, 7N) Year of manufacture 2016 - 2017 Engine code DFLA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/other/4drive-all-wheel-drive-unit-%28haldex-gen.5%29/seat-0cq907554d-haldex-137011.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "0CQ 907 554 D",
+                            "0CQ907554D"
+                        ]
+                    },
+                    {
+                        "title": "Haldex",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SEAT Leon 1.8 TSI 4Drive (Leon, 5F) Year of manufacture 2015",
+                    "SEAT Leon ST 2.0 TDI 4x4 X-Perience (Leon, 5F) Year of manufacture 2014 - 2015 Engine code CRLB, CUNA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/other/4drive-all-wheel-drive-unit-%28haldex-gen.5%29/seat-0cq907554h-haldex-147014.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "0CQ 907 554 H",
+                            "0CQ907554H"
+                        ]
+                    },
+                    {
+                        "title": "Haldex",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SEAT LEON 2.0 TDI (Leon, 5F) Year of manufacture 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/other/4drive-all-wheel-drive-unit-%28haldex-gen.5%29/seat-0cq907554j-haldex-131973.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "0CQ 907 554 J",
+                            "0CQ907554J"
+                        ]
+                    },
+                    {
+                        "title": "Haldex",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SEAT Ateca 2.0 TDI 4x4 (Ateca, 5FP) Year of manufacture 2018 Engine code DFFA"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "4Drive all-wheel drive control unit (Haldex Gen.4)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/4drive+all+wheel+drive+control+unit+haldex+gen+4-9870.ts1628711371.jpg",
+        "product_link": "https://ecu.eu/seat/other-3036/seat/other/4drive-all-wheel-drive-control-unit-%28haldex-gen.4%29-6008",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/seat/other/4drive-all-wheel-drive-control-unit-%28haldex-gen.4%29/seat-0ay907554d-11447801-siemens-5wp3352203-147963.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "0AY 907 554 D",
+                            "0AY907554D"
+                        ]
+                    },
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "114478-01",
+                            "11447801"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP33522-03",
+                            "5WP3352203"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "supply voltage - upper limit exceeded"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SEAT Alhambra 2.0 TDI 4Drive (Alhambra, 7N) Year of manufacture 2013 Engine code CFFB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/other/4drive-all-wheel-drive-control-unit-%28haldex-gen.4%29/seat-0ay907554e-11664201-continental-5wp3352204-132117.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "0AY 907 554 E",
+                            "0AY907554E"
+                        ]
+                    },
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "116642-01",
+                            "11664201"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33522-04",
+                            "5WP3352204"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "supply voltage - upper limit exceeded"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SEAT Alhambra 2.0 TDI 4Drive (Alhambra, 7N) Year of manufacture 2012 - 2013 Engine code CFFB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/other/4drive-all-wheel-drive-control-unit-%28haldex-gen.4%29/seat-0br907554b-11447901-continental-5wp3352303-147794.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "0BR 907 554 B",
+                            "0BR907554B"
+                        ]
+                    },
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "114479-01",
+                            "11447901"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33523-03",
+                            "5WP3352303"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "supply voltage - upper limit exceeded"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/seat/other/4drive-all-wheel-drive-control-unit-%28haldex-gen.4%29/seat-0br907554c-11592801-continental-5wp3352304-134196.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "0BR 907 554 C",
+                            "0BR907554C"
+                        ]
+                    },
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "115928-01",
+                            "11592801"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33523-04",
+                            "5WP3352304"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "supply voltage - upper limit exceeded"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SEAT Altea 2.0 TDI 4Drive Freetrack (Altea, 5P) Year of manufacture 2011 - 2012 Engine code CFJA"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Haldex control unit (Gen.2)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/haldex+control+unit+gen+2-9869.ts1628711371.jpg",
+        "product_link": "https://ecu.eu/seat/other-3036/seat/other/haldex-control-unit-%28gen.2%29-4887",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/seat/other/haldex-control-unit-%28gen.2%29/seat-1k0525130l-104572-siemens-5wp22202-111889.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "1K0 525 130 L",
+                            "1K0525130L"
+                        ]
+                    },
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "104572"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP22202"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Control unit for all-wheel drive - no communication"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Control unit - error in EEPROM"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SEAT Altea 2.0 TDI (Altea, 5P) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/other/haldex-control-unit-%28gen.2%29/seat-1k0907554l-10942901-siemens-5wp2224101-132658.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "1K0 907 554 L",
+                            "1K0907554L"
+                        ]
+                    },
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "109429-01",
+                            "10942901"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP22241-01",
+                            "5WP2224101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "control unit - 014 - defective"
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Pre-charging pump for Haldex clutch (V181)"
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Control unit for all-wheel drive - no communication"
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Valve for control of clutch opening ratio (N373)"
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Control unit - error in EEPROM"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SEAT Altea 2.0 TDI Freetrack (Altea, 5P) Year of manufacture 2007 - 2008 Engine code BMM, BMN",
+                    "SEAT Altea 2.0 TFSI (Altea, 5P) Year of manufacture 2008 Engine code BWA"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Syncro All Wheel Drive  (Haldex Gen.1)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/syncro+all+wheel+drive+haldex+gen+1-53266.ts1628724461.jpg",
+        "product_link": "https://ecu.eu/seat/other-3036/seat/other/syncro-all-wheel-drive-%28haldex-gen.1%29-6867",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/seat/other/syncro-all-wheel-drive-%28haldex-gen.1%29/seat-02d900554-siemens-115927.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "02D 900 554",
+                            "02D900554"
+                        ]
+                    },
+                    {
+                        "title": "Siemens",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/seat/other/syncro-all-wheel-drive-%28haldex-gen.1%29/seat-02d900554b-siemens-144071.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "02D 900 554 B",
+                            "02D900554B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SEAT Leon 1.8T (Leon, 1M) Year of manufacture 2001 Engine code ARY"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/seat/other/syncro-all-wheel-drive-%28haldex-gen.1%29/seat-02d900554c-siemens-ha1-148859.html",
+                "part_numbers": [
+                    {
+                        "title": "SEAT - Part number",
+                        "numbers": [
+                            "02D 900 554 C",
+                            "02D900554C"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "HA1"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "control unit for all-wheel drive-J492 (in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Control unit for all-wheel drive blocked/no signal (error is stored in ABS/ESP)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SEAT Leon Cupra 2.8 4x4 (Leon, 1M) Year of manufacture 2002 Engine code BDE"
+                ]
+            }
+        ]
+    }
+]

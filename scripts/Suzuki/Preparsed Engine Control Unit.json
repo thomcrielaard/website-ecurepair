@@ -1,0 +1,3817 @@
+[
+    {
+        "part_name": "EDC15C2",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc15c2-376.ts1628718728.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/edc15c2-3709",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc15c2/suzuki-3392053j20-bosch-0281011675-103475.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-53J20",
+                            "3392053J20"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 011 675",
+                            "0281011675"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0170",
+                        "fault_description": "Capacitor voltage operation"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "ECU-operation (internal error)"
+                    },
+                    {
+                        "fault_code": "P1169",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": "P1170",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.0 TD (Grand Vitara, FT) Year of manufacture 2004 - 2005",
+                    "SUZUKI Grand Vitara 2.0 TD (Grand Vitara, HT) Year of manufacture 2004 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc15c2/suzuki-3392067g00-bosch-0281010559-103476.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-67G00",
+                            "3392067G00"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 010 559",
+                            "0281010559"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0170",
+                        "fault_description": "Capacitor voltage operation"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "ECU-operation (internal error)"
+                    },
+                    {
+                        "fault_code": "P1169",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": "P1170",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.0 TD (Grand Vitara, FT) Year of manufacture 2001 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc15c2/suzuki-3392067g10-bosch-0281010560-102816.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-67G10",
+                            "3392067G10"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 010 560",
+                            "0281010560"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0170",
+                        "fault_description": "Capacitor voltage operation"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "ECU-operation (internal error)"
+                    },
+                    {
+                        "fault_code": "P1169",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": "P1170",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.0 TD (Grand Vitara, FT) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc15c2/suzuki-3392067g30-bosch-0281010936-109649.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-67G30",
+                            "3392067G30"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 010 936",
+                            "0281010936"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0170",
+                        "fault_description": "Capacitor voltage operation"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "ECU-operation (internal error)"
+                    },
+                    {
+                        "fault_code": "P1169",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": "P1170",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.0 TD (Grand Vitara, FT) Year of manufacture 2001 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc15c2/suzuki-zy34027355-bosch-0281010860-106006.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "ZY34027355"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 010 860",
+                            "0281010860"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0170",
+                        "fault_description": "Capacitor voltage operation"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "ECU-operation (internal error)"
+                    },
+                    {
+                        "fault_code": "P1169",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": "P1170",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc15c2/suzuki-zy34027377-bosch-0281010937-103416.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "ZY34027377"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 010 937",
+                            "0281010937"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0170",
+                        "fault_description": "Capacitor voltage operation"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "ECU-operation (internal error)"
+                    },
+                    {
+                        "fault_code": "P1169",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": "P1170",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.0 TD (Grand Vitara, FT) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc15c2/suzuki-zy34027377-bosch-0281010937-118489.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "ZY 340 273 77",
+                            "ZY34027377"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 010 937",
+                            "0281010937"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0170",
+                        "fault_description": "Capacitor voltage operation"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "ECU-operation (internal error)"
+                    },
+                    {
+                        "fault_code": "P1169",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": "P1170",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc15c2/suzuki-zy34027474-bosch-0281011359-109648.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "ZY 340 274 74",
+                            "ZY34027474"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 011 359",
+                            "0281011359"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0170",
+                        "fault_description": "Capacitor voltage operation"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "ECU-operation (internal error)"
+                    },
+                    {
+                        "fault_code": "P1169",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": "P1170",
+                        "fault_description": "Capacitor voltage operation 2"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.0 TD (Grand Vitara, FT) Year of manufacture 2003 - 2004"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC16C3",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c3-1622.ts1628718734.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/edc16c3-4359",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc16c3/suzuki-8200518648-bosch-0281012569-106850.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "8200518648"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 012 569",
+                            "0281012569"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine temporarily doesn't start – when the error occurs, there is no communication possible with the ecu and the motor-/pre-ignite control light is not lighted up"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 1.9 DDiS (Grand Vitara, JT) Year of manufacture 2005 - 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc16c3/suzuki-8200518648-bosch-0281012657-106851.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "8200518648"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 012 657",
+                            "0281012657"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine temporarily doesn't start – when the error occurs, there is no communication possible with the ecu and the motor-/pre-ignite control light is not lighted up"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 1.9 DDiS (Grand Vitara, JT) Year of manufacture 2006 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc16c3/suzuki-8200518648-bosch-0281015322-109650.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "8200518648"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 015 322",
+                            "0281015322"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine temporarily doesn't start – when the error occurs, there is no communication possible with the ecu and the motor-/pre-ignite control light is not lighted up"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 1.9 DDiS (Grand Vitara, JT) Year of manufacture 2009 - 2011"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC16C36",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c36-171626.ts1628719312.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/edc16c36-6704",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc16c36/suzuki-8201005044-8201042390-bosch-0281016343-124304.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "8201005044"
+                        ]
+                    },
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "8201042390"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 016 343",
+                            "0281016343"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0100",
+                        "fault_description": "Mass or Volume Air Flow Circuit (MAF)andP0110Intake-air-temperature sensor"
+                    },
+                    {
+                        "fault_code": "P062F",
+                        "fault_description": "ECU EEPROM errorMotor ecu – internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 1.9 DDiS (Grand Vitara, JT) Year of manufacture 2010 - 2014"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC16C39",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c39-208128.ts1628719578.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/edc16c39-4808",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc16c39/suzuki-51806261-bosch-0281012992-111249.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "51806261"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 012 992",
+                            "0281012992"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Engine ECU - functional failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI SX4 1.9 DDiS 4WD (SX4, EY) Year of manufacture 2007 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc16c39/suzuki-51873519-bosch-0281016291-135876.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "51873519"
+                        ]
+                    },
+                    {
+                        "title": "BOSCH - Part number",
+                        "numbers": [
+                            "0 281 016 291",
+                            "0281016291"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Engine ECU - functional failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI SX4 2.0 DDiS 4WD (SX4, EY) Year of manufacture 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc16c39/suzuki-51875853-bosch-0281016290-140179.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "51875853"
+                        ]
+                    },
+                    {
+                        "title": "BOSCH - Part number",
+                        "numbers": [
+                            "0 281 016 290",
+                            "0281016290"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Engine ECU - functional failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI SX4 2.0 DDiS 4WD (SX4, EY) Year of manufacture 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc16c39/suzuki-51877440-bosch-0281017320-119234.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "51877440"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 017 320",
+                            "0281017320"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Engine ECU - functional failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI SX4 2.0 DDiS 4WD (SX4, EY) Year of manufacture 2010 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc16c39/suzuki-55204652-bosch-0281012992-129478.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "55204652"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 012 992",
+                            "0281012992"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Engine ECU - functional failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI SX4 1.9 DDiS 4WD (SX4, EY) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc16c39/suzuki-55207555-bosch-0281012991-111250.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "55207555"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 012 991",
+                            "0281012991"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Engine ECU - functional failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI SX4 1.9 DDiS (SX4, EY) Year of manufacture 2007 - 2009"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC17C49",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc17c49-201213.ts1628719526.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/edc17c49-7230",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc17c49/suzuki-3392062m10-bosch-0281030519-146426.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-62M10",
+                            "3392062M10"
+                        ]
+                    },
+                    {
+                        "title": "BOSCH - Part number",
+                        "numbers": [
+                            "0 281 030 519",
+                            "0281030519"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "all errors on request"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc17c49/suzuki-55261433-bosch-0281019351-132008.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "552 614 33",
+                            "55261433"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 019 351",
+                            "0281019351"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "all errors on request"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/edc17c49/suzuki-55261434-3392062m11-bosch-0281030519-127980.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "55261434"
+                        ]
+                    },
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-62M11",
+                            "3392062M11"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 030 519",
+                            "0281030519"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "all errors on request"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "MJD 8",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mjd+8-339928.ts1628715861.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/mjd-8-6311",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mjd-8/suzuki-3392078p01-magneti-marelli-bc0118326e-129857.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-78P01",
+                            "3392078P01"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli - Part number",
+                        "numbers": [
+                            "BC.0118326.E",
+                            "BC0118326E"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P2146",
+                        "fault_description": "Power supply injectors bank 1 - Voltage too low / interruption -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start and communication between engine control unit and diagnostic device is not possible, the fault is permanent."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.3 DDIS (Swift, NZ/FZ) Year of manufacture 2015"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "MPI Denso Typ 1",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mpi+denso+typ+1-745.ts1628722659.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/mpi-denso-typ-1-280",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392054g30-denso-1122001941-112323.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-54G30",
+                            "3392054G30"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-1941",
+                            "1122001941"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392054ga0-denso-1122002020-104237.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-54GA0",
+                            "3392054GA0"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-2020",
+                            "1122002020"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392054ga0-denso-1122002021-104233.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-54GA0",
+                            "3392054GA0"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-2021",
+                            "1122002021"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392054ga0-denso-1122004050-2444.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-54GA0",
+                            "3392054GA0"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-4050",
+                            "1122004050"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392054gc0-denso-1122002041-2126.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-54GC0",
+                            "3392054GC0"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-2041",
+                            "1122002041"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392055ga0-denso-1122005801-2441.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-55GA0",
+                            "3392055GA0"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-5801",
+                            "1122005801"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392059j30-denso-1122008021-105542.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-59J30",
+                            "3392059J30"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-8021",
+                            "1122008021"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392059ja1-denso-1122008042-104239.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-59JA1",
+                            "3392059JA1"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-8042",
+                            "1122008042"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Liana 1.6i (Liana, ER) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392059jb1-denso-1122008052-2442.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-59JB1",
+                            "3392059JB1"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-8052",
+                            "1122008052"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392069e00-denso-mb1120004455-118313.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-69E00",
+                            "3392069E00"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "MB112000-4455",
+                            "MB1120004455"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392069g40-denso-1122000741-147021.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-69G40",
+                            "3392069G40"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-0741",
+                            "1122000741"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Baleno 1.3i (Baleno, EG) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392069g50-denso-1122000750-104235.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-69G50",
+                            "3392069G50"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-0750",
+                            "1122000750"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392069g60-denso-1122000760-104232.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-69G60",
+                            "3392069G60"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-0760",
+                            "1122000760"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392076a00-denso-1120007010-106791.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-76A00",
+                            "3392076A00"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112000-7010",
+                            "1120007010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Carry 1.3i (Carry, FD) Year of manufacture 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392076aa0-denso-1122000500-106790.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-76AA0",
+                            "3392076AA0"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-0500",
+                            "1122000500"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392079g30-denso-ha1122001821-141482.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-79G30",
+                            "3392079G30"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "HA112200-1821",
+                            "HA1122001821"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392079g40-denso-ha1122001841-104230.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-79G40",
+                            "3392079G40"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "HA112200-1841",
+                            "HA1122001841"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Alto 1.1i (Alto, FF) Year of manufacture 2003 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392079g60-denso-ha1122001861-118315.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-79G60",
+                            "3392079G60"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "HA112200-1861",
+                            "HA1122001861"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Alto 1.1i (Alto, FF) Year of manufacture 2002 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392080cq0-denso-1122000870-104234.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-80CQ0",
+                            "3392080CQ0"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-0870",
+                            "1122000870"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-denso-typ-1/suzuki-3392080cq1-denso-1122000871-105889.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-80CQ1",
+                            "3392080CQ1"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112200-0871",
+                            "1122000871"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Samurai 1.3i (Samurai, SJ) Year of manufacture 2002 - 2003"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "MPI Hitachi Type 1",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mpi+hitachi+type+1-746.ts1628722659.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/mpi-hitachi-type-1-281",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392062g50-hitachi-484.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-62G50",
+                            "3392062G50"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392062g51-hitachi-fi310a-253.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-62G51",
+                            "3392062G51"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-310A",
+                            "FI310A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Baleno 1.8i (Baleno, EG) Year of manufacture 1997 - 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392064b53-hitachi-fi018-124656.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-64B53",
+                            "3392064B53"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-018",
+                            "FI018"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392064e11-hitachi-fi022a-118507.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-64E11",
+                            "3392064E11"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-022A",
+                            "FI022A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392075f50-hitachi-f1620-930.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-75F50",
+                            "3392075F50"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "F1-620",
+                            "F1620"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392075f50-hitachi-fi620-104164.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-75F50",
+                            "3392075F50"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-620",
+                            "FI620"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Wagon R+ 1.0i (Wagon R, EM) Year of manufacture 1998 - 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392075f51-hitachi-fi620a-931.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-75F51",
+                            "3392075F51"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-620A",
+                            "FI620A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Wagon R+ 1.0i (Wagon R, EM) Year of manufacture 1998 - 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392075fg0-hitachi-fi720-932.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-75FG0",
+                            "3392075FG0"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-720",
+                            "FI720"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392075fh0-hitachi-fi750-1133.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-75FH0",
+                            "3392075FH0"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-750",
+                            "FI750"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Wagon R+ 1.2i (Wagon R, EM) Year of manufacture 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392077e10-hitachi-fi031-124657.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-77E10",
+                            "3392077E10"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-031",
+                            "FI031"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392077e80-hitachi-fi210-118509.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-77E80",
+                            "3392077E80"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-210",
+                            "FI210"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 2.0i V6 (Vitara, ET) Year of manufacture 1996 - 1997"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392078em0-hitachi-118508.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-78EM0",
+                            "3392078EM0"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 2.0i Cabrio (Vitara, ET) Year of manufacture 1999",
+                    "SUZUKI Vitara 2.0i (Vitara, ET) Year of manufacture 1997 - 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392078en0-hitachi-fi251-356.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-78EN0",
+                            "3392078EN0"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-251",
+                            "FI251"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 2.0i Cabrio (Vitara, ET) Year of manufacture 1997 - 1999",
+                    "SUZUKI Vitara 2.0i (Vitara, ET) Year of manufacture 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-1/suzuki-3392078eq0-hitachi-fi211a-799.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-78EQ0",
+                            "3392078EQ0"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-211A",
+                            "FI211A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty ignition driver"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 2.0i V6 (Vitara, ET) Year of manufacture 1998"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "MPI Hitachi Type 2",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mpi+hitachi+type+2-2348.ts1628711310.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/mpi-hitachi-type-2-4265",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-2/suzuki-3392067d60-hitachi-fi241-104221.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-67D60",
+                            "3392067D60"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-241",
+                            "FI241"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.5i V6 (Grand Vitara, FT) Year of manufacture 1999 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-2/suzuki-3392067d61-hitachi-fi241a-105905.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-67D61",
+                            "3392067D61"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI-241A",
+                            "FI241A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.5i V6 (Grand Vitara, FT) Year of manufacture 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-2/suzuki-3392067d70-hitachi-pcmsb510-104240.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-67D70",
+                            "3392067D70"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "PCMSB-510",
+                            "PCMSB510"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.5i V6 (Grand Vitara, FT) Year of manufacture 1998 - 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-2/suzuki-3392067dg0-hitachi-fi05020-105659.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-67DG0",
+                            "3392067DG0"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "FI05-020",
+                            "FI05020"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.5i V6 (Grand Vitara, FT) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-hitachi-type-2/suzuki-3392067dh0-hitachi-pcmsb610-105935.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-67DH0",
+                            "3392067DH0"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi - Part number",
+                        "numbers": [
+                            "PCMSB-610",
+                            "PCMSB610"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "MPI Mitsubishi Electric Type 1",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mpi+mitsubishi+electric+type+1-171284.ts1628712480.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1-3773",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1/suzuki-3392058b10-mitsubishi-electric-e2t41471-112327.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-58B10",
+                            "3392058B10"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T41471"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1/suzuki-3392058b20-mitsubishi-electric-e2t41481-124880.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-58B20",
+                            "3392058B20"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T41481"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1/suzuki-3392058b30-mitsubishi-electric-e2t41571-308.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-58B30",
+                            "3392058B30"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T41571"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1/suzuki-3392058b40-mitsubishi-electric-e2t41581-948.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-58B40",
+                            "3392058B40"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T41581"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1/suzuki-3392059b70-mitsubishi-electric-e2t41871-112328.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-59B70",
+                            "3392059B70"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T41871"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i (Vitara, ET) Year of manufacture 1995"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1/suzuki-3392065b30-mitsubishi-electric-e2t41271-103380.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-65B30",
+                            "3392065B30"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T41271"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1/suzuki-3392070f70-mitsubishi-electric-e2t48272-762.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-70F70",
+                            "3392070F70"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T48272"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Alto 1.0i (Alto, EF) Year of manufacture 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1/suzuki-3392070f80-mitsubishi-electric-e2t48274-708.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-70F80",
+                            "3392070F80"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T48274"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Alto 1.0i (Alto, EF) Year of manufacture 1997 - 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1/suzuki-3392071e50-mitsubishi-electric-e2t46371-519.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-71E50",
+                            "3392071E50"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T46371"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i (Vitara, ET) Year of manufacture 1995"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1/suzuki-3392071ed0-mitsubishi-electric-e2t48171-130476.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-71ED0",
+                            "3392071ED0"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T48171"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i (Vitara, ET) Year of manufacture 1996"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1/suzuki-3392071ee0-mitsubishi-electric-e2t48172-103383.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-71EE0",
+                            "3392071EE0"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T48172"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i Cabrio (Vitara, ET) Year of manufacture 1996 - 1997"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mpi-mitsubishi-electric-type-1/suzuki-3392079e50-mitsubishi-electric-e2t44771-103382.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-79E50",
+                            "3392079E50"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T44771"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i (Vitara, ET) Year of manufacture 1996 - 1997"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Mitsubishi Electric MPI Type 2",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mitsubishi+electric+mpi+type+2-455.ts1628718731.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2-4042",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392050j21-mitsubishi-electric-e6t16971-121215.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-50J21",
+                            "3392050J21"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T16971"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 1.6i (Grand Vitara, FT) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392051j20-mitsubishi-electric-e6t16873h-153280.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-51J20",
+                            "3392051J20"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T16873H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392051j21-mitsubishi-electric-e6t16873h1-104482.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-51J21",
+                            "3392051J21"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T16873H1"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.0i (Grand Vitara, FT) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392051j30-mitsubishi-electric-e6t16874h-118357.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-51J30",
+                            "3392051J30"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T16874H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392052d4-mitsubishi-electric-e6t14671-118358.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-52D4",
+                            "3392052D4"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T14671"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.7i V6 (Grand Vitara, HT) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392054jj1-mitsubishi-electric-e6t17375h1-118904.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-54JJ1",
+                            "3392054JJ1"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T17375H1"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392065d64-mitsubishi-electric-e6t10872h4-112330.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-65D64",
+                            "3392065D64"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T10872H4"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.0i (Grand Vitara, FT) Year of manufacture 2000 - 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392065d7-mitsubishi-electric-e6t12972h4-112331.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-65D7",
+                            "3392065D7"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T12972H4"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.0i (Grand Vitara, FT) Year of manufacture 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392065dg0-mitsubishi-electric-e6t12572h-129151.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-65DG0",
+                            "3392065DG0"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T12572H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392065dg1-mitsubishi-electric-e6t12572h1-104481.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-65DG1",
+                            "3392065DG1"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T12572H1"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.0i (Grand Vitara, GT) Year of manufacture 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392065dg3-mitsubishi-electric-e6t12572h3-113195.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-65DG3",
+                            "3392065DG3"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T12572H3"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.0i (Grand Vitara, GT) Year of manufacture 2000 - 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392066dg1-mitsubishi-electric-e6t12772h1-112329.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-66DG1",
+                            "3392066DG1"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T12772H1"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392070er0-mitsubishi-electric-e6t14271h-112332.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-70ER0",
+                            "3392070ER0"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T14271H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i (Vitara, ET) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392082d20-mitsubishi-electric-e6t14072-104480.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-82D20",
+                            "3392082D20"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T14072"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 1.6i Cabrio (Grand Vitara, GT) Year of manufacture 2002",
+                    "SUZUKI Grand Vitara 1.6i (Grand Vitara, FT) Year of manufacture 2001 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392082d21-mitsubishi-electric-e6t14072-120789.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-82D21",
+                            "3392082D21"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T14072"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 1.6i Cabrio (Grand Vitara, GT) Year of manufacture 2003",
+                    "SUZUKI Grand Vitara 1.6i (Grand Vitara, FT) Year of manufacture 2002 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/mitsubishi-electric-mpi-type-2/suzuki-3392165d62-mitsubishi-electric-e6t13672h2-118356.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33921-65D62",
+                            "3392165D62"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T13672H2"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Various errors possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Grand Vitara 2.0i (Grand Vitara, FT) Year of manufacture 2003"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "SPI Gen. 1",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/spi+gen+1-747.ts1628722659.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/spi-gen.-1-282",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392056b30-mitsubishi-electric-e2t41271-171.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-56B30",
+                            "3392056B30"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T41271"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i Cabrio (Vitara, ET) Year of manufacture 1991 - 1992",
+                    "Suzuki Vitara 1.6i (Vitara, ET) Year of manufacture 1991"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392056b40-mitsubishi-electric-e2t41281-106579.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-56B40",
+                            "3392056B40"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T41281"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i Cabrio (Vitara, ET) Year of manufacture 1993"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392056b70-mitsubishi-electric-e2t41371-629.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-56B70",
+                            "3392056B70"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T41371"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i Cabrio (Vitara, ET) Year of manufacture 993 - 2004",
+                    "SUZUKI Vitara 1.6i (Vitara, ET) Year of manufacture 1990 - 1993"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392056b80-mitsubishi-electric-e2t41381-340.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-56B80",
+                            "3392056B80"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T41381"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i Cabrio (Vitara, ET) Year of manufacture 1988 - 1993",
+                    "SUZUKI Vitara 1.6i (Vitara, ET) Year of manufacture 1991 - 1993"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392060a10-mitsubishi-electric-e2t40471-112333.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-60A10",
+                            "3392060A10"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T40471"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i (Vitara, ET) Year of manufacture 1990"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392060a31-mitsubishi-electric-e2t40472-170.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-60A31",
+                            "3392060A31"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T40472"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI (Vitara, ET) Year of manufacture 1990"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392060a32-mitsubishi-electric-e2t40473-123715.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-60A32",
+                            "3392060A32"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T40473"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392060a70-mitsubishi-electric-e2t40671-1120.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-60A70",
+                            "3392060A70"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T40671"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i Cabrio (Vitara, ET) Year of manufacture 1990 - 1994",
+                    "SUZUKI Vitara 1.6i (Vitara, ET) Year of manufacture 1990"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392060a80-mitsubishi-electric-e2t40681-341.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-60A80",
+                            "3392060A80"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T40681"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i (Vitara, ET) Year of manufacture 1990 - 1991"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392060a90-mitsubishi-electric-e2t41071-116482.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-60A90",
+                            "3392060A90"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T41071"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392070e30-mitsubishi-electric-e2t46071-147782.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-70E30",
+                            "3392070E30"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T46071"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i Cabrio (Vitara, ET) Year of manufacture 1996"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392070f60-mitsubishi-electric-e2t42371-105868.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-70F60",
+                            "3392070F60"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T42371"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Alto 1.0i (Alto, EF) Year of manufacture 1996 - 1997"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392080c30-mitsubishi-electric-e2t40871-342.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-80C30",
+                            "3392080C30"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T40871"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Samurai 1.3i (Samurai, SJ) Year of manufacture 1990 - 1993"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392080c70-mitsubishi-electric-e2t40971-211.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-80C70",
+                            "3392080C70"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T40971"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Samurai 1.3i (Samurai, SJ) Year of manufacture 1988 - 1995"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-1/suzuki-3392081c70-mitsubishi-electric-e2t43471-1153.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-81C70",
+                            "3392081C70"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T43471"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No actuation of the injector"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehicle does not start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Samurai 1.3i (Samurai, SJ) Year of manufacture 1990 - 1997"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "SPI Gen. 2",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/spi+gen+2-171285.ts1628712480.jpg",
+        "product_link": "https://ecu.eu/suzuki/engine-control-unit-49/suzuki/engine-control-unit/spi-gen.-2-3772",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-2/suzuki-3392070e10-mitsubishi-electric-e2t47472-103381.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-70E10",
+                            "3392070E10"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T47472"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Vitara 1.6i (Vitara, ET) Year of manufacture 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-2/suzuki-3392080cg0-mitsubishi-electric-e2t47871-103313.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-80CG0",
+                            "3392080CG0"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T47871"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Samurai 1.3i (Samurai, SJ) Year of manufacture 1996 - 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-2/suzuki-3392080ck0-mitsubishi-electric-e6t12071-103311.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-80CK0",
+                            "3392080CK0"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E6T12071"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Samurai 1.3i (Samurai, SJ) Year of manufacture 1998 - 2001 Engine code G13"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/engine-control-unit/spi-gen.-2/suzuki-3392081cc0-mitsubishi-electric-e2t48371-103312.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "33920-81CC0",
+                            "3392081CC0"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E2T48371"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Samurai 1.3i (Samurai, SJ) Year of manufacture 1998"
+                ]
+            }
+        ]
+    }
+]

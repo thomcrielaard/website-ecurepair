@@ -1,0 +1,2340 @@
+[
+    {
+        "part_name": "ELECTRONIC CPC/FR",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/electronic+cpc+fr-665266.ts1637221484.jpg",
+        "product_link": "https://ecu.eu/mercedes-truck/traction-drive-control-6424/mercedes-truck/traction-drive-control/electronic-cpc-fr-6468",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc-fr/mercedes-a0014464102-siemensvdo-a2c53090679-150007.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 001 446 41 02",
+                            "A0014464102"
+                        ]
+                    },
+                    {
+                        "title": "SiemensVDO - Part number",
+                        "numbers": [
+                            "A2C53090679"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "complete failures, if cold, often together with CAN faults"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc-fr/mercedes-a0014465402-siemens-a2c53212674-127351.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 001 446 54 02",
+                            "A0014465402"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "A2C53212674"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "complete failures, if cold, often together with CAN faults"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc-fr/mercedes-a0014465502-siemens-a2c53212676-127352.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 001 446 55 02",
+                            "A0014465502"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "A2C53212676"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "complete failures, if cold, often together with CAN faults"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc-fr/mercedes-a0014465702-siemens-a2c53212678-139631.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 001 446 57 02",
+                            "A0014465702"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "A2C53212678"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "complete failures, if cold, often together with CAN faults"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc-fr/mercedes-a0014465802-siemens-a2c53212679-127198.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 001 446 58 02",
+                            "A0014465802"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "A2C53212679"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "complete failures, if cold, often together with CAN faults"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 2633 L/NLA6X2/4 (Econic, 957) Year of manufacture 2012",
+                    "MERCEDES 816D 4X2 (Vario, 670) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc-fr/mercedes-a0014465902-siemens-a2c53212680-149316.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 001 446 59 02",
+                            "A0014465902"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "A2C53212680"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "complete failures, if cold, often together with CAN faults"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1524 L 4X2 (Atego, 970) Year of manufacture 2007",
+                    "MERCEDES 1824 AK 4X4 (Axor, 952) Year of manufacture 2008",
+                    "MERCEDES 2541 L/NR 6X2 (Actros, 930) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc-fr/mercedes-a0024461102-continental-a2c53239605-127439.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 002 446 11 02",
+                            "A0024461102"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C53239605"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "complete failures, if cold, often together with CAN faults"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc-fr/mercedes-a0024461302-siemens-a2c53246424-122754.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 002 446 13 02",
+                            "A0024461302"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "A2C53246424"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "complete failures, if cold, often together with CAN faults"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1524 4X2 (Atego, 970) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc-fr/mercedes-a0024465002-continental-a2c53420870-152995.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 002 446 50 02",
+                            "A0024465002"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C53420870"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "complete failures, if cold, often together with CAN faults"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 2544 L 6X2 (Actros, 930) Year of manufacture 2013"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ELECTRONIC CPC3",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/electronic+cpc3-406111.ts1628716905.jpg",
+        "product_link": "https://ecu.eu/mercedes-truck/traction-drive-control-6424/mercedes-truck/traction-drive-control/electronic-cpc3-6425",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034462802-continental-a2c32535100-141333.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 28 02",
+                            "A0034462802"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C32535100"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1830 L nR 4x2 (Antos, 963) Year of manufacture 2013",
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2012",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2013 - 2014",
+                    "MERCEDES 2551 LS 6x2 (Actros, 963) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034463002-continental-a2c32535101-142002.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 30 02",
+                            "A0034463002"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C32535101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2542 L 6X2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2542 L 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2545 L nR 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2551 LS 6x2 (Actros, 963) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034463102-continental-141999.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 31 02",
+                            "A0034463102"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034466102-continental-a2c32927201-140105.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 61 02",
+                            "A0034466102"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C32927201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1836 LSnRL 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1840 LS 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1842 L nR 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1843 L nRA 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1845 LS 4X2 (Actros, 963) Year of manufacture 2013 - 2016",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1845 LSnRL 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2542 L 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2542 L/NR 6X2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2543 L 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2545 L 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2545 L nR 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2551 L 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2551 L 6x2 (Arocs, 964) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034466202-continental-142000.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 62 02",
+                            "A0034466202"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034466302-continental-a2c32927202-130285.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 63 02",
+                            "A0034466302"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C32927202"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1018 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1218 L 4X2 (Atego, 967) Year of manufacture 2013 - 2015",
+                    "MERCEDES 1218 L/NR 4X2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1221 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1221 L/NR 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1223 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1223 L/NR 4X2 (Atego, 967) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1224 4X2 (Atego, 967) Year of manufacture 2013",
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2014 - 2016",
+                    "MERCEDES 1224 L/NR 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1227 L 4x2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1230 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1230 L 4x2 (Atego, 967) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1323 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1324 K 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1518 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1524 L 4X2 (Atego, 967) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1527 L 4X2 (Atego, 967) Year of manufacture 2013 - 2018",
+                    "MERCEDES 1530 L 4X2 (Atego, 967) Year of manufacture 2013 - 2016",
+                    "MERCEDES 1824 L 4x2 (Antos, 963) Year of manufacture 2014",
+                    "MERCEDES 1827 L 4x2 (Antos, 963) Year of manufacture 2014",
+                    "MERCEDES 1830 K 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1830 L 4X2 (Econic, 956) Year of manufacture 2014",
+                    "MERCEDES 1830 L 4x2 (Antos, 963) Year of manufacture 2013",
+                    "MERCEDES 1832 L 4x2 (Antos, 963) Year of manufacture 2014 - 2016",
+                    "MERCEDES 1832 LS 4x2 (Antos, 963) Year of manufacture 2014",
+                    "MERCEDES 1833 K 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1833 LS 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1836 L 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1836 L nR 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1836 LS 4x2 (Antos, 963) Year of manufacture 2013",
+                    "MERCEDES 1840 L 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1840 LS 4x2 (Actros, 963) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1840 LSnRL 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1842 L 4x2 (Actros, 963) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1842 L 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1842 LSnRL 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1843 L 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1843 L nRA 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1843 LS 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1843 LS 4x2 (Arocs, 964) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1843 LSnRA 4x2 (Actros, 963) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1843 LSnRL 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1845 K 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1845 L 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1845 L nRA 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2012 - 2014",
+                    "MERCEDES 1845 LSnRL 4x2 (Actros, 963) Year of manufacture 2013 - 2017",
+                    "MERCEDES 1848 LS 4X2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1848 LS 4x2 (Actros, 963) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1848 LSnRL 4x2 (Actros, 963) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1851 LS 4x2 (Actros, 963) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1863 LS 4x2 (Actros, 963)",
+                    "MERCEDES 2445 LS 6x2/2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2533 L 6x2 (Antos, 963) Year of manufacture 2014",
+                    "MERCEDES 2535 L 6x2 (Antos, 963) Year of manufacture 2014",
+                    "MERCEDES 2536 L nR 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2540 L 6x2 (Antos, 963) Year of manufacture 2014",
+                    "MERCEDES 2540 L nR 6x2 (Antos, 963) Year of manufacture 2013 - 2014",
+                    "MERCEDES 2542 L 6x2 (Actros, 963) Year of manufacture 2013 - 2014",
+                    "MERCEDES 2542 L 6x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2543 L 6x2 (Actros, 963) Year of manufacture 2013 - 2016",
+                    "MERCEDES 2543 L 6x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2545 L 6x2 (Antos, 963) Year of manufacture 2013 - 2014",
+                    "MERCEDES 2545 L 6x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2548 L 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2548 L/NR 6X2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2551 L 6x2 (Actros, 963) Year of manufacture 2013 - 2018",
+                    "MERCEDES 2551 LS 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2563 L 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2630 L ENA 6X2/4 (Econic, 956) Year of manufacture 2013",
+                    "MERCEDES 2635 L ENA 6X2/4 (Econic, 956) Year of manufacture 2014",
+                    "MERCEDES 2640 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2643 K 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2645 K 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2648 K 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2648 LK 6x4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 2648 LS 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2651 K 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2651 L 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2651 LK 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2651 LS 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 3235 K 8x4/4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 3243 K 8x4/4 (Arocs, 964) Year of manufacture 2013 - 2014",
+                    "MERCEDES 3245 K 8x4/4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 3251 L 8x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 3251 L 8x4/4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 3345 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 4142 B 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 4145 B 8x4/4 (Arocs, 964) Year of manufacture 2013",
+                    "MERCEDES 4145 K 8x4/4 (Arocs, 964) Year of manufacture 2013",
+                    "MERCEDES 4148 K 8x4/4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 4151 K 8x4/4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 816 4X2 (Atego, 967) Year of manufacture 2014 - 2017",
+                    "MERCEDES 816 4x2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 816 L 4X2 (Atego, 967) Year of manufacture 2013 - 2017",
+                    "MERCEDES 818 K 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2013 - 2017",
+                    "MERCEDES 821 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 823 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 824 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 918 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES U423 4x4 (Unimog, 405) Year of manufacture 2014",
+                    "MERCEDES U427 4x4 (Unimog, 405) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034466402-continental-a2c37407202-142001.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 64 02",
+                            "A0034466402"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C37407202"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1018 K 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1018 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1218 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1218 L/NR 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1221 K 4X2 (Atego, 967) Year of manufacture 2013",
+                    "MERCEDES 1221 NR 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1223 K 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1223 L/NR 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1323 K 4x2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1523 4X2 (Atego, 967) Year of manufacture 2013",
+                    "MERCEDES 1524 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1530 L 4x2 (Atego, 967) Year of manufacture 2013",
+                    "MERCEDES 816 L 4X2 (Atego, 967) Year of manufacture 2013",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 918 L 4X2 (Atego, 967) Year of manufacture 2013 - 2014",
+                    "MERCEDES 921 4X2 (Atego, 967) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034466502-continental-a2c32927203-136036.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 65 02",
+                            "A0034466502"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C32927203"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1218 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1223 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1223 L/NR 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1230 L 4x2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1324 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1518 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1524 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1527 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1530 L 4x2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1832 K 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1832 L 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1833 L 4x2 (Antos, 963) Year of manufacture 2014",
+                    "MERCEDES 1833 L 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1836 L 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1840 L 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1840 LS 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1840 LSnRL 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1842 LSnRL 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1843 AK 4x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1843 L 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1843 L nRA 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1843 LS 4x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1843 LS 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1843 LSnRL 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2013 - 2014",
+                    "MERCEDES 1845 LS nR 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1845 LSnRL 4x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1848 LS 4x2 (Actros, 963) Year of manufacture 2012 - 2014",
+                    "MERCEDES 1848 LSnRL 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2533 L 6x2 (Antos, 963) Year of manufacture 2014",
+                    "MERCEDES 2536 L 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2540 L 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2542 L 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2543 L 6x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 2543 L 6x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2545 L 6x2 (Actros, 963) Year of manufacture 2013 - 2016",
+                    "MERCEDES 2545 L 6x2 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2551 L nR 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2551 LS 6x2/2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2630 L ENA 6X2/4 (Econic, 956) Year of manufacture 2015",
+                    "MERCEDES 2635 L ENA 6X2/4 (Econic, 956) Year of manufacture 2014 - 2015",
+                    "MERCEDES 2642 L 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 3242 B 8x4/4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 3251 LK 8x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3363 LS 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 4145 K 8x4/4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 4148 K 8x4/4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 816 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 816 4x2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 816 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 818 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 923 L 4X2 (Atego, 967) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034466602-continental-a2c37407204-138225.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 66 02",
+                            "A0034466602"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C37407204"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1223 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1223 L/NR 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 2048 AS 4x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 816 4x2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 816 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034466802-continental-a2c37407203-140145.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 68 02",
+                            "A0034466802"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C37407203"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 816 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 818 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 818 K 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034467002-continental-a2c32927205-139388.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 70 02",
+                            "A0034467002"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C32927205"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1221 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1223 L 4X2 (Atego, 967) Year of manufacture 2015 - 2016",
+                    "MERCEDES 1223 L/NR 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2015 - 2016",
+                    "MERCEDES 1224 L/NR 4X2 (Atego, 967) Year of manufacture 2015 - 2016",
+                    "MERCEDES 1230 L 4x2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1321 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1324 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1327 LS 4x2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1330 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1524 L 4X2 (Atego, 967) Year of manufacture 2015 - 2016",
+                    "MERCEDES 1527 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1530 L 4x2 (Atego, 967) Year of manufacture 2015 - 2016",
+                    "MERCEDES 1830 GL 4x2 (Econic, 956) Year of manufacture 2016",
+                    "MERCEDES 1830 L 4x2 (Antos, 963) Year of manufacture 2016",
+                    "MERCEDES 1835 K 4x2 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 1836 L 4x2 (Antos, 963) Year of manufacture 2015",
+                    "MERCEDES 1836 L nRA 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1836 LSnRL 4x2 (Actros, 963) Year of manufacture 2014 - 2016",
+                    "MERCEDES 1840 L 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1840 LS 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1840 LSnRL 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1842 AS 4x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 1842 L nR 4x2 (Actros, 963) Year of manufacture 2015 - 2016",
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1842 LSnRL 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1843 K 4x2 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 1843 L 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1843 LS 4x2 (Actros, 963) Year of manufacture 2015 - 2016",
+                    "MERCEDES 1843 LSnRL 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1845 LK 4x2 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2015 - 2016",
+                    "MERCEDES 1845 LS 4x2 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 1845 LSnRL 4x2 (Actros, 963) Year of manufacture 2015 - 2016",
+                    "MERCEDES 1848 L nR 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1848 L nRA 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1848 LS 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1848 LS 4x2 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 1848 LSnRL 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1851 LS 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1851 LS 4x2 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2533 L 6x2 (Antos, 963) Year of manufacture 2015",
+                    "MERCEDES 2536 L 6x2 (Actros, 963) Year of manufacture 2015 - 2016",
+                    "MERCEDES 2536 L nR 6x2 (Actros, 963) Year of manufacture 2015 - 2016",
+                    "MERCEDES 2540 L 6x2 (Antos, 963) Year of manufacture 2015",
+                    "MERCEDES 2542 L 6x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2542 L nR 6x2 (Actros, 963) Year of manufacture 2015 - 2016",
+                    "MERCEDES 2543 L 6x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2545 L 6x2 (Actros, 963) Year of manufacture 2015 - 2016",
+                    "MERCEDES 2545 L nR 6x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2548 L 6x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2548 LnR 6x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2551 L 6x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2630 GL ENA 6x2/4 (Econic, 956) Year of manufacture 2016",
+                    "MERCEDES 2630 L ENA 6X2/4 (Econic, 956) Year of manufacture 2015 - 2016",
+                    "MERCEDES 2635 L ENA 6X2/4 (Econic, 956) Year of manufacture 2015 - 2016",
+                    "MERCEDES 2640 K 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2642 K 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2643 LK 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2645 K 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2645 L 6x4 (Actros, 964) Year of manufacture 2015",
+                    "MERCEDES 2651 LK 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3240 B 8x4/4 (Arocs, 964) Year of manufacture 2015 - 2016",
+                    "MERCEDES 3243 K 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3245 K 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3245 LK 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3351 A 6x6 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 4142 K 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 816 4x2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 816 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 818 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2015 - 2016",
+                    "MERCEDES 821 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 823 L 4X2 (Atego, 967) Year of manufacture 2014 - 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034467102-continental-a2c37407206-141114.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 71 02",
+                            "A0034467102"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C37407206"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1221 L/NR 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1221 NR 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1223 L/NR 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1224 L/NR 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1323 AK 4x4 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1323 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1323 LKO 4x2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1523 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1527 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1840 LS 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1843 L nRA 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1843 LSnRA 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1863 LS 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2540 L 6x2 (Antos, 963) Year of manufacture 2015",
+                    "MERCEDES 2558 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2658 LK 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2663 L 6x4 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2663 LS 6x4 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 816 4x2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 818 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 821 K 4X2 (Atego, 967) Year of manufacture 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034467202-continental-a2c32927204-136613.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 72 02",
+                            "A0034467202"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C32927204"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1218 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1218 L/NR 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1221 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1221 L/NR 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1223 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1223 L/NR 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1227 L 4x2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1324 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1327 L 4x2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1330 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1523 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1524 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1527 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1530 L 4x2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1830 L 4X2 (Econic, 956) Year of manufacture 2015",
+                    "MERCEDES 1830 L 4x2 (Antos, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1832 LS 4x2 (Antos, 963) Year of manufacture 2015",
+                    "MERCEDES 1833 L 4x2 (Antos, 963) Year of manufacture 2015",
+                    "MERCEDES 1835 L 4x2 (Antos, 963) Year of manufacture 2015",
+                    "MERCEDES 1836 LSnRL 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1840 AS 4x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 1840 LS 4x2 (Antos, 963) Year of manufacture 2013 - 2015",
+                    "MERCEDES 1842 L 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1842 LSnRL 4x2 (Actros, 963) Year of manufacture 2013 - 2015",
+                    "MERCEDES 1843 L 4x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1843 L nRA 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1843 LS 4x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1843 LS 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1843 LSnRA 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1843 LSnRL 4x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1845 L nRA 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1845 LS 4x2 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 1845 LSnRL 4x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1848 AS 4X4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 1848 LS 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1848 LSnRL 4x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1851 AS 4x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 1863 LS 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2533 L 6x2 (Antos, 963) Year of manufacture 2015",
+                    "MERCEDES 2540 L 6x2 (Antos, 963) Year of manufacture 2015",
+                    "MERCEDES 2540 L 6x2 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2542 L 6X2 (Actros, 963) Year of manufacture 2012 - 2015",
+                    "MERCEDES 2542 L nR 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2543 L 6x2 (Antos, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 2543 L 6x2 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2543 L nR 6x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2545 L 6x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 2545 L 6x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2545 L nR 6x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 2548 L 6x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 2548 L 6x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2548 L nR 6x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2551 L 6x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 2551 LS 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2630 L ENA 6X2/4 (Econic, 956) Year of manufacture 2015",
+                    "MERCEDES 2635 L ENA 6X2/4 (Econic, 956) Year of manufacture 2014 - 2015",
+                    "MERCEDES 2642 L DNA 6x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2643 K 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2643 LK 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2651 LK 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2658 K 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2658 LS 6x4 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2663 LS 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3240 B 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3243 B 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3248 K 8x4/4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 3258 L 8x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 3263 LK 6x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 3345 AK 6X6 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3348 AK 6X6 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3348 K 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3358 LS 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 4140 AK 8x6/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 4148 AK 8x6/4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 4151 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 816 4x2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 816 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 818 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 818 K 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 821 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 823 K 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 823 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 824 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES U427 4x4 (Unimog, 405) Year of manufacture 2015",
+                    "MERCEDES U430 4x4 (Unimog, 405) Year of manufacture 2015 - 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034467302-continental-a2c37407205-137982.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 73 02",
+                            "A0034467302"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C37407205"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1018 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1218 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1218 K 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1218 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1223 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1223 L/NR 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1518 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1524 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1836 L 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2648 K 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3240 B 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 816 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 816 K 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 816 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 818 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 824 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 918 L 4X2 (Atego, 967) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034467402-continental-a2c32927206-139389.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 74 02",
+                            "A0034467402"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C32927206"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1221 L/NR 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1223 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1230 L 4x2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1323 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1323 LKO 4x2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1324 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1330 L 4x2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1523 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1524 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1527 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1530 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1530 L 4x2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1830 L 4x2 (Antos, 963) Year of manufacture 2016",
+                    "MERCEDES 1833 LS 4x2 (Antos, 963) Year of manufacture 2016",
+                    "MERCEDES 1836 LSnRL 4x2 (Actros, 963) Year of manufacture 2014 - 2016",
+                    "MERCEDES 1840 L 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1840 L nR 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1840 LS 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1842 LSnRL 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1843 L nR 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1843 LS 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1843 LS 4x2 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 1845 L nRA 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2016 - 2017",
+                    "MERCEDES 1845 LS 4x2 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 1845 LSnRL 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1848 LS 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1848 LS 4x2 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 1848 LSnRL 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1851 LS 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1853 LS 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2527 L nR 6x2 (Antos, 963) Year of manufacture 2016",
+                    "MERCEDES 2533 L 6x2 (Antos, 963) Year of manufacture 2016",
+                    "MERCEDES 2536 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2536 L nR 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2542 L 6X2 (Antos, 963) Year of manufacture 2016",
+                    "MERCEDES 2542 L 6x2 (Actros, 963) Year of manufacture 2017",
+                    "MERCEDES 2542 L nR 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2543 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2545 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2545 L nR 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2548 L 6x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 2551 L 6x2 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 2553 LS 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2563 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2630 L ENA 6X2/4 (Econic, 956) Year of manufacture 2016",
+                    "MERCEDES 2645 LK 6x4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 2651 L 6x4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 3236 B 8x4/4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 3240 B 8x4/4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 3251 LK 8x4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 816 4x2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 816 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 818 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 821 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 823 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 824 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 918 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES U427 4x4 (Unimog, 405) Year of manufacture 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034467502-continental-a2c37407207-142003.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 75 02",
+                            "A0034467502"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C37407207"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1223 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1523 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1840 L nRA 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1843 LSnRA 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1863 LS 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2543 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2545 L 6x2 (Antos, 963) Year of manufacture 2016",
+                    "MERCEDES 2558 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2658 L 6x4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 3243 B 8x4/4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 3343 AK 6x6 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 816 4x2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 816 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2015 - 2016",
+                    "MERCEDES 923 L 4X2 (Atego, 967) Year of manufacture 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034467602-continental-a2c32927207-141612.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 76 02",
+                            "A0034467602"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C32927207"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1021 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2016 - 2017",
+                    "MERCEDES 1230 L 4X2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1327 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1327 L 4x2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1523 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1524 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1527 K 4x2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1527 L 4X2 (Atego, 967) Year of manufacture 2016 - 2017",
+                    "MERCEDES 1530 L 4x2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1830 L 4x2 (Antos, 963) Year of manufacture 2016",
+                    "MERCEDES 1833 L 4x2 (Antos, 963) Year of manufacture 2016",
+                    "MERCEDES 1836 LSnRL 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1836 LSnRL4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1840 LS 4x2 (Actros, 963) Year of manufacture 16 - 2016",
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2016 - 2017",
+                    "MERCEDES 1843 LS 4x2 (Actros, 963) Year of manufacture 2016 - 2017",
+                    "MERCEDES 1845 L nRA 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2016 - 2017",
+                    "MERCEDES 1845 LSnRL 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1846 L 4x2 (Actros, 963) Year of manufacture 2017",
+                    "MERCEDES 1846 LS 4x2 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 1848 L nRA 4x2 (Actros, 963) Year of manufacture 2016 - 2017",
+                    "MERCEDES 1848 LS 4x2 (Actros, 963) Year of manufacture 2016 - 2017",
+                    "MERCEDES 1848 LSnRL 4x2 (Actros, 963) Year of manufacture 2013 - 2017",
+                    "MERCEDES 1853 LS 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2533 L 6x2 (Antos, 963) Year of manufacture 2017",
+                    "MERCEDES 2536 L 6x2 (Antos, 963) Year of manufacture 2016",
+                    "MERCEDES 2536 L nR 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2540 L 6x2 (Antos, 963) Year of manufacture 2016",
+                    "MERCEDES 2542 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2542 L nR 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2543 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2543 L 6x2 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 2545 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2545 L nR 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2548 L 6x2 (Actros, 963) Year of manufacture 2017",
+                    "MERCEDES 2551 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2553 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2553 LS 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2630 L ENA 6X2/4 (Econic, 956) Year of manufacture 2016 - 2017",
+                    "MERCEDES 2635 L ENA 6X2/4 (Econic, 956) Year of manufacture 2016 - 2017",
+                    "MERCEDES 2646 K 6x4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 2651 L DNA 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2651 LS 6x4 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2651 LS 6x4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 3251 L 8x4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 3358 LS 6x4 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 918 L 4X2 (Atego, 967) Year of manufacture 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0034467702-continental-a2c37407208-142004.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 003 446 77 02",
+                            "A0034467702"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C37407208"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1221 L 4X2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1223 L 4X2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1224 K 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1323 LKO 4x2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1324 LKO 4x2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1518 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1843 LSnRA 4x2 (Actros, 963) Year of manufacture 2013 - 2017",
+                    "MERCEDES 1846 L nRA 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1846 LSnRA 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2545 L nR 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 3245 K 8x4/4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 3246 8x4/4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 3358 L 6x4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 4153 8x4/4 (Arocs, 964) Year of manufacture 2018",
+                    "MERCEDES 818 4X2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0044464702-continental-142006.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 004 446 47 02",
+                            "A0044464702"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1024 L 4x2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1221 L 4X2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1230 L 4x2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1323 L 4X2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1524 L 4X2 (Atego, 967) Year of manufacture 2017 - 2018",
+                    "MERCEDES 1530 L 4x2 (Atego, 967) Year of manufacture 2017 - 2018",
+                    "MERCEDES 1830 L 4X2 (Econic, 956) Year of manufacture 2018",
+                    "MERCEDES 1843 LS 4x2 (Actros, 963) Year of manufacture 2018",
+                    "MERCEDES 1843 LSnRL 4x2 (Actros, 963) Year of manufacture 2018",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2014 - 2017",
+                    "MERCEDES 1845 LS 4x2 (Arocs, 964) Year of manufacture 2017",
+                    "MERCEDES 1848 LS 4x2 (Actros, 963) Year of manufacture 2018",
+                    "MERCEDES 1848 LSnRL 4x2 (Actros, 963) Year of manufacture 2018",
+                    "MERCEDES 2533 L 6x2 (Antos, 963) Year of manufacture 2017",
+                    "MERCEDES 2542 L nR 6x2 (Actros, 963) Year of manufacture 2017",
+                    "MERCEDES 2545 L 6x2 (Actros, 963) Year of manufacture 2017",
+                    "MERCEDES 2546 L 6x2 (Actros, 963) Year of manufacture 2017",
+                    "MERCEDES 2630 GL ENA 6x2/4 (Econic, 956) Year of manufacture 2018",
+                    "MERCEDES 2630 L ENA 6X2/4 (Econic, 956) Year of manufacture 2018",
+                    "MERCEDES 823 L 4X2 (Atego, 967) Year of manufacture 2017"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/traction-drive-control/electronic-cpc3/mercedes-a0044464802-continental-142007.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 004 446 48 02",
+                            "A0044464802"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1863 LS 4x2 (Actros, 963) Year of manufacture 2018"
+                ]
+            }
+        ]
+    }
+]

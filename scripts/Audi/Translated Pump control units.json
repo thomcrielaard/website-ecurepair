@@ -1,0 +1,523 @@
+[
+    {
+        "part_name": "Pompregelunit PSG5.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/pump+control+unit+psg5-401.ts1628718729.jpg",
+        "product_link": "https://ecu.eu/audi/pump-control-units-3712/audi/pump-control-units/pump-control-unit-psg5-3714",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/audi/pump-control-units/pump-control-unit-psg5/audi-psg5-bosch-0281001371-107026.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 001 371",
+                            "0281001371"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0526",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01318",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01268 04F4",
+                        "fault_description": "Stroomregelaar (N146)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor stopt tijdens het rijden en start niet meer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A6)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/pump-control-units/pump-control-unit-psg5/audi-psg5-bosch-0281001740-103350.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 001 740",
+                            "0281001740"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0526",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01318",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01268 04F4",
+                        "fault_description": "Stroomregelaar (N146)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor stopt tijdens het rijden en start niet meer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A6) Bouwjaar 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/pump-control-units/pump-control-unit-psg5/audi-psg5-bosch-0281001827-103345.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 001 827",
+                            "0281001827"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0526",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01318",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01268 04F4",
+                        "fault_description": "Stroomregelaar (N146)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor stopt tijdens het rijden en start niet meer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A6) Bouwjaar 1998 - 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/pump-control-units/pump-control-unit-psg5/audi-psg5-bosch-0281010479-103347.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 010 479",
+                            "0281010479"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0526",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01318",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01268 04F4",
+                        "fault_description": "Stroomregelaar (N146)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor stopt tijdens het rijden en start niet meer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A6) Bouwjaar 2000 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/pump-control-units/pump-control-unit-psg5/audi-psg5-bosch-0281010480-121086.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 010 480",
+                            "0281010480"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0526",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01318",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01268 04F4",
+                        "fault_description": "Stroomregelaar (N146)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor stopt tijdens het rijden en start niet meer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A6) Bouwjaar 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/pump-control-units/pump-control-unit-psg5/audi-psg5-bosch-0281010837-103346.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 010 837",
+                            "0281010837"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0526",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01318",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01268 04F4",
+                        "fault_description": "Stroomregelaar (N146)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor stopt tijdens het rijden en start niet meer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A6) Bouwjaar 2003 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/pump-control-units/pump-control-unit-psg5/audi-psg5-bosch-0281010888-103351.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 010 888",
+                            "0281010888"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0526",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01318",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01268 04F4",
+                        "fault_description": "Stroomregelaar (N146)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor stopt tijdens het rijden en start niet meer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A6)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/pump-control-units/pump-control-unit-psg5/audi-psg5-bosch-0281010889-103349.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 010 889",
+                            "0281010889"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0526",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01318",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01268 04F4",
+                        "fault_description": "Stroomregelaar (N146)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor stopt tijdens het rijden en start niet meer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A6) Bouwjaar 2000 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/pump-control-units/pump-control-unit-psg5/audi-psg5-bosch-1227022036-119289.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 227 022 036",
+                            "1227022036"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0526",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01318",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01268 04F4",
+                        "fault_description": "Stroomregelaar (N146)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor stopt tijdens het rijden en start niet meer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/audi/pump-control-units/pump-control-unit-psg5/audi-psg5-bosch-1227022037-103352.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 227 022 037",
+                            "1227022037"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0526",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01318",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01268 04F4",
+                        "fault_description": "Stroomregelaar (N146)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor stopt tijdens het rijden en start niet meer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A6) Bouwjaar 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/pump-control-units/pump-control-unit-psg5/audi-psg5-bosch-1277022036-103348.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 277 022 036",
+                            "1277022036"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0526",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01318",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01268 04F4",
+                        "fault_description": "Stroomregelaar (N146)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor stopt tijdens het rijden en start niet meer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A6) Bouwjaar 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/pump-control-units/pump-control-unit-psg5/audi-psg5-bosch-1277022037-115287.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 277 022 037",
+                            "1277022037"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0526",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01318",
+                        "fault_description": "Injectiepomp ECU (J399)."
+                    },
+                    {
+                        "fault_code": "01268 04F4",
+                        "fault_description": "Stroomregelaar (N146)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor stopt tijdens het rijden en start niet meer."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A6) Bouwjaar 1999 - 2000"
+                ]
+            }
+        ]
+    }
+]

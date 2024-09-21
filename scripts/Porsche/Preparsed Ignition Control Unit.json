@@ -1,0 +1,347 @@
+[
+    {
+        "part_name": "Capacitor Ignition (HKZ)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/capacitor+ignition+hkz-5937.ts1628718749.jpg",
+        "product_link": "https://ecu.eu/porsche/ignition-control-unit-132/porsche/ignition-control-unit/capacitor-ignition-%28hkz%29-4608",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/porsche/ignition-control-unit/capacitor-ignition-%28hkz%29/porsche-90160270200-bosch-0227200001-109439.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "901.602.702.00",
+                            "90160270200"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 200 001",
+                            "0227200001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/ignition-control-unit/capacitor-ignition-%28hkz%29/porsche-91160270700-bosch-0227200001-109437.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "911.602.707.00",
+                            "91160270700"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 200 001",
+                            "0227200001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911) Year of manufacture 1970 - 1976"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/ignition-control-unit/capacitor-ignition-%28hkz%29/porsche-91160270700-bosch-0227200008-109438.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "911.602.707.00",
+                            "91160270700"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 200 008",
+                            "0227200008"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE 911 (911, G-Serie) Year of manufacture 1975",
+                    "PORSCHE 911 Carrera 3.0 (911, G-Serie) Year of manufacture 1975"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/ignition-control-unit/capacitor-ignition-%28hkz%29/porsche-93060270200-alfa-romeo-105646511600-nsu-motorenwerke-3808302301-bosch-0227200002-117227.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "930.602.702.00",
+                            "93060270200"
+                        ]
+                    },
+                    {
+                        "title": "ALFA ROMEO - Part number",
+                        "numbers": [
+                            "105 64 65 116 00",
+                            "105646511600"
+                        ]
+                    },
+                    {
+                        "title": "NSU-MOTORENWERKE - Part number",
+                        "numbers": [
+                            "380 83 02 301",
+                            "3808302301"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 200 002",
+                            "0227200002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911) Year of manufacture 1973"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/ignition-control-unit/capacitor-ignition-%28hkz%29/porsche-93060270200-bosch-0227300004-109380.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "930.602.702.00",
+                            "93060270200"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 300 004",
+                            "0227300004"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911) Year of manufacture 1977 - 1988",
+                    "PORSCHE 911 3.3 Turbo S (911, 930) Year of manufacture 1988"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Electronic ignition (EZ)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/electronic+ignition+ez-816.ts1628722661.jpg",
+        "product_link": "https://ecu.eu/porsche/ignition-control-unit-132/porsche/ignition-control-unit/electronic-ignition-%28ez%29-4609",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/porsche/ignition-control-unit/electronic-ignition-%28ez%29/porsche-96560270601-bosch-0227400676-124971.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "96560270601"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 676",
+                            "0227400676"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911)",
+                    "PORSCHE 911 Turbo (911, 964) Year of manufacture 1991 Engine code M30.69"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/ignition-control-unit/electronic-ignition-%28ez%29/porsche-96560270602-bosch-0227400744-64.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "965 602 706 02",
+                            "96560270602"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 744",
+                            "0227400744"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911) Year of manufacture 1993",
+                    "PORSCHE 911 Turbo (911, 964) Engine code M64.50"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Transistor coil ignition inductive (TSZ-I)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/transistor+coil+ignition+inductive+tsz+i-316595.ts1628715409.jpg",
+        "product_link": "https://ecu.eu/porsche/ignition-control-unit-132/porsche/ignition-control-unit/transistor-coil-ignition-inductive-%28tsz-i%29-6223",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/porsche/ignition-control-unit/transistor-coil-ignition-inductive-%28tsz-i%29/porsche-bosch-0221200001-131161.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 221 200 001",
+                            "0221200001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/ignition-control-unit/transistor-coil-ignition-inductive-%28tsz-i%29/porsche-bosch-0227100008-126772.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 100 008",
+                            "0227100008"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (928) Year of manufacture 1980"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/ignition-control-unit/transistor-coil-ignition-inductive-%28tsz-i%29/porsche-bosch-0227100038-130999.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 100 038",
+                            "0227100038"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (924) Year of manufacture 1980"
+                ]
+            }
+        ]
+    }
+]

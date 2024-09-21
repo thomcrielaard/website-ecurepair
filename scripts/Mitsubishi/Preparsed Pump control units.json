@@ -1,0 +1,40 @@
+[
+    {
+        "part_name": "Pump ecu PSG5",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/pump+ecu+psg5-401.ts1628718729.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/pump-control-units-6975/pump-ecu-psg5-6086",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/pump-ecu-psg5/mitsubishi-psg5-bosch-0281010888-129399.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 010 888",
+                            "0281010888"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine stops while driving and doesn't start again"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Canter 55 (Canter, FE544)"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "part_name": "EUR.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/ford+fs0118200+mitsubishi+electric+t6t57871a-677.ts1628711295.jpg",
+        "product_link": "https://ecu.eu/ford/ignition-distributor-engine-speed-sensor-127",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/ford/ignition-distributor-engine-speed-sensor/ford-fs0118200-mitsubishi-electric-t6t57871a-106262.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "FS01 18 200",
+                            "FS0118200"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "T6T57871A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Probe 2.0i 16V (Probe) Bouwjaar 1994"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/ignition-distributor-engine-speed-sensor/ford-kl01-mitsubishi-electric-t0t57071-110957.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "KL01"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "T0T57071"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Probe 2.5i 24V (Probe) Bouwjaar 1993"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/ignition-distributor-engine-speed-sensor/ford-kl0118200-mitsubishi-electric-t0t57071b-326.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "KL01 18 200",
+                            "KL0118200"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "T0T57071B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Probe 2.5 V6 24V (Probe) Bouwjaar 1995"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/ignition-distributor-engine-speed-sensor/ford-kly118200-mitsubishi-electric-t0t57072-107287.html",
+                "part_numbers": [
+                    {
+                        "title": "Ford - Part number",
+                        "numbers": [
+                            "KLY1 18 200",
+                            "KLY118200"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "T0T57072"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Ford Probe 2.5i 24V (Probe) Bouwjaar 1994 - 1996"
+                ]
+            }
+        ]
+    }
+]

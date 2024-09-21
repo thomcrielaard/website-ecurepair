@@ -1,0 +1,83 @@
+[
+    {
+        "part_name": "EUR",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/volkswagen+vw+025906301c+bosch+0280202079-215142.ts1628723017.jpg",
+        "product_link": "https://ecu.eu/vw-%28volkswagen%29/air-flow-meter-6182",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/air-flow-meter/volkswagen-vw-025906301c-bosch-0280202079-134759.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLKSWAGEN-VW - Part number",
+                        "numbers": [
+                            "025 906 301 C",
+                            "025906301C"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 280 202 079",
+                            "0280202079"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Air flow meter signal defective"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The signal voltage of the air flow meter is noisy"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLKSWAGEN-VW T3 2.1 (T3, 24/25) Year of manufacture 1987 - 1990 Engine code MV",
+                    "VOLKSWAGEN-VW Transporter 2.1 Syncro (T3, 24/25) Year of manufacture 1988 - 1989 Engine code MV",
+                    "VOLKSWAGEN-VW Transporter 2.1 (T3, 24/25) Engine code MV, DJ, SS"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/air-flow-meter/volkswagen-vw-037906301-bosch-0280202106-140781.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLKSWAGEN-VW - Part number",
+                        "numbers": [
+                            "037 906 301",
+                            "037906301"
+                        ]
+                    },
+                    {
+                        "title": "BOSCH - Part number",
+                        "numbers": [
+                            "0280 202 106",
+                            "0280202106"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Air flow meter signal defective"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The signal voltage of the air flow meter is noisy"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLKSWAGEN-VW Golf 1.8 Cabriolet (Golf I, 15) Year of manufacture 1990 - 1992 Engine code 2H"
+                ]
+            }
+        ]
+    }
+]

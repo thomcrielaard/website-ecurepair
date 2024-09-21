@@ -1,0 +1,624 @@
+[
+    {
+        "part_name": "Immobiliser Systeem LUCAS / TRW.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/immobiliser+system+lucas+trw-171302.ts1628712481.jpg",
+        "product_link": "https://ecu.eu/mazda/immobilizer-ecu-152/mazda/immobilizer-ecu/immobiliser-system-lucas-trw-271",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-bj1v675g2-lucas-52010505a-526.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "BJ1V 67 5G2",
+                            "BJ1V675G2"
+                        ]
+                    },
+                    {
+                        "title": "Lucas - Onderdeelnummer.",
+                        "numbers": [
+                            "52010505A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda Demio 1.3i (Demio, DW) Bouwjaar 1998 - 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-dc69675g2a-trw-53070102a-2450.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "DC69 67 5G2A",
+                            "DC69675G2A"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "53070102A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda Demio 1.3i (Demio, DW) Bouwjaar 2000 - 2001",
+                    "Mazda Demio 1.5i (Demio, DW) Bouwjaar 2000 - 2001",
+                    "Mazda MX-5 1.6i (MX-5, NB) Bouwjaar 2000 - 2003",
+                    "Mazda MX-5 1.8i (MX-5, NB) Bouwjaar 2001 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-dc69675g2a-trw-53070102b-103941.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "DC69 67 5G2A",
+                            "DC69675G2A"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "53070102B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda Demio 1.3i (Demio, DW) Bouwjaar 2002",
+                    "Mazda Demio 1.5i (Demio, DW) Bouwjaar 2000 - 2003",
+                    "Mazda MX-5 1.6i (MX-5, NB) Bouwjaar 2002 - 2004",
+                    "Mazda MX-5 1.8i (MX-5, NB) Bouwjaar 2001 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-dc69675g2a-trw-53070102c-121171.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "DC69 67 5G2A",
+                            "DC69675G2A"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "53070102C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda MX-5 1.6i (MX-5, NB) Bouwjaar 2001 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-dc69675g2b-trw-53070102c-114357.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "DC69 67 5G2B",
+                            "DC69675G2B"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "53070102C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda MX-5 1.6i (MX-5, NB) Bouwjaar 2001 - 2005",
+                    "Mazda MX-5 1.8i (MX-5, NB) Bouwjaar 2001 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-ge4t675g2-lucas-52010365c-2324.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "GE4T 67 5G2",
+                            "GE4T675G2"
+                        ]
+                    },
+                    {
+                        "title": "Lucas - Onderdeelnummer.",
+                        "numbers": [
+                            "52010365C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda MX-5 1.6i (MX-5, NB) Bouwjaar 1998 - 1999",
+                    "Mazda MX-5 1.8i (MX-5, NB) Bouwjaar 1998 - 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-ge4t675g2a-lucas-52010365d-2328.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "GE4T 67 5G2A",
+                            "GE4T675G2A"
+                        ]
+                    },
+                    {
+                        "title": "Lucas - Onderdeelnummer.",
+                        "numbers": [
+                            "52010365D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda MX-5 1.6i (MX-5, NB) Bouwjaar 1999 - 2000",
+                    "Mazda MX-5 1.8i (MX-5, NB) Bouwjaar 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-ge4t675g2b-lucas-52010566b-113181.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "GE4T 67 5G2B",
+                            "GE4T675G2B"
+                        ]
+                    },
+                    {
+                        "title": "Lucas - Onderdeelnummer.",
+                        "numbers": [
+                            "52010566B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda 626 1.8i (626, GF/GW) Bouwjaar 1999 - 2000",
+                    "Mazda 626 2.0i (626, GF/GW) Bouwjaar 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-lc62675g2-lucas-52010563a-101865.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "LC62 67 5G2",
+                            "LC62675G2"
+                        ]
+                    },
+                    {
+                        "title": "Lucas - Onderdeelnummer.",
+                        "numbers": [
+                            "52010563A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda 626 1.8i (626, GF/GW) Bouwjaar 2000",
+                    "Mazda 626 2.0i (626, GF/GW) Bouwjaar 1999 - 2000",
+                    "Mazda Demio 1.3i (Demio, DW) Bouwjaar 2000",
+                    "Mazda Demio 1.5i (Demio, DW) Bouwjaar 2000",
+                    "Mazda MPV 2.0i (MPV, LW) Bouwjaar 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-lc62675g2-lucas-52010563b-2533.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "LC62 67 5G2",
+                            "LC62675G2"
+                        ]
+                    },
+                    {
+                        "title": "Lucas - Onderdeelnummer.",
+                        "numbers": [
+                            "52010563B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda 626 1.8i (626, GF/GW) Bouwjaar 2000",
+                    "Mazda 626 2.0i (626, GF/GW) Bouwjaar 2000 - 2001",
+                    "Mazda Demio 1.3i (Demio, DW) Bouwjaar 2000",
+                    "Mazda Demio 1.5i (Demio, DW) Bouwjaar 2000",
+                    "Mazda MPV 2.0i (MPV, LW) Bouwjaar 2000",
+                    "Mazda MX-5 1.8i (MX-5, NB) Bouwjaar 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-lc62675g2a-lucas-52010563c-2327.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "LC62 67 5G2A",
+                            "LC62675G2A"
+                        ]
+                    },
+                    {
+                        "title": "Lucas - Onderdeelnummer.",
+                        "numbers": [
+                            "52010563C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-lc62675g2b-lucas-52010563d-2423.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "LC62 67 5G2B",
+                            "LC62675G2B"
+                        ]
+                    },
+                    {
+                        "title": "Lucas - Onderdeelnummer.",
+                        "numbers": [
+                            "52010563D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda 626 2.0i (626, GF/GW) Bouwjaar 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-lc62675g2b-lucas-52010563e-111013.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "LC62 67 5G2B",
+                            "LC62675G2B"
+                        ]
+                    },
+                    {
+                        "title": "Lucas - Onderdeelnummer.",
+                        "numbers": [
+                            "52010563E"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda MPV 2.0i (MPV, LW) Bouwjaar 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-lc62675g2d-lucas-52010563h-106012.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "LC62 67 5G2D",
+                            "LC62675G2D"
+                        ]
+                    },
+                    {
+                        "title": "Lucas - Onderdeelnummer.",
+                        "numbers": [
+                            "52010563H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda Demio 1.5i (Demio, DW) Bouwjaar 2000",
+                    "Mazda MPV 2.0i (MPV, LW) Bouwjaar 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-lucas-trw/mazda-nc30675g2-lucas-52010365e-2532.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "NC30 67 5G2",
+                            "NC30675G2"
+                        ]
+                    },
+                    {
+                        "title": "Lucas - Onderdeelnummer.",
+                        "numbers": [
+                            "52010365E"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1624",
+                        "fault_description": "Immobilizersysteem communicatie teller=0."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda MX-5 1.6i (MX-5, NB) Bouwjaar 1998 - 2000"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Immobiliser Systeem TEMIC.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/immobiliser+system+temic-689.ts1628722658.jpg",
+        "product_link": "https://ecu.eu/mazda/immobilizer-ecu-152/mazda/immobilizer-ecu/immobiliser-system-temic-272",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-temic/mazda-bh4a675g2-temic-3x0980-103942.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "BH4A 67 5G2",
+                            "BH4A675G2"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x0980"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start niet, immobilizer actief."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda 323 1.5i (323, BA) Bouwjaar 1997",
+                    "Mazda MX-5 1.6i (MX-5, NA) Bouwjaar 1997 - 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-temic/mazda-bh4a675g2a-temic-3x0980-103943.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "BH4A 67 5G2A",
+                            "BH4A675G2A"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x0980"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start niet, immobilizer actief."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-temic/mazda-bh4a675g2b-temic-3x0980-2325.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "BH4A 67 5G2B",
+                            "BH4A675G2B"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x0980"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start niet, immobilizer actief."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda 323 1.3i (323, BA) Bouwjaar 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mazda/immobilizer-ecu/immobiliser-system-temic/mazda-kb94675g2-temic-3x3998-2326.html",
+                "part_numbers": [
+                    {
+                        "title": "Mazda - Onderdeelnummer.",
+                        "numbers": [
+                            "KB94 67 5G2",
+                            "KB94675G2"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x3998"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start niet, immobilizer actief."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mazda 323 1.5i (323, BA)",
+                    "Mazda 626 2.0i (626, GE) Bouwjaar 1995 - 1997",
+                    "Mazda MX-5 1.6i (MX-5, NA) Bouwjaar 1996"
+                ]
+            }
+        ]
+    }
+]

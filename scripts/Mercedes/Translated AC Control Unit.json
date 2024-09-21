@@ -1,0 +1,4447 @@
+[
+    {
+        "part_name": "Extra verwarming Webasto Thermo Top V",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/additional+heater+webasto+thermo+top+v-163999.ts1628712312.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v-5951",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a1645000698-webasto-9003411l-webasto-9015953b-siemensvdo-5wk11453ebf-136557.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 164 500 06 98",
+                            "A1645000698"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9003411 L",
+                            "9003411L"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9015953 B",
+                            "9015953B"
+                        ]
+                    },
+                    {
+                        "title": "SiemensVDO - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11453EBF"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes ML350 4MATIC (M-Klasse, 164) Bouwjaar 2007",
+                    "Mercedes ML500 4MATIC (M-Klasse, 164) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a1645000798-webasto-9015954b-131138.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 164 500 07 98",
+                            "A1645000798"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9015954 B",
+                            "9015954B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes ML320 CDI 4MATIC (M-Klasse, 164) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a1645001498-webasto-9003411j-000018031232-siemens-5wk11453cbf-webasto-9003261g-050606b-119873.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 164 500 14 98",
+                            "A1645001498"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9003411 J",
+                            "9003411J"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "00 0018 03 1232",
+                            "000018031232"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11453CBF"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9003261G"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "050606.B",
+                            "050606B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes GL500 4MATIC (GL-Klasse, 164) Bouwjaar 2006",
+                    "Mercedes ML350 4MATIC (M-Klasse, 164) Bouwjaar 2007",
+                    "Mercedes ML63 AMG (M-Klasse, 164) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a1645001598-webasto-9003412j-9003262g-webasto-9004353l-siemensvdo-5wk11453cbf-121327.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 164 500 15 98",
+                            "A1645001598"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9003412 J",
+                            "9003412J"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9003262 G",
+                            "9003262G"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9004353 L",
+                            "9004353L"
+                        ]
+                    },
+                    {
+                        "title": "SiemensVDO - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11453CBF"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes GL320 CDI 4MATIC (GL-Klasse, 164) Bouwjaar 2007",
+                    "Mercedes GL420 CDI 4MATIC (GL-Klasse, 164) Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a1645002198-webasto-9003412l-webasto-9015954w-siemensvdo-5wk11453ebf-144842.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 164 500 21 98",
+                            "A1645002198"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9003412 L",
+                            "9003412L"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9015954 W",
+                            "9015954W"
+                        ]
+                    },
+                    {
+                        "title": "SiemensVDO - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11453EBF"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes ML320 CDI 4Matic (M-Klasse, 164) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a1645002798-webasto-9015954d-9003412m-continental-5wk11453fbf-142134.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 164 500 27 98",
+                            "A1645002798"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9015954 D",
+                            "9015954D"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11453FBF"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9003412 M",
+                            "9003412M"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes GL420 CDI 4Matic (GL-Klasse, 164) Bouwjaar 2009",
+                    "Mercedes ML320 CDI 4MATIC (M-Klasse, 164) Bouwjaar 2008 - 2009",
+                    "Mercedes ML420 CDI 4Matic (M-Klasse, 164) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a1645003298-webasto-9015953g-9003411q-continental-5wk11453jbf-149789.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 164 500 32 98",
+                            "A1645003298"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9015953 G",
+                            "9015953G"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11453JBF"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9003411 Q",
+                            "9003411Q"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a1645003398-webasto-9015954g-9003412q-continental-5wk11453jbf-142223.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 164 500 33 98",
+                            "A1645003398"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9015954 G",
+                            "9015954G"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11453JBF"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9003412 Q",
+                            "9003412Q"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes GL350 CDI 4MATIC (GL-Klasse, 164) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a1645003498-webasto-9017598d-9003411q-continental-5wk11453jbf-122056.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 164 500 34 98",
+                            "A1645003498"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9017598 D",
+                            "9017598D"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11453JBF"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9003411 Q",
+                            "9003411Q"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a1645003698-webasto-9015954h-9003412r-continental-5wk11453jbf-136490.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 164 500 36 98",
+                            "A1645003698"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9015954 H",
+                            "9015954H"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11453JBF"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9003412 R",
+                            "9003412R"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes ML350 CDI 4Matic (M-Klasse, 164) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a1645003798-webasto-9015956g-9003412r-continental-5wk11453jbf-152331.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 164 500 37 98",
+                            "A1645003798"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9015956 G",
+                            "9015956G"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11453JBF"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9003412 R",
+                            "9003412R"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes ML420 CDI 4MATIC (M-Klasse, 164) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a2045003798-a2045060198-webasto-9020002f-9020096d-123184.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 500 37 98",
+                            "A2045003798"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 506 01 98",
+                            "A2045060198"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9020002F"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9020096D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C220 CDI T-Modell (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes C250 CDI Coupe (C-Klasse, 204) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a2045004198-a2045060398-a2049022902-webasto-9020003c-9020098c-continental-2c30836000a-122198.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 500 41 98",
+                            "A2045004198"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 506 03 98",
+                            "A2045060398"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "A 204 902 29 02",
+                            "A2049022902"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9020003 C",
+                            "9020003C"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "2C30836000A"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9020098 C",
+                            "9020098C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes GLK350 CDI 4MATIC (GLK-Klasse, 204) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a2045004798-webasto-9019998g-9020092e-continental-a2c30836001-152365.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 500 47 98",
+                            "A2045004798"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9019998 G",
+                            "9019998G"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C30836001"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9020092 E",
+                            "9020092E"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C250 CGI (C-Klasse, 204) Bouwjaar 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a2045060898-webasto-9019998g-131137.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 506 08 98",
+                            "A2045060898"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9019998G"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a2125001898-a2125060498-a2124420729-webasto-9016638h-9014954g-continental-5wk11627dbf-132192.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 500 18 98",
+                            "A2125001898"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 506 04 98",
+                            "A2125060498"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 442 07 29",
+                            "A2124420729"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9016638 H",
+                            "9016638H"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9014954 G",
+                            "9014954G"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11627DBF"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes E350 CDI T-Modell (E-Klasse, 212) Bouwjaar 2009 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a2125002398-a2125060398-a2129025302-webasto-9016635h-9014953h-continental-5wk11627ebf-132554.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 500 23 98",
+                            "A2125002398"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 506 03 98",
+                            "A2125060398"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 902 53 02",
+                            "A2129025302"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9016635 H",
+                            "9016635H"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9014953 H",
+                            "9014953H"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11627EBF"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes E350 4Matic T-Modell (E-Klasse, 212) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a2125002498-a2129025402-a2125060498-webasto-9016638j-9014954h-continental-5wk11627ebf-127908.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 500 24 98",
+                            "A2125002498"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 902 54 02",
+                            "A2129025402"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 506 04 98",
+                            "A2125060498"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9016638 J",
+                            "9016638J"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WK11627EBF"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9014954 H",
+                            "9014954H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes E250 CDI T-Modell (E-Klasse, 212) Bouwjaar 2010",
+                    "Mercedes E300 CDI T-Modell (E-Klasse, 212) Bouwjaar 2010",
+                    "Mercedes E350 CDI (E-Klasse, 212) Bouwjaar 2010",
+                    "Mercedes E350 CDI T-Modell 4MATIC (E-Klasse, 212) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a2125002798-a2125060598-a2129025024-webasto-9014953j-9016635j-continental-2c30836000a-137372.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 500 27 98",
+                            "A2125002798"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 506 05 98",
+                            "A2125060598"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 902 50 24",
+                            "A2129025024"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9014953 J",
+                            "9014953J"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9016635 J",
+                            "9016635J"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "2C30836000A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9050",
+                        "fault_description": "Geen voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": "B1054",
+                        "fault_description": "Voortijdige vlamvorming."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting verbrandingsluchtventilator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes E250 CGI T-Modell (E-Klasse, 212) Bouwjaar 2011 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/additional-heater-webasto-thermo-top-v/mercedes-a2125002898-a2125060498-a2129025104-webasto-9016638k-9014954j-continental-2c30836000a-120302.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 500 28 98",
+                            "A2125002898"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 506 04 98",
+                            "A2125060498"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 212 902 51 04",
+                            "A2129025104"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9016638 K",
+                            "9016638K"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "2C30836000A"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9014954 J",
+                            "9014954J"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes E250 CDI 4Matic (E-Klasse, 212) Bouwjaar 2011",
+                    "Mercedes E350 CDI (E-Klasse, 212) Bouwjaar 2011",
+                    "Mercedes E350 CDI T-Modell 4Matic (E-Klasse, 212) Bouwjaar 2011"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "C-Klasse / GLK (204) / CLS (218) bedieningspaneel",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/c+klasse+glk+204+cls+218+control+panel-371361.ts1628725656.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel-5611",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-2048300590-continental-a2c53290179-145433.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 830 05 90",
+                            "2048300590"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53290179"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C180 Kompressor (C-Klasse, 204) Bouwjaar 2008",
+                    "Mercedes C200 KOMPRESSOR T-Modell (C-Klasse, 204) Bouwjaar 2008",
+                    "Mercedes C220 CDI BlueEFFICIENCY T-Modell (C-Klasse, 204) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-2048304190-a2c53290179-144261.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 830 41 90",
+                            "2048304190"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "A2C53290179"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C200 CDI (C-Klasse, 204) Bouwjaar 2010",
+                    "Mercedes C220 CDI (C-Klasse, 204) Bouwjaar 2010",
+                    "Mercedes C220 CDI T-Modell (C-Klasse, 204) Bouwjaar 10 - 2010",
+                    "Mercedes GLK250 BlueTec 4MATIC (GLK-Klasse, 204) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-2048305790-2048305290-2044425305-continental-a2c53290179-150122.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 830 57 90",
+                            "2048305790"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 830 52 90",
+                            "2048305290"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 442 53 05",
+                            "2044425305"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53290179"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C200 CDI (C-Klasse, 204) Bouwjaar 2010",
+                    "Mercedes C250 CDI T-Modell (C-Klasse, 204) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-2048309385-continental-a2c53259634-147329.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 830 93 85",
+                            "2048309385"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53259634"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C200 Kompressor (C-Klasse, 204) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-2048309885-continental-a2c53290179-151156.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 830 98 85",
+                            "2048309885"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53290179"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C180 Kompressor (C-Klasse, 204) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-2049002103-continental-a2c53290179-148276.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 900 21 03",
+                            "2049002103"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53290179"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes GLK350 CDI 4Matic (GLK-Klasse, 204) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-2049010302-139270.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 901 03 02",
+                            "2049010302"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-2049011603-139269.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 901 16 03",
+                            "2049011603"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-2049012004-139368.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 901 20 04",
+                            "2049012004"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-2049017003-139268.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 901 70 03",
+                            "2049017003"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-2049060901-139267.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 906 09 01",
+                            "2049060901"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-a2049000707-continental-a2c53290179-124187.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 900 07 07",
+                            "A2049000707"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53290179"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C200 CDI (C-Klasse, 204) Bouwjaar 2009",
+                    "Mercedes C250 CDI (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes GLK200 CDI (GLK-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes GLK220 CDI 4Matic (GLK-Klasse, 204) Bouwjaar 2011 - 2012",
+                    "Mercedes GLK250 BlueTec 4MATIC (GLK-Klasse, 204) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-a2049000807-continental-a2c53290181-151649.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 900 08 07",
+                            "A2049000807"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53290181"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-a2049001007-continental-a2c53370599-124891.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 900 10 07",
+                            "A2049001007"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53370599"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C180 CDI T-Modell (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C200 CDI (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C200 CDI T-Modell (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C220 CDI (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C220 CDI Coupe (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C220 CDI T-Modell (C-Klasse, 204) Bouwjaar 2011 - 2012",
+                    "Mercedes C250 CDI 4Matic (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C250 CDI 4MATIC T-Modell (C-Klasse, 204) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-a2049003803-continental-a2c53370599-124365.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 900 38 03",
+                            "A2049003803"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53370599"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes C180 CDI (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes C180 CDI T-Modell (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes C180 CGI BlueEfficiency (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes C180 CGI BlueEfficiency T-Modell (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes C180 CGI Coupe (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes C200 CDI (C-Klasse, 204) Bouwjaar 2011 - 2012",
+                    "Mercedes C200 CDI T-Modell (C-Klasse, 204) Bouwjaar 2011 - 2012",
+                    "Mercedes C220 CDI (C-Klasse, 204) Bouwjaar 2011 - 2012",
+                    "Mercedes C220 CDI Coupe (C-Klasse, 204) Bouwjaar 2011 - 2012",
+                    "Mercedes C220 CDI T-Modell (C-Klasse, 204) Bouwjaar 2011 - 2012",
+                    "Mercedes C250 BlueEfficiency (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes C250 CDI 4MATIC (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes C250 CDI 4MATIC T-Modell (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes C250 CDI T-Modell (C-Klasse, 204) Bouwjaar 2011 - 2012",
+                    "Mercedes C250 CGI (C-Klasse, 204) Bouwjaar 2011 - 2012",
+                    "Mercedes C300 CDI 4Matic T-Modell (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes CLS350 CDI (CLS-Klasse, 218) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-a2049003903-2049010402-2049027101-continental-a2c53370601-125100.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 900 39 03",
+                            "A2049003903"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 901 04 02",
+                            "2049010402"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "204 902 71 01",
+                            "2049027101"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53370601"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C220 CDI BlueEFFICIENCY T-Modell (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes C250 CDI (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C63 AMG T-Modell (C-Klasse, 204) Bouwjaar 2011",
+                    "Mercedes CLS350 CDI (CLS-Klasse, 218) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-a2049004412-continental-a2c31516600-124921.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 900 44 12",
+                            "A2049004412"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C31516600"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes GLK350 CDI 4Matic (GLK-Klasse, 204) Bouwjaar 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-a2049005805-continental-a2c31516400-122834.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 900 58 05",
+                            "A2049005805"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C31516400"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C180 T-Modell (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C200 CDI (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C200 CDI T-Modell (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C200 KOMPRESSOR T-Modell (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C220 CDI (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C220 CDI T-Modell (C-Klasse, 204) Bouwjaar 2012 - 2013",
+                    "Mercedes C250 CDI T-Modell (C-Klasse, 204) Bouwjaar 2012 - 2013",
+                    "Mercedes GLK200 CDI (GLK-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes GLK220 CDI 4MATIC (GLK-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes GLK250 BlueTec 4MATIC (GLK-Klasse, 204) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-a2049005905-continental-a2c31516600-137337.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 900 59 05",
+                            "A2049005905"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C31516600"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C220 CDI T-Modell (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes C250 CDI 4MATIC T-Modell (C-Klasse, 204) Bouwjaar 2012",
+                    "Mercedes CLS250 CDI (CLS-Klasse, 218) Bouwjaar 2013",
+                    "Mercedes GLK220 CDI 4MATIC (GLK-Klasse, 204) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/c-klasse-glk-%28204%29-cls-%28218%29-control-panel/mercedes-a2049006608-continental-a2c31516400-123959.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 204 900 66 08",
+                            "A2049006608"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C31516400"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C180 CDI T-Modell (C-Klasse, 204) Bouwjaar 2014",
+                    "Mercedes C220 CDI T-Modell (C-Klasse, 204) Bouwjaar 2014",
+                    "Mercedes C250 CDI 4Matic T-Modell (C-Klasse, 204) Bouwjaar 2013",
+                    "Mercedes C300 CDI 4Matic T-Modell (C-Klasse, 204) Bouwjaar 2013"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Onafhankelijke kachel Webasto Thermo Top Evo",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/independant+heater+webasto+thermo+top+evo-163999.ts1628712312.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/independant-heater-webasto-thermo-top-evo-6324",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independant-heater-webasto-thermo-top-evo/mercedes-a1665002998-a1669024605-a1665060698-webasto-9020131h-a2c53404878g-9020132j-152390.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 166 500 29 98",
+                            "A1665002998"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 166 902 46 05",
+                            "A1669024605"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 166 506 06 98",
+                            "A1665060698"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9020131 H",
+                            "9020131H"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53404878G"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9020132 J",
+                            "9020132J"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes ML350 BLUETEC 4MATIC (M-Klasse, 166) Bouwjaar 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independant-heater-webasto-thermo-top-evo/mercedes-a2055000998-webasto-9025357d-9025359e-a2c82171601-137282.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 205 500 09 98",
+                            "A2055000998"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9025357 D",
+                            "9025357D"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9025359 E",
+                            "9025359E"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "A2C82171601"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes (C-Klasse, 205)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independant-heater-webasto-thermo-top-evo/mercedes-a2055003600-webasto-9033099a-9025359e-a2c82171601-145099.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 205 500 36 00",
+                            "A2055003600"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9033099 A",
+                            "9033099A"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9025359 E",
+                            "9025359E"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "A2C82171601"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independant-heater-webasto-thermo-top-evo/mercedes-a2465001600-a2465060100-a2469025902-webasto-9022362l-9022053l-a2c53366836i-132406.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 246 500 16 00",
+                            "A2465001600"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 246 506 01 00",
+                            "A2465060100"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 246 902 59 02",
+                            "A2469025902"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9022362 L",
+                            "9022362L"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9022053 L",
+                            "9022053L"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53366836I"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes B200 CDI (B-Klasse, 246) Bouwjaar 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independant-heater-webasto-thermo-top-evo/mercedes-a9108308201-webasto-9033629f-a2c16904400-9040271b-153370.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 910 830 82 01",
+                            "A9108308201"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9033629 F",
+                            "9033629F"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "A2C16904400"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9040271 B",
+                            "9040271B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 319 CDI (Sprinter, 907) Bouwjaar 2020"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independant-heater-webasto-thermo-top-evo/mercedes-webasto-9028537b-9026187e-144800.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9028537 B",
+                            "9028537B"
+                        ]
+                    },
+                    {
+                        "title": "Webasto - Onderdeelnummer",
+                        "numbers": [
+                            "9026187 E",
+                            "9026187E"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting circulatiepomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting doseerpomp."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onderbreking / kortsluiting vlamdetector / gloeiplug."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes S350 d (S-Klasse, 222) Bouwjaar 2014"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Onafhankelijke kachel Eberspächer Hydronic D5WS/Z",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/independent+heater+eberspaecher+hydronic+d5ws+z-148657.ts1628719110.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z-5464",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-6394460729-ebersp%C3%A4cher-252196-hella-5hb00858700-127734.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "639 446 07 29",
+                            "6394460729"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "25 2196",
+                            "252196"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "5HB 008 587-00",
+                            "5HB00858700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 115 CDI (Vito, 639) Bouwjaar 2004",
+                    "Mercedes Viano 2.2 CDI (Viano, 639) Bouwjaar 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-6394461029-ebersp%C3%A4cher-252196-hella-5hb00858700-127420.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "639 446 10 29",
+                            "6394461029"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "25 2196",
+                            "252196"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "5HB 008 587-00",
+                            "5HB00858700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-6394461329-ebersp%C3%A4cher-252196-hella-5hb00858700-127112.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "639 446 13 29",
+                            "6394461329"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "25 2196",
+                            "252196"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "5HB 008 587-00",
+                            "5HB00858700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 109 CDI (Vito, 639) Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-6394461729-6398301861-ebersp%C3%A4cher-252451-225204003003-hella-5hb00858700-126128.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "639 446 17 29",
+                            "6394461729"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "639 830 18 61",
+                            "6398301861"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "25 2451",
+                            "252451"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "22 5204 00 30 03",
+                            "225204003003"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "5HB 008 587-00",
+                            "5HB00858700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 111 CDI (Vito, 639) Bouwjaar 2007 - 2008",
+                    "Mercedes 113 CDI (Vito, 639) Bouwjaar 2011 - 2012",
+                    "Mercedes 115 CDI 4x4 (Vito, 639) Bouwjaar 2009",
+                    "Mercedes 115 CDI (Vito, 639) Bouwjaar 2006 - 2010",
+                    "Mercedes 116 CDI (Vito, 447) Bouwjaar 2012",
+                    "Mercedes 116 CDI (Vito, 639) Bouwjaar 2010 - 2014",
+                    "Mercedes 120 CDI (Vito, 639) Bouwjaar 2007 - 2010",
+                    "Mercedes 122 CDI (Vito, 639) Bouwjaar 2011",
+                    "Mercedes Viano 2.0 CDI (Viano, 639) Bouwjaar 2011",
+                    "Mercedes Viano 2.2 CDI (Viano, 639) Bouwjaar 2006 - 2012",
+                    "Mercedes Viano 3.0 CDI (Viano, 639)",
+                    "Mercedes Vito 115 CDI (Viano, 639) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-6398300361-6394460129-ebersp%C3%A4cher-252196-hella-5hb00858700-120567.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "639 830 03 61",
+                            "6398300361"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "639 446 01 29",
+                            "6394460129"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "25 2196",
+                            "252196"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "5HB 008 587-00",
+                            "5HB00858700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 111 CDI (Vito, 639) Bouwjaar 2004 - 2006",
+                    "Mercedes 115 CDI (Vito, 639) Bouwjaar 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-6399000601-6398302700-ebersp%C3%A4cher-252451-225204003003-hella-5hb00858700-124059.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "639 900 06 01",
+                            "6399000601"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "639 830 27 00",
+                            "6398302700"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "25 2451",
+                            "252451"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "22 5204 00 30 03",
+                            "225204003003"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "5HB 008 587-00",
+                            "5HB00858700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 110 CDI (Vito, 639) Bouwjaar 2014",
+                    "Mercedes 113 CDI (Vito, 639) Bouwjaar 2012 - 2013",
+                    "Mercedes 114 CDI (Vito, 447) Bouwjaar 2014",
+                    "Mercedes 115 CDI (Vito, 639) Bouwjaar 2010",
+                    "Mercedes 116 CDI (Vito, 639) Bouwjaar 2010 - 2014",
+                    "Mercedes 120 CDI (Vito, 639) Bouwjaar 2008 - 2011",
+                    "Mercedes 122 CDI (Vito, 639) Bouwjaar 2012 - 2014",
+                    "Mercedes (Viano)",
+                    "Mercedes Viano 2.2 CDI (Viano, 639) Bouwjaar 2011 - 2013",
+                    "Mercedes Viano 3.0 CDI (Viano, 639) Bouwjaar 2006 - 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-9064460429-9068302361-ebersp%C3%A4cher-252452-225204006004-hella-5hb00858710-122211.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "906 446 04 29",
+                            "9064460429"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "906 830 23 61",
+                            "9068302361"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "25 2452",
+                            "252452"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "22 5204 00 60 04",
+                            "225204006004"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "5HB 008 587-10",
+                            "5HB00858710"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 211 CDI (Sprinter, 906) Bouwjaar 2007",
+                    "Mercedes 215 CDI (Sprinter, 906)",
+                    "Mercedes 311 CDI (Sprinter, 906) Bouwjaar 2007",
+                    "Mercedes 315 CDI (Sprinter, 906) Bouwjaar 2007 - 2008",
+                    "Mercedes 511 CDI (Sprinter, 906) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-9064460629-9068302561-ebersp%C3%A4cher-252453-225204007001-hella-5hb00858712-122284.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "906 446 06 29",
+                            "9064460629"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "906 830 25 61",
+                            "9068302561"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "25 2453",
+                            "252453"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "22 5204 00 70 01",
+                            "225204007001"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "5HB 008 587-12",
+                            "5HB00858712"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 120 CDI (Vito, 639) Bouwjaar 2008",
+                    "Mercedes 210 CDI (Sprinter, 906) Bouwjaar 2010",
+                    "Mercedes 213 CDI (Sprinter, 906) Bouwjaar 2008 - 2009",
+                    "Mercedes 216 CDI (Sprinter, 906) Bouwjaar 2009 - 2011",
+                    "Mercedes 219 CDI (Sprinter, 906) Bouwjaar 2009",
+                    "Mercedes 310 CDI (Sprinter, 906) Bouwjaar 2010",
+                    "Mercedes 311 CDI 4x4 (Sprinter, 906) Bouwjaar 2008",
+                    "Mercedes 311 CDI (Sprinter, 906) Bouwjaar 2010",
+                    "Mercedes 313 CDI 4x4 (Sprinter, 906) Bouwjaar 2010",
+                    "Mercedes 313 CDI (Sprinter, 906)",
+                    "Mercedes 315 CDI (Sprinter, 906)",
+                    "Mercedes 316 CDI 4x4 (Sprinter, 906) Bouwjaar 2011",
+                    "Mercedes 316 CDI (Sprinter, 906) Bouwjaar 2009 - 2011",
+                    "Mercedes 319 CDI (Sprinter, 906) Bouwjaar 2009 - 2011",
+                    "Mercedes 513 CDI (Sprinter, 906) Bouwjaar 2011",
+                    "Mercedes 516 CDI (Sprinter, 906) Bouwjaar 2010 - 2011",
+                    "Mercedes 519 CDI (Sprinter, 906) Bouwjaar 2011",
+                    "Mercedes (Sprinter, 906) Bouwjaar 2010 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-9068302201-ebersp%C3%A4cher-252543-225204014000-hella-5hb00858714-127426.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "906 830 22 01",
+                            "9068302201"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "25 2543",
+                            "252543"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "22 5204 01 40 00",
+                            "225204014000"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "5HB 008 587-14",
+                            "5HB00858714"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes (Sprinter, 906) Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-9069001100-a9068302861-ebersp%C3%A4cher-252543-225204014000-hella-5hb00858714-123356.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "906 900 11 00",
+                            "9069001100"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 906 830 28 61",
+                            "A9068302861"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "25 2543",
+                            "252543"
+                        ]
+                    },
+                    {
+                        "title": "Eberspächer - Onderdeelnummer.",
+                        "numbers": [
+                            "22 5204 01 40 00",
+                            "225204014000"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "5HB 008 587-14",
+                            "5HB00858714"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 213 CDI (Sprinter, 906) Bouwjaar 2012",
+                    "Mercedes 216 CDI (Sprinter, 906) Bouwjaar 2012",
+                    "Mercedes 219 CDI (Sprinter, 906) Bouwjaar 2011 - 2012",
+                    "Mercedes 313 CDI (Sprinter, 906) Bouwjaar 2012",
+                    "Mercedes 316 CDI 4x4 (Sprinter, 906) Bouwjaar 2011",
+                    "Mercedes 316 CDI (Sprinter, 906) Bouwjaar 2011 - 2012",
+                    "Mercedes 319 CDI (Sprinter, 906) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-a6394460229-122132.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 639 446 02 29",
+                            "A6394460229"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-a6394460601-122131.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 639 446 06 01",
+                            "A6394460601"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-a6394460729-122127.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 639 446 07 29",
+                            "A6394460729"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-a6394460829-122133.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 639 446 08 29",
+                            "A6394460829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-a6394461029-122128.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 639 446 10 29",
+                            "A6394461029"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-a6394461129-122134.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 639 446 11 29",
+                            "A6394461129"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-a6394461329-122129.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 639 446 13 29",
+                            "A6394461329"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-a6394461429-122135.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 639 446 14 29",
+                            "A6394461429"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-a6394461529-122130.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 639 446 15 29",
+                            "A6394461529"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/independent-heater-ebersp%C3%A4cher-hydronic-d5ws-z/mercedes-a6394461629-122136.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 639 446 16 29",
+                            "A6394461629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "9016",
+                        "fault_description": "Onderbreking brandermotor."
+                    },
+                    {
+                        "fault_code": "9017",
+                        "fault_description": "Verbrandingsluchtventilator - verkeerde snelheid"
+                    },
+                    {
+                        "fault_code": "B1802",
+                        "fault_description": "Verbrandingsluchtventilator - defecte functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "M-Klasse / GL (166) Automatische airconditioning bedieningspaneel",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/m+class+gl+166+automatic+air+conditioning+control+panel-371361.ts1628725656.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/m-class-gl-%28166%29-automatic-air-conditioning-control-panel-6358",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/m-class-gl-%28166%29-automatic-air-conditioning-control-panel/mercedes-a1669001704-continental-a2c53397976-135152.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 166 900 17 04",
+                            "A1669001704"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53397976"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes GLE350 d 4MATIC (GLE-Klasse, 166) Bouwjaar 2011",
+                    "Mercedes ML350 BlueTec 4Matic (M-Klasse, 166) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/m-class-gl-%28166%29-automatic-air-conditioning-control-panel/mercedes-a1669002012-146539.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 166 900 20 12",
+                            "A1669002012"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/m-class-gl-%28166%29-automatic-air-conditioning-control-panel/mercedes-a1669007108-continental-a2c53397978-126616.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 166 900 71 08",
+                            "A1669007108"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53397978"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/m-class-gl-%28166%29-automatic-air-conditioning-control-panel/mercedes-a1669008103-continental-a2c53397976-135018.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 166 900 81 03",
+                            "A1669008103"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53397976"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes ML350 BLUETEC 4MATIC (M-Klasse, 166) Bouwjaar 2012"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "S-Klasse (126) Bedieningspaneel automatische airconditioning.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/s+class+126+control+panel+automatic+air+conditioning-405559.ts1628723698.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/s-class-%28126%29-control-panel-automatic-air-conditioning-6191",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28126%29-control-panel-automatic-air-conditioning/mercedes-1268300285-mk-134504.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "126 830 02 85",
+                            "1268300285"
+                        ]
+                    },
+                    {
+                        "title": "MK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Soms wordt de ventilator niet geregeld"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 280SE (S-Klasse, 126) Bouwjaar 1982"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28126%29-control-panel-automatic-air-conditioning/mercedes-1268300885-mk-150285.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "126 830 08 85",
+                            "1268300885"
+                        ]
+                    },
+                    {
+                        "title": "MK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Soms wordt de ventilator niet geregeld"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 300SE (S-Klasse, 126) Bouwjaar 1985",
+                    "Mercedes 420SEC (S-Klasse, 126) Bouwjaar 1990",
+                    "Mercedes 560SEL (S-Klasse, 126) Bouwjaar 1989"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28126%29-control-panel-automatic-air-conditioning/mercedes-1268300985-mk-148649.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "126 830 09 85",
+                            "1268300985"
+                        ]
+                    },
+                    {
+                        "title": "MK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Soms wordt de ventilator niet geregeld"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 500SE (S-Klasse, 126) Bouwjaar 1986"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28126%29-control-panel-automatic-air-conditioning/mercedes-1268301085-mk-135416.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "126 830 10 85",
+                            "1268301085"
+                        ]
+                    },
+                    {
+                        "title": "MK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Soms wordt de ventilator niet geregeld"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28126%29-control-panel-automatic-air-conditioning/mercedes-a1268300585-mk-129379.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 126 830 05 85",
+                            "A1268300585"
+                        ]
+                    },
+                    {
+                        "title": "MK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Soms wordt de ventilator niet geregeld"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes (S-Klasse, 126) Bouwjaar 1986"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28126%29-control-panel-automatic-air-conditioning/mercedes-a1268300885-135039.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 126 830 08 85",
+                            "A1268300885"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Soms wordt de ventilator niet geregeld"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 560SEC (S-Klasse, 126) Bouwjaar 1989"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28126%29-control-panel-automatic-air-conditioning/mercedes-a1268301185-135040.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 126 830 11 85",
+                            "A1268301185"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Soms wordt de ventilator niet geregeld"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28126%29-control-panel-automatic-air-conditioning/mercedes-mk-139232.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes",
+                        "numbers": []
+                    },
+                    {
+                        "title": "MK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Soms wordt de ventilator niet geregeld"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 300SE (S-Klasse, 126) Bouwjaar 86",
+                    "Mercedes 500SE (S-Klasse, 126) Bouwjaar 1986",
+                    "Mercedes 500SEC (S-Klasse, 126) Bouwjaar 1987",
+                    "Mercedes 560SEC (S-Klasse, 126)"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "S-Klasse (140) Airconditioning bedieningspaneel",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/s+class+140+a+c+control+panel-576832.ts1632833729.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/s-class-%28140%29-a-c-control-panel-6796",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28140%29-a-c-control-panel/mercedes-1408300685-147980.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "140 830 06 85",
+                            "1408300685"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verlichting van bedieningsknoppen en displays gedeeltelijk of volledig zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 500SEL (S-Klasse, 140) Bouwjaar 1992"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28140%29-a-c-control-panel/mercedes-1408300785-bosch-1147328550-150397.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "140 830 07 85",
+                            "1408300785"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 147 328 550",
+                            "1147328550"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verlichting van bedieningsknoppen en displays gedeeltelijk of volledig zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 300SE (S-Klasse, 140) Bouwjaar 1991 - 1992"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28140%29-a-c-control-panel/mercedes-1408300885-1147328536-141403.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "140 830 08 85",
+                            "1408300885"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "1 147 328 536",
+                            "1147328536"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verlichting van bedieningsknoppen en displays gedeeltelijk of volledig zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 300SE (S-Klasse, 140) Bouwjaar 1992",
+                    "Mercedes 600SEL V12 (S-Klasse, 140) Bouwjaar 1992",
+                    "Mercedes S420 (S-Klasse, 140) Bouwjaar 1994"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28140%29-a-c-control-panel/mercedes-1408301585-bosch-9140010181-123528.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "140 830 15 85",
+                            "1408301585"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "9 140 010 181",
+                            "9140010181"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verlichting van bedieningsknoppen en displays gedeeltelijk of volledig zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 300SE (S-Klasse, 140) Bouwjaar 1992",
+                    "Mercedes 500SEL (S-Klasse, 140) Bouwjaar 1992"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28140%29-a-c-control-panel/mercedes-1408301985-bosch-9140010190-151113.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "140 830 19 85",
+                            "1408301985"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "9 140 010 190",
+                            "9140010190"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verlichting van bedieningsknoppen en displays gedeeltelijk of volledig zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes S420 Coupe (S-Klasse, 140) Bouwjaar 1994"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28140%29-a-c-control-panel/mercedes-1408302085-bosch-9140010191-142179.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "140 830 20 85",
+                            "1408302085"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "9 140 010 191",
+                            "9140010191"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verlichting van bedieningsknoppen en displays gedeeltelijk of volledig zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 600SEC V12 (S-Klasse, 140) Bouwjaar 1995",
+                    "Mercedes S320 (S-Klasse, 140) Bouwjaar 1992"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28140%29-a-c-control-panel/mercedes-1408302485-9140010225-141444.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "140 830 24 85",
+                            "1408302485"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "9 140 010 225",
+                            "9140010225"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verlichting van bedieningsknoppen en displays gedeeltelijk of volledig zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-class-%28140%29-a-c-control-panel/mercedes-a1408301785-140190.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 140 830 17 85",
+                            "A1408301785"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verlichting van bedieningsknoppen en displays gedeeltelijk of volledig zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "S-Klasse (140) MOPF Bedieningspaneel automatische airconditioning.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/s+klasse+140+mopf+control+panel+automatic+air+conditioning-576831.ts1632833681.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/s-klasse-%28140%29-mopf-control-panel-automatic-air-conditioning-6795",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/s-klasse-%28140%29-mopf-control-panel-automatic-air-conditioning/mercedes-2108300585-bosch-9140010178-141262.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "210 830 05 85",
+                            "2108300585"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "9 140 010 178",
+                            "9140010178"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "SL (107) Airconditioning ECU.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/sl+107+air+conditioning+ecu-267193.ts1628714453.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/sl-%28107%29-air-conditioning-ecu-6071",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/sl-%28107%29-air-conditioning-ecu/mercedes-1078302685-mk-131015.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "107 830 26 85",
+                            "1078302685"
+                        ]
+                    },
+                    {
+                        "title": "MK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Soms wordt de ventilator niet geregeld"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temperatuurregeling defect, monoklep wordt niet geactiveerd."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 280SL Roadster (SL-Klasse, 107) Bouwjaar 1984 - 1985",
+                    "Mercedes 380SL (SL-Klasse, 107) Bouwjaar 1981 - 1985",
+                    "Mercedes 500SL Roadster (SL-Klasse, 107) Bouwjaar 1984 - 1985"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/sl-%28107%29-air-conditioning-ecu/mercedes-1078302785-mk-132967.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "107 830 27 85",
+                            "1078302785"
+                        ]
+                    },
+                    {
+                        "title": "MK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Soms wordt de ventilator niet geregeld"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temperatuurregeling defect, monoklep wordt niet geactiveerd."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 300SL Roadster (SL-Klasse, 107) Bouwjaar 1987",
+                    "Mercedes 420SL Roadster (SL-Klasse, 107) Bouwjaar 1986",
+                    "Mercedes 500SL Roadster (SL-Klasse, 107) Bouwjaar 1986 - 1987",
+                    "Mercedes 560SL Roadster (SL-Klasse, 107) Bouwjaar 1985 - 1989"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/sl-%28107%29-air-conditioning-ecu/mercedes-a1078302785-mk-126742.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 107 830 27 85",
+                            "A1078302785"
+                        ]
+                    },
+                    {
+                        "title": "MK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Soms wordt de ventilator niet geregeld"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temperatuurregeling defect, monoklep wordt niet geactiveerd."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "SL (129) MOPF Bedieningspaneel automatische airconditioning.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/sl+129+mopf+control+panel+automatic+air+conditioning-576831.ts1632833681.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/sl-%28129%29-mopf-control-panel-automatic-air-conditioning-6797",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/sl-%28129%29-mopf-control-panel-automatic-air-conditioning/mercedes-2028301285-146648.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "202 830 12 85",
+                            "2028301285"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display valt uit bij hogere temperatuur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes SL320 (SL-Klasse, 129) Bouwjaar 1997",
+                    "Mercedes SL500 (SL-Klasse, 129) Bouwjaar 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/sl-%28129%29-mopf-control-panel-automatic-air-conditioning/mercedes-2028301385-141899.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "202 830 13 85",
+                            "2028301385"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display valt uit bij hogere temperatuur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes C180 (C-Klasse, 202) Bouwjaar 1998",
+                    "Mercedes SL280 (SL-Klasse, 129) Bouwjaar 1998",
+                    "Mercedes SL320 (SL-Klasse, 129) Bouwjaar 1998",
+                    "Mercedes SL500 (SL-Klasse, 129) Bouwjaar 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/sl-%28129%29-mopf-control-panel-automatic-air-conditioning/mercedes-2028301485-127519.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "202 830 14 85",
+                            "2028301485"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display valt uit bij hogere temperatuur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes SL320 (SL-Klasse, 129) Bouwjaar 1999 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/sl-%28129%29-mopf-control-panel-automatic-air-conditioning/mercedes-a2028301285-mk-141445.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 202 830 12 85",
+                            "A2028301285"
+                        ]
+                    },
+                    {
+                        "title": "MK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display valt uit bij hogere temperatuur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/sl-%28129%29-mopf-control-panel-automatic-air-conditioning/mercedes-a2028301485-mk-141446.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 202 830 14 85",
+                            "A2028301485"
+                        ]
+                    },
+                    {
+                        "title": "MK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display valt uit bij hogere temperatuur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "SLK (172) Airconditioning bedieningspaneel.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/slk+172+a+c+control+panel-173474.ts1628725311.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/slk-%28172%29-a-c-control-panel-5612",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/slk-%28172%29-a-c-control-panel/mercedes-1729017901-1729025902-148547.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "172 901 79 01",
+                            "1729017901"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "172 902 59 02",
+                            "1729025902"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/slk-%28172%29-a-c-control-panel/mercedes-1729025902-148548.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "172 902 59 02",
+                            "1729025902"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/slk-%28172%29-a-c-control-panel/mercedes-a1729000711-137342.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 172 900 07 11",
+                            "A1729000711"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/slk-%28172%29-a-c-control-panel/mercedes-a1729000912-137338.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 172 900 09 12",
+                            "A1729000912"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/slk-%28172%29-a-c-control-panel/mercedes-a1729002103-continental-a2c53370591-125003.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 172 900 21 03",
+                            "A1729002103"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53370591"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes SLK200 (SLK-Klasse, 172) Bouwjaar 2011 - 2012",
+                    "Mercedes SLK250 CDI (SLK-Klasse, 172) Bouwjaar 2012",
+                    "Mercedes SLK350 (SLK-Klasse, 172) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/slk-%28172%29-a-c-control-panel/mercedes-a1729004204-continental-a2c53370591-124892.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 172 900 42 04",
+                            "A1729004204"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C53370591"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes SLK200 (SLK-Klasse, 172) Bouwjaar 2012",
+                    "Mercedes SLK250 CDI (SLK-Klasse, 172) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/slk-%28172%29-a-c-control-panel/mercedes-a1729004304-137339.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 172 900 43 04",
+                            "A1729004304"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/slk-%28172%29-a-c-control-panel/mercedes-a1729008306-137340.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 172 900 83 06",
+                            "A1729008306"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/slk-%28172%29-a-c-control-panel/mercedes-a1729008706-137341.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 172 900 87 06",
+                            "A1729008706"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Type 123 Airconditioning bediening.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/type+123+a+c+control-267193.ts1628714453.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/type-123-a-c-control-6906",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/type-123-a-c-control/mercedes-1238301285-mk-145390.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "123 830 12 85",
+                            "1238301285"
+                        ]
+                    },
+                    {
+                        "title": "MK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Soms wordt de ventilator niet geregeld"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temperatuurregeling defect, monoklep wordt niet geactiveerd."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 300TD (123er, 123) Bouwjaar 1982",
+                    "Mercedes 300TD Turbo (123er, 123) Bouwjaar 1984"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Type 124 Bedieningspaneel automatische airconditioning.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/type+124+control+panel+automatic+air+conditioning-1150110.ts1661348620.jpg",
+        "product_link": "https://ecu.eu/mercedes/ac-control-unit-2805/mercedes/ac-control-unit/type-124-control-panel-automatic-air-conditioning-7027",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ac-control-unit/type-124-control-panel-automatic-air-conditioning/mercedes-1248302285-145849.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "124 830 22 85",
+                            "1248302285"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temperatuurregeling defect, monoklep wordt niet geactiveerd."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes E320 Coupe (124er, 124) Bouwjaar 1993"
+                ]
+            }
+        ]
+    }
+]

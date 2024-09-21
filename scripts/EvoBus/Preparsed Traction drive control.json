@@ -1,0 +1,228 @@
+[
+    {
+        "part_name": "ELECTRONIC CPC3",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/electronic+cpc3-406111.ts1628716905.jpg",
+        "product_link": "https://ecu.eu/evobus/traction-drive-control-7045/evobus/traction-drive-control/electronic-cpc3-7046",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/evobus/traction-drive-control/electronic-cpc3/evobus-a0014469202-continental-a2c82526600-151463.html",
+                "part_numbers": [
+                    {
+                        "title": "EVOBUS - Part number",
+                        "numbers": [
+                            "A 001 446 92 02",
+                            "A0014469202"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C82526600"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/evobus/traction-drive-control/electronic-cpc3/evobus-a0034468402-continental-a2c80769201-150921.html",
+                "part_numbers": [
+                    {
+                        "title": "EVOBUS - Part number",
+                        "numbers": [
+                            "A 003 446 84 02",
+                            "A0034468402"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C80769201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/evobus/traction-drive-control/electronic-cpc3/evobus-a0034468702-continental-a2c82526602-147119.html",
+                "part_numbers": [
+                    {
+                        "title": "EVOBUS - Part number",
+                        "numbers": [
+                            "A 003 446 87 02",
+                            "A0034468702"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C82526602"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0BF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "0DF0E4",
+                        "fault_description": "The power supply of component B1 (foot control) has a short circuit to ground."
+                    },
+                    {
+                        "fault_code": "3F0A08",
+                        "fault_description": "The signal line 2 of component B1 (foot control) has an interruption, short circuit to positive or short circuit to earth."
+                    },
+                    {
+                        "fault_code": "580604",
+                        "fault_description": "The pin A3.X4.40/29 on the control unit A3 (control unit cruise control (CPC)) is short-circuited to ground."
+                    },
+                    {
+                        "fault_code": "5B0002",
+                        "fault_description": "Component B1 (foot controller) is defective."
+                    },
+                    {
+                        "fault_code": "ACFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "ADFFEE",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": "CF040E",
+                        "fault_description": "The Can-Bus (CAN 4 (drive CAN) ) has a malfunction"
+                    },
+                    {
+                        "fault_code": "EEF7ED",
+                        "fault_description": "The control unit A3 (Driving Control Unit (CPC)) is defective."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Accelerator pedal stops working at times"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ecu does not respond to the XENTRY Diagnosis request."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

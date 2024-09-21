@@ -1,0 +1,265 @@
+[
+    {
+        "part_name": "EDC M7",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc+m7-1078.ts1628711298.jpg",
+        "product_link": "https://ecu.eu/scania/ecu-6964/scania/ecu/edc-m7-7227",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/scania/ecu/edc-m7/scania-1357139-bosch-0281001192-148519.html",
+                "part_numbers": [
+                    {
+                        "title": "SCANIA - Part number",
+                        "numbers": [
+                            "1357139"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 192",
+                            "0281001192"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "ECU intermittently out of operation"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/scania/ecu/edc-m7/scania-1357358-bosch-0281001192-151064.html",
+                "part_numbers": [
+                    {
+                        "title": "SCANIA - Part number",
+                        "numbers": [
+                            "1357358"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 192",
+                            "0281001192"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "ECU intermittently out of operation"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/scania/ecu/edc-m7/scania-1357360-bosch-0281001192-144875.html",
+                "part_numbers": [
+                    {
+                        "title": "SCANIA - Part number",
+                        "numbers": [
+                            "1357360"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 192",
+                            "0281001192"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "ECU intermittently out of operation"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/scania/ecu/edc-m7/scania-1357361-bosch-0281001192-151063.html",
+                "part_numbers": [
+                    {
+                        "title": "SCANIA - Part number",
+                        "numbers": [
+                            "1357361"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 192",
+                            "0281001192"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "ECU intermittently out of operation"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/scania/ecu/edc-m7/scania-1388013-bosch-0281001192-131228.html",
+                "part_numbers": [
+                    {
+                        "title": "SCANIA - Part number",
+                        "numbers": [
+                            "1388013"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 192",
+                            "0281001192"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "ECU intermittently out of operation"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "EMS S6",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ems+s6-1062651.ts1655804555.jpg",
+        "product_link": "https://ecu.eu/scania/ecu-6964/scania/ecu/ems-s6-6965",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/scania/ecu/ems-s6/scania-1726098-temic-141300.html",
+                "part_numbers": [
+                    {
+                        "title": "SCANIA - Part number",
+                        "numbers": [
+                            "1726098"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "49922",
+                        "fault_description": "Pump-Injector-cylinder 4"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/scania/ecu/ems-s6/scania-1726100-temic-139524.html",
+                "part_numbers": [
+                    {
+                        "title": "SCANIA - Part number",
+                        "numbers": [
+                            "1726100"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "49922",
+                        "fault_description": "Pump-Injector-cylinder 4"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/scania/ecu/ems-s6/scania-1788094-temic-144350.html",
+                "part_numbers": [
+                    {
+                        "title": "SCANIA - Part number",
+                        "numbers": [
+                            "1788094"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "49922",
+                        "fault_description": "Pump-Injector-cylinder 4"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/scania/ecu/ems-s6/scania-1874480-temic-131531.html",
+                "part_numbers": [
+                    {
+                        "title": "SCANIA - Part number",
+                        "numbers": [
+                            "1874480"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "49922",
+                        "fault_description": "Pump-Injector-cylinder 4"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

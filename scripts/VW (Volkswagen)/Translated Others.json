@@ -1,0 +1,3517 @@
+[
+    {
+        "part_name": "4Motion / Haldex ECU (Gen.5).",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/4motion+haldex+ecu+gen+5-248518.ts1628714081.jpg",
+        "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29-6004",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0ay907554f-haldex-122853.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 907 554 F",
+                            "0AY907554F"
+                        ]
+                    },
+                    {
+                        "title": "Haldex.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Sharan 2.0 TDI 4Motion (Sharan, 7N) Bouwjaar 2014 - 2015 Motorcode CUVC, CFFB",
+                    "Volkswagen Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Bouwjaar 2014 Motorcode CTHD",
+                    "Volkswagen Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Bouwjaar 2013 - 2015 Motorcode CFGC, CFFB",
+                    "Volkswagen Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Bouwjaar 2014 Motorcode CCZD, CCZB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0ay907554j-haldex-128080.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 907 554 J",
+                            "0AY907554J"
+                        ]
+                    },
+                    {
+                        "title": "Haldex.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Caddy 2.0 16V TDI BlueMotion 4Motion (Caddy, 2C) Bouwjaar 2015 - 2017 Motorcode DFSE",
+                    "Volkswagen Caddy 2.0 TDI 4Motion (Caddy, 2C) Bouwjaar 2015 - 2019 Motorcode CFHF, CUUE, DFSE",
+                    "Volkswagen Caddy 2.0 TDI 4Motion (Caddy, 2K) Bouwjaar 2016 - 2017 Motorcode DFSE",
+                    "Volkswagen Caddy 2.0 TDI 4Motion (Caddy, SA) Bouwjaar 2016 Motorcode DFSB",
+                    "Volkswagen Caddy 2.0 TDI BlueMotion 4Motion (Caddy, 2K) Bouwjaar 2019 - 2020 Motorcode DFSE",
+                    "Volkswagen Caddy 2.0 TDI BlueMotion (Caddy, 2C) Bouwjaar 2016 - 2017 Motorcode DFSB",
+                    "Volkswagen Golf 1.6 TDI Variant (Golf VII, AU) Bouwjaar 2013 Motorcode CLHA",
+                    "Volkswagen Sharan 2.0 TDI 4Motion (Sharan, 7N) Bouwjaar 2015 - 2016 Motorcode DFLA, CFFB",
+                    "Volkswagen Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Bouwjaar 2014 - 2015 Motorcode CAVD",
+                    "Volkswagen Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Bouwjaar 2012 - 2016 Motorcode CFFB, CBAB, CFGC, CUWA, CUVC",
+                    "Volkswagen Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Bouwjaar 2014 - 2015 Motorcode CCZB, CCZD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0ay907554l-haldex-138210.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 907 554 L",
+                            "0AY907554L"
+                        ]
+                    },
+                    {
+                        "title": "Haldex.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.0 TDI 4Motion (T5, 7E/H/J) Bouwjaar 2015 - 2016 Motorcode CAAC",
+                    "Volkswagen T6 2.0 TDI 4Motion (T6, SG/SH) Bouwjaar 2017 - 2018 Motorcode CXEB, CXFA",
+                    "Volkswagen Transporter 2.0 TDI 4Motion (T6, SG/SH) Bouwjaar 2015 - 2018 Motorcode CXHA, CXEB",
+                    "Volkswagen Transporter 2.0 TDI 4Motion (T6, SG/SH) Bouwjaar 2017",
+                    "Volkswagen Transporter 2.0 TDI BlueMotion Calfornia 4Motion (T6, SG/SH) Bouwjaar 2016 - 2018 Motorcode CXEB",
+                    "Volkswagen Transporter 2.0 TDI Multivan (T6, SG/SH) Bouwjaar 2016 Motorcode CXEB",
+                    "Volkswagen Transporter 2.0 TDI (T6, SG/SH) Bouwjaar 2017 - 2018"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554-haldex-150253.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0CQ 907 554",
+                            "0CQ907554"
+                        ]
+                    },
+                    {
+                        "title": "Haldex.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf 2.0 TDI Variant (Golf VII, AU) Bouwjaar 2015 Motorcode CRLB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554b-haldex-147299.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0CQ 907 554 B",
+                            "0CQ907554B"
+                        ]
+                    },
+                    {
+                        "title": "Haldex.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554c-132790.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0CQ 907 554 C",
+                            "0CQ907554C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554d-haldex-131121.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0CQ 907 554 D",
+                            "0CQ907554D"
+                        ]
+                    },
+                    {
+                        "title": "Haldex.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf 1.6 TDI BlueMotion 4Motion (Golf VII, AU) Bouwjaar 2014 Motorcode CLHA",
+                    "Volkswagen Golf 1.6 TDI Variant 4Motion (Golf VII, AU) Bouwjaar 2013 - 2016 Motorcode CLHA, CRKB, CXXB",
+                    "Volkswagen Golf 2.0 TDI 4Motion (Golf VII, AU) Bouwjaar 2013 - 2015 Motorcode CRBC, CRLB",
+                    "Volkswagen Golf 2.0 TDI Variant (Golf VII, AU) Bouwjaar 2014",
+                    "Volkswagen Golf Alltrack 2.0 TDI BlueMotion (Golf VII, AU) Bouwjaar 2015 Motorcode CUNA",
+                    "Volkswagen Golf R 4Motion (Golf VII, AU) Bouwjaar 2014 Motorcode CJXC",
+                    "Volkswagen Passat 2.0 TDI 4Motion (Passat, 3G) Bouwjaar 2015 Motorcode DDAA",
+                    "Volkswagen Passat 2.0 TDI BlueMotion 4Motion (Passat, 3G) Bouwjaar 2015 Motorcode CUAA",
+                    "Volkswagen Passat 2.0 TDI Variant 4Motion (Passat, 3G) Bouwjaar 2015 Motorcode CCUA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554f-haldex-144764.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0CQ 907 554 F",
+                            "0CQ907554F"
+                        ]
+                    },
+                    {
+                        "title": "Haldex.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Crafter 2.0 TDI BlueMotion 4Motion (Crafter, SY/SZ) Bouwjaar 2017 Motorcode DAVA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554h-haldex-131974.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0CQ 907 554 H",
+                            "0CQ907554H"
+                        ]
+                    },
+                    {
+                        "title": "Haldex.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf R 4Motion (Golf VII, AU) Bouwjaar 2016 Motorcode CJXC",
+                    "Volkswagen Passat 2.0 TDI Variant 4Motion (Passat, 3G) Bouwjaar 2015 - 2016 Motorcode DFEA, CUAA",
+                    "Volkswagen Tiguan 2.0 TDI 4Motion (Tiguan, AD1) Bouwjaar 2016 - 2018 Motorcode DFGA, DFHA",
+                    "Volkswagen Tiguan 2.0 TSI 4Motion (Tiguan, AD1) Bouwjaar 2017 Motorcode CZPA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554j-haldex-148540.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0CQ 907 554 J",
+                            "0CQ907554J"
+                        ]
+                    },
+                    {
+                        "title": "Haldex.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Tiguan 2.0 TDI 4Motion (Tiguan, AD1) Bouwjaar 2019 Motorcode DFHA",
+                    "Volkswagen Tiguan 2.0 TSI 4Motion (Tiguan, AD1) Bouwjaar 2017 Motorcode CZPA",
+                    "Volkswagen (Tiguan, AD1) Bouwjaar 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-haldex-ecu-%28gen.5%29/volkswagen-vw-0cq907554l-haldex-152508.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0CQ 907 554 L",
+                            "0CQ907554L"
+                        ]
+                    },
+                    {
+                        "title": "Haldex.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "4Motion vierwielaandrijving besturingseenheid (Haldex Gen.4).",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/4motion+all+wheel+control+unit+haldex+gen+4-9869.ts1628711371.jpg",
+        "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29-5992",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-09n907554-continental-5wp3352602-127760.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "09N 907 554",
+                            "09N907554"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33526-02",
+                            "5WP3352602"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.0 TDI 4Motion (T5, 7E/H/J) Bouwjaar 2009 Motorcode CAAC",
+                    "Volkswagen T5 2.0 TDI Transporter (T5, 7E/H/J) Bouwjaar 2009 - 2010 Motorcode CAAC"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-09n907554a-11436801-continental-5wp3352603-124904.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "09N 907 554 A",
+                            "09N907554A"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "114368-01",
+                            "11436801"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33526-03",
+                            "5WP3352603"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.0 TDI 4Motion (T5, 7E/H/J) Bouwjaar 2010 - 2011 Motorcode CFCA, CAAC",
+                    "Volkswagen T5 2.0 TDI California 4 Motion (T5, 7E/H/J) Bouwjaar 2011 Motorcode CAAC",
+                    "Volkswagen T5 2.0 TDI Transporter (T5, 7E/H/J) Bouwjaar 2010 Motorcode CAAC"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-09n907554b-11593001-continental-5wp3352604-121684.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "09N 907 554 B",
+                            "09N907554B"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "115930-01",
+                            "11593001"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33526-04",
+                            "5WP3352604"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.0 BiTDI Transporter 4Motion (T5, 7E/H/J) Bouwjaar 2013 Motorcode CFCA",
+                    "Volkswagen T5 2.0 BiTDI Transporter (T5, 7E/H/J) Bouwjaar 2011",
+                    "Volkswagen T5 2.0 TDI 4Motion (T5, 7E/H/J) Bouwjaar 2011 - 2012 Motorcode CAAC, CFCA",
+                    "Volkswagen T5 2.0 TDI Multivan 4Motion (T5, 7E/H/J) Bouwjaar 2011 - 2013 Motorcode CFCA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-09n907554b-continental-5wp3352604-124776.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "09N 907 554 B",
+                            "09N907554B"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33526-04",
+                            "5WP3352604"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.0 BiTDI Transporter (T5, 7E/H/J) Bouwjaar 2012 Motorcode CFCA",
+                    "Volkswagen T5 2.0 TDI Multivan 4Motion (T5, 7E/H/J) Bouwjaar 2012 Motorcode CFCA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-09n907554c-11984002-continental-5wp3352605-128371.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "09N 907 554 C",
+                            "09N907554C"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "119840-02",
+                            "11984002"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33526-05",
+                            "5WP3352605"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.0 TDI 4Motion (T5, 7E/H/J) Bouwjaar 2014 - 2015 Motorcode CAAC",
+                    "Volkswagen T5 2.0 TDI California 4 Motion (T5, 7E/H/J) Bouwjaar 2014 - 2015 Motorcode CAAC",
+                    "Volkswagen T5 2.0 TDI Multivan 4Motion (T5, 7E/H/J) Bouwjaar 2014 Motorcode CFCA",
+                    "Volkswagen T5 2.0 TDI Multivan (T5, 7E/H/J) Bouwjaar 2015 Motorcode CAAC"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay598554c-continental-131725.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 598 554 C",
+                            "0AY598554C"
+                        ]
+                    },
+                    {
+                        "title": "Continental.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay598554j-148590.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 598 554 J",
+                            "0AY598554J"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554a-10825201-siemens-5wp3351401-144413.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 907 554 A",
+                            "0AY907554A"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "108252-01",
+                            "10825201"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33514-01",
+                            "5WP3351401"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Passat 2.0 FSI 4Motion (Passat, 3C) Bouwjaar 2009 Motorcode BVX",
+                    "Volkswagen Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Bouwjaar 2007 Motorcode CBAB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554a-10825202-siemens-5wp3351402-126223.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 907 554 A",
+                            "0AY907554A"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "108252-02",
+                            "10825202"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33514-02",
+                            "5WP3351402"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Bouwjaar 2007 - 2008 Motorcode BWK",
+                    "Volkswagen Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Bouwjaar 2007 - 2008 Motorcode CBAB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554b-10825203-siemens-5wp3351403-123549.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 907 554 B",
+                            "0AY907554B"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "108252-03",
+                            "10825203"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33514-03",
+                            "5WP3351403"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Passat 2.0 TDI Variant 4Motion (Passat, 3C) Bouwjaar 2008 Motorcode CBAB",
+                    "Volkswagen Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Bouwjaar 2008 Motorcode BWK",
+                    "Volkswagen Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Bouwjaar 2008 - 2013 Motorcode CBAB, CFGB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554c-11181801-continental-5wp3352201-121080.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 907 554 C",
+                            "0AY907554C"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "111818-01",
+                            "11181801"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33522-01",
+                            "5WP3352201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Bouwjaar 2008 - 2009 Motorcode BWK, CAVA",
+                    "Volkswagen Tiguan 2.0 FSI 4Motion (Tiguan, 5N) Bouwjaar 2008 - 2009 Motorcode CAWB",
+                    "Volkswagen Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Bouwjaar 2004 - 2009 Motorcode CBAB, CBBB",
+                    "Volkswagen Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Bouwjaar 2008 - 2009 Motorcode CAWA, CAWB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554c-11181802-continental-5wp3352202-120707.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 907 554 C",
+                            "0AY907554C"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "111818-02",
+                            "11181802"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33522-02",
+                            "5WP3352202"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Bouwjaar 2009 Motorcode BWK, CAVA",
+                    "Volkswagen Tiguan 2.0 FSI 4Motion (Tiguan, 5N) Bouwjaar 2009 - 2010 Motorcode CAWB",
+                    "Volkswagen Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Bouwjaar 2005 - 2010 Motorcode CBA, CBAB, CFFB, CBBB",
+                    "Volkswagen Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Bouwjaar 2008 - 2010 Motorcode CCZA, CAWA, CCZC"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554d-11447801-siemens-5wp3352203-114645.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 907 554 D",
+                            "0AY907554D"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "114478-01",
+                            "11447801"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33522-03",
+                            "5WP3352203"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Tiguan 2.0 FSI 4Motion (Tiguan, 5N) Bouwjaar 2010 Motorcode CCTA, CCZA",
+                    "Volkswagen Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Motorcode CFFB, CBAB, CBBB, CFGB",
+                    "Volkswagen Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Bouwjaar 2010 - 2011 Motorcode CCZC, CAWA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554e-11664201-continental-5wp3352204-113080.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 907 554 E",
+                            "0AY907554E"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "116642-01",
+                            "11664201"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33522-04",
+                            "5WP3352204"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Sharan 2.0 TDI 4Motion (Sharan, 7N) Bouwjaar 2011 - 2012 Motorcode CFFB",
+                    "Volkswagen Tiguan 1.4 TSI 4Motion (Tiguan, 5N) Bouwjaar 2009 - 2012 Motorcode CAVD, CTHD, BWK",
+                    "Volkswagen Tiguan 2.0 TDI 4Motion (Tiguan, 5N) Bouwjaar 2008 - 2015 Motorcode CFGB, CFFB, CBAB, CBBB",
+                    "Volkswagen Tiguan 2.0 TDI (Tiguan, AD1) Bouwjaar 2013 Motorcode DFGA",
+                    "Volkswagen Tiguan 2.0 TSI 4Motion (Tiguan, 5N) Bouwjaar 2011 - 2013 Motorcode CCZB, CCZD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0ay907554h-12033001-continental-5wp3353201-151229.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AY 907 554 H",
+                            "0AY907554H"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "120330-01",
+                            "12033001"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33532-01",
+                            "5WP3353201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0br598554-131724.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0BR 598 554",
+                            "0BR598554"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0br598554a-131722.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0BR 598 554 A",
+                            "0BR598554A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0br598554b-131723.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0BR 598 554 B",
+                            "0BR598554B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0br598554d-131721.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0BR 598 554 D",
+                            "0BR598554D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/4motion-all-wheel-control-unit-%28haldex-gen.4%29/volkswagen-vw-0br907554a-11185201-continental-5wp3352301-145432.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0BR 907 554 A",
+                            "0BR907554A"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "111852-01",
+                            "11185201"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WP33523-01",
+                            "5WP3352301"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "00532",
+                        "fault_description": "Voedingsspanning - bovengrens overschreden."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf V 1.9 TDI Variant 4Motion (Golf V, 1K) Bouwjaar 2009 Motorcode BLS"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Camera DPC.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/camera+dpc-4923031.ts1717409639.jpg",
+        "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/camera-dpc-7327",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/camera-dpc/volkswagen-vw-7p6907217-7p6907217-bosch-0275003008-1039s41782-154053.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7P6 907 217",
+                            "7P6907217"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7P6 907 217",
+                            "7P6907217"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 275 003 008",
+                            "0275003008"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 039 S41 782",
+                            "1039S41782"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "161",
+                        "fault_description": "Videosignaaldatakabel Signaal defect of C110702 Videolijn voor beeldverwerking Signaalfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Touareg 3.0 TDI (Touareg, 7P) Bouwjaar 2010 Motorcode CASA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/camera-dpc/volkswagen-vw-7p6907217-7p6907217-bosch-0275003008-1039s43652-154207.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7P6 907 217",
+                            "7P6907217"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7P6 907 217",
+                            "7P6907217"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 275 003 008",
+                            "0275003008"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 039 S43 652",
+                            "1039S43652"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "161",
+                        "fault_description": "Videosignaaldatakabel Signaal defect of C110702 Videolijn voor beeldverwerking Signaalfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Touareg 3.0 TDI (Touareg, 7P) Bouwjaar 2010 Motorcode CVVA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/camera-dpc/volkswagen-vw-7p6907217b-7p6907217-bosch-0203500000-1039s47740-154176.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7P6 907 217 B",
+                            "7P6907217B"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7P6 907 217",
+                            "7P6907217"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 203 500 000",
+                            "0203500000"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 039 S47 740",
+                            "1039S47740"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "161",
+                        "fault_description": "Videosignaaldatakabel Signaal defect of C110702 Videolijn voor beeldverwerking Signaalfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Touareg 3.0 TDI (Touareg, 7P) Bouwjaar 2012 Motorcode CRCA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/camera-dpc/volkswagen-vw-7p6907217b-7p6907217-bosch-0203500000-1039s61349-154069.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7P6 907 217 B",
+                            "7P6907217B"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7P6 907 217",
+                            "7P6907217"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 203 500 000",
+                            "0203500000"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 039 S61 349",
+                            "1039S61349"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "161",
+                        "fault_description": "Videosignaaldatakabel Signaal defect of C110702 Videolijn voor beeldverwerking Signaalfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Touareg 3.0 TDI (Touareg, 7P) Bouwjaar 2013 - 2021 Motorcode CRCA, CVVA"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/camera-dpc/volkswagen-vw-7p6907217b-7p6907217-bosch-0203500000-1039s64552-153639.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7P6 907 217 B",
+                            "7P6907217B"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7P6 907 217",
+                            "7P6907217"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 203 500 000",
+                            "0203500000"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 039 S64 552",
+                            "1039S64552"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "161",
+                        "fault_description": "Videosignaaldatakabel Signaal defect of C110702 Videolijn voor beeldverwerking Signaalfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Touareg 3.0 TDI (Touareg, 7P) Bouwjaar 2013 - 2021 Motorcode CRCA, CVVA"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Haldex regelunit (Gen.1).",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/haldex+control+unit+gen+1-53266.ts1628724461.jpg",
+        "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29-5219",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d525554-haldex-122088.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "02D 525 554",
+                            "02D525554"
+                        ]
+                    },
+                    {
+                        "title": "Haldex.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving-J492 (in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf 1.9 TDI 4Motion (Golf IV, 1J) Bouwjaar 1999 - 2000 Motorcode AGR",
+                    "Volkswagen Golf IV 1.8 4Motion (Golf IV, 1J) Bouwjaar 1998 - 1999 Motorcode AGN"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554a-siemens-115926.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "02D 900 554 A",
+                            "02D900554A"
+                        ]
+                    },
+                    {
+                        "title": "Siemens",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving-J492 (in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554b-siemens-115921.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "02D 900 554 B",
+                            "02D900554B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving-J492 (in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Bora 1.9 TDI 4Motion (Bora, 1J) Motorcode AJM",
+                    "Volkswagen Bora 1.9 TDI Variant 4Motion (Bora, 1J) Bouwjaar 2000 - 2001 Motorcode AJM, ATD, ASZ",
+                    "Volkswagen Bora 2.0 Variant 4Motion (Bora, 1J) Bouwjaar 2000 - 2001 Motorcode AZH",
+                    "Volkswagen Bora 2.8 V6 Variant 4Motion (Bora, 1J) Bouwjaar 2000 - 2001 Motorcode AUE",
+                    "Volkswagen Golf 1.9 TDI 4Motion (Golf IV, 1J) Bouwjaar 2000",
+                    "Volkswagen Golf 2.0 Variant 4Motion (Golf IV, 1J) Bouwjaar 2001",
+                    "Volkswagen Golf IV 1.9 TDI 4Motion (Golf IV, 1J) Bouwjaar 2001 Motorcode ATD",
+                    "Volkswagen Golf IV 1.9 TDI Variant 4Motion (Golf IV, 1J) Bouwjaar 2000 - 2001 Motorcode AJM",
+                    "Volkswagen Golf IV 2.3 4Motion (Golf IV, 1J) Bouwjaar 2000 Motorcode AGZ",
+                    "Volkswagen Golf IV 2.8 4Motion (Golf IV, 1J) Bouwjaar 1999 - 2001 Motorcode AQP, AUE, BDE",
+                    "Volkswagen Golf IV 2.8 Variant 4Motion (Golf IV, 1J) Bouwjaar 2000 Motorcode AUE",
+                    "Volkswagen Golf R32 4Motion (Golf IV, 1J) Bouwjaar 2003 Motorcode BFH",
+                    "Volkswagen New Beetle 3.2 RSI 4Motion (New Beetle, 9C) Bouwjaar 2002 Motorcode AXJ",
+                    "Volkswagen Sharan 1.9 TDI 4Motion (Sharan, 7M) Bouwjaar 2001 Motorcode AUY",
+                    "Volkswagen Sharan 2.8 4Motion (Sharan, 7M) Bouwjaar 2001 Motorcode AYL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554c-siemens-ha1-119606.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "02D 900 554 C",
+                            "02D900554C"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "HA1"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving-J492 (in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Bora 1.9 TDI Variant 4Motion (Bora, 1J) Bouwjaar 2002 Motorcode ARL",
+                    "Volkswagen Bora 2.8 V6 Variant 4Motion (Bora, 1J) Bouwjaar 2003 Motorcode BDE",
+                    "Volkswagen Golf 2.3 V5 4Motion (Golf IV, 1J) Bouwjaar 2002 Motorcode AQN",
+                    "Volkswagen Golf IV 1.9 TDI 4Motion (Golf IV, 1J) Bouwjaar 2002 - 2003 Motorcode ATD",
+                    "Volkswagen Golf IV 1.9 TDI Variant 4Motion (Golf IV, 1J) Bouwjaar 2002 Motorcode ATD",
+                    "Volkswagen Golf IV 2.0 4Motion (Golf IV, 1J) Bouwjaar 2003 Motorcode AZH",
+                    "Volkswagen Golf IV 2.8 4Motion (Golf IV, 1J) Bouwjaar 2001 - 2002 Motorcode AUE",
+                    "Volkswagen Golf R32 4Motion (Golf IV, 1J) Bouwjaar 2002 - 2004 Motorcode BFH",
+                    "Volkswagen Sharan 1.9 TDI 4Motion (Sharan, 7M) Bouwjaar 2002 - 2003 Motorcode AUY",
+                    "Volkswagen Sharan 2.8 4Motion (Sharan, 7M) Bouwjaar 2002 Motorcode AYL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554d-siemens-115922.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "02D 900 554 D",
+                            "02D900554D"
+                        ]
+                    },
+                    {
+                        "title": "Siemens",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving-J492 (in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Sharan 1.9 TDI 4Motion (Sharan, 7M) Bouwjaar 2007 - 2008 Motorcode BVK",
+                    "Volkswagen Sharan 1.9 TDI (Sharan, 7M) Bouwjaar 2008 Motorcode BVK"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554dv-siemens-115923.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "02D 900 554 DV",
+                            "02D900554DV"
+                        ]
+                    },
+                    {
+                        "title": "Siemens",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving-J492 (in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554dx-siemens-115924.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "02D 900 554 DX",
+                            "02D900554DX"
+                        ]
+                    },
+                    {
+                        "title": "Siemens",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving-J492 (in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.1%29/volkswagen-vw-02d900554e-siemens-115925.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "02D 900 554 E",
+                            "02D900554E"
+                        ]
+                    },
+                    {
+                        "title": "Siemens",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving-J492 (in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": "052C 01324",
+                        "fault_description": "Regelunit voor vierwielaandrijving geblokkeerd/geen signaal (fout is opgeslagen in ABS/ESP)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Haldex regelunit (Gen.2).",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/haldex+control+unit+gen+2-9869.ts1628711371.jpg",
+        "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29-4889",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0525130h-siemens-114112.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "1K0 525 130 H",
+                            "1K0525130H"
+                        ]
+                    },
+                    {
+                        "title": "Siemens",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0525130k-siemens-114110.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "1K0 525 130 K",
+                            "1K0525130K"
+                        ]
+                    },
+                    {
+                        "title": "Siemens",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0525130l-104572-siemens-5wp22202-111893.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "1K0 525 130 L",
+                            "1K0525130L"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "104572"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22202"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf 1.9 TDI 4Motion (Golf V, 1K) Bouwjaar 2005 Motorcode BKC",
+                    "Volkswagen Golf V 2.0 FSI 4Motion (Golf V, 1K) Bouwjaar 2005 Motorcode BLX",
+                    "Volkswagen Golf V 2.0 TDI (Golf V, 1K) Bouwjaar 2004 Motorcode BKD",
+                    "Volkswagen Passat 2.0 (Passat, 3C) Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554-10457202-siemens-5wp2221203-111895.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "1K0 907 554",
+                            "1K0907554"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "104572-02",
+                            "10457202"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22212-03",
+                            "5WP2221203"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf 1.9 TDI 4Motion (Golf V, 1K) Bouwjaar 2004 Motorcode BKC",
+                    "Volkswagen Golf V 2.0 TDI 4Motion (Golf V, 1K) Bouwjaar 2004 Motorcode BKD",
+                    "Volkswagen Golf V 2.0 TDI (Golf V, 1K) Bouwjaar 2004 Motorcode BKD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554a-10457204-siemens-5wp2222201-114113.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "1K0 907 554 A",
+                            "1K0907554A"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "104572-04",
+                            "10457204"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22222-01",
+                            "5WP2222201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf 1.9 TDI 4Motion (Golf V, 1K) Bouwjaar 2005 Motorcode BKC",
+                    "Volkswagen Golf R32 4Motion (Golf V, 1K) Bouwjaar 2005 Motorcode BUB",
+                    "Volkswagen Golf V 2.0 FSI 4Motion (Golf V, 1K) Bouwjaar 2005 Motorcode BLX",
+                    "Volkswagen Golf V 2.0 TDI 4Motion (Golf V, 1K) Bouwjaar 2004 - 2005 Motorcode BKD",
+                    "Volkswagen Passat 3.2 FSI Variant 4Motion (Passat, 3C) Bouwjaar 2007 Motorcode AXZ"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554b-10457205-siemens-5wp2222202-114644.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "1K0 907 554 B",
+                            "1K0907554B"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "104572-05",
+                            "10457205"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22222-02",
+                            "5WP2222202"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf R32 4Motion (Golf V, 1K) Bouwjaar 2005 - 2006 Motorcode BUB",
+                    "Volkswagen Golf V 2.0 FSI 4Motion (Golf V, 1K) Bouwjaar 2005 Motorcode BLX",
+                    "Volkswagen Golf V 2.0 TDI 4Motion (Golf V, 1K) Bouwjaar 2005",
+                    "Volkswagen Passat 2.0 TDI Variant 4Motion (Passat, 3C) Bouwjaar 2006 Motorcode BMP"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554c-10771801-siemens-5wp2223201-132502.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "1K0 907 554 C",
+                            "1K0907554C"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "107718-01",
+                            "10771801"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22232-01",
+                            "5WP2223201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf R32 4Motion (Golf V, 1K) Bouwjaar 2006 Motorcode BUB",
+                    "Volkswagen Golf V 2.0 FSI 4Motion (Golf V, 1K) Bouwjaar 2006 Motorcode BVX",
+                    "Volkswagen Golf V 2.0 TDI 4Motion (Golf V, 1K) Bouwjaar 2005 - 2006 Motorcode BMM",
+                    "Volkswagen Passat 2.0 FSI 4Motion (Passat, 3C) Bouwjaar 2008 Motorcode BVX",
+                    "Volkswagen Passat 2.0 FSI Variant 4Motion (Passat, 3C) Bouwjaar 2005 - 2006 Motorcode BVX",
+                    "Volkswagen Passat 2.0 TDI 4Motion (Passat, 3C) Bouwjaar 2005 - 2006 Motorcode BKP",
+                    "Volkswagen Passat 2.0 TDI Variant 4Motion (Passat, 3C) Bouwjaar 2005 - 2006 Motorcode BMP",
+                    "Volkswagen Passat 2.0 TDI Variant (Passat, 3C) Bouwjaar 2005 - 2006 Motorcode BKP",
+                    "Volkswagen Passat 3.2 FSI 4Motion (Passat, 3C) Bouwjaar 2006 Motorcode AXZ",
+                    "Volkswagen Passat 3.2 FSI Variant 4Motion (Passat, 3C) Bouwjaar 2006 Motorcode AXZ"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554e-siemensvdo-5wp2223102-135667.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "1K0 907 554 E",
+                            "1K0907554E"
+                        ]
+                    },
+                    {
+                        "title": "SiemensVDO - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22231-02",
+                            "5WP2223102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Passat 3.2 FSI Variant 4Motion (Passat, 3C) Bouwjaar 2008 Motorcode AXZ"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554f-10771802-siemens-5wp2223202-131794.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "1K0 907 554 F",
+                            "1K0907554F"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "107718-02",
+                            "10771802"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22232-02",
+                            "5WP2223202"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf R32 4Motion (Golf V, 1K) Bouwjaar 2006 Motorcode BUB",
+                    "Volkswagen Golf V 1.9 TDI 4Motion (Golf V, 1K) Bouwjaar 2006 Motorcode BLS",
+                    "Volkswagen Golf V 2.0 FSI 4Motion (Golf V, 1K) Bouwjaar 2006 Motorcode BVX",
+                    "Volkswagen Golf V 2.0 TDI 4Motion (Golf V, 1K) Bouwjaar 2006 - 2007 Motorcode BKD, BKN, BMM",
+                    "Volkswagen Passat 2.0 TDI Variant 4Motion (Passat, 3C) Bouwjaar 2006 Motorcode BKP, BMP",
+                    "Volkswagen Passat 3.2 FSI Variant 4Motion (Passat, 3C) Bouwjaar 2006 Motorcode AXZ"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554h-10871002-siemens-5wp2223401-114111.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "1K0 907 554 H",
+                            "1K0907554H"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "108710-02",
+                            "10871002"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22234-01",
+                            "5WP2223401"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Passat 2.0 FSI 4Motion (Passat, 3C) Bouwjaar 2006",
+                    "Volkswagen Passat 2.0 FSI Variant 4Motion (Passat, 3C) Bouwjaar 2006 Motorcode BVX",
+                    "Volkswagen Passat 2.0 TDI Variant 4Motion (Passat, 3C) Bouwjaar 2006 - 2007 Motorcode BMP, CBAB",
+                    "Volkswagen Passat 3.2 FSI 4Motion (Passat, 3C) Bouwjaar 2006 Motorcode AXZ",
+                    "Volkswagen Passat 3.2 FSI Variant 4Motion (Passat, 3C) Bouwjaar 2006 Motorcode AXZ"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554k-10943001-siemens-5wp2224301-112437.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "1K0 907 554 K",
+                            "1K0907554K"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "109430-01",
+                            "10943001"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22243-01",
+                            "5WP2224301"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Passat 2.0 FSI Variant 4Motion (Passat, 3C) Bouwjaar 2006 Motorcode BVX",
+                    "Volkswagen Passat 2.0 TDI 4Motion (Passat, 3C) Bouwjaar 2007 Motorcode BMP",
+                    "Volkswagen Passat 2.0 TDI Variant 4Motion (Passat, 3C) Bouwjaar 2004 - 2008 Motorcode BMP, BKP, CBAB",
+                    "Volkswagen Passat 3.2 FSI Variant 4Motion (Passat, 3C) Bouwjaar 2007 - 2008 Motorcode AXZ",
+                    "Volkswagen Passat R36 Variant 4Motion (Passat, 3C) Bouwjaar 2007 - 2008 Motorcode BWS"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-1k0907554l-10942901-siemens-5wp2224101-111892.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "1K0 907 554 L",
+                            "1K0907554L"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "109429-01",
+                            "10942901"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22241-01",
+                            "5WP2224101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf R32 4Motion (Golf V, 1K) Bouwjaar 2006 - 2008 Motorcode BUB",
+                    "Volkswagen Golf V 1.9 TDI 4Motion (Golf V, 1K) Bouwjaar 2006 - 2007 Motorcode BLS",
+                    "Volkswagen Golf V 1.9 TDI Variant 4Motion (Golf V, 1K) Bouwjaar 2008 Motorcode BLS",
+                    "Volkswagen Golf V 2.0 FSI 4Motion (Golf V, 1K) Bouwjaar 2007 Motorcode BVX",
+                    "Volkswagen Golf V 2.0 TDI 4Motion (Golf V, 1K) Bouwjaar 2006 - 2008 Motorcode BMM"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0525130f-siemens-5wp22202-111894.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7H0 525 130 F",
+                            "7H0525130F"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22202"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.5 TDI Multivan 4Motion (T5, 7E/H/J) Bouwjaar 2004 Motorcode AXD",
+                    "Volkswagen T5 2.5 TDI Transporter 4Motion (T5, 7E/H/J) Bouwjaar 2008 - 2009 Motorcode BNZ",
+                    "Volkswagen (T5, 7E/H/J) Bouwjaar 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554-10457301-siemens-5wp2221301-119746.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7H0 907 554",
+                            "7H0907554"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "104573-01",
+                            "10457301"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22213-01",
+                            "5WP2221301"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.5 TDI 4Motion (T5, 7E/H/J) Bouwjaar 2004 Motorcode AXE",
+                    "Volkswagen T5 2.5 TDI Caravelle 4Motion (T5, 7E/H/J) Bouwjaar 2004 Motorcode AXD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554-10457301-siemens-5wp2221302-117963.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7H0 907 554",
+                            "7H0907554"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "104573-01",
+                            "10457301"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22213-02",
+                            "5WP2221302"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.5 TDI Transporter 4Motion (T5, 7E/H/J) Bouwjaar 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554-siemens-5wp2221304-114646.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7H0 907 554",
+                            "7H0907554"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22213-04",
+                            "5WP2221304"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.5 TDI 4Motion (T5, 7E/H/J) Bouwjaar 2004 - 2005 Motorcode BNZ",
+                    "Volkswagen T5 2.5 TDI Transporter 4Motion (T5, 7E/H/J) Bouwjaar 2004 - 2005 Motorcode AXD",
+                    "Volkswagen T5 2.5 TDI Transporter (T5, 7E/H/J) Bouwjaar 2004 Motorcode AXD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554a-10457304-siemens-5wp2222301-117288.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7H0 907 554 A",
+                            "7H0907554A"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "104573-04",
+                            "10457304"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22223-01",
+                            "5WP2222301"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.5 TDI 4Motion (T5, 7E/H/J) Bouwjaar 2004 - 2005 Motorcode AXD, AXE",
+                    "Volkswagen T5 2.5 TDI Caravelle 4Motion (T5, 7E/H/J) Bouwjaar 2005 Motorcode AXD",
+                    "Volkswagen T5 2.5 TDI Multivan 4Motion (T5, 7E/H/J) Bouwjaar 2005 Motorcode AXD",
+                    "Volkswagen T5 2.5 TDI Transporter 4Motion (T5, 7E/H/J) Bouwjaar 2004 - 2015 Motorcode AXE, AXD, BNZ"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554c-10457305-siemens-5wp2222302-113482.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7H0 907 554 C",
+                            "7H0907554C"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "104573-05",
+                            "10457305"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22223-02",
+                            "5WP2222302"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.5 TDI 4Motion (T5, 7E/H/J) Bouwjaar 2005 - 2008 Motorcode AXE, AXA",
+                    "Volkswagen T5 2.5 TDI Transporter 4Motion (T5, 7E/H/J) Bouwjaar 2005 Motorcode AXE, AXD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554d-10457306-siemens-5wp2222303-111891.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7H0 907 554 D",
+                            "7H0907554D"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "104573-06",
+                            "10457306"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22223-03",
+                            "5WP2222303"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T5 2.5 TDI 4Motion (T5, 7E/H/J) Bouwjaar 2005 - 2007 Motorcode AXD, AXE, BNZ, BPC",
+                    "Volkswagen T5 2.5 TDI California 4 Motion (T5, 7E/H/J) Bouwjaar 2006 Motorcode BPC",
+                    "Volkswagen T5 2.5 TDI Multivan 4Motion (T5, 7E/H/J) Bouwjaar 2006 Motorcode BPC",
+                    "Volkswagen T5 2.5 TDI Transporter 4Motion (T5, 7E/H/J) Bouwjaar 2005 - 2006 Motorcode BNZ, AXE, AXD",
+                    "Volkswagen T5 2.5 TDI Transporter (T5, 7E/H/J) Bouwjaar 2006 Motorcode AXD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/haldex-control-unit-%28gen.2%29/volkswagen-vw-7h0907554d-siemens-5wp2222302-132788.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7H0 907 554 D",
+                            "7H0907554D"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WP22223-02",
+                            "5WP2222302"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00003",
+                        "fault_description": "Regelunit - 014 - defect."
+                    },
+                    {
+                        "fault_code": "00448 01C0",
+                        "fault_description": "Voorlaadpomp voor Haldex-koppeling (V181)."
+                    },
+                    {
+                        "fault_code": "01324 J492",
+                        "fault_description": "Regelunit voor vierwielaandrijving - geen communicatie."
+                    },
+                    {
+                        "fault_code": "02248 08C8",
+                        "fault_description": "Klep voor regeling van de koppelingopeningsverhouding (N373)."
+                    },
+                    {
+                        "fault_code": "16347",
+                        "fault_description": "Regelunit - fout in EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Stuurkolomelektronica / spiraalveer Golf 6 / Touran.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/steering+column+electronics+coil+spring+golf+6+touran-4804921.ts1716811498.jpg",
+        "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran-7319",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953549-154056.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "5K0 953 549",
+                            "5K0953549"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "588",
+                        "fault_description": "Functie ontsteking bestuurderairbag defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953569ab-valeo-153673.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "5K0 953 569 AB",
+                            "5K0953569AB"
+                        ]
+                    },
+                    {
+                        "title": "Valeo.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "588",
+                        "fault_description": "Functie ontsteking bestuurderairbag defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953569al-153838.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "5K0 953 569 AL",
+                            "5K0953569AL"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "588",
+                        "fault_description": "Functie ontsteking bestuurderairbag defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Sharan 2.0 TDI (Sharan, 7N) Bouwjaar 2011 Motorcode CFFB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953569ap-valeo-146252.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "5K0 953 569 AP",
+                            "5K0953569AP"
+                        ]
+                    },
+                    {
+                        "title": "Valeo.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "588",
+                        "fault_description": "Functie ontsteking bestuurderairbag defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Touran 1.2 TSI (Touran, 1T) Bouwjaar 2014 - 2015 Motorcode CBZB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953569as-valeo-151423.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "5K0 953 569 AS",
+                            "5K0953569AS"
+                        ]
+                    },
+                    {
+                        "title": "Valeo.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "588",
+                        "fault_description": "Functie ontsteking bestuurderairbag defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Passat 1.4 TSI (Passat, 3C) Bouwjaar 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953569h-valeo-154015.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "5K0 953 569 H",
+                            "5K0953569H"
+                        ]
+                    },
+                    {
+                        "title": "Valeo.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "588",
+                        "fault_description": "Functie ontsteking bestuurderairbag defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Touran 2.0 TDI (Touran, 1T) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/steering-column-electronics-coil-spring-golf-6-touran/volkswagen-vw-5k0953569l-153614.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "5K0 953 569 L",
+                            "5K0953569L"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "588",
+                        "fault_description": "Functie ontsteking bestuurderairbag defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Touran 1.4 TSI (Touran, 1T) Bouwjaar 2012 Motorcode BMY"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Touareg (7L) Servomotor differentieel achteras.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/touareg+7l+servomotor+differential+rear+axle-2187283.ts1697611883.jpg",
+        "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/touareg-%287l%29-servomotor-differential-rear-axle-7122",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/touareg-%287l%29-servomotor-differential-rear-axle/volkswagen-vw-0ab341601-151260.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "0AB 341 601",
+                            "0AB341601"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Touareg 3.0 TDI (Touareg, 7L) Motorcode BKS"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/touareg-%287l%29-servomotor-differential-rear-axle/volkswagen-vw-7l0598001-151261.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "7L0 598 001",
+                            "7L0598001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Turbo-oplader actuator.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+        "product_link": "https://ecu.eu/vw-%28volkswagen%29/others-3086/vw-%28volkswagen%29/others/turbo-charger-actuator-4098",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/turbo-charger-actuator/volkswagen-vw-6nw008412-hella-712120-129788.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "6NW 008 412",
+                            "6NW008412"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "712120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tijdelijke problemen met de laaddrukregeling – foutcode met betrekking tot de laaddrukregeling, voertuig heeft vermogensverlies, motorcontrolelampje brandt, na aan- en uitzetten van de ontsteking werkt de motor weer normaal – tot de volgende fout optreedt."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Phaeton 5.0 TDI 4Motion (Phaeton, 3D) Bouwjaar 2003 Motorcode AJS",
+                    "Volkswagen Touareg 5.0 TDI V10 (Touareg, 7L) Bouwjaar 2004 Motorcode AYH"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/turbo-charger-actuator/volkswagen-vw-6nw009228-hella-730314-108226.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "6NW 009 228",
+                            "6NW009228"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "730314"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tijdelijke problemen met de laaddrukregeling – foutcode met betrekking tot de laaddrukregeling, voertuig heeft vermogensverlies, motorcontrolelampje brandt, na aan- en uitzetten van de ontsteking werkt de motor weer normaal – tot de volgende fout optreedt."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Phaeton 5.0 TDI 4Motion (Phaeton, 3D) Motorcode AJS",
+                    "Volkswagen Touareg 5.0 TDI (Touareg, 7L) Motorcode CBWA, BLE",
+                    "Volkswagen Touareg 5.0 TDI V10 (Touareg, 7L) Bouwjaar 2004 - 2006 Motorcode AYH, BLE"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/others/turbo-charger-actuator/volkswagen-vw-6nw009550-hella-767649-107624.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "6NW 009 550",
+                            "6NW009550"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "767649"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tijdelijke problemen met de laaddrukregeling – foutcode met betrekking tot de laaddrukregeling, voertuig heeft vermogensverlies, motorcontrolelampje brandt, na aan- en uitzetten van de ontsteking werkt de motor weer normaal – tot de volgende fout optreedt."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Phaeton 3.0 TDI 4Motion (Phaeton, 3D) Bouwjaar 2012 Motorcode CEXA",
+                    "Volkswagen Touareg 3.0 TDI (Touareg, 7L) Bouwjaar 2009 Motorcode CASA",
+                    "Volkswagen Touareg 3.0 TDI (Touareg, 7P) Motorcode CASA, CRCA, CVWA, CVVA"
+                ]
+            }
+        ]
+    }
+]

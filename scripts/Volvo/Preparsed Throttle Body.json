@@ -1,0 +1,1263 @@
+[
+    {
+        "part_name": "Magneti Marelli",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/magneti+marelli-681.ts1628711295.jpg",
+        "product_link": "https://ecu.eu/volvo/throttle-body-131/volvo/throttle-body/magneti-marelli-3379",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-36050563-8644346-magneti-marelli-106333.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "36050563"
+                        ]
+                    },
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8644346"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO C70 2.4 T Cabrio (C70) Year of manufacture 2000 Engine code B5244T, B5254T",
+                    "VOLVO S60 2.4 T (S60) Year of manufacture 2001 Engine code B5244T3",
+                    "VOLVO S60 T5 (S60) Year of manufacture 2000 Engine code B5234T3",
+                    "VOLVO S80 2.0 T (S80) Year of manufacture 2000 Engine code B5204T5",
+                    "VOLVO V70 2.5 (V70) Year of manufacture 1999 Engine code B5254S",
+                    "VOLVO V70 T5 (V70) Year of manufacture 1999 - 2001 Engine code B5234T3"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-36050563-8644347-magneti-marelli-113433.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "36050563"
+                        ]
+                    },
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8644347"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 2000 - 2002 Engine code B5204T4",
+                    "VOLVO S60 2.4 T (S60) Year of manufacture 2001 Engine code B5244T3",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 1999 Engine code B5244S",
+                    "VOLVO S80 2.8 (S80) Year of manufacture 2000 Engine code B6284T",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2000 - 2001 Engine code B5244T3",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 1999 Engine code B5244S2",
+                    "VOLVO V70 2.5 T (V70) Year of manufacture 1999 Engine code B5254T",
+                    "VOLVO V70 T5 (V70) Year of manufacture 2000 - 2002 Engine code B5234T3"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-36050563-9186793-magneti-marelli-113071.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "36050563"
+                        ]
+                    },
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "9186793"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 2001 Engine code B5204T4",
+                    "VOLVO C70 2.4 Coupe (C70) Year of manufacture 1999 Engine code B5244S",
+                    "VOLVO (C70) Year of manufacture 2001 Engine code B5244T",
+                    "VOLVO C70 T5 Cabrio (C70 I Cabrio) Year of manufacture 2001 Engine code B5234T3",
+                    "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 2000 Engine code B5234T3",
+                    "VOLVO S80 2.0 T (S80) Year of manufacture 1999 - 2002 Engine code B5204T4, B5204T5",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 2000 Engine code B5244S",
+                    "VOLVO V70 2.0 T (V70) Year of manufacture 1999 Engine code B5204T3",
+                    "VOLVO V70 2.3 AWD (V70) Year of manufacture 1999 Engine code B5234T4",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2000 - 2001 Engine code B5244S, B5244T3",
+                    "VOLVO V70 2.4 T (V70, S) Year of manufacture 2000 Engine code B5244T3",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 1999 - 2000 Engine code B5244S2",
+                    "VOLVO V70 2.5 T AWD (V70) Year of manufacture 1998 - 2000 Engine code B5254T, B5244T2",
+                    "VOLVO V70 2.5 T (V70) Year of manufacture 1998 Engine code B5254T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-36050563-magneti-marelli-106334.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "36050563"
+                        ]
+                    },
+                    {
+                        "title": "VOLVO",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Magneti Marelli",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 1999 Engine code B5234T3",
+                    "VOLVO S80 2.0 T (S80) Year of manufacture 1999 - 2000 Engine code B5204T, B5204T5",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 1999 Engine code B5244S",
+                    "VOLVO S80 2.9 (S80) Year of manufacture 1998 Engine code B6304S3",
+                    "VOLVO V70 2.3 AWD (V70) Year of manufacture 1999 Engine code B5234T4",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2000 Engine code B5244T3",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 2000 Engine code B5244S2",
+                    "VOLVO V70 2.4 (V70, L) Year of manufacture 2000 Engine code B5244S2",
+                    "VOLVO V70 2.5 (V70) Year of manufacture 1998 Engine code B5254S"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-36050564-8644345-magneti-marelli-106337.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "36050564"
+                        ]
+                    },
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8644345"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO S60 2.4 (S60) Year of manufacture 2000 - 2002 Engine code B5244S2",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 2001 Engine code B5244S2",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2000 - 2003 Engine code B5244S, B5244S2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-36050565-magneti-marelli-106336.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "36050565"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V70 2.5 Bi-Fuel (V70) Year of manufacture 2006 Engine code B5244SG2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-36050565-magneti-marelli-106338.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "36050565"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-8644344-magneti-marelli-ah0015008a-986.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8644344"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli - Part number",
+                        "numbers": [
+                            "AH.0015008.A",
+                            "AH0015008A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO S60 2.4 (S60) Year of manufacture 2000 - 2002 Engine code B5244S2",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2000 - 2002 Engine code B5244S, B5244S2",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 1999 Engine code B5244S2",
+                    "VOLVO V70 2.5 Bi-Fuel (V70) Year of manufacture 2001 Engine code B5244SG2",
+                    "VOLVO V70 2.5 T Bi-Fuel (V70) Year of manufacture 2004 Engine code B5244SG2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-8644344-magneti-marelli-ah0015008c-100499.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8644344"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli - Part number",
+                        "numbers": [
+                            "AH.0015008.C",
+                            "AH0015008C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO S60 2.4 Bi-Fuel (S60) Year of manufacture 2002 Engine code B5244SG",
+                    "VOLVO S60 2.4 (S60) Year of manufacture 2001 Engine code B5244S2",
+                    "VOLVO S80 2.4 Bi-Fuel (S80) Year of manufacture 2002 Engine code B5244SG2",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 2000 Engine code B5244S2",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2000 - 2002 Engine code B5244S, B5244S2",
+                    "VOLVO V70 2.4 T (V70, S) Year of manufacture 2000 Engine code B5244S",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 2001 Engine code B5244S",
+                    "VOLVO V70 2.5 Bi-Fuel (V70) Year of manufacture 2001 Engine code B5244SG2",
+                    "VOLVO V70 2.5 T Bi-Fuel (V70) Year of manufacture 2002 - 2004 Engine code B5244SG2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-8644345-magneti-marelli-ah0013536c-364.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8644345"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli - Part number",
+                        "numbers": [
+                            "AH.0013536.C",
+                            "AH0013536C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 2001 - 2002 Engine code B5204T4",
+                    "VOLVO S60 2.4 Bi-Fuel (S60) Year of manufacture 2002 - 2006 Engine code B5244SG, B5244SG2",
+                    "VOLVO S60 2.4 (S60) Year of manufacture 2000 - 2003 Engine code B5244S2",
+                    "VOLVO S60 2.4 (S60, R) Year of manufacture 2000 - 2002 Engine code B5244S2",
+                    "VOLVO S80 2.4 Bi-Fuel (S80) Engine code B5244SG2",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 2000 - 2004 Engine code B5244S, B5244S2",
+                    "VOLVO S80 2.4 (S80, T) Year of manufacture 2000 - 2001 Engine code B5244S, B5244S2",
+                    "VOLVO S80 2.9 (S80) Year of manufacture 1998 Engine code B6304S3",
+                    "VOLVO V70 2.4 T (V70) Engine code B5244S, B5244T3, B5244S2",
+                    "VOLVO V70 2.4 T (V70, S) Year of manufacture 2000 - 2002 Engine code B5244S, B5244S2",
+                    "VOLVO V70 2.4 (V70) Engine code B5244S2",
+                    "VOLVO V70 2.5 Bi-Fuel (V70) Year of manufacture 2001 - 2007 Engine code B5244SG2",
+                    "VOLVO V70 2.5 T Bi-Fuel (V70) Year of manufacture 2000 - 2006 Engine code B5244SG2",
+                    "VOLVO V70 2.5 T Bi-Fuel (V70, J) Year of manufacture 2002 Engine code B5244SG2",
+                    "VOLVO (V70) Year of manufacture 2000 - 2002 Engine code B5244S2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-8644345-magneti-marelli-ah0013536c-119121.html",
+                "part_numbers": [],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 2001 - 2002 Engine code B5204T4",
+                    "VOLVO S60 2.4 Bi-Fuel (S60) Year of manufacture 2002 - 2006 Engine code B5244SG, B5244SG2",
+                    "VOLVO S60 2.4 (S60) Year of manufacture 2000 - 2003 Engine code B5244S2",
+                    "VOLVO S60 2.4 (S60, R) Year of manufacture 2000 - 2002 Engine code B5244S2",
+                    "VOLVO S80 2.4 Bi-Fuel (S80) Engine code B5244SG2",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 2000 - 2004 Engine code B5244S, B5244S2",
+                    "VOLVO S80 2.4 (S80, T) Year of manufacture 2000 - 2001 Engine code B5244S, B5244S2",
+                    "VOLVO S80 2.9 (S80) Year of manufacture 1998 Engine code B6304S3",
+                    "VOLVO V70 2.4 T (V70) Engine code B5244S, B5244T3, B5244S2",
+                    "VOLVO V70 2.4 T (V70, S) Year of manufacture 2000 - 2002 Engine code B5244S, B5244S2",
+                    "VOLVO V70 2.4 (V70) Engine code B5244S2",
+                    "VOLVO V70 2.5 Bi-Fuel (V70) Year of manufacture 2001 - 2007 Engine code B5244SG2",
+                    "VOLVO V70 2.5 T Bi-Fuel (V70) Year of manufacture 2000 - 2006 Engine code B5244SG2",
+                    "VOLVO V70 2.5 T Bi-Fuel (V70, J) Year of manufacture 2002 Engine code B5244SG2",
+                    "VOLVO (V70) Year of manufacture 2000 - 2002 Engine code B5244S2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-8644346-magneti-marelli-ah0002030m-885.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8644346"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli - Part number",
+                        "numbers": [
+                            "AH.0002030.M",
+                            "AH0002030M"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO Year of manufacture 2000 - 2001 Engine code B5244T",
+                    "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 2000 - 2003 Engine code B5204T4",
+                    "VOLVO C70 2.0 T Cabrio (C70, N) Year of manufacture 2000 - 2002 Engine code B5204T4",
+                    "VOLVO C70 2.4 T (C70) Year of manufacture 1999 - 2002 Engine code B5254T",
+                    "VOLVO C70 2.4 T Cabrio (C70 I Cabrio) Year of manufacture 2000 - 2003 Engine code B5254T",
+                    "VOLVO C70 T5 Cabrio (C70 I Cabrio) Year of manufacture 2000 - 2002 Engine code B5234T3",
+                    "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 2000 - 2001 Engine code B5234T3",
+                    "VOLVO S60 2.0 T (S60) Year of manufacture 2001 Engine code B5204T5",
+                    "VOLVO S60 2.4 T (S60) Year of manufacture 2000 - 2001 Engine code B5244T3",
+                    "VOLVO S60 T5 (S60) Year of manufacture 2000 - 2002 Engine code B5234T3",
+                    "VOLVO S70 2.0 T (S70) Year of manufacture 1999 Engine code B5204T4",
+                    "VOLVO S80 2.0 T (S80) Year of manufacture 2000 - 2001 Engine code B5204T5",
+                    "VOLVO S80 2.0 T (S80, T) Engine code B5204T5",
+                    "VOLVO S80 2.4 T (S80) Year of manufacture 2001 - 2004 Engine code B5244T2, B5244T3",
+                    "VOLVO S80 2.8 T (S80) Year of manufacture 2000 - 2001 Engine code B6284T",
+                    "VOLVO S80 2.9 (S80) Year of manufacture 2000 - 2001 Engine code B6294S",
+                    "VOLVO S80 3.0 T (S80) Year of manufacture 2001 Engine code B6294S2",
+                    "VOLVO V70 2.0 T (V70) Year of manufacture 2000 Engine code B5204T5",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 2000 - 2002 Engine code B5244T, B5244T3, B5244S2",
+                    "VOLVO V70 2.4 T (V70, S) Year of manufacture 2001 Engine code B5244T3",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 1999 Engine code B5244S2",
+                    "VOLVO V70 2.5 D (V70) Year of manufacture 2000 Engine code D5252T",
+                    "VOLVO V70 T5 (V70) Year of manufacture 2000 - 2003 Engine code B5234T3",
+                    "VOLVO V70 T5 (V70, S) Year of manufacture 2000 - 2001 Engine code B5234T3"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-8644347-magneti-marelli-ah0012381c-1360.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8644347"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli - Part number",
+                        "numbers": [
+                            "AH.0012381.C",
+                            "AH0012381C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO Year of manufacture 1998 - 2002 Engine code B5244T3, B5254T",
+                    "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 1999 - 2005 Engine code B5204T4",
+                    "VOLVO C70 2.0 T Cabrio (C70, N) Year of manufacture 2000 Engine code B5204T4",
+                    "VOLVO C70 2.4 Coupe (C70) Year of manufacture 1999 Engine code B5244S",
+                    "VOLVO C70 2.4 T (C70) Year of manufacture 1998 - 2000 Engine code B5254T",
+                    "VOLVO C70 2.4 T Cabrio (C70) Year of manufacture 1999 - 2002 Engine code B5254T",
+                    "VOLVO C70 T5 Cabrio (C70 I Cabrio) Year of manufacture 2002 Engine code B5234T3",
+                    "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 1998 - 2000 Engine code B5234T3",
+                    "VOLVO S60 2.4 T (S60) Year of manufacture 2000 - 2001 Engine code B5244T3",
+                    "VOLVO S60 T5 (S60) Year of manufacture 2000 - 2001 Engine code B5234T3",
+                    "VOLVO S70 2.4 (S70) Year of manufacture 1999 Engine code B5244T",
+                    "VOLVO S80 2.0 T (S80) Year of manufacture 1999 - 2001 Engine code B5204T4, B5204T5",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 1999 - 2000 Engine code B5244S",
+                    "VOLVO S80 2.4 T (S80) Year of manufacture 2000 - 2001 Engine code B5244T, B5244T3",
+                    "VOLVO S80 2.8 (S80) Year of manufacture 2003 Engine code B6284T",
+                    "VOLVO S80 2.8 T (S80) Year of manufacture 1999 - 2001 Engine code B6284T",
+                    "VOLVO S80 2.9 (S80) Year of manufacture 1998 - 2000 Engine code B630, B6304S3, B6294S",
+                    "VOLVO S80 2.9 (S80, T) Year of manufacture 1999 Engine code B6294S",
+                    "VOLVO V70 2.0 T (V70) Year of manufacture 1999 - 2000 Engine code B5204T3, B5204T4",
+                    "VOLVO V70 2.3 AWD (V70) Year of manufacture 1998 - 1999 Engine code B5234T4",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 833 - 2002 Engine code B5244S, B5244T3, B5244S2",
+                    "VOLVO V70 2.4 T (V70, L) Year of manufacture 2000 Engine code B5244S",
+                    "VOLVO V70 2.4 T (V70, S) Year of manufacture 2001 Engine code B5244T3",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 1999 - 2002 Engine code B5244S2, B5244T",
+                    "VOLVO V70 2.5 Bi-Fuel (V70) Year of manufacture 2000 Engine code GB5244SG",
+                    "VOLVO V70 2.5 T AWD (V70) Year of manufacture 1998 - 2000 Engine code B5254T, B5244T2",
+                    "VOLVO V70 2.5 T AWD (V70, L) Year of manufacture 1999 Engine code B5254T",
+                    "VOLVO V70 2.5 T Bi-Fuel (V70) Year of manufacture 2000 Engine code B5244SG2",
+                    "VOLVO V70 2.5 T (V70) Year of manufacture 1998 - 2000 Engine code B5254T, B5254S",
+                    "VOLVO V70 2.5 (V70) Year of manufacture 1998 - 1999 Engine code B5254S",
+                    "VOLVO V70 T5 (V70) Year of manufacture 1998 - 2008 Engine code B5234T3",
+                    "VOLVO V70 T5 (V70, S) Year of manufacture 2000 Engine code B5234T3",
+                    "VOLVO XC70 2.5 T AWD (XC70) Year of manufacture 2000 Engine code B5254T2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-8644347-magneti-marelli-ah0012381e-100444.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "8644347"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli - Part number",
+                        "numbers": [
+                            "AH.0012381.E",
+                            "AH0012381E"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO Year of manufacture 1998 - 2002 Engine code B5244T3, B5254T",
+                    "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 1999 - 2005 Engine code B5204T4",
+                    "VOLVO C70 2.0 T Cabrio (C70, N) Year of manufacture 2000 Engine code B5204T4",
+                    "VOLVO C70 2.4 Coupe (C70) Year of manufacture 1999 Engine code B5244S",
+                    "VOLVO C70 2.4 T (C70) Year of manufacture 1998 - 2000 Engine code B5254T",
+                    "VOLVO C70 2.4 T Cabrio (C70) Year of manufacture 1999 - 2002 Engine code B5254T",
+                    "VOLVO C70 T5 Cabrio (C70 I Cabrio) Year of manufacture 2002 Engine code B5234T3",
+                    "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 1998 - 2000 Engine code B5234T3",
+                    "VOLVO S60 2.4 T (S60) Year of manufacture 2000 - 2001 Engine code B5244T3",
+                    "VOLVO S60 T5 (S60) Year of manufacture 2000 - 2001 Engine code B5234T3",
+                    "VOLVO S70 2.4 (S70) Year of manufacture 1999 Engine code B5244T",
+                    "VOLVO S80 2.0 T (S80) Year of manufacture 1999 - 2001 Engine code B5204T4, B5204T5",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 1999 - 2000 Engine code B5244S",
+                    "VOLVO S80 2.4 T (S80) Year of manufacture 2000 - 2001 Engine code B5244T, B5244T3",
+                    "VOLVO S80 2.8 (S80) Year of manufacture 2003 Engine code B6284T",
+                    "VOLVO S80 2.8 T (S80) Year of manufacture 1999 - 2001 Engine code B6284T",
+                    "VOLVO S80 2.9 (S80) Year of manufacture 1998 - 2000 Engine code B630, B6304S3, B6294S",
+                    "VOLVO S80 2.9 (S80, T) Year of manufacture 1999 Engine code B6294S",
+                    "VOLVO V70 2.0 T (V70) Year of manufacture 1999 - 2000 Engine code B5204T3, B5204T4",
+                    "VOLVO V70 2.3 AWD (V70) Year of manufacture 1998 - 1999 Engine code B5234T4",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 833 - 2002 Engine code B5244S, B5244T3, B5244S2",
+                    "VOLVO V70 2.4 T (V70, L) Year of manufacture 2000 Engine code B5244S",
+                    "VOLVO V70 2.4 T (V70, S) Year of manufacture 2001 Engine code B5244T3",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 1999 - 2002 Engine code B5244S2, B5244T",
+                    "VOLVO V70 2.5 Bi-Fuel (V70) Year of manufacture 2000 Engine code GB5244SG",
+                    "VOLVO V70 2.5 T AWD (V70) Year of manufacture 1998 - 2000 Engine code B5254T, B5244T2",
+                    "VOLVO V70 2.5 T AWD (V70, L) Year of manufacture 1999 Engine code B5254T",
+                    "VOLVO V70 2.5 T Bi-Fuel (V70) Year of manufacture 2000 Engine code B5244SG2",
+                    "VOLVO V70 2.5 T (V70) Year of manufacture 1998 - 2000 Engine code B5254T, B5254S",
+                    "VOLVO V70 2.5 (V70) Year of manufacture 1998 - 1999 Engine code B5254S",
+                    "VOLVO V70 T5 (V70) Year of manufacture 1998 - 2008 Engine code B5234T3",
+                    "VOLVO V70 T5 (V70, S) Year of manufacture 2000 Engine code B5234T3",
+                    "VOLVO XC70 2.5 T AWD (XC70) Year of manufacture 2000 Engine code B5254T2"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-9186793-magneti-marelli-1738000107-101961.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "9186793"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli - Part number",
+                        "numbers": [
+                            "1738000107"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-9186793-magneti-marelli-1738000108-131961.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "9186793"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli - Part number",
+                        "numbers": [
+                            "17380.001.08",
+                            "1738000108"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 1998 Engine code B5204T3",
+                    "VOLVO C70 2.4 Coupe (C70) Year of manufacture 1999 Engine code B5244S",
+                    "VOLVO C70 2.4 T (C70) Year of manufacture 1998 - 2000 Engine code B5254T",
+                    "VOLVO C70 2.4 T Cabrio (C70 I Cabrio) Year of manufacture 1999 - 2000 Engine code B5254T",
+                    "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 1998 - 1999 Engine code B5234T3",
+                    "VOLVO S60 2.4 T (S60) Year of manufacture 2001 Engine code B5244T3",
+                    "VOLVO S70 2.4 (S70) Engine code B5344S2",
+                    "VOLVO S80 2.0 T (S80) Year of manufacture 2001 Engine code B5204T5",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 1999 - 2002 Engine code B5244S, B5244S2",
+                    "VOLVO S80 2.8 T (S80) Year of manufacture 1998 Engine code B6284T",
+                    "VOLVO S80 2.9 (S80) Year of manufacture 1998 - 1999 Engine code B6304S3",
+                    "VOLVO (V70) Year of manufacture 1999 Engine code B5244T",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 1999 - 2001 Engine code B5244S, B5244T3, B5244S2",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 1999 - 2000 Engine code B5244S2",
+                    "VOLVO V70 2.5 T AWD (V70) Year of manufacture 1998 - 1999 Engine code B5254T, B5244T, B5244T2",
+                    "VOLVO V70 2.5 T (V70) Year of manufacture 1998 - 1999 Engine code B5254T, B5254S",
+                    "VOLVO V70 2.5 (V70) Year of manufacture 1998 - 2009 Engine code B5254S",
+                    "VOLVO V70 T5 (V70) Year of manufacture 1998 - 1999 Engine code B5234T3"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-9186793-magneti-marelli-1738c00108-100441.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "9186793"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli - Part number",
+                        "numbers": [
+                            "1738C.001.08",
+                            "1738C00108"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 1999 - 2001 Engine code B5204T3, B5204T4",
+                    "VOLVO C70 2.4 Coupe (C70) Year of manufacture 1999 - 2000 Engine code B5244S",
+                    "VOLVO C70 2.4 T (C70) Year of manufacture 1998 - 2000 Engine code B5254T",
+                    "VOLVO C70 2.4 T Cabrio (C70 I Cabrio) Year of manufacture 1999 - 2000 Engine code B5254T, B5244S",
+                    "VOLVO C70 2.4 T Cabrio (C70 I Cabrio, N) Year of manufacture 1999 Engine code B5254T",
+                    "VOLVO C70 T5 Cabrio (C70 I Cabrio) Year of manufacture 1999 - 2000 Engine code B5234T3",
+                    "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 1999 - 2001 Engine code B5234T3",
+                    "VOLVO S60 2.4 T (S60) Year of manufacture 2001 Engine code B5244T3",
+                    "VOLVO S60 T5 (S60) Year of manufacture 2001 Engine code B5234T3",
+                    "VOLVO S70 2.0 T (S70) Year of manufacture 1998 Engine code B5204T4",
+                    "VOLVO S70 2.4 (S70) Year of manufacture 1999 - 2000 Engine code B5244S, B5244T, B5344S2",
+                    "VOLVO S70 2.5 (S70) Year of manufacture 1998 Engine code B5254S",
+                    "VOLVO (S80) Year of manufacture 1998 - 2000",
+                    "VOLVO S80 2.0 T (S80) Year of manufacture 1999 - 2002 Engine code B5204T4, B5204T5",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 1998 - 2002 Engine code B5244S, B5244S2",
+                    "VOLVO S80 2.4 (S80, T) Year of manufacture 1999 - 2000 Engine code B5244S2",
+                    "VOLVO S80 2.4 T (S80) Year of manufacture 2000 Engine code B5244S2",
+                    "VOLVO S80 2.8 T (S80) Year of manufacture 1998 - 2000 Engine code B6284T",
+                    "VOLVO S80 2.9 (S80) Year of manufacture 1998 - 2001 Engine code B6304S3, B6294S",
+                    "VOLVO S80 2.9 (S80, T) Year of manufacture 1999 Engine code B6304S3, B6294S",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 1999 - 2001 Engine code B5244S, B5244T3",
+                    "VOLVO V70 2.4 T (V70, L) Year of manufacture 1999 Engine code B5244S",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 1999 - 2002 Engine code B5244S2",
+                    "VOLVO V70 2.4 (V70, L) Engine code B5244S2",
+                    "VOLVO V70 2.5 Bi-Fuel (V70) Year of manufacture 2000 Engine code GB5244SG",
+                    "VOLVO V70 2.5 T AWD (V70) Year of manufacture 1999 Engine code B5254T",
+                    "VOLVO V70 2.5 T (V70) Year of manufacture 1998 - 1999 Engine code B5254T, B5254S",
+                    "VOLVO V70 2.5 (V70) Year of manufacture 1998 - 1999 Engine code B5254S",
+                    "VOLVO V70 T5 (V70) Year of manufacture 1998 - 2000 Engine code B5234T3"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-9186793-magneti-marelli-ah0002030j-100443.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "9186793"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli - Part number",
+                        "numbers": [
+                            "AH.0002030.J",
+                            "AH0002030J"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 1999 - 2001 Engine code B5204T3, B5204T4",
+                    "VOLVO C70 2.4 Coupe (C70) Year of manufacture 1999 - 2000 Engine code B5244S",
+                    "VOLVO C70 2.4 T (C70) Year of manufacture 1998 - 2000 Engine code B5254T",
+                    "VOLVO C70 2.4 T Cabrio (C70 I Cabrio) Year of manufacture 1999 - 2000 Engine code B5254T, B5244S",
+                    "VOLVO C70 2.4 T Cabrio (C70 I Cabrio, N) Year of manufacture 1999 Engine code B5254T",
+                    "VOLVO C70 T5 Cabrio (C70 I Cabrio) Year of manufacture 1999 - 2000 Engine code B5234T3",
+                    "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 1999 - 2001 Engine code B5234T3",
+                    "VOLVO S60 2.4 T (S60) Year of manufacture 2001 Engine code B5244T3",
+                    "VOLVO S60 T5 (S60) Year of manufacture 2001 Engine code B5234T3",
+                    "VOLVO S70 2.0 T (S70) Year of manufacture 1998 Engine code B5204T4",
+                    "VOLVO S70 2.4 (S70) Year of manufacture 1999 - 2000 Engine code B5244S, B5244T, B5344S2",
+                    "VOLVO S70 2.5 (S70) Year of manufacture 1998 Engine code B5254S",
+                    "VOLVO (S80) Year of manufacture 1998 - 2000",
+                    "VOLVO S80 2.0 T (S80) Year of manufacture 1999 - 2002 Engine code B5204T4, B5204T5",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 1998 - 2002 Engine code B5244S, B5244S2",
+                    "VOLVO S80 2.4 (S80, T) Year of manufacture 1999 - 2000 Engine code B5244S2",
+                    "VOLVO S80 2.4 T (S80) Year of manufacture 2000 Engine code B5244S2",
+                    "VOLVO S80 2.8 T (S80) Year of manufacture 1998 - 2000 Engine code B6284T",
+                    "VOLVO S80 2.9 (S80) Year of manufacture 1998 - 2001 Engine code B6304S3, B6294S",
+                    "VOLVO S80 2.9 (S80, T) Year of manufacture 1999 Engine code B6304S3, B6294S",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 1999 - 2001 Engine code B5244S, B5244T3",
+                    "VOLVO V70 2.4 T (V70, L) Year of manufacture 1999 Engine code B5244S",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 1999 - 2002 Engine code B5244S2",
+                    "VOLVO V70 2.4 (V70, L) Engine code B5244S2",
+                    "VOLVO V70 2.5 Bi-Fuel (V70) Year of manufacture 2000 Engine code GB5244SG",
+                    "VOLVO V70 2.5 T AWD (V70) Year of manufacture 1999 Engine code B5254T",
+                    "VOLVO V70 2.5 T (V70) Year of manufacture 1998 - 1999 Engine code B5254T, B5254S",
+                    "VOLVO V70 2.5 (V70) Year of manufacture 1998 - 1999 Engine code B5254S",
+                    "VOLVO V70 T5 (V70) Year of manufacture 1998 - 2000 Engine code B5234T3"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-9186793-magneti-marelli-ah0002030k-497.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "9186793"
+                        ]
+                    },
+                    {
+                        "title": "Magneti Marelli - Part number",
+                        "numbers": [
+                            "AH.0002030.K",
+                            "AH0002030K"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 1999 - 2001 Engine code B5204T3, B5204T4",
+                    "VOLVO C70 2.4 Coupe (C70) Year of manufacture 1999 - 2000 Engine code B5244S",
+                    "VOLVO C70 2.4 T (C70) Year of manufacture 1998 - 2000 Engine code B5254T",
+                    "VOLVO C70 2.4 T Cabrio (C70 I Cabrio) Year of manufacture 1999 - 2000 Engine code B5254T, B5244S",
+                    "VOLVO C70 2.4 T Cabrio (C70 I Cabrio, N) Year of manufacture 1999 Engine code B5254T",
+                    "VOLVO C70 T5 Cabrio (C70 I Cabrio) Year of manufacture 1999 - 2000 Engine code B5234T3",
+                    "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 1999 - 2001 Engine code B5234T3",
+                    "VOLVO S60 2.4 T (S60) Year of manufacture 2001 Engine code B5244T3",
+                    "VOLVO S60 T5 (S60) Year of manufacture 2001 Engine code B5234T3",
+                    "VOLVO S70 2.0 T (S70) Year of manufacture 1998 Engine code B5204T4",
+                    "VOLVO S70 2.4 (S70) Year of manufacture 1999 - 2000 Engine code B5244S, B5244T, B5344S2",
+                    "VOLVO S70 2.5 (S70) Year of manufacture 1998 Engine code B5254S",
+                    "VOLVO (S80) Year of manufacture 1998 - 2000",
+                    "VOLVO S80 2.0 T (S80) Year of manufacture 1999 - 2002 Engine code B5204T4, B5204T5",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 1998 - 2002 Engine code B5244S, B5244S2",
+                    "VOLVO S80 2.4 (S80, T) Year of manufacture 1999 - 2000 Engine code B5244S2",
+                    "VOLVO S80 2.4 T (S80) Year of manufacture 2000 Engine code B5244S2",
+                    "VOLVO S80 2.8 T (S80) Year of manufacture 1998 - 2000 Engine code B6284T",
+                    "VOLVO S80 2.9 (S80) Year of manufacture 1998 - 2001 Engine code B6304S3, B6294S",
+                    "VOLVO S80 2.9 (S80, T) Year of manufacture 1999 Engine code B6304S3, B6294S",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 1999 - 2001 Engine code B5244S, B5244T3",
+                    "VOLVO V70 2.4 T (V70, L) Year of manufacture 1999 Engine code B5244S",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 1999 - 2002 Engine code B5244S2",
+                    "VOLVO V70 2.4 (V70, L) Engine code B5244S2",
+                    "VOLVO V70 2.5 Bi-Fuel (V70) Year of manufacture 2000 Engine code GB5244SG",
+                    "VOLVO V70 2.5 T AWD (V70) Year of manufacture 1999 Engine code B5254T",
+                    "VOLVO V70 2.5 T (V70) Year of manufacture 1998 - 1999 Engine code B5254T, B5254S",
+                    "VOLVO V70 2.5 (V70) Year of manufacture 1998 - 1999 Engine code B5254S",
+                    "VOLVO V70 T5 (V70) Year of manufacture 1998 - 2000 Engine code B5234T3"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/magneti-marelli/volvo-9186793-magneti-marelli-ah0002030k-119124.html",
+                "part_numbers": [],
+                "faults": [
+                    {
+                        "fault_code": "903F",
+                        "fault_description": "Throttle position – implausibleThrottle position – no signal"
+                    },
+                    {
+                        "fault_code": "9150",
+                        "fault_description": "Throttle body sluggish/ defectiveThrottle position sensor (TP) 1 faulty signal"
+                    },
+                    {
+                        "fault_code": "9160",
+                        "fault_description": "Throttle position sensor (TP) 2 faulty signalThrottle sluggish/ defective"
+                    },
+                    {
+                        "fault_code": "91A7",
+                        "fault_description": "Throttle position – defective regulation"
+                    },
+                    {
+                        "fault_code": "91B7",
+                        "fault_description": "Throttle position – defective location"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO C70 2.0 T Cabrio (C70) Year of manufacture 1999 - 2001 Engine code B5204T3, B5204T4",
+                    "VOLVO C70 2.4 Coupe (C70) Year of manufacture 1999 - 2000 Engine code B5244S",
+                    "VOLVO C70 2.4 T (C70) Year of manufacture 1998 - 2000 Engine code B5254T",
+                    "VOLVO C70 2.4 T Cabrio (C70 I Cabrio) Year of manufacture 1999 - 2000 Engine code B5254T, B5244S",
+                    "VOLVO C70 2.4 T Cabrio (C70 I Cabrio, N) Year of manufacture 1999 Engine code B5254T",
+                    "VOLVO C70 T5 Cabrio (C70 I Cabrio) Year of manufacture 1999 - 2000 Engine code B5234T3",
+                    "VOLVO C70 T5 Coupe (C70 Coupe) Year of manufacture 1999 - 2001 Engine code B5234T3",
+                    "VOLVO S60 2.4 T (S60) Year of manufacture 2001 Engine code B5244T3",
+                    "VOLVO S60 T5 (S60) Year of manufacture 2001 Engine code B5234T3",
+                    "VOLVO S70 2.0 T (S70) Year of manufacture 1998 Engine code B5204T4",
+                    "VOLVO S70 2.4 (S70) Year of manufacture 1999 - 2000 Engine code B5244S, B5244T, B5344S2",
+                    "VOLVO S70 2.5 (S70) Year of manufacture 1998 Engine code B5254S",
+                    "VOLVO (S80) Year of manufacture 1998 - 2000",
+                    "VOLVO S80 2.0 T (S80) Year of manufacture 1999 - 2002 Engine code B5204T4, B5204T5",
+                    "VOLVO S80 2.4 (S80) Year of manufacture 1998 - 2002 Engine code B5244S, B5244S2",
+                    "VOLVO S80 2.4 (S80, T) Year of manufacture 1999 - 2000 Engine code B5244S2",
+                    "VOLVO S80 2.4 T (S80) Year of manufacture 2000 Engine code B5244S2",
+                    "VOLVO S80 2.8 T (S80) Year of manufacture 1998 - 2000 Engine code B6284T",
+                    "VOLVO S80 2.9 (S80) Year of manufacture 1998 - 2001 Engine code B6304S3, B6294S",
+                    "VOLVO S80 2.9 (S80, T) Year of manufacture 1999 Engine code B6304S3, B6294S",
+                    "VOLVO V70 2.4 T (V70) Year of manufacture 1999 - 2001 Engine code B5244S, B5244T3",
+                    "VOLVO V70 2.4 T (V70, L) Year of manufacture 1999 Engine code B5244S",
+                    "VOLVO V70 2.4 (V70) Year of manufacture 1999 - 2002 Engine code B5244S2",
+                    "VOLVO V70 2.4 (V70, L) Engine code B5244S2",
+                    "VOLVO V70 2.5 Bi-Fuel (V70) Year of manufacture 2000 Engine code GB5244SG",
+                    "VOLVO V70 2.5 T AWD (V70) Year of manufacture 1999 Engine code B5254T",
+                    "VOLVO V70 2.5 T (V70) Year of manufacture 1998 - 1999 Engine code B5254T, B5254S",
+                    "VOLVO V70 2.5 (V70) Year of manufacture 1998 - 1999 Engine code B5254S",
+                    "VOLVO V70 T5 (V70) Year of manufacture 1998 - 2000 Engine code B5234T3"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Mikuni",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mikuni-980.ts1628711296.jpg",
+        "product_link": "https://ecu.eu/volvo/throttle-body-131/volvo/throttle-body/mikuni-3377",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/throttle-body/mikuni/volvo-mikuni-eac60003-705.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO",
+                        "numbers": []
+                    },
+                    {
+                        "title": "MIKUNI - Part number",
+                        "numbers": [
+                            "EAC60-003",
+                            "EAC60003"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "91",
+                        "fault_description": "Electronically controlled throttle system"
+                    },
+                    {
+                        "fault_code": "92",
+                        "fault_description": "Throttle position – position feedback"
+                    },
+                    {
+                        "fault_code": "P1220",
+                        "fault_description": "Electronically controlled throttle system"
+                    },
+                    {
+                        "fault_code": "P1221",
+                        "fault_description": "Throttle position, feedback system"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO S40 1.8 (S40) Year of manufacture 2000 - 2002 Engine code B4184S3",
+                    "VOLVO V40 1.8 (V40) Engine code B4184S9, B4184SJ"
+                ]
+            }
+        ]
+    }
+]

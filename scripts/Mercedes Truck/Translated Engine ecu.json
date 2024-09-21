@@ -1,0 +1,2257 @@
+[
+    {
+        "part_name": "Regelmodule MCM2.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+module+mcm2-251583.ts1628723167.jpg",
+        "product_link": "https://ecu.eu/mercedes-truck/engine-ecu-6211/mercedes-truck/engine-ecu/control-module-mcm2-6336",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0004466935-continental-122589.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 000 446 69 35",
+                            "A0004466935"
+                        ]
+                    },
+                    {
+                        "title": "Continental.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1842 LS 4x2 (Actros, 963) Bouwjaar 2012",
+                    "Mercedes 1845 LS 4x2 (Actros, 963) Bouwjaar 2012",
+                    "Mercedes 2548 L 6x2 (Actros, 963) Bouwjaar 2012",
+                    "Mercedes 2548 L/NR 6X2 (Actros, 963) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014463035-continental-a2c7422570000152141642-a2c74225700-142009.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 30 35",
+                            "A0014463035"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C7422570000152141642"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C74225700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 2543 L 6x2 (Antos, 963) Bouwjaar 2015",
+                    "Mercedes 3243 B 8x4/4 (Arocs, 964) Bouwjaar 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014463235-continental-a2c74225900-134147.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 32 35",
+                            "A0014463235"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C74225900"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1840 LSnRL 4x2 (Actros, 963) Bouwjaar 2015",
+                    "Mercedes 1842 L nR 4x2 (Actros, 963) Bouwjaar 2015",
+                    "Mercedes 1843 LS 4x2 (Actros, 963) Bouwjaar 2015",
+                    "Mercedes 1845 LS 4x2 (Actros, 963) Bouwjaar 2015 - 2016",
+                    "Mercedes 1845 LSnRL 4x2 (Actros, 963) Bouwjaar 2015",
+                    "Mercedes 1848 LS 4x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 2048 AS 4x4 (Arocs, 964) Bouwjaar 2015",
+                    "Mercedes 2542 L 6x2 (Actros, 963) Bouwjaar 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014463435-continental-a2c7422670000150440325-a2c74226700-132699.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 34 35",
+                            "A0014463435"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C7422670000150440325"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C74226700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014463635-continental-a2c74226900-146113.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 36 35",
+                            "A0014463635"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C74226900"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1323 A 4X4 (Atego, 967) Bouwjaar 2015",
+                    "Mercedes 918 L 4X2 (Atego, 967) Bouwjaar 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014463835-continental-136277.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 38 35",
+                            "A0014463835"
+                        ]
+                    },
+                    {
+                        "title": "Continental.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014464035-continental-151083.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 40 35",
+                            "A0014464035"
+                        ]
+                    },
+                    {
+                        "title": "Continental.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1851 LS 4X2 (Actros, 963) Bouwjaar 2013",
+                    "Mercedes 2648 K 6x4 (Arocs, 964)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014464935-continental-a2c7422310-147435.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 49 35",
+                            "A0014464935"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C7422310"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1842 LSnRL 4x2 (Actros, 963) Bouwjaar 2012",
+                    "Mercedes 1843 L nRA 4x2 (Actros, 963) Bouwjaar 2014",
+                    "Mercedes 2543 L 6x2 (Actros, 963) Bouwjaar 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014465035-continental-a2c74223300-136517.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 50 35",
+                            "A0014465035"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C74223300"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1836 K 4x2 (Arocs, 964) Bouwjaar 2014",
+                    "Mercedes 1840 AK 4x4 (Arocs, 964) Bouwjaar 2015",
+                    "Mercedes 1840 L nR 4x2 (Actros, 963) Bouwjaar 2014",
+                    "Mercedes 1840 LS 4x2 (Actros, 963) Bouwjaar 2014 - 2015",
+                    "Mercedes 1842 LSnRL 4x2 (Actros, 963) Bouwjaar 2014 - 2015",
+                    "Mercedes 1843 LS 4x2 (Actros, 963) Bouwjaar 2014 - 2015",
+                    "Mercedes 1845 AS 4X4 (Arocs, 964) Bouwjaar 2014",
+                    "Mercedes 1845 LS 4x2 (Actros, 963) Bouwjaar 2014 - 2015",
+                    "Mercedes 1845 LS 4x2 (Arocs, 964) Bouwjaar 2013 - 2015",
+                    "Mercedes 1845 LSnR 4x2 (Actros, 963) Bouwjaar 2014",
+                    "Mercedes 1845 LSnRL 4x2 (Actros, 963) Bouwjaar 2014 - 2015",
+                    "Mercedes 1851 LS 4x2 (Actros, 963) Bouwjaar 2015",
+                    "Mercedes 2540 L 6x2 (Actros, 963) Bouwjaar 2014",
+                    "Mercedes 2542 L 6x2 (Actros, 963) Bouwjaar 2014",
+                    "Mercedes 2542 L nR 6x2 (Actros, 963) Bouwjaar 2014",
+                    "Mercedes 2543 L 6x2 (Actros, 963) Bouwjaar 2014 - 2016",
+                    "Mercedes 2543 L nR 6x2 (Antos, 963) Bouwjaar 2014",
+                    "Mercedes 2545 L 6x2 (Actros, 963) Bouwjaar 2014",
+                    "Mercedes 2545 L nR 6x2 (Actros, 963) Bouwjaar 2014",
+                    "Mercedes 2551 LS 6x2/2 (Actros, 963) Bouwjaar 2014",
+                    "Mercedes 2640 L 6x4 (Antos, 963) Bouwjaar 2014",
+                    "Mercedes 2643 K 6x4 (Arocs, 964) Bouwjaar 2015",
+                    "Mercedes 2645 K 6x4 (Arocs, 964) Bouwjaar 2015",
+                    "Mercedes 2651 LK 6x4 (Arocs, 964) Bouwjaar 2014",
+                    "Mercedes 2651 LS 6x4 (Arocs, 964) Bouwjaar 2015",
+                    "Mercedes 2658 LS 6x4 (Actros, 963) Bouwjaar 2014",
+                    "Mercedes 3240 8x4/4 (Arocs, 964) Bouwjaar 2015",
+                    "Mercedes 3243 8x4/4 (Arocs, 964) Bouwjaar 2014",
+                    "Mercedes 3243 K 8x4/4 (Arocs, 964)",
+                    "Mercedes 3343 AK 6x6 (Arocs, 964) Bouwjaar 2014",
+                    "Mercedes 3363 LS 6x4 (Actros, 963) Bouwjaar 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014465235-continental-a2c74224300-134153.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 52 35",
+                            "A0014465235"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C74224300"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1223 L 4X2 (Atego, 967) Bouwjaar 2014",
+                    "Mercedes 1224 L 4X2 (Atego, 967) Bouwjaar 2016 - 2017",
+                    "Mercedes 1230 L 4x2 (Atego, 967) Bouwjaar 2015",
+                    "Mercedes 1530 L 4X2 (Atego, 967) Bouwjaar 2014",
+                    "Mercedes 2535 L 6x2 (Antos, 963) Bouwjaar 2014",
+                    "Mercedes 2635 L ENA 6X2/4 (Econic, 956) Bouwjaar 2014 - 2015",
+                    "Mercedes 816 4x2 (Atego, 967) Bouwjaar 2014 - 2015",
+                    "Mercedes 818 4X2 (Atego, 967) Bouwjaar 2014",
+                    "Mercedes 818 L 4X2 (Atego, 967) Bouwjaar 2014 - 2015",
+                    "Mercedes U423 4x4 (Unimog, 405) Bouwjaar 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014466035-continental-a2c74225701-149726.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 60 35",
+                            "A0014466035"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C74225701"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1843 LS 4x2 (Arocs, 964) Bouwjaar 2017",
+                    "Mercedes 1846 LSnRA 4x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 2636 K 6x4 (Arocs, 964) Bouwjaar 2017"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014466235-continental-a2c74225901-132198.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 62 35",
+                            "A0014466235"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C74225901"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1840 LS 4x2 (Actros, 963) Bouwjaar 2018",
+                    "Mercedes 1842 LS 4x2 (Actros, 963) Bouwjaar 2017",
+                    "Mercedes 1843 LS 4x2 (Actros, 963) Bouwjaar 2017",
+                    "Mercedes 1845 LS 4x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 1845 LSnRL 4x2 (Actros, 963) Bouwjaar 2018",
+                    "Mercedes 1848 LS 4x2 (Actros, 963) Bouwjaar 2016 - 2017",
+                    "Mercedes 2451 LS 6x2/2 (Actros, 963) Bouwjaar 2017",
+                    "Mercedes 2536 L nR 6x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 2542 L 6x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 2545 L 6x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 2643 K 6x4 (Arocs, 964) Bouwjaar 2016",
+                    "Mercedes 2645 K 6x4 (Arocs, 964) Bouwjaar 2017 - 2018",
+                    "Mercedes 3345 AK 6x6 (Arocs, 964) Bouwjaar 2018",
+                    "Mercedes 3351 AK 6x6 (Arocs, 964) Bouwjaar 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014466435-continental-a2c74226701-137771.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 64 35",
+                            "A0014466435"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C74226701"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014466635-continental-a2c74226901-142201.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 66 35",
+                            "A0014466635"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C74226901"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1221 L 4X2 (Atego, 967) Bouwjaar 2016",
+                    "Mercedes 1223 4X2 (Atego, 967) Bouwjaar 2018",
+                    "Mercedes 1227 L 4X2 (Atego, 967) Bouwjaar 2016",
+                    "Mercedes 1521 L 4X2 (Atego, 967) Bouwjaar 2017",
+                    "Mercedes 1523 L 4X2 (Atego, 967) Bouwjaar 2016",
+                    "Mercedes 1530 L 4X2 (Atego, 967) Bouwjaar 2016",
+                    "Mercedes 1827 L 4x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 2535 L 6x2 (Actros, 963) Bouwjaar 2017",
+                    "Mercedes 2635 L ENA 6X2/4 (Econic, 956) Bouwjaar 2016",
+                    "Mercedes U427 4x4 (Unimog, 405) Bouwjaar 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014469535-continental-a2c75311500-142198.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 95 35",
+                            "A0014469535"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C75311500"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1836 L nRA 4x2 (Actros, 963) Bouwjaar 2015",
+                    "Mercedes 2536 L 6X2 (Actros, 963) Bouwjaar 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0014469735-continental-a2c75311700-146405.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 001 446 97 35",
+                            "A0014469735"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C75311700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1840 LS 4x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 1842 LS 4x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 1845 LS nR 4x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 1845 LSnRL 4x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 2542 L nR 6x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 2543 L 6x2 (Actros, 963) Bouwjaar 2016",
+                    "Mercedes 2548 L 6x2 (Actros, 963) Bouwjaar 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0024461235-continental-a2c76101900-142177.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 002 446 12 35",
+                            "A0024461235"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C76101900"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1851 LS 4x2 (Arocs, 964) Bouwjaar 2019"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/engine-ecu/control-module-mcm2/mercedes-a0024461735-continental-a2c76103300-153271.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 002 446 17 35",
+                            "A0024461735"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "A2C76103300"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "080212",
+                        "fault_description": "Het effect van de motorrem is beperkt. en D41509 Het CAN-signaal van component Y621 (uitlaatgasrecirculatieregelaar) ontbreekt. en E70A1F De inleerwaarde van component Y621 (uitlaatgasrecirculatieregelaar) is te laag."
+                    },
+                    {
+                        "fault_code": "BA0D04",
+                        "fault_description": "De interne spanningsvoorziening van de regelunit is onwaarschijnlijk."
+                    },
+                    {
+                        "fault_code": "EE0A03",
+                        "fault_description": "De gemeenschappelijke elektrische lijn van de magneetkleppen voor de naald van de sproeier in de brandstofinjector (cilinders 4,5,6) heeft een kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval EGR-actuator en motorrem - gemeenschappelijke stroomvoorziening op pin 62 valt af en toe uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Mercedes PLD",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mercedes+pld-1776.ts1628711299.jpg",
+        "product_link": "https://ecu.eu/mercedes-truck/engine-ecu-6211/mercedes-pld-4004",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0001501279-a0414466540-temic-3x0789-107932.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 150 12 79",
+                            "0001501279"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 041 446 65 40",
+                            "A0414466540"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x0789"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0001501279-a5414464140-temic-3x0789-105216.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 150 12 79",
+                            "0001501279"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 541 446 41 40",
+                            "A5414464140"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x0789"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0001501279-temic-3x0789-104108.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 150 12 79",
+                            "0001501279"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x0789"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1831 LS 4X2 (Actros, 950) Bouwjaar 1998",
+                    "Mercedes 1831 LS 4X2 (Actros, 954) Bouwjaar 1998",
+                    "Mercedes 1843 AK 4X4 (Actros, 952) Bouwjaar 1997",
+                    "Mercedes 2531 L 6X2 (Actros, 950) Bouwjaar 1998",
+                    "Mercedes 2540 L 6X2 (Actros, 950) Bouwjaar 1998",
+                    "Mercedes 2553 L 6x2 (Actros, 950) Bouwjaar 1998",
+                    "Mercedes 817 4X2 (LK, 676) Bouwjaar 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0001501479-temic-3x0789-117279.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 150 14 79",
+                            "0001501479"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x0789"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0001501579-temic-3x0789b1-126224.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 150 15 79",
+                            "0001501579"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x0789B1"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0001502179-temic-3x6402a2-105219.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 150 21 79",
+                            "0001502179"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x6402A2"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0001502779-a0104463740-temic-117260.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 150 27 79",
+                            "0001502779"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 010 446 37 40",
+                            "A0104463740"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0001502779-a5424469340-temic-117261.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 150 27 79",
+                            "0001502779"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 542 446 93 40",
+                            "A5424469340"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0001502779-temic-3x6402a3-104136.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 150 27 79",
+                            "0001502779"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x6402A3"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 2640 K 6X4 (Actros, 952) Bouwjaar 2000",
+                    "Mercedes 3340 AK 6X6 (Actros, 952) Bouwjaar 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0004460040-temic-3x9010-127957.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 446 00 40",
+                            "0004460040"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x9010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1843 LS 4X2 (Actros, 954) Bouwjaar 1996",
+                    "Mercedes 814 4X2 (LK, 674) Bouwjaar 1996",
+                    "Mercedes 814 (LK, 674) Bouwjaar 1996"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0004460440-a9044461340-temic-117252.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 446 04 40",
+                            "0004460440"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 904 446 13 40",
+                            "A9044461340"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0004460440-temic-3x9010-104111.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 446 04 40",
+                            "0004460440"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x9010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1831 LS/NR 4X2 (Actros, 954) Bouwjaar 1997",
+                    "Mercedes 814D 4X2 (Vario, 670) Bouwjaar 1997 Motorcode 904.908"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0004460640-temic-3x4003-135204.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 446 06 40",
+                            "0004460640"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x4003"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 917 K 4X2 (Atego, 972) Bouwjaar 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0004460840-a9064461140-temic-117249.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 446 08 40",
+                            "0004460840"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 906 446 11 40",
+                            "A9064461140"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0004461540-a9044468140-temic-3x4003-105217.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 446 15 40",
+                            "0004461540"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 904 446 81 40",
+                            "A9044468140"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x4003"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 1017 4X2 (Atego, 970) Bouwjaar 1998",
+                    "Mercedes 1023 (Atego, 970) Bouwjaar 1998",
+                    "Mercedes 1223 L 4x2 (Atego, 970) Bouwjaar 1999",
+                    "Mercedes 614DKA 4X2 (Vario, 668) Bouwjaar 2006",
+                    "Mercedes 814D (Vario, 670) Bouwjaar 1998",
+                    "Mercedes 817 4X2 (Atego, 970) Bouwjaar 1998",
+                    "Mercedes 817 K 4X2 (Atego, 972) Bouwjaar 1998",
+                    "Mercedes 917 4X2 (Atego, 970) Bouwjaar 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0004461840-temic-117267.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 446 18 40",
+                            "0004461840"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0004461840-temic-3x4003-104109.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 446 18 40",
+                            "0004461840"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x4003"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mercedes 815 (Atego, 970) Bouwjaar 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0004463940-a0004465140-temic-3x4003a5-105215.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 446 39 40",
+                            "0004463940"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 000 446 51 40",
+                            "A0004465140"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x4003A5"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0004463940-a9064466840-temic-3x4003a5-107930.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 446 39 40",
+                            "0004463940"
+                        ]
+                    },
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "A 906 446 68 40",
+                            "A9064466840"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x4003A5"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-pld/mercedes-0004463940-temic-3x4003a5-104110.html",
+                "part_numbers": [
+                    {
+                        "title": "Mercedes - Onderdeelnummer",
+                        "numbers": [
+                            "000 446 39 40",
+                            "0004463940"
+                        ]
+                    },
+                    {
+                        "title": "Temic - Onderdeelnummer",
+                        "numbers": [
+                            "3x4003A5"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "04024",
+                        "fault_description": "Interne fout."
+                    },
+                    {
+                        "fault_code": "4806",
+                        "fault_description": "De terugmelding van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "4906",
+                        "fault_description": "De retour van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "07543",
+                        "fault_description": "Accuspanning laag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Uitval van een volledige cilinderbank."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onjuiste activering van een of meer eenheidspompen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 16-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De 55-polige connector is gebroken."
+                    },
+                    {
+                        "fault_code": "15026",
+                        "fault_description": "Insteekpomp voor cil. 1: klep geen impact en 15126 Insteekpomp voor cil. 2: klep geen impact en 15226 Insteekpomp voor cil. 3: klep geen impact en 24806 De retour van de insteekpompen van bank 1 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": "15326",
+                        "fault_description": "Insteekpomp voor cilinder 4: Klep geen impact en 15426 Insteekpomp voor cilinder 5: Klep geen impact en 15526 Pompstekker voor cilinder 6: geen klepimpact en 24906 De terugmelding van de insteekpompen van bank 2 heeft een kortsluiting naar massa."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "part_name": "EUR.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/bmw+13621276202+bosch+0280202040-215142.ts1628723017.jpg",
+        "product_link": "https://ecu.eu/bmw/air-flow-meter-5878",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw/air-flow-meter/bmw-13621276202-bosch-0280202040-129550.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-1 276 202",
+                            "13621276202"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 202 040",
+                            "0280202040"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW 525e (5 Series, E28) Bouwjaar 1984"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/air-flow-meter/bmw-13621284407-bosch-0280202031-129549.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-1 284 407",
+                            "13621284407"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 202 031",
+                            "0280202031"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW 520i (5 Series, E28) Bouwjaar 1982"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/air-flow-meter/bmw-13621286064-13627547981-bosch-0280203027-129558.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-1 286 064",
+                            "13621286064"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-7 547 981",
+                            "13627547981"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 203 027",
+                            "0280203027"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW 535i (5 Series, E28) Bouwjaar 1987",
+                    "BMW 635CSi (6 Series, E24) Bouwjaar 1984 - 1998",
+                    "BMW 730i (7 Series, E32) Bouwjaar 1989 - 1992",
+                    "BMW 735i (7 Series, E32) Bouwjaar 1988 - 1989"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/air-flow-meter/bmw-13621286615-13627547977-bosch-0280202082-129552.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-1 286 615",
+                            "13621286615"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-7 547 977",
+                            "13627547977"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 202 082",
+                            "0280202082"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW 325i (3 Series, E30) Bouwjaar 1989",
+                    "BMW 325i Cabrio (3 Series, E30) Bouwjaar 1986 - 1992",
+                    "BMW 525i (5 Series, E34) Bouwjaar 1990",
+                    "BMW Z1 (Z1, E30) Bouwjaar 1990"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/air-flow-meter/bmw-13621359641-bosch-0280203002-129556.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-1 359 641",
+                            "13621359641"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 203 002",
+                            "0280203002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/air-flow-meter/bmw-13621362648-bosch-0280203004-129557.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-1 362 648",
+                            "13621362648"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 203 004",
+                            "0280203004"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/air-flow-meter/bmw-13621705721-bosch-0280202066-129551.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-1 705 721",
+                            "13621705721"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 202 066",
+                            "0280202066"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/air-flow-meter/bmw-13621710539-13627547978-bosch-0280202083-129553.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-1 710 539",
+                            "13621710539"
+                        ]
+                    },
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-7 547 978",
+                            "13627547978"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 202 083",
+                            "0280202083"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW 320i (3 Series, E30) Bouwjaar 452 - 1989",
+                    "BMW 320i Cabrio (3 Series, E30) Bouwjaar 1991"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/air-flow-meter/bmw-13621710544-bosch-0280203091-129555.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-1 710 544",
+                            "13621710544"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 203 091",
+                            "0280203091"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW 325e (3 Series, E30) Motorcode M20B27",
+                    "BMW 525e (5 Series, E28) Motorcode M20B27 KAT.",
+                    "BMW 528e (5 Series, E28) Motorcode M20B27"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw/air-flow-meter/bmw-13621710546-bosch-0280202090-129554.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW - Onderdeelnummer",
+                        "numbers": [
+                            "13.62-1 710 546",
+                            "13621710546"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 202 090",
+                            "0280202090"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW 320i Cabrio (3 Series, E30) Motorcode M20B20",
+                    "BMW 323i (3 Series, E30) Motorcode M20B23"
+                ]
+            }
+        ]
+    }
+]

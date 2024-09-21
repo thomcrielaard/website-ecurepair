@@ -1,0 +1,1679 @@
+[
+    {
+        "part_name": "D-Jetronic.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/d+jetronic-424361.ts1628717006.jpg",
+        "product_link": "https://ecu.eu/volvo/engine-control-unit-63/volvo/engine-control-unit/d-jetronic-6462",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/d-jetronic/volvo-5243182-5001267-bosch-0280000017-0280000009-146540.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "5243182"
+                        ]
+                    },
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "5001267"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 017",
+                            "0280000017"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 009",
+                            "0280000009"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/d-jetronic/volvo-5243315-bosch-0280000034-0280000017-0280000009-139618.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "5243315"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 034",
+                            "0280000034"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 017",
+                            "0280000017"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 009",
+                            "0280000009"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "EDC15C3.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc15c3-945.ts1628711296.jpg",
+        "product_link": "https://ecu.eu/volvo/engine-control-unit-63/volvo/engine-control-unit/edc15c3-3297",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/edc15c3/volvo-30630048-bosch-0281010441-100810.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30630048"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 010 441",
+                            "0281010441"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "ECM1885",
+                        "fault_description": "Ecu EDC."
+                    },
+                    {
+                        "fault_code": "ECM1886",
+                        "fault_description": "Injectorvoltage."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot condensatorspanning opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onder thermische invloed (verwarming) worden foutcodes opgeslagen met betrekking tot de krukassensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/edc15c3/volvo-30630049-bosch-0281010440-8200065994-100808.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30630049"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 010 440",
+                            "0281010440"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "8200065994"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "ECM1885",
+                        "fault_description": "Ecu EDC."
+                    },
+                    {
+                        "fault_code": "ECM1886",
+                        "fault_description": "Injectorvoltage."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot condensatorspanning opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onder thermische invloed (verwarming) worden foutcodes opgeslagen met betrekking tot de krukassensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/edc15c3/volvo-30630417-bosch-0281011086-100811.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30630417"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 011 086",
+                            "0281011086"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "ECM1885",
+                        "fault_description": "Ecu EDC."
+                    },
+                    {
+                        "fault_code": "ECM1886",
+                        "fault_description": "Injectorvoltage."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot condensatorspanning opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onder thermische invloed (verwarming) worden foutcodes opgeslagen met betrekking tot de krukassensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V40 1.9 D (V40) Bouwjaar 2002 Motorcode D4192T4"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/edc15c3/volvo-306304418-bosch-0281011087-100809.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "306304418"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 011 087",
+                            "0281011087"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "ECM1885",
+                        "fault_description": "Ecu EDC."
+                    },
+                    {
+                        "fault_code": "ECM1886",
+                        "fault_description": "Injectorvoltage."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot condensatorspanning opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onder thermische invloed (verwarming) worden foutcodes opgeslagen met betrekking tot de krukassensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V40 1.9 D (V40) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/edc15c3/volvo-bosch-0281011609-100812.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 011 609",
+                            "0281011609"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "ECM1885",
+                        "fault_description": "Ecu EDC."
+                    },
+                    {
+                        "fault_code": "ECM1886",
+                        "fault_description": "Injectorvoltage."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot condensatorspanning opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onder thermische invloed (verwarming) worden foutcodes opgeslagen met betrekking tot de krukassensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V40 1.9 D (V40) Bouwjaar 2004"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC16C34.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c34-12916.ts1628718780.jpg",
+        "product_link": "https://ecu.eu/volvo/engine-control-unit-63/volvo/engine-control-unit/edc16c34-5124",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/edc16c34/volvo-31211076-fomoco-4n5112a650bb-bosch-0281011775-114139.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "31211076"
+                        ]
+                    },
+                    {
+                        "title": "FoMoCo - Onderdeelnummer.",
+                        "numbers": [
+                            "4N51-12A650-BB",
+                            "4N5112A650BB"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 011 775",
+                            "0281011775"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "4460",
+                        "fault_description": "EGR-klep - klep vastgelopen en 4477 uitlaatgasrecirculatie (EGR) – doorvoer te klein."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de brandstofinjectoren zijn opgeslagen in het foutgeheugen - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo C30 1.6 D DRIVe (C30) Bouwjaar 2007 - 2010 Motorcode D4164T",
+                    "Volvo S40 1.6 D (S40) Bouwjaar 2008 Motorcode D4164T",
+                    "Volvo V50 1.6 D (V50) Bouwjaar 2005 - 2010 Motorcode D4164T, D4163"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/edc16c34/volvo-31272996ab-bosch-0281016590-122564.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "31272996 AB",
+                            "31272996AB"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 016 590",
+                            "0281016590"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "4460",
+                        "fault_description": "EGR-klep - klep vastgelopen en 4477 uitlaatgasrecirculatie (EGR) – doorvoer te klein."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de brandstofinjectoren zijn opgeslagen in het foutgeheugen - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo C30 1.6 D DRIVe (C30) Bouwjaar 2009 - 2010 Motorcode D4164T",
+                    "Volvo V50 1.6 D (V50) Bouwjaar 2010 Motorcode D4164T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/edc16c34/volvo-8692329-4n5112a650ba-bosch-0281011775-114138.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "8692329"
+                        ]
+                    },
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "4N51-12A650-BA",
+                            "4N5112A650BA"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 011 775",
+                            "0281011775"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "4460",
+                        "fault_description": "EGR-klep - klep vastgelopen en 4477 uitlaatgasrecirculatie (EGR) – doorvoer te klein."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de brandstofinjectoren zijn opgeslagen in het foutgeheugen - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo S40 1.6 D (S40) Motorcode D4164T",
+                    "Volvo V50 1.6 D (V50) Bouwjaar 2005 - 2006 Motorcode D4164T"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Fenix 5.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/fenix+5-171291.ts1628712480.jpg",
+        "product_link": "https://ecu.eu/volvo/engine-control-unit-63/volvo/engine-control-unit/fenix-5-3342",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/fenix-5/volvo-308509970b-siemens-s113727101e-101932.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30850997-0B",
+                            "308509970B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S113727101 E",
+                            "S113727101E"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start tijdelijk niet - wanneer de fout optreedt, is er geen communicatie mogelijk met de ECU en gaat het motor-/gloeicontrollampje niet branden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/fenix-5/volvo-308572560a-siemens-s113727100f-111620.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30857256-0A",
+                            "308572560A"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S113727100 F",
+                            "S113727100F"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start tijdelijk niet - wanneer de fout optreedt, is er geen communicatie mogelijk met de ECU en gaat het motor-/gloeicontrollampje niet branden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V40 1.8 (V40) Bouwjaar 1997 Motorcode B4184S"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/fenix-5/volvo-308575650c-siemens-s113727103d-101930.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30857565-0C",
+                            "308575650C"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S113727103 D",
+                            "S113727103D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start tijdelijk niet - wanneer de fout optreedt, is er geen communicatie mogelijk met de ECU en gaat het motor-/gloeicontrollampje niet branden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V40 1.8 (V40) Bouwjaar 1999 Motorcode B4184S"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/fenix-5/volvo-308625910b-siemens-s113727102c-101929.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30862591-0B",
+                            "308625910B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S113727102 C",
+                            "S113727102C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start tijdelijk niet - wanneer de fout optreedt, is er geen communicatie mogelijk met de ECU en gaat het motor-/gloeicontrollampje niet branden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo S40 1.6 (S40) Bouwjaar 1998 Motorcode B4164S",
+                    "Volvo V40 1.6 (V40) Bouwjaar 1997 - 1998 Motorcode B4164S"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/fenix-5/volvo-308642750a-siemens-s113727100g-101933.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30864275-0A",
+                            "308642750A"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S113727100 G",
+                            "S113727100G"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start tijdelijk niet - wanneer de fout optreedt, is er geen communicatie mogelijk met de ECU en gaat het motor-/gloeicontrollampje niet branden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V40 1.8 (V40) Bouwjaar 1998 Motorcode B4184S"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/fenix-5/volvo-308642760a-siemens-s113727101j-498.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30864276-0A",
+                            "308642760A"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S113727101 J",
+                            "S113727101J"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start tijdelijk niet - wanneer de fout optreedt, is er geen communicatie mogelijk met de ECU en gaat het motor-/gloeicontrollampje niet branden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V40 2.0 (V40) Bouwjaar 1997 Motorcode B4204S"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/fenix-5/volvo-472948-siemens-s111702102-101931.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "472948"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S111702102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start tijdelijk niet - wanneer de fout optreedt, is er geen communicatie mogelijk met de ECU en gaat het motor-/gloeicontrollampje niet branden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "LE1.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/le1-1030809.ts1652950450.jpg",
+        "product_link": "https://ecu.eu/volvo/engine-control-unit-63/volvo/engine-control-unit/le1-6919",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/le1/volvo-bosch-0280000308-145547.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 308",
+                            "0280000308"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Defect ingangssignaal voor injectoren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "LH-Jetronic LH2.4/LH2.4.1/LH2.4.2.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/lh+jetronic+lh2+4+lh2+4+1+lh2+4+2-819.ts1628722661.jpg",
+        "product_link": "https://ecu.eu/volvo/engine-control-unit-63/volvo/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2-3343",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/volvo-1367065-bosch-0280000549-129014.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "1 367 065",
+                            "1367065"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 549",
+                            "0280000549"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brandstofpompactivering buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/volvo-1367066-bosch-0280000559-119261.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "1 367 066",
+                            "1367066"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 559",
+                            "0280000559"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brandstofpompactivering buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/volvo-3517370-bosch-0280000563-101935.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "3517370"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 563",
+                            "0280000563"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brandstofpompactivering buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo 940 2.3 Turbo (940) Bouwjaar 1992"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/volvo-3517407-bosch-0280000561-234.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "3517407"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 561",
+                            "0280000561"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brandstofpompactivering buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo 240 2.3i (240) Bouwjaar 1989 - 1992 Motorcode B230F, B23E",
+                    "Volvo 740 2.3i (740) Bouwjaar 1990 Motorcode B230F"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/volvo-3517608-bosch-0280000571-111621.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "3 517 608",
+                            "3517608"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 571",
+                            "0280000571"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brandstofpompactivering buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/volvo-3517718-bosch-0280000578-109699.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "3 517 718",
+                            "3517718"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 578",
+                            "0280000578"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brandstofpompactivering buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/volvo-3531657-bosch-0280000595-233.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "3531657"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 595",
+                            "0280000595"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brandstofpompactivering buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo 940 2.3 (940) Bouwjaar 1991 Motorcode B230F"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/volvo-3531831-bosch-0280000594-235.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "3531831"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 594",
+                            "0280000594"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brandstofpompactivering buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo 740 2.0i (740) Bouwjaar 1991"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/lh-jetronic-lh2.4-lh2.4.1-lh2.4.2/volvo-3547781-bosch-0280000937-101934.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "3547781"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 000 937",
+                            "0280000937"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brandstofpompactivering buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ME9.0.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/me9+0-5952.ts1628718749.jpg",
+        "product_link": "https://ecu.eu/volvo/engine-control-unit-63/volvo/engine-control-unit/me9.0-6688",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/me9.0/volvo-p30650454-bosch-0261209038-119850.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "P30650454"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 209 038",
+                            "0261209038"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo C30 T5 (C30) Bouwjaar 2009 Motorcode B5254T7",
+                    "Volvo S40 2.5 T AWD (S40, M) Bouwjaar 2004 Motorcode B5254T3",
+                    "Volvo S40 T5 AWD (S40) Bouwjaar 2006 Motorcode B5254T3",
+                    "Volvo V50 T5 AWD (V50) Bouwjaar 2005 Motorcode B5254T3"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/me9.0/volvo-p8667577-bosch-0261209009-122666.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "P8667577"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 209 009",
+                            "0261209009"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo S40 2.5 T (S40) Bouwjaar 2004 - 2005 Motorcode B5254T3",
+                    "Volvo S40 2.5 T (S40, M) Bouwjaar 2003 Motorcode B5254T3",
+                    "Volvo V50 T5 (V50) Bouwjaar 2004 Motorcode B5254T3",
+                    "Volvo V50 T5 (V50, M) Bouwjaar 2004 Motorcode B5254T3"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Benzine Directe Injectie (GDI).",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/petrol+direct+injection+gdi-456.ts1628718731.jpg",
+        "product_link": "https://ecu.eu/volvo/engine-control-unit-63/volvo/engine-control-unit/petrol-direct-injection-%28gdi%29-3340",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/petrol-direct-injection-%28gdi%29/volvo-md359697-mitsubishi-electric-e2t40473-707.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "MD359697"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "E2T40473"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verschillende fouten mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/petrol-direct-injection-%28gdi%29/volvo-mr420429-mitsubishi-electric-e2t70476-754.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "MR420429"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "E2T70476"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Verschillende fouten mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V40 1.8 (V40) Bouwjaar 1999 Motorcode B4184S"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/petrol-direct-injection-%28gdi%29/volvo-mr578057-mitsubishi-electric-e2t70480-706.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "MR578057"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "E2T70480"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/petrol-direct-injection-%28gdi%29/volvo-mr578598-mitsubishi-electric-e2t70481-121214.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "MR578598"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "E2T70481"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "SID206.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/sid206-53265.ts1628724461.jpg",
+        "product_link": "https://ecu.eu/volvo/engine-control-unit-63/volvo/engine-control-unit/sid206-7232",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/sid206/volvo-31269095-continental-5ws40489dt-135782.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "31269095"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WS40489D-T",
+                            "5WS40489DT"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605:00-28",
+                        "fault_description": "PCM - aandrijflijnregelmodule - ROM-fout en P060C:00-68 PCM - interne hoofdprocessor, regelunit - capaciteit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo S40 2.0 D (S40) Bouwjaar 2008 Motorcode D4204T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/sid206/volvo-31269095aa-siemens-5ws40489ct-124498.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "31269095AA"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WS40489C-T",
+                            "5WS40489CT"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605:00-28",
+                        "fault_description": "PCM - aandrijflijnregelmodule - ROM-fout en P060C:00-68 PCM - interne hoofdprocessor, regelunit - capaciteit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/sid206/volvo-31269189-continental-5ws40608et-126541.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "31269189"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WS40608E-T",
+                            "5WS40608ET"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605:00-28",
+                        "fault_description": "PCM - aandrijflijnregelmodule - ROM-fout en P060C:00-68 PCM - interne hoofdprocessor, regelunit - capaciteit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V70 2.0 D (V70) Bouwjaar 2008 - 2010 Motorcode D4204T"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "SID803.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/sid803-171620.ts1628719312.jpg",
+        "product_link": "https://ecu.eu/volvo/engine-control-unit-63/volvo/engine-control-unit/sid803-4103",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/sid803/volvo-30729065a-siemens-5ws40092it-105050.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30729065A"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WS40092I-T",
+                            "5WS40092IT"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Motor ECU interne fout en Motor start en schakelt uit na 1-2 minuten, geen foutcode opgeslagen, opnieuw starten direct mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de brandstofinjectoren zijn opgeslagen in het foutgeheugen - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo S40 2.0 (S40) Bouwjaar 2004 Motorcode D4204T",
+                    "Volvo V50 2.0 D (V50) Bouwjaar 2004 Motorcode D4204T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/sid803/volvo-30729518-siemens-5ws40212gt-105049.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30729518"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WS40212G-T",
+                            "5WS40212GT"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Motor ECU interne fout en Motor start en schakelt uit na 1-2 minuten, geen foutcode opgeslagen, opnieuw starten direct mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de brandstofinjectoren zijn opgeslagen in het foutgeheugen - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo S40 2.0 (S40) Bouwjaar 2004 Motorcode D4204T",
+                    "Volvo V50 2.0 D (V50) Bouwjaar 2004 - 2005 Motorcode D4204T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/sid803/volvo-30743623aa-siemens-5ws40212ht-105051.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30743623AA"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WS40212H-T",
+                            "5WS40212HT"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Motor ECU interne fout en Motor start en schakelt uit na 1-2 minuten, geen foutcode opgeslagen, opnieuw starten direct mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de brandstofinjectoren zijn opgeslagen in het foutgeheugen - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo S40 2.0 (S40) Bouwjaar 2005 Motorcode D4204T",
+                    "Volvo V50 2.0 D (V50) Bouwjaar 2005 - 2006 Motorcode D4204T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/sid803/volvo-30771350aa-siemens-5ws40212it-128340.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30771350AA"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WS40212I-T",
+                            "5WS40212IT"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Motor ECU interne fout en Motor start en schakelt uit na 1-2 minuten, geen foutcode opgeslagen, opnieuw starten direct mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de brandstofinjectoren zijn opgeslagen in het foutgeheugen - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V50 2.0 D (V50) Bouwjaar 2006 Motorcode D4204T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/sid803/volvo-30785520aa-siemens-5ws40328bt-119705.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "30785520AA"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WS40328B-T",
+                            "5WS40328BT"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Interne geheugen ROM fout. Eenheid defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de brandstofinjectoren zijn opgeslagen in het foutgeheugen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V50 2.0 D (V50) Bouwjaar 2006 Motorcode D4204T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/sid803/volvo-31211071aa-siemens-5ws40562at-120323.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "31211071AA"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WS40562A-T",
+                            "5WS40562AT"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Interne geheugen ROM fout. Eenheid defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de brandstofinjectoren zijn opgeslagen in het foutgeheugen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo C30 2.4 D (C30) Bouwjaar 2008 - 2010 Motorcode D4204T",
+                    "Volvo C70 2.0 D Cabrio (C70) Bouwjaar 2008 - 2010 Motorcode D4204T",
+                    "Volvo S40 2.0 D (S40) Bouwjaar 2007 Motorcode D4204T",
+                    "Volvo V50 2.0 D (V50) Bouwjaar 2007 - 2010 Motorcode D4204T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/sid803/volvo-31211081aa-siemens-5ws40328ct-121372.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "31211081AA"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WS40328C-T",
+                            "5WS40328CT"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Interne geheugen ROM fout. Eenheid defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de brandstofinjectoren zijn opgeslagen in het foutgeheugen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo C30 2.4 D (C30) Bouwjaar 2007 Motorcode D4204T",
+                    "Volvo V50 2.0 D (V50) Bouwjaar 2006 - 2007 Motorcode D4204T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/sid803/volvo-36000592-continental-5ws40563at-122640.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "36000592"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WS40563A-T",
+                            "5WS40563AT"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Interne geheugen ROM fout. Eenheid defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de brandstofinjectoren zijn opgeslagen in het foutgeheugen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V50 2.0 D (V50) Bouwjaar 2007 - 2009 Motorcode D4204T"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/engine-control-unit/sid803/volvo-8603118-siemens-5ws40202dt-134695.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "8603118"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "5WS40202D-T",
+                            "5WS40202DT"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Motor ECU interne fout en Motor start en schakelt uit na 1-2 minuten, geen foutcode opgeslagen, opnieuw starten direct mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de brandstofinjectoren zijn opgeslagen in het foutgeheugen - alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volvo V50 2.0 D (V50) Bouwjaar 2004 Motorcode D4204T"
+                ]
+            }
+        ]
+    }
+]

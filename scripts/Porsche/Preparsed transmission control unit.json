@@ -1,0 +1,623 @@
+[
+    {
+        "part_name": "7-Gang DSG DL501 (0B5)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/7+gang+dsg+dl501+0b5-242563.ts1628723128.jpg",
+        "product_link": "https://ecu.eu/porsche/transmission-control-unit-2986/porsche/transmission-control-unit/7-gang-dsg-dl501-%280b5%29-7016",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/7-gang-dsg-dl501-%280b5%29/porsche-9a732502501-146690.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "9A7 325 025 01",
+                            "9A732502501"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pins in the connector are damaged by water."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE Macan S Diesel (Macan, 95B)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/7-gang-dsg-dl501-%280b5%29/porsche-9a732502505-146692.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "9A7 325 025 05",
+                            "9A732502505"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pins in the connector are damaged by water."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/7-gang-dsg-dl501-%280b5%29/porsche-9a7325025ax-146691.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "9A7 325 025 AX",
+                            "9A7325025AX"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pins in the connector are damaged by water."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/7-gang-dsg-dl501-%280b5%29/porsche-9a7325025ex-146693.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "9A7 325 025 EX",
+                            "9A7325025EX"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pins in the connector are damaged by water."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "996 Tiptronic S",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/996+tiptronic+s-108687.ts1628718946.jpg",
+        "product_link": "https://ecu.eu/porsche/transmission-control-unit-2986/porsche/transmission-control-unit/996-tiptronic-s-5399",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/996-tiptronic-s/porsche-99661818001-mercedes-a0245452332-siemens-5wk33835-153685.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "996.618.180.01",
+                            "99661818001"
+                        ]
+                    },
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 024 545 23 32",
+                            "A0245452332"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WK33835"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "1702",
+                        "fault_description": "(fault code 10) power supply valves"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/996-tiptronic-s/porsche-99661818002-a0245452432-siemens-5wk33836-136811.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "996 618 180 02",
+                            "99661818002"
+                        ]
+                    },
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "A 024 545 24 32",
+                            "A0245452432"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WK33836"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "1702",
+                        "fault_description": "(fault code 10) power supply valves"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/996-tiptronic-s/porsche-99661818003-a0275452532-siemens-5wk33869f-118933.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "996 618 180 03",
+                            "99661818003"
+                        ]
+                    },
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "A 027 545 25 32",
+                            "A0275452532"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WK33869F"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "1702",
+                        "fault_description": "(fault code 10) power supply valves"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911) Year of manufacture 2001 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/996-tiptronic-s/porsche-99661818004-a0275452832-siemens-5wk33837f-118931.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "996 618 180 04",
+                            "99661818004"
+                        ]
+                    },
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "A 027 545 28 32",
+                            "A0275452832"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WK33837F"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "1702",
+                        "fault_description": "(fault code 10) power supply valves"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911) Year of manufacture 2001 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/996-tiptronic-s/porsche-99661818006-a0275452732-siemens-5wk33807-123412.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "996 618 180 06",
+                            "99661818006"
+                        ]
+                    },
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "A 027 545 27 32",
+                            "A0275452732"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WK33807"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "1702",
+                        "fault_description": "(fault code 10) power supply valves"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/996-tiptronic-s/porsche-99661818006-a0275452732-siemens-5wk33807f-118932.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "996 618 180 06",
+                            "99661818006"
+                        ]
+                    },
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "A 027 545 27 32",
+                            "A0275452732"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WK33807F"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "1702",
+                        "fault_description": "(fault code 10) power supply valves"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/996-tiptronic-s/porsche-99661818007-a0275452932-siemens-5wk33838f-118934.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "996 618 180 07",
+                            "99661818007"
+                        ]
+                    },
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "A 027 545 29 32",
+                            "A0275452932"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WK33838F"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "1702",
+                        "fault_description": "(fault code 10) power supply valves"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911)"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "997 Tiptronic S",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/997+tiptronic+s-108687.ts1628718946.jpg",
+        "product_link": "https://ecu.eu/porsche/transmission-control-unit-2986/porsche/transmission-control-unit/997-tiptronic-s-6363",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/997-tiptronic-s/porsche-99761818003-mercedes-a0345453232-siemens-5wp20011ac-126251.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "997.618.180.03",
+                            "99761818003"
+                        ]
+                    },
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 034 545 32 32",
+                            "A0345453232"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20011AC"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/997-tiptronic-s/porsche-99761818007-mercedes-a0345453332-siemens-5wp20011ad-147586.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "997.618.180.07",
+                            "99761818007"
+                        ]
+                    },
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 034 545 33 32",
+                            "A0345453332"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20011AD"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/997-tiptronic-s/porsche-99761818012-mercedes-a0345453532-siemens-5wp20011af-147071.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "997.618.180.12",
+                            "99761818012"
+                        ]
+                    },
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 034 545 35 32",
+                            "A0345453532"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20011AF"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/997-tiptronic-s/porsche-99761818013-mercedes-a0345453632-siemens-5wp20011bcb-119718.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "997.618.180.13",
+                            "99761818013"
+                        ]
+                    },
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 034 545 36 32",
+                            "A0345453632"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20011BCB"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/997-tiptronic-s/porsche-99761818014-mercedes-a0345453732-siemens-5wp20011bdb-119689.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "997.618.180.14",
+                            "99761818014"
+                        ]
+                    },
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 034 545 37 32",
+                            "A0345453732"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20011BDB"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Contact plate with speed sensors 5-speed automatic (722.6)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/contact+plate+with+speed+sensors+5+speed+automatic+722+6-313628.ts1628715350.jpg",
+        "product_link": "https://ecu.eu/porsche/transmission-control-unit-2986/porsche/transmission-control-unit/contact-plate-with-speed-sensors-5-speed-automatic-%28722.6%29-6069",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/porsche/transmission-control-unit/contact-plate-with-speed-sensors-5-speed-automatic-%28722.6%29/porsche-1402701161-132926.html",
+                "part_numbers": [
+                    {
+                        "title": "PORSCHE - Part number",
+                        "numbers": [
+                            "140 270 11 61",
+                            "1402701161"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "13",
+                        "fault_description": "Speed sensor N3"
+                    },
+                    {
+                        "fault_code": "109",
+                        "fault_description": "Speed sensor N3"
+                    },
+                    {
+                        "fault_code": "P2200",
+                        "fault_description": "(Gutmann 8704) Y§/6n2 Speed sensor 2 - faulty"
+                    },
+                    {
+                        "fault_code": "P2203",
+                        "fault_description": "(Gutmann 8707) Y3/6n3 Speed sensor 3 - faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "PORSCHE (911) Year of manufacture 2003 - 2004"
+                ]
+            }
+        ]
+    }
+]

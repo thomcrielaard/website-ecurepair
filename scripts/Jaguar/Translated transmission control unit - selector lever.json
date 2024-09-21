@@ -1,0 +1,1415 @@
+[
+    {
+        "part_name": "Regelunit 6-versnellings automaat ZF 6HP.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+unit+6+speed+automatic+zf+6hp-808075.ts1643278260.jpg",
+        "product_link": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever-5461/jaguar/transmission-control-unit-selector-lever/control-unit-6-speed-automatic-zf-6hp-6865",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/control-unit-6-speed-automatic-zf-6hp/jaguar-bosch-0260550001-zf-0501213094-151912.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 260 550 001",
+                            "0260550001"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Onderdeelnummer",
+                        "numbers": [
+                            "0501 213 094",
+                            "0501213094"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0706",
+                        "fault_description": "Rijmodussensor - signaal niet plausibel."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar XJ 4.2 (X350) Bouwjaar 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/control-unit-6-speed-automatic-zf-6hp/jaguar-bosch-0260550011-zf-0501213414-145338.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 260 550 011",
+                            "0260550011"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Onderdeelnummer",
+                        "numbers": [
+                            "0501 213 414",
+                            "0501213414"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0706",
+                        "fault_description": "Rijmodussensor - signaal niet plausibel."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar S-Type 2.7 D (X200) Bouwjaar 2007",
+                    "Jaguar S-Type 3.0 24V (X200) Bouwjaar 2005",
+                    "Jaguar XJR 4.2 V8 Supercharged (X350) Bouwjaar 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/control-unit-6-speed-automatic-zf-6hp/jaguar-c2c24598-2r837d142ac-144510.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2C24598"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "2R837D142AC"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0706",
+                        "fault_description": "Rijmodussensor - signaal niet plausibel."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/control-unit-6-speed-automatic-zf-6hp/jaguar-c2c27751-2r837d142ad-144511.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2C27751"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "2R837D142AD"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0706",
+                        "fault_description": "Rijmodussensor - signaal niet plausibel."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/control-unit-6-speed-automatic-zf-6hp/jaguar-c2c33532-6r837d142aa-144512.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2C33532"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "6R837D142AA"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0706",
+                        "fault_description": "Rijmodussensor - signaal niet plausibel."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/control-unit-6-speed-automatic-zf-6hp/jaguar-c2c6718-2r837d142aa-144513.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2C6718"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "2R837D142AA"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0706",
+                        "fault_description": "Rijmodussensor - signaal niet plausibel."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/control-unit-6-speed-automatic-zf-6hp/jaguar-c2p17268-9w837d142aa-144508.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2P17268"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "9W837D142AA"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0706",
+                        "fault_description": "Rijmodussensor - signaal niet plausibel."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/control-unit-6-speed-automatic-zf-6hp/jaguar-c2p20302-9x237d142aa-144509.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2P20302"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "9X237D142AA"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0706",
+                        "fault_description": "Rijmodussensor - signaal niet plausibel."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/control-unit-6-speed-automatic-zf-6hp/jaguar-c2p3768-6w837d142aa-144514.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2P3768"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "6W837D142AA"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0706",
+                        "fault_description": "Rijmodussensor - signaal niet plausibel."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/control-unit-6-speed-automatic-zf-6hp/jaguar-c2z13997-8x237d142ac-144506.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2Z13997"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "8X237D142AC"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0706",
+                        "fault_description": "Rijmodussensor - signaal niet plausibel."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar S-Type 2.7 D (S-Type, X200) Motorcode 276DT7B/7G",
+                    "Jaguar XF 2.7 D (XF, X250)",
+                    "Jaguar XJ6 2.7 D V6 (XJ, X350) Bouwjaar 2003 Motorcode AJ-TD V6"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/control-unit-6-speed-automatic-zf-6hp/jaguar-c2z4889-8x237d142aa-144507.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2Z4889"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "8X237D142AA"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0706",
+                        "fault_description": "Rijmodussensor - signaal niet plausibel."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "XF (X250) GSM / Drive Select.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/xf+x250+gsm+drive+select-147110.ts1628711994.jpg",
+        "product_link": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever-5461/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select-5462",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-8x2314c559ae-142426.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "8X23-14C559-AE",
+                            "8X2314C559AE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-8x2314c561bc-149011.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "8X23-14C561-BC",
+                            "8X2314C561BC"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-8x237e453af-lk-04503010-121457.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "8X23-7E453-AF",
+                            "8X237E453AF"
+                        ]
+                    },
+                    {
+                        "title": "LK - Onderdeelnummer",
+                        "numbers": [
+                            "04 5030 10",
+                            "04503010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar XF 2.7 D (X250)",
+                    "Jaguar XF 3.0 V6 (X250) Bouwjaar 2007 - 2010",
+                    "Jaguar XF 4.2 (X250) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-8x237e453bf-lk-133580.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "8X23-7E453-BF",
+                            "8X237E453BF"
+                        ]
+                    },
+                    {
+                        "title": "LK.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-8x237e453ec-136014.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "8X23-7E453-EC",
+                            "8X237E453EC"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar (X250) Bouwjaar 2008",
+                    "Jaguar XF 2.7 D (X250) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-8x237e453fc-lk-04503000-149379.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "8X23-7E453-FC",
+                            "8X237E453FC"
+                        ]
+                    },
+                    {
+                        "title": "LK - Onderdeelnummer",
+                        "numbers": [
+                            "04 5030 00",
+                            "04503000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar XF 4.2 (X250) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-8x237e453gc-lk-04503030-146668.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "8X23-7E453-GC",
+                            "8X237E453GC"
+                        ]
+                    },
+                    {
+                        "title": "LK - Onderdeelnummer",
+                        "numbers": [
+                            "04 5030 30",
+                            "04503030"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-9x2314c559ab-149010.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "9X23-14C559-AB",
+                            "9X2314C559AB"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-9x2314c559ba-139452.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "9X23-14C559-BA",
+                            "9X2314C559BA"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-9x2314c559bc-144478.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "9X23-14C559-BC",
+                            "9X2314C559BC"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-9x237e453bb-lk-10007099-121509.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "9X23-7E453-BB",
+                            "9X237E453BB"
+                        ]
+                    },
+                    {
+                        "title": "LK - Onderdeelnummer",
+                        "numbers": [
+                            "10 0070 99",
+                            "10007099"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar XF 2.7 D (X250) Bouwjaar 2010",
+                    "Jaguar XF 3.0 D (X250) Bouwjaar 2009 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-9x237e453bc-lk-10007099-134217.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "9X23-7E453-BC",
+                            "9X237E453BC"
+                        ]
+                    },
+                    {
+                        "title": "LK - Onderdeelnummer",
+                        "numbers": [
+                            "10 0070 99",
+                            "10007099"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar XF 3.0 D (X250) Bouwjaar 2010 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-9x237e453bd-lk-10007099-121510.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "9X23-7E453-BD",
+                            "9X237E453BD"
+                        ]
+                    },
+                    {
+                        "title": "LK - Onderdeelnummer",
+                        "numbers": [
+                            "10 0070 99",
+                            "10007099"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar XF 3.0 D (X250) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-9x237e453db-149012.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "9X23-7E453-DB",
+                            "9X237E453DB"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-c2z18713-151719.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2Z18713"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-c2z18744-151720.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2Z18744"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-c2z31490-151722.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2Z31490"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-c2z31492-151721.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2Z31492"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-cx2314c559ae-8w8214c561ab-149009.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "CX23-14C559-AE",
+                            "CX2314C559AE"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "8W82-14C561-AB",
+                            "8W8214C561AB"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x250%29-gsm-drive-select/jaguar-cx237e453be-lk-10020852-130676.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "CX23-7E453-BE",
+                            "CX237E453BE"
+                        ]
+                    },
+                    {
+                        "title": "LK - Onderdeelnummer",
+                        "numbers": [
+                            "10 0208 52",
+                            "10020852"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176A",
+                        "fault_description": "Schakelhendelpositie circuit."
+                    },
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar XF 3.0 D (X250) Bouwjaar 2011 - 2012",
+                    "Jaguar XF 4.2 V8 (X250) Bouwjaar 2012 - 2014"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "XF (X260) / XE (X760) GSM / Schakelhendel.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/xf+x260+xe+x760+gsm+selector+lever-1029144.ts1652794202.jpg",
+        "product_link": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever-5461/jaguar/transmission-control-unit-selector-lever/xf-%28x260%29-xe-%28x760%29-gsm-selector-lever-6931",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x260%29-xe-%28x760%29-gsm-selector-lever/jaguar-gx7314c561ad-146544.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "GX73-14C561-AD",
+                            "GX7314C561AD"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x260%29-xe-%28x760%29-gsm-selector-lever/jaguar-gx737e453ae-t2h1305-lk-10130793-145667.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "GX73-7E453-AE",
+                            "GX737E453AE"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "T2H1305"
+                        ]
+                    },
+                    {
+                        "title": "LK - Onderdeelnummer",
+                        "numbers": [
+                            "10 1307 93",
+                            "10130793"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar F-Pace 30D AWD (F-Pace, X761)",
+                    "Jaguar XE 20d (X760) Bouwjaar 2015 - 2016",
+                    "Jaguar XE S 3.0 (X760) Bouwjaar 2015 - 2016 Motorcode A20B",
+                    "Jaguar XF 2.0D (X260) Bouwjaar 2016",
+                    "Jaguar XF 30d (X260) Bouwjaar 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x260%29-xe-%28x760%29-gsm-selector-lever/jaguar-hx737e453ae-t2h9260-145709.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "HX73-7E453-AE",
+                            "HX737E453AE"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "T2H9260"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar XF 30d (XF, X260)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x260%29-xe-%28x760%29-gsm-selector-lever/jaguar-hx737e453af-t2h25974-145705.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "HX73-7E453-AF",
+                            "HX737E453AF"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "T2H25974"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x260%29-xe-%28x760%29-gsm-selector-lever/jaguar-hx737e453ag-t2h30230-145707.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "HX73-7E453-AG",
+                            "HX737E453AG"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "T2H30230"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xf-%28x260%29-xe-%28x760%29-gsm-selector-lever/jaguar-hx737e453ah-t2h39457-145706.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "HX73-7E453-AH",
+                            "HX737E453AH"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "T2H39457"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "XJ (X351) GSM / Schakelhendel.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/no-image.jpg",
+        "product_link": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever-5461/jaguar/transmission-control-unit-selector-lever/xj-%28x351%29-gsm-selector-lever-6932",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xj-%28x351%29-gsm-selector-lever/jaguar-aw937e453bc-145668.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "AW93-7E453-BC",
+                            "AW937E453BC"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jaguar XJ 3.0D (XJ, X351)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xj-%28x351%29-gsm-selector-lever/jaguar-aw937e453bd-c2d1991-145670.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "AW93-7E453-BD",
+                            "AW937E453BD"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2D1991"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xj-%28x351%29-gsm-selector-lever/jaguar-aw937e453ca-c2d47235-145726.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "AW93-7E453-CA",
+                            "AW937E453CA"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2D47235"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xj-%28x351%29-gsm-selector-lever/jaguar-bw937e453ab-c2d17959-145722.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "BW93-7E453-AB",
+                            "BW937E453AB"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2D17959"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xj-%28x351%29-gsm-selector-lever/jaguar-dw937e453bb-c2d24121-145669.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "DW93-7E453-BB",
+                            "DW937E453BB"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2D24121"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xj-%28x351%29-gsm-selector-lever/jaguar-dw937e453bd-c2d39498-145725.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "DW93-7E453-BD",
+                            "DW937E453BD"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2D39498"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xj-%28x351%29-gsm-selector-lever/jaguar-dw937e453be-c2d43911-145723.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "DW93-7E453-BE",
+                            "DW937E453BE"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2D43911"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xj-%28x351%29-gsm-selector-lever/jaguar-dw937e453ca-c2d47250-145727.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "DW93-7E453-CA",
+                            "DW937E453CA"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2D47250"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/transmission-control-unit-selector-lever/xj-%28x351%29-gsm-selector-lever/jaguar-gw937e453aa-c2d28003-145724.html",
+                "part_numbers": [
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "GW93-7E453-AA",
+                            "GW937E453AA"
+                        ]
+                    },
+                    {
+                        "title": "Jaguar - Onderdeelnummer",
+                        "numbers": [
+                            "C2D28003"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P176C",
+                        "fault_description": "Schakelhendelvergrendeling solenoïdecircuit defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

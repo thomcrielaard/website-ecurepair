@@ -1,0 +1,403 @@
+[
+    {
+        "part_name": "SCR ECU.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/scr+ecu-625292.ts1635324876.jpg",
+        "product_link": "https://ecu.eu/audi/exhaust-processing-6806/audi/exhaust-processing/scr-ecu-6807",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/audi/exhaust-processing/scr-ecu/audi-4m0907355-helbako-7920006ab-141767.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "4M0 907 355",
+                            "4M0907355"
+                        ]
+                    },
+                    {
+                        "title": "Helbako - Onderdeelnummer",
+                        "numbers": [
+                            "7920006AB"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0003",
+                        "fault_description": "Regelunit voor doseersysteem voor reductiemiddel - voedingsspanning elektrische fout."
+                    },
+                    {
+                        "fault_code": "0016",
+                        "fault_description": "Voedingsspanning - Spanning te hoog."
+                    },
+                    {
+                        "fault_code": "0018",
+                        "fault_description": "Functionele beperking - door overspanning."
+                    },
+                    {
+                        "fault_code": "0512",
+                        "fault_description": "Encoder voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "0514",
+                        "fault_description": "Sensor voor voeding 1."
+                    },
+                    {
+                        "fault_code": "0521",
+                        "fault_description": "Sensor voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "327946",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "B2000",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P06B1",
+                        "fault_description": "Sensor voor voeding 1."
+                    },
+                    {
+                        "fault_code": "P06B2",
+                        "fault_description": "Encoder voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "P21CA",
+                        "fault_description": "Regelunit voor doseersysteem voor reductiemiddel - voedingsspanning elektrische fout."
+                    },
+                    {
+                        "fault_code": "U1012",
+                        "fault_description": "Voedingsspanning - Spanning te hoog."
+                    },
+                    {
+                        "fault_code": "U1401",
+                        "fault_description": "Functionele beperking door overspanning - sporadisch."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A4) Bouwjaar 16 - 2017"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/exhaust-processing/scr-ecu/audi-4m0907355b-helbako-7920006kb-141764.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "4M0 907 355 B",
+                            "4M0907355B"
+                        ]
+                    },
+                    {
+                        "title": "Helbako - Onderdeelnummer",
+                        "numbers": [
+                            "7920006KB"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0003",
+                        "fault_description": "Regelunit voor doseersysteem voor reductiemiddel - voedingsspanning elektrische fout."
+                    },
+                    {
+                        "fault_code": "0016",
+                        "fault_description": "Voedingsspanning - Spanning te hoog."
+                    },
+                    {
+                        "fault_code": "0018",
+                        "fault_description": "Functionele beperking - door overspanning."
+                    },
+                    {
+                        "fault_code": "0512",
+                        "fault_description": "Encoder voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "0514",
+                        "fault_description": "Sensor voor voeding 1."
+                    },
+                    {
+                        "fault_code": "0521",
+                        "fault_description": "Sensor voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "327946",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "B2000",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P06B1",
+                        "fault_description": "Sensor voor voeding 1."
+                    },
+                    {
+                        "fault_code": "P06B2",
+                        "fault_description": "Encoder voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "P21CA",
+                        "fault_description": "Regelunit voor doseersysteem voor reductiemiddel - voedingsspanning elektrische fout."
+                    },
+                    {
+                        "fault_code": "U1012",
+                        "fault_description": "Voedingsspanning - Spanning te hoog."
+                    },
+                    {
+                        "fault_code": "U1401",
+                        "fault_description": "Functionele beperking door overspanning - sporadisch."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A4) Bouwjaar 2011 - 2018"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/exhaust-processing/scr-ecu/audi-4m0907355d-helbako-141765.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "4M0 907 355 D",
+                            "4M0907355D"
+                        ]
+                    },
+                    {
+                        "title": "Helbako.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0003",
+                        "fault_description": "Regelunit voor doseersysteem voor reductiemiddel - voedingsspanning elektrische fout."
+                    },
+                    {
+                        "fault_code": "0016",
+                        "fault_description": "Voedingsspanning - Spanning te hoog."
+                    },
+                    {
+                        "fault_code": "0018",
+                        "fault_description": "Functionele beperking - door overspanning."
+                    },
+                    {
+                        "fault_code": "0512",
+                        "fault_description": "Encoder voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "0514",
+                        "fault_description": "Sensor voor voeding 1."
+                    },
+                    {
+                        "fault_code": "0521",
+                        "fault_description": "Sensor voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "327946",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "B2000",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P06B1",
+                        "fault_description": "Sensor voor voeding 1."
+                    },
+                    {
+                        "fault_code": "P06B2",
+                        "fault_description": "Encoder voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "P21CA",
+                        "fault_description": "Regelunit voor doseersysteem voor reductiemiddel - voedingsspanning elektrische fout."
+                    },
+                    {
+                        "fault_code": "U1012",
+                        "fault_description": "Voedingsspanning - Spanning te hoog."
+                    },
+                    {
+                        "fault_code": "U1401",
+                        "fault_description": "Functionele beperking door overspanning - sporadisch."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (A4) Bouwjaar 2017 - 2020"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/audi/exhaust-processing/scr-ecu/audi-4m0907355e-helbako-141766.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "4M0 907 355 E",
+                            "4M0907355E"
+                        ]
+                    },
+                    {
+                        "title": "Helbako.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0003",
+                        "fault_description": "Regelunit voor doseersysteem voor reductiemiddel - voedingsspanning elektrische fout."
+                    },
+                    {
+                        "fault_code": "0016",
+                        "fault_description": "Voedingsspanning - Spanning te hoog."
+                    },
+                    {
+                        "fault_code": "0018",
+                        "fault_description": "Functionele beperking - door overspanning."
+                    },
+                    {
+                        "fault_code": "0512",
+                        "fault_description": "Encoder voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "0514",
+                        "fault_description": "Sensor voor voeding 1."
+                    },
+                    {
+                        "fault_code": "0521",
+                        "fault_description": "Sensor voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "327946",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "B2000",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P06B1",
+                        "fault_description": "Sensor voor voeding 1."
+                    },
+                    {
+                        "fault_code": "P06B2",
+                        "fault_description": "Encoder voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "P21CA",
+                        "fault_description": "Regelunit voor doseersysteem voor reductiemiddel - voedingsspanning elektrische fout."
+                    },
+                    {
+                        "fault_code": "U1012",
+                        "fault_description": "Voedingsspanning - Spanning te hoog."
+                    },
+                    {
+                        "fault_code": "U1401",
+                        "fault_description": "Functionele beperking door overspanning - sporadisch."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/audi/exhaust-processing/scr-ecu/audi-4m0907355h-4m0907355b-helbako-7920006kh-152153.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "4M0 907 355 H",
+                            "4M0907355H"
+                        ]
+                    },
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "4M0 907 355 B",
+                            "4M0907355B"
+                        ]
+                    },
+                    {
+                        "title": "Helbako - Onderdeelnummer",
+                        "numbers": [
+                            "7920006KH"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "0003",
+                        "fault_description": "Regelunit voor doseersysteem voor reductiemiddel - voedingsspanning elektrische fout."
+                    },
+                    {
+                        "fault_code": "0016",
+                        "fault_description": "Voedingsspanning - Spanning te hoog."
+                    },
+                    {
+                        "fault_code": "0018",
+                        "fault_description": "Functionele beperking - door overspanning."
+                    },
+                    {
+                        "fault_code": "0512",
+                        "fault_description": "Encoder voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "0514",
+                        "fault_description": "Sensor voor voeding 1."
+                    },
+                    {
+                        "fault_code": "0521",
+                        "fault_description": "Sensor voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "327946",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "B2000",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P06B1",
+                        "fault_description": "Sensor voor voeding 1."
+                    },
+                    {
+                        "fault_code": "P06B2",
+                        "fault_description": "Encoder voor voeding 1 - Kortsluiting naar plus."
+                    },
+                    {
+                        "fault_code": "P21CA",
+                        "fault_description": "Regelunit voor doseersysteem voor reductiemiddel - voedingsspanning elektrische fout."
+                    },
+                    {
+                        "fault_code": "U1012",
+                        "fault_description": "Voedingsspanning - Spanning te hoog."
+                    },
+                    {
+                        "fault_code": "U1401",
+                        "fault_description": "Functionele beperking door overspanning - sporadisch."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

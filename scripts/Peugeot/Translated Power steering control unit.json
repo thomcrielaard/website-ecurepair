@@ -1,0 +1,118 @@
+[
+    {
+        "part_name": "Stuurbekrachtiging ECU.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/power+steering+ecu-751.ts1628722660.jpg",
+        "product_link": "https://ecu.eu/peugeot/power-steering-control-unit-295/peugeot/power-steering-control-unit/power-steering-ecu-4535",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/peugeot/power-steering-control-unit/power-steering-ecu/peugeot-896500h010-koyo-6900000521-fujitsu-ten-limited-2250000080-107650.html",
+                "part_numbers": [
+                    {
+                        "title": "Peugeot - Onderdeelnummer",
+                        "numbers": [
+                            "89650-0H010",
+                            "896500H010"
+                        ]
+                    },
+                    {
+                        "title": "Koyo - Onderdeelnummer",
+                        "numbers": [
+                            "6900000521"
+                        ]
+                    },
+                    {
+                        "title": "Fujitsu Ten Limited - Onderdeelnummer",
+                        "numbers": [
+                            "225000-0080",
+                            "2250000080"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Voedingsspanning van stuurbekrachtiging defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Peugeot 107 1.0i (107, B0) Motorcode 1KR-FE",
+                    "Peugeot (107) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/peugeot/power-steering-control-unit/power-steering-ecu/peugeot-896500h011-jtekt-6900002387-fujitsu-ten-limited-2250001190-114168.html",
+                "part_numbers": [
+                    {
+                        "title": "Peugeot - Onderdeelnummer",
+                        "numbers": [
+                            "89650-0H011",
+                            "896500H011"
+                        ]
+                    },
+                    {
+                        "title": "JTEKT - Onderdeelnummer",
+                        "numbers": [
+                            "6900 002 387",
+                            "6900002387"
+                        ]
+                    },
+                    {
+                        "title": "Fujitsu Ten Limited - Onderdeelnummer",
+                        "numbers": [
+                            "225000-1190",
+                            "2250001190"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Voedingsspanning van stuurbekrachtiging defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Peugeot 107 1.0i (107, B0) Bouwjaar 2012 Motorcode 1KR-FE"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/peugeot/power-steering-control-unit/power-steering-ecu/peugeot-896500h030-koyo-6900000544-108225.html",
+                "part_numbers": [
+                    {
+                        "title": "Peugeot - Onderdeelnummer",
+                        "numbers": [
+                            "89650-0H030",
+                            "896500H030"
+                        ]
+                    },
+                    {
+                        "title": "Koyo - Onderdeelnummer",
+                        "numbers": [
+                            "6900000544"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Voedingsspanning van stuurbekrachtiging defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Peugeot 107 1.4 HDi (107, B0) Bouwjaar 2006 Motorcode 8HT"
+                ]
+            }
+        ]
+    }
+]

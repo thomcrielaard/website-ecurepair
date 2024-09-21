@@ -1,0 +1,85 @@
+[
+    {
+        "part_name": "Volvo Radlader L110F / L120F / L180F / L350F Instrumentenpaneel.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/volvo+radlader+l110f+l120f+l180f+l350f+instrument+cluster-526464.ts1629961690.jpg",
+        "product_link": "https://ecu.eu/speedometer-display-instrument-cluster-6732/speedometer-display-instrument-cluster/volvo-radlader-l110f-l120f-l180f-l350f-instrument-cluster-6733",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/speedometer-display-instrument-cluster/volvo-radlader-l110f-l120f-l180f-l350f-instrument-cluster/volvo-11443800p01-volvo-18853-07w103-140999.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo - Part number",
+                        "numbers": [
+                            "11443800-P01",
+                            "11443800P01"
+                        ]
+                    },
+                    {
+                        "title": "Volvo - Onderdeelnummer",
+                        "numbers": [
+                            "18853"
+                        ]
+                    },
+                    {
+                        "title": "Volvo - Onderdeelnummer",
+                        "numbers": [
+                            "07W103"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Eenheid start meestal niet vroeg / koud, de ontsteking moet eerst meerdere keren aan- en uitgezet worden. -alleen op aanvraag!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Volvo wiellader L25 / L28F Instrumentenpaneel.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/volvo+wheel+loader+l25+l28f+instrument+cluster-2475526.ts1703681427.jpg",
+        "product_link": "https://ecu.eu/speedometer-display-instrument-cluster-6732/speedometer-display-instrument-cluster/volvo-wheel-loader-l25-l28f-instrument-cluster-7281",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/speedometer-display-instrument-cluster/volvo-wheel-loader-l25-l28f-instrument-cluster/volvo-construction-0524000103-0524000103-151897.html",
+                "part_numbers": [
+                    {
+                        "title": "Volvo Construction - Onderdeelnummer",
+                        "numbers": [
+                            "05240001.03",
+                            "0524000103"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "05240001.03",
+                            "0524000103"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tankmeter zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Volledig disfunctioneren."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]
