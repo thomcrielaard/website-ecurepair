@@ -21,7 +21,7 @@ import shuffleArray from "@/services/ShuffleArray";
 
 import Banner from "@/assets/img/parallex.jpg";
 
-export default function Home({ products, merkPart, news }) {
+export default function Home({ products, searchbarData, news }) {
   return (
     <>
       <Head>
@@ -34,7 +34,7 @@ export default function Home({ products, merkPart, news }) {
 
       <Navbar transparent />
 
-      <BigBanner MP={merkPart} />
+      <BigBanner searchbarData={searchbarData} />
 
       <Cards />
 
@@ -45,7 +45,7 @@ export default function Home({ products, merkPart, news }) {
           align="center"
           slim
         />
-        <Searchbar MP={merkPart} showButton />
+        <Searchbar searchbarData={searchbarData} showButton />
         <ItemCards
           items={products}
           buttonText="ALLE ONDERDELEN"
@@ -56,7 +56,7 @@ export default function Home({ products, merkPart, news }) {
         />
       </Container>
 
-      <ParallexBanner
+      {/* <ParallexBanner
         image={Banner}
         title={"WAT WIJ DOEN"}
         text={
@@ -79,7 +79,7 @@ export default function Home({ products, merkPart, news }) {
           buttonLink="/nieuws"
           short
         />
-      </Container>
+      </Container> */}
 
       <Footer />
     </>
@@ -89,35 +89,65 @@ export default function Home({ products, merkPart, news }) {
 export async function getStaticProps() {
   // Get all products
   const { data: productsData } = await Axios.get(
-    `${API_URL}/api/products?populate=afbeelding,onderdeel.afbeeldingen`
+    `${API_URL}/api/products?populate=afbeelding,subonderdeel.onderdeel.afbeeldingen`
   );
 
-  const allProducts = productsData.data;
+  const allProducts = productsData.data.map((product) => ({
+    id: product.id,
+    onderdeelnummer: product.attributes.onderdeelnummer,
+    samenvatting: product.attributes.samenvatting,
+    afbeelding: product.attributes.afbeelding.data
+      ? product.attributes.afbeelding.data.attributes.url
+      : product.attributes.subonderdeel.onderdeel.data.attributes.afbeeldingen
+          .data[0].attributes.url,
+  }));
 
   const products = shuffleArray(allProducts);
 
-  // Get all brands, models and types
-  const res = await Axios.get(
-    `${API_URL}/api/merks?populate=products.onderdeel&sort[0]=naam:asc`
+  // Get all brands, parts and subparts
+  const brands = await Axios.get(
+    `${API_URL}/api/merks?populate=products.subonderdeel.onderdeel&sort[0]=naam:asc`
   );
-  const merksData = res.data.data; // navigate to the 'data' field in the response
+  const searchbarData = brands.data.data.map((merk) => {
+    const onderdelen = merk.attributes.products.data.reduce(
+      (partAcc, product) => {
+        const onderdeelData =
+          product.attributes.subonderdeel.data.attributes.onderdeel.data;
+        const onderdeelId = onderdeelData.id;
+        const onderdeelNaam = onderdeelData.attributes.naam;
 
-  const merkPart = merksData.map((merk) => {
-    // Get array of parts
-    const parts = merk.attributes.products.data
-      .map((part) => ({
-        id: part.attributes.onderdeel.data.id,
-        naam: part.attributes.onderdeel.data.attributes.naam,
-      }))
-      // Remove duplicates based on 'naam' property
-      .filter(
-        (value, index, self) =>
-          index === self.findIndex((t) => t.naam === value.naam)
-      );
+        const subonderdeel = {
+          id: product.attributes.subonderdeel.data.id,
+          naam: product.attributes.subonderdeel.data.attributes.naam,
+        };
 
-    // Deconstruct merk attributes, exclude parts and return with parts and merk id
-    const { onderdeels, ...otherAttributes } = merk.attributes;
-    return { id: merk.id, ...otherAttributes, parts };
+        let onderdeel = partAcc.find((o) => o.id === onderdeelId);
+
+        if (!onderdeel) {
+          onderdeel = {
+            id: onderdeelId,
+            naam: onderdeelNaam,
+            subonderdelen: [],
+          };
+          partAcc.push(onderdeel);
+        }
+
+        if (
+          !onderdeel.subonderdelen.some((sub) => sub.id === subonderdeel.id)
+        ) {
+          onderdeel.subonderdelen.push(subonderdeel);
+        }
+
+        return partAcc;
+      },
+      []
+    );
+
+    return {
+      id: merk.id,
+      naam: merk.attributes.naam,
+      onderdelen: onderdelen,
+    };
   });
 
   // Get all nieuwsberichten
@@ -125,11 +155,13 @@ export async function getStaticProps() {
     `${API_URL}/api/nieuwsberichts?populate=omslagfoto&sort=id:desc`
   );
 
-  const news = newsData.data;
+  const news = newsData.data.map((item) => ({
+    id: item.id,
+  }));
 
   return {
     props: {
-      merkPart,
+      searchbarData,
       products,
       news,
     },

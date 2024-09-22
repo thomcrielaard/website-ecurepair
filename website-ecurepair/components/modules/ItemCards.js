@@ -58,16 +58,8 @@ export default function ItemCards(props) {
                   sizes={`(min-width: ${Breakpoints.lg}) 25vw, (min-width: ${Breakpoints.xs}) 50vw, 100vw`}
                   placeholder="blur"
                   blurDataURL={BlurDataUrl}
-                  src={
-                    API_URL +
-                    (item.attributes.onderdeelnummer != undefined
-                      ? item.attributes.afbeelding.data
-                        ? item.attributes.afbeelding.data.attributes.url
-                        : item.attributes.onderdeel.data.attributes.afbeeldingen
-                            .data[0].attributes.url
-                      : item.attributes.omslagfoto.data.attributes.url)
-                  }
-                  alt={item.attributes.onderdeelnummer ?? item.attributes.titel}
+                  src={API_URL + item.afbeelding}
+                  alt={item.onderdeelnummer ?? item.titel}
                   fill
                   style={{ objectFit: "cover" }}
                 />
@@ -75,14 +67,12 @@ export default function ItemCards(props) {
               <div className={styles.ItemCardTextWrapper}>
                 <div>
                   <Title
-                    text={
-                      item.attributes.onderdeelnummer ?? item.attributes.titel
-                    }
+                    text={item.onderdeelnummer ?? item.titel}
                     size="xs"
                     style={{ wordWrap: "break-word" }}
                   />
                   <Text
-                    text={item.attributes.samenvatting}
+                    text={item.samenvatting}
                     className={styles.ItemCardText}
                     align="left"
                   />
@@ -91,11 +81,11 @@ export default function ItemCards(props) {
                   <Button
                     text="MEER LEZEN"
                     href={
-                      item.attributes.onderdeelnummer != undefined
-                        ? `/onderdelen/${item.attributes.onderdeelnummer
+                      item.onderdeelnummer != undefined
+                        ? `/onderdelen/${item.onderdeelnummer
                             .replace(/\//g, "%2F")
                             .replace(/ /g, "%20")}`
-                        : `/nieuws/${item.attributes.titel.replace(" ", "%20")}`
+                        : `/nieuws/${item.titel.replace(" ", "%20")}`
                     }
                     color={Colors.GRAY}
                     hoverColor={Colors.RED}
@@ -112,14 +102,14 @@ export default function ItemCards(props) {
                             : styles.ItemCardPrice
                         }
                       >
-                        €{Number(item.attributes.prijs).toFixed(2)}
+                        €{Number(item.prijs).toFixed(2)}
                       </span>
                       {props.discount.ingeschakeld && (
                         <span className={styles.ItemCardPrice}>
                           €
                           {Number(
-                            item.attributes.prijs -
-                              (item.attributes.prijs * props.discount.procent) /
+                            item.prijs -
+                              (item.prijs * props.discount.procent) /
                                 100
                           ).toFixed(2)}
                         </span>

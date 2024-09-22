@@ -53,7 +53,9 @@ export default function Searchbar(props) {
 
   const changeMerk = (merk, clearPart = true) => {
     const selectedValue = merk;
-    const brand = props.MP.find((item) => item.id === parseInt(selectedValue));
+    const brand = props.searchbarData.find(
+      (item) => item.id === parseInt(selectedValue)
+    );
     if (brand) {
       setParts(brand.parts);
       setBarWidth(48);
@@ -136,7 +138,7 @@ export default function Searchbar(props) {
                 <option value="DEFAULT" disabled>
                   Selecteer merk
                 </option>
-                {props.MP.map((brand, key) => (
+                {props.searchbarData.map((brand, key) => (
                   <option key={key} value={brand.id}>
                     {brand.naam}
                   </option>

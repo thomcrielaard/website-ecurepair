@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "subonderdeels",
+  "info": {
+    "singularName": "subonderdeel",
+    "pluralName": "subonderdeels",
+    "displayName": "Subonderdeel",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "naam": {
+      "type": "string"
+    },
+    "onderdeel": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::onderdeel.onderdeel",
+      "inversedBy": "subonderdeels"
+    },
+    "products": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::product.product",
+      "mappedBy": "subonderdeel"
+    },
+    "afbeeldingen": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

@@ -17,12 +17,6 @@
       "required": true,
       "unique": true
     },
-    "products": {
-      "type": "relation",
-      "relation": "oneToMany",
-      "target": "api::product.product",
-      "mappedBy": "onderdeel"
-    },
     "afbeeldingen": {
       "type": "media",
       "multiple": true,
@@ -33,6 +27,12 @@
         "videos",
         "audios"
       ]
+    },
+    "subonderdeels": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::subonderdeel.subonderdeel",
+      "mappedBy": "onderdeel"
     }
   }
 }

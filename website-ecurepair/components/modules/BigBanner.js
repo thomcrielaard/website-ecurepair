@@ -14,31 +14,45 @@ import Header from "@/assets/img/header-home.jpg";
 import Logo from "@/assets/svg/Logo";
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 
-export default function BigBanner(props) {
+export default function BigBanner({ searchbarData }) {
   const selectPartRef = React.useRef(null);
+  const selectSubpartRef = React.useRef(null);
 
   const [inputValue, setInputValue] = React.useState(null);
   const [brandValue, setBrandValue] = React.useState(null);
   const [partValue, setPartValue] = React.useState(null);
   const [parts, setParts] = React.useState([]);
+  const [subpartValue, setSubpartValue] = React.useState(null);
+  const [subparts, setSubparts] = React.useState([]);
 
   const handleInputChange = (text) => {
     setInputValue(text);
   };
 
   const changeMerk = (merk) => {
-    const selectedValue = merk;
-    const brand = props.MP.find((item) => item.id === parseInt(selectedValue));
+    const brand = searchbarData.find((item) => item.id === parseInt(merk));
     if (brand) {
       setBrandValue(merk);
-      setParts(brand.parts);
+      setParts(brand.onderdelen);
       setPartValue(null);
+      setSubpartValue(null);
       selectPartRef.current.value = "DEFAULT";
+      selectSubpartRef.current.value = "DEFAULT";
     }
   };
 
-  const changePart = (part) => {
-    setPartValue(part);
+  const changePart = (part_) => {
+    const part = parts.find((item) => item.id === parseInt(part_));
+    if (part) {
+      setPartValue(part);
+      setSubparts(part.subonderdelen);
+      setSubpartValue(null);
+      selectSubpartRef.current.value = "DEFAULT";
+    }
+  };
+
+  const changeSubpart = (subpart) => {
+    setSubpartValue(subpart);
   };
 
   return (
@@ -78,9 +92,9 @@ export default function BigBanner(props) {
             onChange={(e) => changeMerk(e.target.value)}
           >
             <option value="DEFAULT" disabled>
-              Selecteer merk
+              Merk
             </option>
-            {props.MP.map((brand, key) => (
+            {searchbarData.map((brand, key) => (
               <option key={key} value={brand.id}>
                 {brand.naam}
               </option>
@@ -94,11 +108,27 @@ export default function BigBanner(props) {
             onChange={(e) => changePart(e.target.value)}
           >
             <option value="DEFAULT" disabled>
-              Selecteer onderdeel
+              Onderdeel
             </option>
             {parts.map((part, key) => (
               <option key={key} value={part.id}>
                 {part.naam}
+              </option>
+            ))}
+          </select>
+
+          <select
+            defaultValue={"DEFAULT"}
+            disabled={subparts.length === 0}
+            ref={selectSubpartRef}
+            onChange={(e) => changeSubpart(e.target.value)}
+          >
+            <option value="DEFAULT" disabled>
+              Type
+            </option>
+            {subparts.map((subpart, key) => (
+              <option key={key} value={subpart.id}>
+                {subpart.naam}
               </option>
             ))}
           </select>
@@ -117,7 +147,9 @@ export default function BigBanner(props) {
             style={{ alignSelf: "center" }}
             href={`/onderdelen?${
               inputValue && inputValue != "" ? `onderdeel=${inputValue}&` : ""
-            }merk=${brandValue ?? "DEFAULT"}&part=${partValue ?? "DEFAULT"}`}
+            }merk=${brandValue ?? "DEFAULT"}&part=${
+              partValue?.id ?? "DEFAULT"
+            }&subpart=${subpartValue ?? "DEFAULT"}`}
           />
         </div>
       </div>

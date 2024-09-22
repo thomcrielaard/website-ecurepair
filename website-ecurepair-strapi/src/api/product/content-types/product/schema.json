@@ -25,10 +25,10 @@
       "type": "richtext",
       "required": true
     },
-    "onderdeel": {
+    "subonderdeel": {
       "type": "relation",
       "relation": "manyToOne",
-      "target": "api::onderdeel.onderdeel",
+      "target": "api::subonderdeel.subonderdeel",
       "inversedBy": "products"
     },
     "afbeelding": {
