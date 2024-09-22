@@ -33,35 +33,56 @@ function Error({ product }) {
   );
 }
 
-export async function getStaticPaths() {
-  const { data } = await Axios.get(
-    `${API_URL}/api/products?fields=onderdeelnummer`
-  );
+// export async function getStaticPaths() {
+//   const { data } = await Axios.get(
+//     `${API_URL}/api/products?fields=onderdeelnummer`
+//   );
 
-  const paths = data.data.map((product) => {
-    return {
-      params: { number: `${product.attributes.onderdeelnummer}` },
-    };
-  });
+//   const paths = data.data.map((product) => {
+//     return {
+//       params: { number: `${product.attributes.onderdeelnummer}` },
+//     };
+//   });
 
-  return {
-    paths,
-    fallback: "blocking",
-  };
-}
+//   return {
+//     paths,
+//     fallback: "blocking",
+//   };
+// }
 
-export async function getStaticProps(context) {
+// export async function getStaticProps(context) {
+//   const { data } = await Axios.get(
+//     `${API_URL}/api/products?filters[onderdeelnummer][$eq]=${context.params.number}&populate=merks,onderdeel,afbeelding,onderdeel.afbeeldingen`
+//   );
+
+//   const product = data.data[0];
+
+//   return {
+//     props: {
+//       product,
+//     },
+//     revalidate: 10,
+//   };
+// }
+
+// Use getServerSideProps for dynamic rendering
+export async function getServerSideProps(context) {
   const { data } = await Axios.get(
     `${API_URL}/api/products?filters[onderdeelnummer][$eq]=${context.params.number}&populate=merks,onderdeel,afbeelding,onderdeel.afbeeldingen`
   );
 
   const product = data.data[0];
 
+  if (!product) {
+    return {
+      notFound: true,
+    };
+  }
+
   return {
     props: {
       product,
     },
-    revalidate: 10,
   };
 }
 
