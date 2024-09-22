@@ -115,7 +115,7 @@ export default function BigBanner(props) {
             backgroundColor={Colors.RED}
             color={Colors.WHITE}
             style={{ alignSelf: "center" }}
-            href={`/onderdelen?${
+            href={`/onderdelen/pagina/1?${
               inputValue && inputValue != "" ? `onderdeel=${inputValue}&` : ""
             }merk=${brandValue ?? "DEFAULT"}&part=${partValue ?? "DEFAULT"}`}
           />

@@ -2,7 +2,7 @@ import React from "react";
 import Head from "next/head";
 import Axios from "axios";
 import { useRouter } from "next/router";
-import { API_URL } from "../_app";
+import { API_URL } from "../../_app";
 
 import Container from "@/components/containers/Container";
 
@@ -18,47 +18,52 @@ import Button from "@/components/modules/Button";
 import Colors from "@/styles/Colors";
 
 const filterModules = (modules, text, merk, part) => {
-  const filteredModules = modules.filter((item) => {
-    let { omschrijving, samenvatting, onderdeelnummer } = item.attributes;
-    omschrijving = omschrijving.toLowerCase();
-    samenvatting = samenvatting.toLowerCase();
-    onderdeelnummer = onderdeelnummer.toLowerCase();
+  // const filteredModules = modules.filter((item) => {
+  //   let { omschrijving, samenvatting, onderdeelnummer } = item.attributes;
+  //   omschrijving = omschrijving.toLowerCase();
+  //   samenvatting = samenvatting.toLowerCase();
+  //   onderdeelnummer = onderdeelnummer.toLowerCase();
 
-    if (part && part != "DEFAULT" && item.attributes.onderdeel.data?.id != part)
-      return false;
-    else if (
-      merk &&
-      merk != "DEFAULT" &&
-      !item.attributes.merks.data.some((m) => m.id == merk)
-    )
-      return false;
+  //   if (part && part != "DEFAULT" && item.attributes.onderdeel.data?.id != part)
+  //     return false;
+  //   else if (
+  //     merk &&
+  //     merk != "DEFAULT" &&
+  //     !item.attributes.merks.data.some((m) => m.id == merk)
+  //   )
+  //     return false;
 
-    // Filter based on search text
-    if (
-      !text ||
-      omschrijving.includes(text.toLowerCase()) ||
-      samenvatting.includes(text.toLowerCase()) ||
-      onderdeelnummer.includes(
-        text
-          ?.split(" ")
-          .join("")
-          .split("-")
-          .join("")
-          .split(".")
-          .join("")
-          .toLowerCase()
-      )
-    ) {
-      return true;
-    }
+  //   // Filter based on search text
+  //   if (
+  //     !text ||
+  //     omschrijving.includes(text.toLowerCase()) ||
+  //     samenvatting.includes(text.toLowerCase()) ||
+  //     onderdeelnummer.includes(
+  //       text
+  //         ?.split(" ")
+  //         .join("")
+  //         .split("-")
+  //         .join("")
+  //         .split(".")
+  //         .join("")
+  //         .toLowerCase()
+  //     )
+  //   ) {
+  //     return true;
+  //   }
 
-    return false;
-  });
+  //   return false;
+  // });
 
-  return filteredModules;
+  return modules;
 };
 
-export default function Onderdelen({ products, merkPart, initialParts }) {
+export default function Onderdelen({
+  products,
+  merkPart,
+  initialParts,
+  pagination,
+}) {
   const router = useRouter();
 
   const searchText = router.query.onderdeel;
@@ -113,7 +118,12 @@ export default function Onderdelen({ products, merkPart, initialParts }) {
             target="_blank"
           />
         </div>
-        <ItemCards items={filteredModules} square />
+        <ItemCards
+          items={filteredModules}
+          square
+          pageCount={pagination.pageCount}
+          page={pagination.page}
+        />
       </Container>
 
       <Footer />
@@ -121,17 +131,37 @@ export default function Onderdelen({ products, merkPart, initialParts }) {
   );
 }
 
-export async function getStaticProps() {
+export async function getStaticPaths() {
+  // Get all products
+  const { data } = await Axios.get(
+    `${API_URL}/api/products?pagination[pageSize]=8&fields=onderdeelnummer`
+  );
+
+  const paths = Array.from(
+    { length: data.meta.pagination.pageCount },
+    (_, index) => ({
+      params: { page: (index + 1).toString() },
+    })
+  );
+
+  return {
+    paths,
+    fallback: false, // Or 'blocking' if you want to generate pages on-demand
+  };
+}
+
+export async function getStaticProps(context) {
   // Get all products
   const { data: productsData } = await Axios.get(
-    `${API_URL}/api/products?populate=afbeelding,onderdeel.afbeeldingen,merks`
+    `${API_URL}/api/products?populate=afbeelding,onderdeel.afbeeldingen,merks&pagination[page]=${context.params.page}&pagination[pageSize]=8`
   );
 
   const products = productsData.data;
+  const pagination = productsData.meta.pagination;
 
   // Get all brands and parts
   const res = await Axios.get(
-    `${API_URL}/api/merks?populate=products.onderdeel&sort[0]=naam:asc`
+    `${API_URL}/api/merks?populate[products][fields]=onderdeelnummer&populate[products][populate][onderdeel][fields]=naam&fields=naam&sort[0]=naam:asc&pagination[pageSize]=1`
   );
   const merksData = res.data.data;
 
@@ -155,7 +185,7 @@ export async function getStaticProps() {
 
   // Get initial parts so part can be selected in dropdown
   const { data: initialPartsData } = await Axios.get(
-    `${API_URL}/api/onderdeels`
+    `${API_URL}/api/onderdeels?fields=naam`
   );
 
   const initialParts = initialPartsData.data.map((part) => {
@@ -167,6 +197,7 @@ export async function getStaticProps() {
       merkPart,
       products,
       initialParts,
+      pagination,
     },
     revalidate: 10,
   };

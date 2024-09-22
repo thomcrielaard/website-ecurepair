@@ -90,7 +90,7 @@ export default function Searchbar(props) {
         <div className={styles.Searchbar}>
           <div className={styles.SearchbarFormWrapper}>
             {props.showButton ? (
-              <form method="GET" action="/onderdelen">
+              <form method="GET" action="/onderdelen/pagina/1">
                 <input
                   type="text"
                   name="onderdeel"
@@ -210,7 +210,7 @@ export default function Searchbar(props) {
               backgroundColor={Colors.RED}
               color={Colors.WHITE}
               style={{ alignSelf: "center" }}
-              href={`/onderdelen?${
+              href={`/onderdelen/pagina/1?${
                 inputRef.current?.value && inputRef.current.value != ""
                   ? `onderdeel=${inputRef.current.value}&`
                   : ""

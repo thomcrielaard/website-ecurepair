@@ -49,7 +49,7 @@ export default function Home({ products, merkPart, news }) {
         <ItemCards
           items={products}
           buttonText="ALLE ONDERDELEN"
-          buttonLink="/onderdelen"
+          buttonLink="/onderdelen/pagina/1"
           square
           button
           short
@@ -89,12 +89,10 @@ export default function Home({ products, merkPart, news }) {
 export async function getStaticProps() {
   // Get all products
   const { data: productsData } = await Axios.get(
-    `${API_URL}/api/products?populate=afbeelding,onderdeel.afbeeldingen`
+    `${API_URL}/api/products?populate=afbeelding,onderdeel.afbeeldingen&pagination[pageSize]=4`
   );
 
   const allProducts = productsData.data;
-
-  const products = shuffleArray(allProducts);
 
   // Get all brands, models and types
   const res = await Axios.get(
@@ -104,6 +102,9 @@ export async function getStaticProps() {
 
   const merkPart = merksData.map((merk) => {
     // Get array of parts
+    console.log("AAAAAAAAAAAAAAAA");
+    console.log(merk.attributes.naam);
+    console.log(merk.attributes.products.data[0].attributes);
     const parts = merk.attributes.products.data
       .map((part) => ({
         id: part.attributes.onderdeel.data.id,

@@ -91,7 +91,7 @@ export default function Footer() {
                 />
                 <FooterLink
                   text="Onderdelen"
-                  href="/onderdelen"
+                  href="/onderdelen/pagina/1"
                   bar={
                     router.pathname.includes("/onderdelen") ||
                     router.pathname == "/reparatieformulier"

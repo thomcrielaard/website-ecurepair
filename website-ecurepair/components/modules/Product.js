@@ -27,8 +27,10 @@ export default function Product(props) {
               API_URL +
               (props.product.afbeelding.data
                 ? props.product.afbeelding.data.attributes.url
-                : props.product.onderdeel.data.attributes.afbeeldingen.data[0]
-                    .attributes.url)
+                : props.product.onderdeel.data.attributes.afbeeldingen.data
+                ? props.product.onderdeel.data.attributes.afbeeldingen.data[0]
+                    .attributes.url
+                : "/uploads/no_image_available_3b34877500.png")
             }
             alt={props.product.onderdeelnummer}
             fill
@@ -47,7 +49,7 @@ export default function Product(props) {
             <React.Fragment key={key}>
               <Link
                 className={styles.ProductQuicklink}
-                href={`/onderdelen?merk=${brand.id}`}
+                href={`/onderdelen/pagina/1?merk=${brand.id}`}
               >
                 {brand.attributes.naam}
               </Link>
@@ -58,7 +60,7 @@ export default function Product(props) {
               />
               <Link
                 className={styles.ProductQuicklink}
-                href={`/onderdelen?merk=${brand.id}&part=${props.product.onderdeel.data.id}`}
+                href={`/onderdelen/pagina/1?merk=${brand.id}&part=${props.product.onderdeel.data.id}`}
               >
                 {props.product.onderdeel.data.attributes.naam}
               </Link>

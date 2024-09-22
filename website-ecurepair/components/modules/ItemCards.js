@@ -1,5 +1,7 @@
 import * as React from "react";
+import { useRouter } from "next/navigation";
 import Image from "next/image";
+import ReactPaginate from "react-paginate";
 
 import styles from "@/styles/modules/ItemCards.module.scss";
 
@@ -13,27 +15,25 @@ import Button from "@/components/modules/Button";
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 import { API_URL } from "@/pages/_app";
-import ReactPaginate from "react-paginate";
 import Chevron from "@/assets/svg/Chevron";
 
+import NoImage from "@/assets/img/no-image-available.png";
+
 export default function ItemCards(props) {
+  const router = useRouter();
   const size = UseDimensions();
-  const itemsPerPage = 8;
 
-  const [currentItems, setCurrentItems] = React.useState([]);
-  const [pageCount, setPageCount] = React.useState(0);
-  const [itemOffset, setItemOffset] = React.useState(0);
-
-  React.useEffect(() => {
-    const endOffset = itemOffset + itemsPerPage;
-    setCurrentItems(props.items.slice(itemOffset, endOffset));
-    setPageCount(Math.ceil(props.items.length / itemsPerPage));
-  }, [itemOffset, props.items, size.width, itemsPerPage]);
+  const [currentItems, setCurrentItems] = React.useState(props.items);
 
   const handlePageClick = (event) => {
-    const newOffset = (event.selected * itemsPerPage) % props.items.length;
-    setItemOffset(newOffset);
+    const page = event.selected + 1;
+    router.push(`/onderdelen/pagina/${page}`);
   };
+
+  // const handlePageClick = (event) => {
+  //   const newOffset = (event.selected * itemsPerPage) % props.items.length;
+  //   setItemOffset(newOffset);
+  // };
 
   return (
     <>
@@ -64,7 +64,10 @@ export default function ItemCards(props) {
                       ? item.attributes.afbeelding.data
                         ? item.attributes.afbeelding.data.attributes.url
                         : item.attributes.onderdeel.data.attributes.afbeeldingen
+                            .data
+                        ? item.attributes.onderdeel.data.attributes.afbeeldingen
                             .data[0].attributes.url
+                        : "/uploads/no_image_available_3b34877500.png"
                       : item.attributes.omslagfoto.data.attributes.url)
                   }
                   alt={item.attributes.onderdeelnummer ?? item.attributes.titel}
@@ -157,10 +160,10 @@ export default function ItemCards(props) {
               />
             </div>
           }
-          onPageChange={handlePageClick}
+          onPageChange={(event) => handlePageClick(event)}
           pageRangeDisplayed={2}
           marginPagesDisplayed={size.width < Breakpoints.xs ? 0 : 1}
-          pageCount={pageCount}
+          pageCount={props.pageCount}
           previousLabel={
             <div className={styles.PaginateLabel}>
               <Chevron

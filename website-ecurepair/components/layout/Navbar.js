@@ -104,7 +104,7 @@ export default function Navbar(props) {
             </div>
           </div>
           <NavbarLink
-            href="/onderdelen"
+            href="/onderdelen/pagina/1"
             text="Onderdelen"
             active={router.pathname.includes("/onderdelen")}
           />
@@ -138,14 +138,14 @@ export default function Navbar(props) {
               ${styles.NavbarSearchButton} 
               ${focusSearch && styles.FocusSearch}`}
               aria-label="Onderdeel zoeken"
-              href={`/onderdelen?onderdeel=${inputRef?.current?.value}`}
+              href={`/onderdelen/pagina/1?onderdeel=${inputRef?.current?.value}`}
             >
               <MagnifyingGlass
                 className={styles.NavbarSearchIcon}
                 color={Colors.WHITE}
               />
             </Link>
-            <form method="GET" action="/onderdelen">
+            <form method="GET" action="/onderdelen/pagina/1">
               <input
                 ref={inputRef}
                 name="onderdeel"
@@ -201,7 +201,7 @@ function MobileNavExpanded(props) {
             <NavbarLink href="/tellerklokken" text="Tellerklokken" />
           </div>
           <NavbarLink
-            href="/onderdelen"
+            href="/onderdelen/pagina/1"
             text="Onderdelen"
             active={router.pathname.includes("/onderdelen")}
           />
