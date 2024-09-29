@@ -17,23 +17,31 @@ import Text from "@/components/text/Text";
 import { API_URL } from "@/pages/_app";
 import Chevron from "@/assets/svg/Chevron";
 
-import NoImage from "@/assets/img/no-image-available.png";
-
 export default function ItemCards(props) {
-  const router = useRouter();
   const size = UseDimensions();
 
   const [currentItems, setCurrentItems] = React.useState(props.items);
 
-  const handlePageClick = (event) => {
-    const page = event.selected + 1;
-    router.push(`/onderdelen/pagina/${page}`);
-  };
+  // Enforces onclick listener for pagination
+  React.useEffect(() => {
+    const handleLinkClick = (event) => {
+      const target = event.target.closest("a");
+      if (
+        target &&
+        target.closest(".pagination") &&
+        target.getAttribute("href")
+      ) {
+        // Stop propagation to prevent react-paginate's onClick
+        event.stopPropagation();
+      }
+    };
 
-  // const handlePageClick = (event) => {
-  //   const newOffset = (event.selected * itemsPerPage) % props.items.length;
-  //   setItemOffset(newOffset);
-  // };
+    document.addEventListener("click", handleLinkClick, true); // Use capture phase
+
+    return () => {
+      document.removeEventListener("click", handleLinkClick, true);
+    };
+  }, []);
 
   return (
     <>
@@ -106,29 +114,6 @@ export default function ItemCards(props) {
                     hoverBorderColor={Colors.RED}
                     small
                   />
-                  {/* {props.price && (
-                    <div className={styles.ItemCardPriceWrapper}>
-                      <span
-                        className={
-                          props.discount.ingeschakeld
-                            ? styles.ItemCardDiscountPrice
-                            : styles.ItemCardPrice
-                        }
-                      >
-                        €{Number(item.attributes.prijs).toFixed(2)}
-                      </span>
-                      {props.discount.ingeschakeld && (
-                        <span className={styles.ItemCardPrice}>
-                          €
-                          {Number(
-                            item.attributes.prijs -
-                              (item.attributes.prijs * props.discount.procent) /
-                                100
-                          ).toFixed(2)}
-                        </span>
-                      )}
-                    </div>
-                  )} */}
                 </div>
               </div>
             </div>
@@ -160,10 +145,6 @@ export default function ItemCards(props) {
               />
             </div>
           }
-          onPageChange={(event) => handlePageClick(event)}
-          pageRangeDisplayed={2}
-          marginPagesDisplayed={size.width < Breakpoints.xs ? 0 : 1}
-          pageCount={props.pageCount}
           previousLabel={
             <div className={styles.PaginateLabel}>
               <Chevron
@@ -175,6 +156,12 @@ export default function ItemCards(props) {
               />
             </div>
           }
+          pageRangeDisplayed={2}
+          marginPagesDisplayed={size.width < Breakpoints.xs ? 0 : 1}
+          pageCount={props.pageCount}
+          initialPage={props.page - 1}
+          hrefBuilder={(page) => `/onderdelen/pagina/${page}`}
+          hrefAllControls
           renderOnZeroPageCount={null}
           containerClassName={"pagination"}
         />
