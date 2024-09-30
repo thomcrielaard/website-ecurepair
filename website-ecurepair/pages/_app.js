@@ -4,8 +4,7 @@ import "@/styles/globals.css";
 import "@/styles/pagination.css";
 import Head from "next/head";
 
-// export const API_URL = "https://strapi.ecurepair.nl";
-export const API_URL = "http://127.0.0.1:1339";
+export const API_URL = "https://strapi.ecurepair.nl";
 
 export default function App({ Component, pageProps }) {
   return (
