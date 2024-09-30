@@ -145,7 +145,7 @@ export default function Navbar(props) {
                 color={Colors.WHITE}
               />
             </Link>
-            <form method="GET" action="/onderdelen/pagina/1">
+            <form method="GET" action="/onderdelen/zoeken/1">
               <input
                 ref={inputRef}
                 name="onderdeel"

@@ -13,6 +13,7 @@ import Header from "@/assets/img/header-home.jpg";
 
 import Logo from "@/assets/svg/Logo";
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
+import constructSearchUrl from "@/services/ConstructSearchUrl";
 
 export default function BigBanner(props) {
   const selectPartRef = React.useRef(null);
@@ -28,10 +29,13 @@ export default function BigBanner(props) {
 
   const changeMerk = (merk) => {
     const selectedValue = merk;
-    const brand = props.MP.find((item) => item.id === parseInt(selectedValue));
+    const brand = props.searchbarData.find(
+      (item) => item.id === parseInt(selectedValue)
+    );
+    console.log(props.searchbarData);
     if (brand) {
       setBrandValue(merk);
-      setParts(brand.parts);
+      setParts(brand.onderdeels);
       setPartValue(null);
       selectPartRef.current.value = "DEFAULT";
     }
@@ -80,7 +84,7 @@ export default function BigBanner(props) {
             <option value="DEFAULT" disabled>
               Selecteer merk
             </option>
-            {props.MP.map((brand, key) => (
+            {props.searchbarData.map((brand, key) => (
               <option key={key} value={brand.id}>
                 {brand.naam}
               </option>
@@ -115,9 +119,7 @@ export default function BigBanner(props) {
             backgroundColor={Colors.RED}
             color={Colors.WHITE}
             style={{ alignSelf: "center" }}
-            href={`/onderdelen/pagina/1?${
-              inputValue && inputValue != "" ? `onderdeel=${inputValue}&` : ""
-            }merk=${brandValue ?? "DEFAULT"}&part=${partValue ?? "DEFAULT"}`}
+            href={constructSearchUrl(inputValue, brandValue, partValue)}
           />
         </div>
       </div>

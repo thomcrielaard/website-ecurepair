@@ -17,11 +17,9 @@ import Cards from "@/components/modules/Cards";
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 
-import shuffleArray from "@/services/ShuffleArray";
-
 import Banner from "@/assets/img/parallex.jpg";
 
-export default function Home({ products, merkPart, news }) {
+export default function Home({ products, searchbar, news }) {
   return (
     <>
       <Head>
@@ -34,7 +32,7 @@ export default function Home({ products, merkPart, news }) {
 
       <Navbar transparent />
 
-      <BigBanner MP={merkPart} />
+      <BigBanner searchbarData={searchbar} />
 
       <Cards />
 
@@ -45,7 +43,7 @@ export default function Home({ products, merkPart, news }) {
           align="center"
           slim
         />
-        <Searchbar MP={merkPart} showButton />
+        <Searchbar searchbarData={searchbar} showButton />
         <ItemCards
           items={products}
           buttonText="ALLE ONDERDELEN"
@@ -87,47 +85,25 @@ export default function Home({ products, merkPart, news }) {
 }
 
 export async function getStaticProps() {
-  // Get all products
+  // Get first four products
   const { data: productsData } = await Axios.get(
-    `${API_URL}/api/products?populate=afbeelding,onderdeel.afbeeldingen&pagination[pageSize]=4`
+    `${API_URL}/api/products?fields[0]=onderdeelnummer&fields[1]=samenvatting&populate[onderdeel][populate][afbeeldingen][fields][0]=url&pagination[pageSize]=4`
   );
-
   const products = productsData.data;
 
-  // Get all brands, models and types
-  const res = await Axios.get(
-    `${API_URL}/api/merks?populate=products.onderdeel&sort[0]=naam:asc`
-  );
-  const merksData = res.data.data; // navigate to the 'data' field in the response
-
-  const merkPart = merksData.map((merk) => {
-    // Get array of parts
-    const parts = merk.attributes.products.data
-      .map((part) => ({
-        id: part.attributes.onderdeel.data.id,
-        naam: part.attributes.onderdeel.data.attributes.naam,
-      }))
-      // Remove duplicates based on 'naam' property
-      .filter(
-        (value, index, self) =>
-          index === self.findIndex((t) => t.naam === value.naam)
-      );
-
-    // Deconstruct merk attributes, exclude parts and return with parts and merk id
-    const { onderdeels, ...otherAttributes } = merk.attributes;
-    return { id: merk.id, ...otherAttributes, parts };
-  });
+  // Get searchbar data
+  const { data: searchbar } = await Axios.get(`${API_URL}/api/searchbar`);
 
   // Get all nieuwsberichten
   const { data: newsData } = await Axios.get(
-    `${API_URL}/api/nieuwsberichts?populate=omslagfoto&sort=id:desc`
+    `${API_URL}/api/nieuwsberichts?populate[omslagfoto][fields][0]=url&sort=id:desc`
   );
 
   const news = newsData.data;
 
   return {
     props: {
-      merkPart,
+      searchbar,
       products,
       news,
     },

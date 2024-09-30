@@ -23,7 +23,7 @@ export default function NewsItem(props) {
             ) : (
               <div className={styles.NewsItemImageWrapper}>
                 <Image
-                  src={API_URL + content.afbeelding.data.attributes.url}
+                  src={API_URL + content.afbeelding.url}
                   alt={props.item.titel}
                   style={{ objectFit: "cover" }}
                   fill

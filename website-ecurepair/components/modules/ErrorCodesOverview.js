@@ -13,23 +13,23 @@ export default function ErrorCodesOverview(props) {
           <div key={key} className={styles.ErrorCodesOverviewBrandContainer}>
             <Title
               size="xs"
-              text={brand.attributes.naam}
+              text={brand.naam}
               className={styles.ErrorCodesOverviewTitle}
             />
             <div>
-              {brand.attributes.foutcodes.data.map((code) => {
-                if (code.attributes.foutomschrijving.data != null)
+              {brand.foutcodes.data.map((code) => {
+                if (code.foutomschrijving.data != null)
                   return (
                     <TextLink
-                      href={`/fouten/${code.attributes.foutomschrijving.data.attributes.titel}`}
-                      text={code.attributes.foutcode}
+                      href={`/fouten/${code.foutomschrijving.data.titel}`}
+                      text={code.foutcode}
                       className={styles.ErrorCodesOverviewCode}
                     />
                   );
                 else
                   return (
                     <span className={styles.ErrorCodesOverviewCode}>
-                      {code.attributes.foutcode}
+                      {code.foutcode}
                     </span>
                   );
               })}

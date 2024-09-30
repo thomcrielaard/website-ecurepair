@@ -48,7 +48,7 @@ export default function Nieuwsberichten({ items }) {
 export async function getStaticProps() {
   // Get all nieuwsberichten
   const { data: newsData } = await Axios.get(
-    `${API_URL}/api/nieuwsberichts?populate=omslagfoto&sort=id:desc`
+    `${API_URL}/api/nieuwsberichts?populate[omslagfoto][fields][0]=url&sort=id:desc`
   );
 
   const items = newsData.data;

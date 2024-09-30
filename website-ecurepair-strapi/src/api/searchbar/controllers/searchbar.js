@@ -22,7 +22,7 @@ module.exports = {
               products: {
                 merks: {
                   id: {
-                    $contains: merk.id,
+                    $eq: merk.id,
                   },
                 },
               },

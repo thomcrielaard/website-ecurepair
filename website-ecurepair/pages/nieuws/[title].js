@@ -12,14 +12,14 @@ function Item({ item }) {
   return (
     <>
       <Head>
-        <title>{`ECU Repair \u2013 ${item.attributes.titel}`}</title>
-        <meta name="description" content={item.attributes.samenvatting} />
+        <title>{`ECU Repair \u2013 ${item.titel}`}</title>
+        <meta name="description" content={item.samenvatting} />
       </Head>
 
       <Navbar />
 
       <Container>
-        <NewsItem item={item.attributes} />
+        <NewsItem item={item} />
       </Container>
 
       <Footer />
@@ -32,7 +32,7 @@ export async function getStaticPaths() {
 
   const paths = data.data.map((nieuwsbericht) => {
     return {
-      params: { title: `${nieuwsbericht.attributes.titel}` },
+      params: { title: `${nieuwsbericht.titel}` },
     };
   });
 
@@ -44,7 +44,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps(context) {
   const { data } = await Axios.get(
-    `${API_URL}/api/nieuwsberichts?filters[titel][$eq]=${context.params.title}&populate=bericht,bericht.afbeelding`
+    `${API_URL}/api/nieuwsberichts?filters[titel][$eq]=${context.params.title}&populate[0]=bericht&populate[1]=bericht.afbeelding`
   );
 
   const item = data.data[0];

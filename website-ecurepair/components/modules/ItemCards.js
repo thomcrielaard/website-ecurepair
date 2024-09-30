@@ -20,8 +20,6 @@ import Chevron from "@/assets/svg/Chevron";
 export default function ItemCards(props) {
   const size = UseDimensions();
 
-  const [currentItems, setCurrentItems] = React.useState(props.items);
-
   // Enforces onclick listener for pagination
   React.useEffect(() => {
     const handleLinkClick = (event) => {
@@ -29,7 +27,8 @@ export default function ItemCards(props) {
       if (
         target &&
         target.closest(".pagination") &&
-        target.getAttribute("href")
+        target.getAttribute("href") &&
+        target.getAttribute("aria-disabled") !== "true"
       ) {
         // Stop propagation to prevent react-paginate's onClick
         event.stopPropagation();
@@ -54,7 +53,7 @@ export default function ItemCards(props) {
         />
       )}
       <div className={styles.ItemCardsContainer}>
-        {currentItems
+        {props.items
           .slice(0, props.short ? 4 : props.items.length)
           .map((item, key) => (
             <div key={key} className={styles.ItemCard}>
@@ -68,17 +67,15 @@ export default function ItemCards(props) {
                   blurDataURL={BlurDataUrl}
                   src={
                     API_URL +
-                    (item.attributes.onderdeelnummer != undefined
-                      ? item.attributes.afbeelding.data
-                        ? item.attributes.afbeelding.data.attributes.url
-                        : item.attributes.onderdeel.data.attributes.afbeeldingen
-                            .data
-                        ? item.attributes.onderdeel.data.attributes.afbeeldingen
-                            .data[0].attributes.url
+                    (item.onderdeelnummer != undefined
+                      ? item.afbeelding
+                        ? item.afbeelding.url
+                        : item.onderdeel.afbeeldingen
+                        ? item.onderdeel.afbeeldingen[0].url
                         : "/uploads/no_image_available_3b34877500.png"
-                      : item.attributes.omslagfoto.data.attributes.url)
+                      : item.omslagfoto.url)
                   }
-                  alt={item.attributes.onderdeelnummer ?? item.attributes.titel}
+                  alt={item.onderdeelnummer ?? item.titel}
                   fill
                   style={{ objectFit: "cover" }}
                 />
@@ -86,14 +83,12 @@ export default function ItemCards(props) {
               <div className={styles.ItemCardTextWrapper}>
                 <div>
                   <Title
-                    text={
-                      item.attributes.onderdeelnummer ?? item.attributes.titel
-                    }
+                    text={item.onderdeelnummer ?? item.titel}
                     size="xs"
                     style={{ wordWrap: "break-word" }}
                   />
                   <Text
-                    text={item.attributes.samenvatting}
+                    text={item.samenvatting}
                     className={styles.ItemCardText}
                     align="left"
                   />
@@ -102,11 +97,11 @@ export default function ItemCards(props) {
                   <Button
                     text="MEER LEZEN"
                     href={
-                      item.attributes.onderdeelnummer != undefined
-                        ? `/onderdelen/${item.attributes.onderdeelnummer
+                      item.onderdeelnummer != undefined
+                        ? `/onderdelen/${item.onderdeelnummer
                             .replace(/\//g, "%2F")
                             .replace(/ /g, "%20")}`
-                        : `/nieuws/${item.attributes.titel.replace(" ", "%20")}`
+                        : `/nieuws/${item.titel.replace(" ", "%20")}`
                     }
                     color={Colors.GRAY}
                     hoverColor={Colors.RED}
@@ -160,7 +155,11 @@ export default function ItemCards(props) {
           marginPagesDisplayed={size.width < Breakpoints.xs ? 0 : 1}
           pageCount={props.pageCount}
           initialPage={props.page - 1}
-          hrefBuilder={(page) => `/onderdelen/pagina/${page}`}
+          hrefBuilder={(page) =>
+            props.search
+              ? `/onderdelen/zoeken/${page}?onderdeel=${props.searchText}&merk=${props.searchMerk}&part=${props.searchPart}`
+              : `/onderdelen/pagina/${page}`
+          }
           hrefAllControls
           renderOnZeroPageCount={null}
           containerClassName={"pagination"}

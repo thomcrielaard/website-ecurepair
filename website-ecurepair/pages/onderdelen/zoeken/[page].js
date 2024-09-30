@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import Axios from "axios";
+import { useRouter } from "next/router";
 import { API_URL } from "../../_app";
 
 import Container from "@/components/containers/Container";
@@ -16,7 +17,18 @@ import Text from "@/components/text/Text";
 import Button from "@/components/modules/Button";
 import Colors from "@/styles/Colors";
 
-export default function Onderdelen({ products, searchbar, pagination }) {
+export default function Onderdelen({
+  products,
+  searchbar,
+  // initialParts,
+  pagination,
+}) {
+  const router = useRouter();
+
+  const searchText = router.query.onderdeel ?? "";
+  const searchMerk = router.query.merk;
+  const searchPart = router.query.part;
+
   return (
     <>
       <Head>
@@ -36,7 +48,13 @@ export default function Onderdelen({ products, searchbar, pagination }) {
           align="center"
           slim
         />
-        <Searchbar searchbarData={searchbar} />
+        <Searchbar
+          searchbarData={searchbar}
+          // initialParts={initialParts}
+          text={searchText}
+          merk={searchMerk}
+          part={searchPart}
+        />
         <div
           style={{ display: "flex", justifyContent: "center", width: "100%" }}
         >
@@ -54,8 +72,12 @@ export default function Onderdelen({ products, searchbar, pagination }) {
         <ItemCards
           items={products}
           square
+          searchText={searchText}
+          searchMerk={searchMerk}
+          searchPart={searchPart}
           pageCount={pagination.pageCount}
           page={pagination.page}
+          search
         />
       </Container>
 
@@ -64,29 +86,13 @@ export default function Onderdelen({ products, searchbar, pagination }) {
   );
 }
 
-export async function getStaticPaths() {
-  // Get all products
-  const { data } = await Axios.get(
-    `${API_URL}/api/products?pagination[pageSize]=8&fields=onderdeelnummer`
-  );
+// Use getServerSideProps for dynamic rendering
+export async function getServerSideProps(context) {
+  const { onderdeel = "", merk = "", part = "", page = 1 } = context.query;
 
-  const paths = Array.from(
-    { length: data.meta.pagination.pageCount },
-    (_, index) => ({
-      params: { page: (index + 1).toString() },
-    })
-  );
-
-  return {
-    paths,
-    fallback: false, // Or 'blocking' if you want to generate pages on-demand
-  };
-}
-
-export async function getStaticProps(context) {
-  // Get all products
+  // Get searched products
   const { data: productsData } = await Axios.get(
-    `${API_URL}/api/products?fields[0]=onderdeelnummer&fields[1]=samenvatting&populate[afbeelding][fields][0]=url&populate[onderdeel][populate][afbeeldingen][fields][0]=url&pagination[pageSize]=8&pagination[page]=${context.params.page}`
+    `${API_URL}/api/products/search?tekst=${onderdeel}&merk=${merk}&onderdeel=${part}&pagination[page]=${page}&pagination[pageSize]=8`
   );
 
   const products = productsData.data;
@@ -101,6 +107,5 @@ export async function getStaticProps(context) {
       products,
       pagination,
     },
-    revalidate: 10,
   };
 }
