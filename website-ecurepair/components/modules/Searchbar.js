@@ -35,19 +35,10 @@ export default function Searchbar(props) {
 
     if (selectPartRef.current && props.part && props.part != "DEFAULT") {
       changePart();
+      console.log(props.part);
       selectPartRef.current.value = props.part;
     }
-    updateModules();
   }, [props.text, props.merk, props.part]);
-
-  const updateModules = () => {
-    if (props.updateModules != undefined)
-      props.updateModules(
-        inputRef.current?.value,
-        selectBrandRef.current?.value,
-        selectPartRef.current?.value
-      );
-  };
 
   const changeMerk = (merk, clearPart = true) => {
     const selectedValue = merk;
@@ -60,13 +51,11 @@ export default function Searchbar(props) {
       if (clearPart) {
         selectPartRef.current.value = "DEFAULT";
       }
-      updateModules();
     }
   };
 
   const changePart = () => {
     setBarWidth(100);
-    updateModules();
   };
 
   const handleInputChange = () => {
@@ -80,7 +69,6 @@ export default function Searchbar(props) {
     context.font = "18px lato"; // Set the font size and family to match the input
     const width = Math.ceil(context.measureText(inputValue).width);
     setInputWidth(width + 8);
-    updateModules();
   };
 
   return (

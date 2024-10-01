@@ -20,7 +20,7 @@ import Colors from "@/styles/Colors";
 export default function Onderdelen({
   products,
   searchbar,
-  // initialParts,
+  initialParts,
   pagination,
 }) {
   const router = useRouter();
@@ -50,7 +50,7 @@ export default function Onderdelen({
         />
         <Searchbar
           searchbarData={searchbar}
-          // initialParts={initialParts}
+          initialParts={initialParts}
           text={searchText}
           merk={searchMerk}
           part={searchPart}
@@ -101,9 +101,15 @@ export async function getServerSideProps(context) {
   // Get searchbar data
   const { data: searchbar } = await Axios.get(`${API_URL}/api/searchbar`);
 
+  let initialParts = [];
+  if (merk) {
+    initialParts = searchbar.find((item) => item.id == merk).onderdeels;
+  }
+
   return {
     props: {
       searchbar,
+      initialParts,
       products,
       pagination,
     },
