@@ -1,5 +1,4 @@
 import React from "react";
-import Head from "next/head";
 import Axios from "axios";
 
 import { API_URL } from "@/pages/_app";
