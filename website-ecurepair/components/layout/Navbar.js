@@ -1,6 +1,7 @@
+"use client"; // TODO: Fix
 import * as React from "react";
 import Image from "next/image";
-import { useRouter } from "next/router";
+import { usePathname } from "next/navigation";
 import Link from "next/link";
 
 import { Spin as Hamburger } from "hamburger-react";
@@ -20,7 +21,7 @@ import Chevron from "@/assets/svg/Chevron";
 const vacation = false;
 
 export default function Navbar(props) {
-  const router = useRouter();
+  const pathname = usePathname();
 
   const inputRef = React.useRef(null);
 
@@ -73,17 +74,17 @@ export default function Navbar(props) {
         background="transparent"
       >
         <div className={styles.NavbarWrapper}>
-          <NavbarLink href="/" text="Home" active={router.pathname == "/"} />
+          <NavbarLink href="/" text="Home" active={pathname == "/"} />
           <div className={styles.NavbarDropdownWrapper}>
             <NavbarLink
               href="/overons"
               active={
-                router.pathname == "/overons" ||
-                router.pathname == "/dsg-reparatie" ||
-                router.pathname == "/ecu-reparatie" ||
-                router.pathname == "/mechatronics" ||
-                router.pathname == "/mercedes-contactsloten" ||
-                router.pathname == "/tellerklokken"
+                pathname == "/overons" ||
+                pathname == "/dsg-reparatie" ||
+                pathname == "/ecu-reparatie" ||
+                pathname == "/mechatronics" ||
+                pathname == "/mercedes-contactsloten" ||
+                pathname == "/tellerklokken"
               }
               text={
                 <div className={styles.NavbarDropdownButton}>
@@ -106,22 +107,22 @@ export default function Navbar(props) {
           <NavbarLink
             href="/onderdelen/pagina/1"
             text="Onderdelen"
-            active={router.pathname.includes("/onderdelen")}
+            active={pathname.includes("/onderdelen")}
           />
           <NavbarLink
             href="/reparatieformulier"
             text="Reparatieformulier"
-            active={router.pathname == "/reparatieformulier"}
+            active={pathname == "/reparatieformulier"}
           />
           <NavbarLink
             href="/nieuws"
             text="Nieuws"
-            active={router.pathname.includes("/nieuws")}
+            active={pathname.includes("/nieuws")}
           />
           <NavbarLink
             href="/contact"
             text="Contact"
-            active={router.pathname == "/contact"}
+            active={pathname == "/contact"}
           />
           <div className={styles.NavbarHamburger}>
             <Hamburger
@@ -163,7 +164,7 @@ export default function Navbar(props) {
 }
 
 function MobileNavExpanded(props) {
-  const router = useRouter();
+  const pathname = usePathname();
   const [dropdown, setDropdown] = React.useState(false);
 
   return (
@@ -175,7 +176,7 @@ function MobileNavExpanded(props) {
         paddingVert="30px"
       >
         <div className={styles.NavbarMobileNavWrapper}>
-          <NavbarLink href="/" text="Home" active={router.pathname == "/"} />
+          <NavbarLink href="/" text="Home" active={pathname == "/"} />
           <button
             href="#"
             onClick={() => setDropdown(!dropdown)}
@@ -203,22 +204,22 @@ function MobileNavExpanded(props) {
           <NavbarLink
             href="/onderdelen/pagina/1"
             text="Onderdelen"
-            active={router.pathname.includes("/onderdelen")}
+            active={pathname.includes("/onderdelen")}
           />
           <NavbarLink
             href="/reparatieformulier"
             text="Reparatieformulier"
-            active={router.pathname == "/reparatieformulier"}
+            active={pathname == "/reparatieformulier"}
           />
           <NavbarLink
             href="/nieuws"
             text="Nieuws"
-            active={router.pathname.includes("/nieuws")}
+            active={pathname.includes("/nieuws")}
           />
           <NavbarLink
             href="/contact"
             text="Contact"
-            active={router.pathname == "/contact"}
+            active={pathname == "/contact"}
           />
         </div>
       </Container>

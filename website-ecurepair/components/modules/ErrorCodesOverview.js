@@ -17,18 +17,19 @@ export default function ErrorCodesOverview(props) {
               className={styles.ErrorCodesOverviewTitle}
             />
             <div>
-              {brand.foutcodes.data.map((code) => {
+              {brand.foutcodes.data.map((code, key) => {
                 if (code.foutomschrijving.data != null)
                   return (
                     <TextLink
                       href={`/fouten/${code.foutomschrijving.data.titel}`}
                       text={code.foutcode}
                       className={styles.ErrorCodesOverviewCode}
+                      key={key}
                     />
                   );
                 else
                   return (
-                    <span className={styles.ErrorCodesOverviewCode}>
+                    <span className={styles.ErrorCodesOverviewCode} key={key}>
                       {code.foutcode}
                     </span>
                   );

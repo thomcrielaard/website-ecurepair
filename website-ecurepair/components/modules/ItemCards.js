@@ -1,5 +1,5 @@
+"use client";
 import * as React from "react";
-import { useRouter } from "next/navigation";
 import Image from "next/image";
 import ReactPaginate from "react-paginate";
 

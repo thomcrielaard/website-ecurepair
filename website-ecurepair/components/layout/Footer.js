@@ -1,5 +1,6 @@
+"use client"; // TODO: Fix
 import * as React from "react";
-import { useRouter } from "next/router";
+import { usePathname } from "next/navigation";
 
 import styles from "@/styles/layout/Footer.module.scss";
 
@@ -18,7 +19,7 @@ import Phone from "@/assets/svg/Phone";
 import Mail from "@/assets/svg/Mail";
 
 export default function Footer() {
-  const router = useRouter();
+  const pathname = usePathname();
 
   return (
     <>
@@ -58,57 +59,57 @@ export default function Footer() {
             <div className={styles.FooterSitelinksWrapper}>
               <Title text="SNEL NAAR" color={Colors.WHITE} size="sm" />
               <div className={styles.FooterSitelinksInnerWrapper}>
-                <FooterLink text="Home" href="/" bar={router.pathname == "/"} />
+                <FooterLink text="Home" href="/" bar={pathname == "/"} />
                 <FooterLink
                   text="Over ons"
                   href="/overons"
-                  bar={router.pathname == "/overons"}
+                  bar={pathname == "/overons"}
                 />
                 <FooterLink
                   text="DSG reparatie"
                   href="/dsg-reparatie"
-                  bar={router.pathname == "/dsg-reparatie"}
+                  bar={pathname == "/dsg-reparatie"}
                 />
                 <FooterLink
                   text="ECU reparatie"
                   href="/ecu-reparatie"
-                  bar={router.pathname == "/ecu-reparatie"}
+                  bar={pathname == "/ecu-reparatie"}
                 />
                 <FooterLink
                   text="Mechatronics"
                   href="/mechatronics"
-                  bar={router.pathname == "/mechatronics"}
+                  bar={pathname == "/mechatronics"}
                 />
                 <FooterLink
                   text="Mercedes contactsloten"
                   href="/mercedes-contactsloten"
-                  bar={router.pathname == "/mercedes-contactsloten"}
+                  bar={pathname == "/mercedes-contactsloten"}
                 />
                 <FooterLink
                   text="Tellerklokken"
                   href="/tellerklokken"
-                  bar={router.pathname == "/tellerklokken"}
+                  bar={pathname == "/tellerklokken"}
                 />
                 <FooterLink
                   text="Onderdelen"
                   href="/onderdelen/pagina/1"
                   bar={
-                    router.pathname.includes("/onderdelen") ||
-                    router.pathname == "/reparatieformulier"
+                    pathname.includes("/onderdelen") ||
+                    pathname == "/reparatieformulier"
                   }
                 />
                 <FooterLink
                   text="Nieuws"
                   href="/nieuws"
                   bar={
-                    router.pathname.includes("/nieuws") ||
-                    router.pathname.includes("/fouten/")
+                    pathname.includes("/nieuws") ||
+                    pathname.includes("/fouten/")
                   }
                 />
                 <FooterLink
                   text="Contact"
                   href="/contact"
-                  bar={router.pathname == "/contact"}
+                  bar={pathname == "/contact"}
                 />
               </div>
             </div>
@@ -164,7 +165,7 @@ export default function Footer() {
 function FooterLink({ text, href, bar, blank = false }) {
   return (
     <TextLink
-      target={blank && "_blank"}
+      target={blank ? "_blank" : undefined}
       fontSize={18}
       text={
         <div className={styles.FooterLink}>
