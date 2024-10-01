@@ -45,9 +45,7 @@ export async function generateStaticParams() {
   const paths = Array.from(
     { length: data.meta.pagination.pageCount },
     (_, index) => ({
-      params: {
-        page: (index + 1).toString(),
-      },
+      page: (index + 1).toString(),
     })
   );
 
