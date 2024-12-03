@@ -1,0 +1,1164 @@
+[
+    {
+        "part_name": "BCM Combo D.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/bcm+combo+d-317331.ts1628715434.jpg",
+        "product_link": "https://ecu.eu/opel-vauxhall/central-electronics-2969/opel-vauxhall/central-electronics/bcm-combo-d-6450",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-combo-d/opel-00519217570-delphi-28340956-147087.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "00519217570"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28340956"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Dimlicht permanent aan."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Storingindicator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Ruitenwissers defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Combo 1.6 16V CDTI (Combo, D) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-combo-d/opel-00520028670-delphi-28444475-139083.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "00520028670"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28444475"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Dimlicht permanent aan."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Storingindicator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Ruitenwissers defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Combo 1.3 CDTI (Combo, D) Bouwjaar 2015 Motorcode A13FD LN9",
+                    "Opel Combo 1.4 16V DI (Combo, D) Bouwjaar 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-combo-d/opel-00520158930-delphi-28468797-148910.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "00520158930"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28468797"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Dimlicht permanent aan."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Storingindicator."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Ruitenwissers defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Combo 1.3 CDTI (Combo, D) Bouwjaar 2015 Motorcode A13FD LN9",
+                    "Opel Combo 1.6 CDTI (Combo, D) Bouwjaar 2015 Motorcode A16FDL"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "BCM Meriva B.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/bcm+meriva+b-1361297.ts1671532575.jpg",
+        "product_link": "https://ecu.eu/opel-vauxhall/central-electronics-2969/opel-vauxhall/central-electronics/bcm-meriva-b-7108",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/gm-13396575-delphi-28334215-146625.html",
+                "part_numbers": [
+                    {
+                        "title": "GM - Onderdeelnummer",
+                        "numbers": [
+                            "13396575"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28334215"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/gm-13410468-delphi-28336247-146953.html",
+                "part_numbers": [
+                    {
+                        "title": "GM - Onderdeelnummer",
+                        "numbers": [
+                            "13 410 468",
+                            "13410468"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28336247"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13349932-delphi-28270809-122431.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 349 932",
+                            "13349932"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28270809"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2010 - 2011 Motorcode A14NEL, A14XER, A14XER LDD, A14NEL LUH",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2010 - 2011 Motorcode A14NET LUJ",
+                    "Opel Meriva 1.7 CDTI (Meriva, B) Bouwjaar 2010 Motorcode A17DT LUB"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13356921-delphi-28282162-119976.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 356 921",
+                            "13356921"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28282162"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2010 - 2014 Motorcode A14XER, A14XFL, A14NEL, A14NEL LUH",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2011 Motorcode A14NET LUJ",
+                    "Opel Meriva 1.7 CDTI (Meriva, B) Bouwjaar 2010 - 2011 Motorcode A17DT, A17DT LUB, A17DTS LUD, A17DTC LUE"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13356921-delphi-28288331-137104.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 356 921",
+                            "13356921"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28288331"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2011 - 2012 Motorcode A14XER, A14NEL, A14NEL LUH",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2011 Motorcode A14NET LUJ",
+                    "Opel Meriva 1.7 CDTI (Meriva, B) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13356921-delphi-28288331-152062.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 356 921",
+                            "13356921"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28288331"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13381898-delphi-28320156-121726.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 381 898",
+                            "13381898"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28320156"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2011 Motorcode A14NEL, A14NEL LUH",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2011 Motorcode A14NET LUJ",
+                    "Opel Meriva 1.7 CDTI (Meriva, B) Bouwjaar 2011 Motorcode A17DT"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13396575-delphi-127396.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 396 575",
+                            "13396575"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Motorcode A14NEL",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2011 Motorcode A14NET LUJ"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13406374-delphi-120647.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 406 374",
+                            "13406374"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2010 - 2013 Motorcode A14XER, A14XER LDD TCU code A14XER, A14XER LDD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13406374-delphi-28346793-146504.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 406 374",
+                            "13406374"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28346793"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2012 - 2013 Motorcode A14XER, A14NEL, A14NEL LUH",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2012 Motorcode A14NET LUJ",
+                    "Opel Meriva 1.7 CDTI (Meriva, B) Bouwjaar 2012 - 2013 Motorcode A17DTS LUD, A17DTC LUE"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13410468-delphi-122240.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "134 104 68",
+                            "13410468"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2012 - 2013 Motorcode A14XER, A14NEL",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2013 Motorcode A14NET LUJ",
+                    "Opel Meriva 1.7 CDTI (Meriva, B) Bouwjaar 2013 Motorcode A17DTS LUD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13448661-delphi-28399555-149495.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 448 661",
+                            "13448661"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28399555"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2011 - 2014 Motorcode B14NEL, B14XER, B14NEL LUH",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2014 Motorcode B14NET LUJ"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13459383-delphi-28432764-145216.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 459 383",
+                            "13459383"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28432764"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2014 Motorcode A14XER, B14XER"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13459384-delphi-121295.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 459 384",
+                            "13459384"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2014 Motorcode A14NEL",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2014 Motorcode A14NET LUJ"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13469253-delphi-28437301-130582.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 469 253",
+                            "13469253"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28437301"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2015 Motorcode B14NEL, B14NEL LUH",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2015 Motorcode B14NET LUJ",
+                    "Opel Meriva 1.6 CDTI (Meriva, B) Bouwjaar 2014 Motorcode B16DTL LVM"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-13469254-delphi-28437303-126241.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "13 469 254",
+                            "13469254"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28437303"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2014 - 2015 Motorcode B14NEL LUH",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2014 - 2015 Motorcode B14NET, A14NET LUJ",
+                    "Opel Meriva 1.6 CDTI (Meriva, B) Bouwjaar 2015 Motorcode B16DTL LVM"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-39013500-delphi-28480837-130268.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "39 013 500",
+                            "39013500"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28480837"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2016 - 2017 Motorcode A14NEL, A14XER, B14NEL LUH",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2015 - 2017 Motorcode B14NET LUJ",
+                    "Opel Meriva 1.6 CDTI (Meriva, B) Bouwjaar 2016 - 2017 Motorcode B16DTL LVM"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-39013500-delphi-28583118-153469.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "39 013 500",
+                            "39013500"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28583118"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2017 Motorcode B14NET LUJ"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-39013501-delphi-28481651-150860.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "39 013 501",
+                            "39013501"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28481651"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2016 - 2017 Motorcode B14NEL LUH, B14XER",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Bouwjaar 2015 - 2017 Motorcode B14NEL, A14NET LUJ, B14NET",
+                    "Opel Meriva 1.6 CDTI (Meriva, B) Bouwjaar 2015 - 2017 Motorcode B16DTL LVM, B16DTH LVL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/central-electronics/bcm-meriva-b/opel-39013501-delphi-28484651-127208.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "39 013 501",
+                            "39013501"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "28484651"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Remlicht zonder functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobilizer ontgrendelt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Richtingaanwijzer zonder functie"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Achterste centrale vergrendeling defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Beveiligingscode onleesbaar."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Onleesbare tekens in de EEPROM."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Meriva 1.4 LPG (Meriva, B) Bouwjaar 2016 Motorcode A14NEL",
+                    "Opel Meriva 1.4 (Meriva, B) Bouwjaar 2012 - 2017 Motorcode A14XER, A14NEL, B14NEL LUH, B14XER",
+                    "Opel Meriva 1.4 Turbo (Meriva, B) Motorcode A14NET LUJ, B14NET LUJ",
+                    "Opel Meriva 1.6 CDTI (Meriva, B) Bouwjaar 2013 - 2017 Motorcode B16DTL LVM, B16DTC, B16DTH LVL, B16DTE TCU code B16DTL LVM, B16DTC, B16DTH LVL, B16DTE",
+                    "Opel (Meriva, B)"
+                ]
+            }
+        ]
+    }
+]

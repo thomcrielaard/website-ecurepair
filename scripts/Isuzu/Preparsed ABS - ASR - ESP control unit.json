@@ -1,0 +1,120 @@
+[
+    {
+        "part_name": "ABS 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+8+0-4104.ts1628718748.jpg",
+        "product_link": "https://ecu.eu/isuzu/abs-asr-esp-control-unit-4438/isuzu/abs-asr-esp-control-unit/abs-8.0-4440",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/isuzu/abs-asr-esp-control-unit/abs-8.0/isuzu-5660027g01-bosch-0265800596-0265231063-700-147123.html",
+                "part_numbers": [
+                    {
+                        "title": "ISUZU - Part number",
+                        "numbers": [
+                            "56600-27G01",
+                            "5660027G01"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 800 596",
+                            "0265800596"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 231 063",
+                            "0265231063"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code valve relay memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/isuzu/abs-asr-esp-control-unit/abs-8.0/isuzu-8973879860-bosch-0265800578-0265231047-699-107413.html",
+                "part_numbers": [
+                    {
+                        "title": "ISUZU - Part number",
+                        "numbers": [
+                            "8973879860"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 800 578",
+                            "0265800578"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 231 047",
+                            "0265231047"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "699"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code valve relay memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "ISUZU (D-Max) Year of manufacture 2008 - 2011"
+                ]
+            }
+        ]
+    }
+]

@@ -1,6 +1,7 @@
+"use client"; // TODO: Fix
 import * as React from "react";
 import Image from "next/image";
-import { useRouter } from "next/router";
+import { usePathname } from "next/navigation";
 import Link from "next/link";
 
 import { Spin as Hamburger } from "hamburger-react";
@@ -17,8 +18,10 @@ import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import Background from "@/assets/img/navbar-bg.jpg";
 import Chevron from "@/assets/svg/Chevron";
 
+const vacation = false;
+
 export default function Navbar(props) {
-  const router = useRouter();
+  const pathname = usePathname();
 
   const inputRef = React.useRef(null);
 
@@ -40,7 +43,10 @@ export default function Navbar(props) {
   return (
     <>
       {!props.transparent && (
-        <div className={styles.NavbarBackground}>
+        <div
+          className={`${styles.NavbarBackground} 
+        ${vacation && styles.BackgroundVacation}`}
+        >
           <Image
             src={Background}
             fill
@@ -53,25 +59,32 @@ export default function Navbar(props) {
         </div>
       )}
       <MobileNavExpanded open={isOpen} setOpen={setOpen} />
+
+      {vacation && (
+        <div className={styles.NavbarVacation}>
+          Wij zijn gesloten in verband met vakantie van 19 juli tot 9 augustus.
+        </div>
+      )}
       <Container
         className={`${styles.NavbarContainer} 
         ${showNavbar && styles.ShowNavbar} 
-        ${isOpen && styles.isOpen}`}
+        ${isOpen && styles.isOpen}
+        ${vacation && styles.VacationContainer}`}
         paddingVert="15px"
         background="transparent"
       >
         <div className={styles.NavbarWrapper}>
-          <NavbarLink href="/" text="Home" active={router.pathname == "/"} />
+          <NavbarLink href="/" text="Home" active={pathname == "/"} />
           <div className={styles.NavbarDropdownWrapper}>
             <NavbarLink
               href="/overons"
               active={
-                router.pathname == "/overons" ||
-                router.pathname == "/dsg-reparatie" ||
-                router.pathname == "/ecu-reparatie" ||
-                router.pathname == "/mechatronics" ||
-                router.pathname == "/mercedes-contactsloten" ||
-                router.pathname == "/tellerklokken"
+                pathname == "/overons" ||
+                pathname == "/dsg-reparatie" ||
+                pathname == "/ecu-reparatie" ||
+                pathname == "/mechatronics" ||
+                pathname == "/mercedes-contactsloten" ||
+                pathname == "/tellerklokken"
               }
               text={
                 <div className={styles.NavbarDropdownButton}>
@@ -92,24 +105,24 @@ export default function Navbar(props) {
             </div>
           </div>
           <NavbarLink
-            href="/onderdelen"
+            href="/onderdelen/pagina/1"
             text="Onderdelen"
-            active={router.pathname.includes("/onderdelen")}
+            active={pathname.includes("/onderdelen")}
           />
           <NavbarLink
             href="/reparatieformulier"
             text="Reparatieformulier"
-            active={router.pathname == "/reparatieformulier"}
+            active={pathname == "/reparatieformulier"}
           />
           <NavbarLink
             href="/nieuws"
             text="Nieuws"
-            active={router.pathname.includes("/nieuws")}
+            active={pathname.includes("/nieuws")}
           />
           <NavbarLink
             href="/contact"
             text="Contact"
-            active={router.pathname == "/contact"}
+            active={pathname == "/contact"}
           />
           <div className={styles.NavbarHamburger}>
             <Hamburger
@@ -126,14 +139,14 @@ export default function Navbar(props) {
               ${styles.NavbarSearchButton} 
               ${focusSearch && styles.FocusSearch}`}
               aria-label="Onderdeel zoeken"
-              href={`/onderdelen?onderdeel=${inputRef?.current?.value}`}
+              href={`/onderdelen/pagina/1?onderdeel=${inputRef?.current?.value}`}
             >
               <MagnifyingGlass
                 className={styles.NavbarSearchIcon}
                 color={Colors.WHITE}
               />
             </Link>
-            <form method="GET" action="/onderdelen">
+            <form method="GET" action="/onderdelen/zoeken/1">
               <input
                 ref={inputRef}
                 name="onderdeel"
@@ -151,18 +164,19 @@ export default function Navbar(props) {
 }
 
 function MobileNavExpanded(props) {
-  const router = useRouter();
+  const pathname = usePathname();
   const [dropdown, setDropdown] = React.useState(false);
 
   return (
     <>
       <Container
         className={`${styles.NavbarMobileNavContainer} 
-        ${props.open && styles.NavbarMobileOpen}`}
+        ${props.open && styles.NavbarMobileOpen}
+        ${vacation && styles.MobileVacation}`}
         paddingVert="30px"
       >
         <div className={styles.NavbarMobileNavWrapper}>
-          <NavbarLink href="/" text="Home" active={router.pathname == "/"} />
+          <NavbarLink href="/" text="Home" active={pathname == "/"} />
           <button
             href="#"
             onClick={() => setDropdown(!dropdown)}
@@ -188,24 +202,24 @@ function MobileNavExpanded(props) {
             <NavbarLink href="/tellerklokken" text="Tellerklokken" />
           </div>
           <NavbarLink
-            href="/onderdelen"
+            href="/onderdelen/pagina/1"
             text="Onderdelen"
-            active={router.pathname.includes("/onderdelen")}
+            active={pathname.includes("/onderdelen")}
           />
           <NavbarLink
             href="/reparatieformulier"
             text="Reparatieformulier"
-            active={router.pathname == "/reparatieformulier"}
+            active={pathname == "/reparatieformulier"}
           />
           <NavbarLink
             href="/nieuws"
             text="Nieuws"
-            active={router.pathname.includes("/nieuws")}
+            active={pathname.includes("/nieuws")}
           />
           <NavbarLink
             href="/contact"
             text="Contact"
-            active={router.pathname == "/contact"}
+            active={pathname == "/contact"}
           />
         </div>
       </Container>

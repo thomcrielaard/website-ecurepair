@@ -1,0 +1,48 @@
+[
+    {
+        "part_name": "EUR",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/suzuki+3000094suzi+general+motors+gm3000094+vetronix+z1090a-1318.ts1628718733.jpg",
+        "product_link": "https://ecu.eu/suzuki/diagnostic-tool-120",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/diagnostic-tool/suzuki-3000094suzi-general-motors-gm3000094-vetronix-z1090a-254.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "3000094-SUZI",
+                            "3000094SUZI"
+                        ]
+                    },
+                    {
+                        "title": "GENERAL MOTORS - Part number",
+                        "numbers": [
+                            "GM3000094"
+                        ]
+                    },
+                    {
+                        "title": "VETRONIX - Part number",
+                        "numbers": [
+                            "Z1090A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other faults on request -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tester shuts down by itself and / or doesn't turn on."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

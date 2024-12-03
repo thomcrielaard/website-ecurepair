@@ -1,0 +1,429 @@
+[
+    {
+        "part_name": "ABS/ASR 5.3.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+5+3-891.ts1628722662.jpg",
+        "product_link": "https://ecu.eu/maserati/abs-asr-esp-control-unit-3102/maserati/abs-asr-esp-control-unit/abs-asr-5.3-4774",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/maserati/abs-asr-esp-control-unit/abs-asr-5.3/maserati-184827-bosch-0273004577-0265220623-850-151822.html",
+                "part_numbers": [
+                    {
+                        "title": "Maserati",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Maserati - Onderdeelnummer",
+                        "numbers": [
+                            "184827"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 577",
+                            "0273004577"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 220 623",
+                            "0265220623"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "850"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Maserati (Coupé) Bouwjaar 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/maserati/abs-asr-esp-control-unit/abs-asr-5.3/maserati-383800315-bosch-0273004349-0265220518-850-111164.html",
+                "part_numbers": [
+                    {
+                        "title": "Maserati",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Maserati - Onderdeelnummer",
+                        "numbers": [
+                            "383800315"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 349",
+                            "0273004349"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 220 518",
+                            "0265220518"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "850"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Maserati (3200GT) Bouwjaar 2000 - 2001"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 1.34",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+1+34-805.ts1628722660.jpg",
+        "product_link": "https://ecu.eu/maserati/abs-asr-esp-control-unit-3102/maserati/abs-asr-esp-control-unit/esp-1.34-6626",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/maserati/abs-asr-esp-control-unit/esp-1.34/maserati-192355-bosch-0265950064-0265225144-997-127114.html",
+                "part_numbers": [
+                    {
+                        "title": "Maserati",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Maserati - Onderdeelnummer",
+                        "numbers": [
+                            "192355"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 064",
+                            "0265950064"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 144",
+                            "0265225144"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "997"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1200",
+                        "fault_description": "Snelheidssensor rechter voorwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1205",
+                        "fault_description": "Snelheidssensor linker voorwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1210",
+                        "fault_description": "Snelheidssensor rechterachterwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1215",
+                        "fault_description": "Snelheidssensor linkerachterwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Maserati (Quattroporte)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/maserati/abs-asr-esp-control-unit/esp-1.34/maserati-192443-bosch-0265950052-0265225119-997-125175.html",
+                "part_numbers": [
+                    {
+                        "title": "Maserati",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Maserati - Onderdeelnummer",
+                        "numbers": [
+                            "192443"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 052",
+                            "0265950052"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 119",
+                            "0265225119"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "997"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1200",
+                        "fault_description": "Snelheidssensor rechter voorwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1205",
+                        "fault_description": "Snelheidssensor linker voorwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1210",
+                        "fault_description": "Snelheidssensor rechterachterwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1215",
+                        "fault_description": "Snelheidssensor linkerachterwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/maserati/abs-asr-esp-control-unit/esp-1.34/maserati-192444-bosch-1265950052-0265225120-153770.html",
+                "part_numbers": [
+                    {
+                        "title": "Maserati",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Maserati - Onderdeelnummer",
+                        "numbers": [
+                            "192444"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 265 950 052",
+                            "1265950052"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 120",
+                            "0265225120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1200",
+                        "fault_description": "Snelheidssensor rechter voorwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1205",
+                        "fault_description": "Snelheidssensor linker voorwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1210",
+                        "fault_description": "Snelheidssensor rechterachterwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1215",
+                        "fault_description": "Snelheidssensor linkerachterwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/maserati/abs-asr-esp-control-unit/esp-1.34/maserati-198982-bosch-0265950126-0265225278-997-121972.html",
+                "part_numbers": [
+                    {
+                        "title": "Maserati",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Maserati - Onderdeelnummer",
+                        "numbers": [
+                            "198982"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 126",
+                            "0265950126"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 278",
+                            "0265225278"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "997"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1200",
+                        "fault_description": "Snelheidssensor rechter voorwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1205",
+                        "fault_description": "Snelheidssensor linker voorwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1210",
+                        "fault_description": "Snelheidssensor rechterachterwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1215",
+                        "fault_description": "Snelheidssensor linkerachterwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/maserati/abs-asr-esp-control-unit/esp-1.34/maserati-99635575554-bosch-0265950041-0265225097-984-153086.html",
+                "part_numbers": [
+                    {
+                        "title": "Maserati",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Maserati - Onderdeelnummer",
+                        "numbers": [
+                            "996.355.755.54",
+                            "99635575554"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 041",
+                            "0265950041"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 225 097",
+                            "0265225097"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "984"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1200",
+                        "fault_description": "Snelheidssensor rechter voorwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1205",
+                        "fault_description": "Snelheidssensor linker voorwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1210",
+                        "fault_description": "Snelheidssensor rechterachterwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1215",
+                        "fault_description": "Snelheidssensor linkerachterwiel - Elektrische storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Maserati (3200GT)"
+                ]
+            }
+        ]
+    }
+]

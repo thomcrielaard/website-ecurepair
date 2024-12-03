@@ -1,0 +1,1283 @@
+[
+    {
+        "part_name": "ABS Teves MK4-G",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+teves+mk4+g-171467.ts1628719310.jpg",
+        "product_link": "https://ecu.eu/jaguar/abs-asr-esp-control-unit-3496/jaguar/abs-asr-esp-control-unit/abs-teves-mk4-g-5487",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/abs-teves-mk4-g/jaguar-lna2210aa-mna5920ab-ate-10094504023-10020300403-temic-3x3894-122204.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "LNA 2210-AA",
+                            "LNA2210AA"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "MNA-5920-AB",
+                            "MNA5920AB"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0945-0402.3",
+                            "10094504023"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0203-0040.3",
+                            "10020300403"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "3X3894"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR XJ 6 3.2 (X300) Year of manufacture 1995",
+                    "JAGUAR XJ 6 4.0 (X300) Year of manufacture 1995 - 1997",
+                    "JAGUAR XJS 4.0 Cabrio (X300) Year of manufacture 1995"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/abs-teves-mk4-g/jaguar-lna2210bb-mna5920bc-ate-10094504063-10020300394-temic-3x4634-122408.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "LNA-2210-BB",
+                            "LNA2210BB"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "MNA-5920-BC",
+                            "MNA5920BC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0945-0406.3",
+                            "10094504063"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0203-0039.4",
+                            "10020300394"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "3X4634"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR XJ 12 6.0 (X300) Year of manufacture 1995 - 1996",
+                    "JAGUAR XJ 6 4.0 (X300) Year of manufacture 1994 - 1996"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS/ASR 5.7",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+5+7-2229.ts1628724451.jpg",
+        "product_link": "https://ecu.eu/jaguar/abs-asr-esp-control-unit-3496/jaguar/abs-asr-esp-control-unit/abs-asr-5.7-6683",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/abs-asr-5.7/jaguar-1x432m110ae-bosch-0265800008-0265222021-889-126408.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "1X43-2M110-AE",
+                            "1X432M110AE"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 800 008",
+                            "0265800008"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 222 021",
+                            "0265222021"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "889"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR X-Type 2.5 AWD (X400) Year of manufacture 2002 - 2004",
+                    "JAGUAR X-Type 2.5 Estate (X400) Year of manufacture 2006",
+                    "JAGUAR X-Type 3.0 AWD (X400) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/abs-asr-5.7/jaguar-4x432c285ba-0265900023-bosch-0265224046-903-140892.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR",
+                        "numbers": []
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "4X43-2C285-BA",
+                            "4X432C285BA"
+                        ]
+                    },
+                    {
+                        "title": "Part number",
+                        "numbers": [
+                            "0 265 900 023",
+                            "0265900023"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 224 046",
+                            "0265224046"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "903"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Trouble codes are stored concerning the wheel speed sensors."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ABS/ASR/TCS MK20",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+tcs+mk20-171435.ts1628719308.jpg",
+        "product_link": "https://ecu.eu/jaguar/abs-asr-esp-control-unit-3496/jaguar/abs-asr-esp-control-unit/abs-asr-tcs-mk20-5594",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/abs-asr-tcs-mk20/jaguar-jlm21323-jlm21322-ate-10094910003-10039923984-152013.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "JLM21323"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "JLM21322"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0949-1000.3",
+                            "10094910003"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0399-2398.4",
+                            "10039923984"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/abs-asr-tcs-mk20/jaguar-lja2210ah-mja5920ae-ate-10094610053-10020400454-137177.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "LJA2210AH"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "MJA 5920 AE",
+                            "MJA5920AE"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0946-1005.3",
+                            "10094610053"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0204-0045.4",
+                            "10020400454"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR XK 8 4.0 32V Coupe (X100) Year of manufacture 1996 - 1997",
+                    "JAGUAR XK8 4.0 32V Cabrio (X100) Year of manufacture 1996 - 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/abs-asr-tcs-mk20/jaguar-lja2210ah-mja5920af-ate-10094610053-10020401174-temic-3x9891-102326.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "LJA2210AH"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "MJA 5920 AF",
+                            "MJA5920AF"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0946-1005.3",
+                            "10094610053"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0204-0117.4",
+                            "10020401174"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "3X9891"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR XK 8 4.0 32V Coupe (X100) Year of manufacture 1996 - 1997",
+                    "JAGUAR XK8 4.0 32V Cabrio (X100) Year of manufacture 1996 - 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/abs-asr-tcs-mk20/jaguar-lja2210bh-ate-10094610043-3x9890-102327.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "LJA2210BH"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0946-1004.3",
+                            "10094610043"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "3X9890"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR XK8 4.0 32V Cabrio (X100) Year of manufacture 1997"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/abs-asr-tcs-mk20/jaguar-lnc2210ad-mnc5920ac-ate-10094610033-10020401044-0323-102328.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "LNC2210AD"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "MNC 5920 AC",
+                            "MNC5920AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0946-1003.3",
+                            "10094610033"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0204-0104.4",
+                            "10020401044"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "0323"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR XJ 8 4.0 V8 32V (X 308) Year of manufacture 1998 - 2000",
+                    "JAGUAR XJ8 3.2 V8 (X 308) Year of manufacture 1999",
+                    "JAGUAR XJR 8 4.0 V8 32V Kompressor (X 308) Year of manufacture 1998 - 1999",
+                    "JAGUAR XK 8 4.0 32V Coupe (X100) Year of manufacture 1997 - 1999",
+                    "JAGUAR XK 8 4.0 R 32V Coupe (X100) Year of manufacture 1999",
+                    "JAGUAR XK8 4.0 32V Cabrio (X100) Year of manufacture 1997 - 2000",
+                    "JAGUAR XKR 4.0 Coupe (X100) Year of manufacture 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/abs-asr-tcs-mk20/jaguar-lnc2210bd-mja5920be-ate-10094610023-10020400444-temic-3x9520-152012.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "LNC2210BD"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "MJA 5920 BE",
+                            "MJA5920BE"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0946-1002.3",
+                            "10094610023"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0204-0044.4",
+                            "10020400444"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "3X9520"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR XJ 8 4.0 V8 32V (X 308) Year of manufacture 1998",
+                    "JAGUAR XJ8 3.2 V8 (X 308) Year of manufacture 1998 - 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/abs-asr-tcs-mk20/jaguar-lnc2210bd-mnc5920bb-ate-10094610023-10020401034-temic-3x9520-117567.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "LNC2210BD"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "MNC 5920 BB",
+                            "MNC5920BB"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0946-1002.3",
+                            "10094610023"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0204-0103.4",
+                            "10020401034"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "3X9520"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR XJ 8 4.0 V8 32V (X 308) Year of manufacture 1998",
+                    "JAGUAR XJ8 3.2 V8 (X 308) Year of manufacture 1998 - 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/abs-asr-tcs-mk20/jaguar-lnf2210ad-mnf5920ad-ate-10094910003-10020402204-temic-3x0519-102325.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "LNF2210AD"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "MNF 5920 AD",
+                            "MNF5920AD"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0949-1000.3",
+                            "10094910003"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0204-0220.4",
+                            "10020402204"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "3X0519"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The fault code for the ABS pump motor is recorded. Please send us the complete ABS unit, including the hydraulic block (not disassembled)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR XJ 8 4.0 V8 32V (X 308) Year of manufacture 1999 - 2002",
+                    "JAGUAR XJ8 3.2 V8 (X 308) Year of manufacture 2001",
+                    "JAGUAR XJR 8 4.0 V8 32V Kompressor (X 308) Year of manufacture 1998 - 2001",
+                    "JAGUAR XK 8 4.0 32V Coupe (X100) Year of manufacture 2000 - 2003",
+                    "JAGUAR XK 8 4.0R 32V Cabrio (X100) Year of manufacture 2000 - 2003",
+                    "JAGUAR XK8 4.0 32V Cabrio (X100) Year of manufacture 2000 - 2002",
+                    "JAGUAR XKR 4.0 Coupe (X100) Year of manufacture 2000"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 1.24",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+1+24-805.ts1628722660.jpg",
+        "product_link": "https://ecu.eu/jaguar/abs-asr-esp-control-unit-3496/jaguar/abs-asr-esp-control-unit/esp-1.24-6354",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/esp-1.24/jaguar-1x432c405bd-bosch-0265950029-0265225067-890-120795.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "1X43-2C405-BD",
+                            "1X432C405BD"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 029",
+                            "0265950029"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 225 067",
+                            "0265225067"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "890"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR X-Type 2.5 AWD (X400) Year of manufacture 2001 - 2002",
+                    "JAGUAR X-Type 3.0 AWD (X400) Year of manufacture 2001 - 2003"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 1.34",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+1+34-805.ts1628722660.jpg",
+        "product_link": "https://ecu.eu/jaguar/abs-asr-esp-control-unit-3496/jaguar/abs-asr-esp-control-unit/esp-1.34-5910",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/esp-1.34/jaguar-2x432c405ac-bosch-0265950030-0265225069-128652.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR",
+                        "numbers": []
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "2X43-2C405-AC",
+                            "2X432C405AC"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 030",
+                            "0265950030"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 225 069",
+                            "0265225069"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR X-Type 2.0 (X400) Year of manufacture 2002 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/esp-1.34/jaguar-4x432c405ca-5x432c405cb-bosch-0265950065-0265225132-121980.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "4X43-2C405-CA",
+                            "4X432C405CA"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "5X43-2C405-CB",
+                            "5X432C405CB"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 065",
+                            "0265950065"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 225 132",
+                            "0265225132"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR X-Type 2.5 AWD (X400) Year of manufacture 2003 - 2004",
+                    "JAGUAR X-Type 3.0 AWD (X400) Year of manufacture 2004",
+                    "JAGUAR X-Type 3.0 Estate (X400) Year of manufacture 2004 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/esp-1.34/jaguar-4x432c405ec-bosch-0265950104-0265225234-890-133866.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR",
+                        "numbers": []
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "4X43-2C405-EC",
+                            "4X432C405EC"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 104",
+                            "0265950104"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 225 234",
+                            "0265225234"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "890"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR X-Type 2.0D (X400) Year of manufacture 2005",
+                    "JAGUAR X-Type 2.2D (X400) Year of manufacture 2006"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK100",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk100-253760.ts1628714193.jpg",
+        "product_link": "https://ecu.eu/jaguar/abs-asr-esp-control-unit-3496/jaguar/abs-asr-esp-control-unit/esp-mk100-7216",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/esp-mk100/jaguar-10062538531-ate-10091532533-145492.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "10.0625-3853.1",
+                            "10062538531"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR",
+                        "numbers": []
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0915-3253.3",
+                            "10091532533"
+                        ]
+                    },
+                    {
+                        "title": "ATE",
+                        "numbers": []
+                    },
+                    {
+                        "title": "ATE",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK25",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk25-5139.ts1628722665.jpg",
+        "product_link": "https://ecu.eu/jaguar/abs-asr-esp-control-unit-3496/jaguar/abs-asr-esp-control-unit/esp-mk25-4943",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/esp-mk25/jaguar-2r832c219ba-2r832c405aa-ate-10092510003-10020402894-0590-125055.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "2R83-2C219-BA",
+                            "2R832C219BA"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "2R83-2C405-AA",
+                            "2R832C405AA"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0925-1000.3",
+                            "10092510003"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0204-0289.4",
+                            "10020402894"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "0590"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 2.5 (X200) Year of manufacture 2002 - 2003",
+                    "JAGUAR S-Type 3.0 24V (X200) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/esp-mk25/jaguar-2w932c219bc-ate-10092510073-121707.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "2W93-2C219-BC",
+                            "2W932C219BC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0925-1007.3",
+                            "10092510073"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 3.0 24V (X200) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/esp-mk25/jaguar-3w832c219bb-3w832c405ab-ate-10092510053-10020403514-0596-152018.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "3W83-2C219-BB",
+                            "3W832C219BB"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "3W83-2C405-AB",
+                            "3W832C405AB"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0925-1005.3",
+                            "10092510053"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0204-0351.4",
+                            "10020403514"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "0596"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/esp-mk25/jaguar-4r832c219bd-4r832c405ad-ate-10092510143-10020404464-121677.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "4R83-2C219-BD",
+                            "4R832C219BD"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "4R83-2C405-AD",
+                            "4R832C405AD"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0925-1014.3",
+                            "10092510143"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0204-0446.4",
+                            "10020404464"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 2.5 (X200) Year of manufacture 2002",
+                    "JAGUAR S-Type 2.7 D (X200) Year of manufacture 2005",
+                    "JAGUAR S-Type 3.0 24V (X200) Year of manufacture 2004",
+                    "JAGUAR S-Type 4.2 V8 32V (X200) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/esp-mk25/jaguar-4w932c219bc-4w932c405ac-ate-10092510153-10020404474-0590-134453.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "4W93-2C219-BC",
+                            "4W932C219BC"
+                        ]
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "4W93-2C405-AC",
+                            "4W932C405AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0925-1015.3",
+                            "10092510153"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0204-0447.4",
+                            "10020404474"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "0590"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1095",
+                        "fault_description": "motor relay"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/esp-mk25/jaguar-6w832c405db-ate-10092610133-10021200174-112458.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR",
+                        "numbers": []
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "6W83-2C405-DB",
+                            "6W832C405DB"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0926-1013.3",
+                            "10092610133"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0212-0017.4",
+                            "10021200174"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR XK 4.2 32V Cabrio (X150) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/abs-asr-esp-control-unit/esp-mk25/jaguar-7w932c405ab-ate-10092610183-10021200774-1054-117568.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR",
+                        "numbers": []
+                    },
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "7W93-2C405-AB",
+                            "7W932C405AB"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0926-1018.3",
+                            "10092610183"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0212-0077.4",
+                            "10021200774"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "1054"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 2.7 D (X200) Year of manufacture 2007 - 2008",
+                    "JAGUAR XJ6 2.7 D V6 (X350) Year of manufacture 2006 - 2007"
+                ]
+            }
+        ]
+    }
+]

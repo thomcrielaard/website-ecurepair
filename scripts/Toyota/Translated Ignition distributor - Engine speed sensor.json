@@ -1,0 +1,141 @@
+[
+    {
+        "part_name": "EUR.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/toyota+1902011340+denso+0290201431-6245.ts1628718756.jpg",
+        "product_link": "https://ecu.eu/toyota/ignition-distributor-engine-speed-sensor-3069",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/toyota/ignition-distributor-engine-speed-sensor/toyota-1902011340-denso-0290201431-111049.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "19020-11340",
+                            "1902011340"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "029020-1431",
+                            "0290201431"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/ignition-distributor-engine-speed-sensor/toyota-1904074050-denso-0290100230-108612.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "19040-74050",
+                            "1904074050"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "029010-0230",
+                            "0290100230"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/ignition-distributor-engine-speed-sensor/toyota-1910002020-bosch-0237521060-107340.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "19100-02020",
+                            "1910002020"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 237 521 060",
+                            "0237521060"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Toyota Avensis 1.6i (Avensis, T22) Bouwjaar 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/ignition-distributor-engine-speed-sensor/toyota-1930042010-denso-0294000030-115629.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "19300-42010",
+                            "1930042010"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "029400-0030",
+                            "0294000030"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Toyota Supra 3.0 Turbo (Supra, MA70) Bouwjaar 1988 - 1992 Motorcode 7M-GTE",
+                    "Toyota Supra 3.0 Turbo (Supra, MK3) Bouwjaar 1988"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/ignition-distributor-engine-speed-sensor/toyota-t98009-149095.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "T980-09",
+                            "T98009"
+                        ]
+                    },
+                    {
+                        "title": "Toyota",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

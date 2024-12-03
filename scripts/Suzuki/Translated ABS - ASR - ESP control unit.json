@@ -1,0 +1,3993 @@
+[
+    {
+        "part_name": "ABS 8.0.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+8+0-4104.ts1628718748.jpg",
+        "product_link": "https://ecu.eu/suzuki/abs-asr-esp-control-unit-2420/suzuki/abs-asr-esp-control-unit/abs-8.0-7214",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-8.0/suzuki-5611054l70-2wd-bosch-0265800946-0265232534-665-151003.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-54L70",
+                            "5611054L70"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "2WD"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 946",
+                            "0265800946"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 232 534",
+                            "0265232534"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "665"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-8.0/suzuki-5611079j00-bosch-0265800493-0265231668-683-145893.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-79J00",
+                            "5611079J00"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 493",
+                            "0265800493"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 231 668",
+                            "0265231668"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "683"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-8.0/suzuki-5611079j10-4wd-bosch-0265800494-0265231670-883-129492.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-79J10",
+                            "5611079J10"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "4WD"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 494",
+                            "0265800494"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 231 670",
+                            "0265231670"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "883"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ABS ECU Denso.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+ecu+denso-665.ts1628711295.jpg",
+        "product_link": "https://ecu.eu/suzuki/abs-asr-esp-control-unit-2420/abs-ecu-denso-110",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/abs-ecu-denso/suzuki-5610081a10-denso-1330007041-118472.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-81A10",
+                            "5610081A10"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "133000-7041",
+                            "1330007041"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Jimny 1.3i (Jimny, FJ) Bouwjaar 2001 - 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/abs-ecu-denso/suzuki-5610081a10-denso-1330007051-101537.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-81A10",
+                            "5610081A10"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "133000-7051",
+                            "1330007051"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Jimny 1.3i (Jimny, FJ) Bouwjaar 2002 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/abs-ecu-denso/suzuki-5610081a11-denso-1330007070-2594.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-81A11",
+                            "5610081A11"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "133000-7070",
+                            "1330007070"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Jimny 1.3i (Jimny, FJ) Bouwjaar 2002 - 2005",
+                    "Suzuki Jimny 1.5 TD (Jimny, FJ) Bouwjaar 2004 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/abs-ecu-denso/suzuki-5610081a11-denso-1330007080-101538.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-81A11",
+                            "5610081A11"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "133000-7080",
+                            "1330007080"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Jimny 1.3i (Jimny, FJ) Bouwjaar 2004 - 2008",
+                    "Suzuki Jimny 1.5 DDiS 4WD (Jimny, FJ) Bouwjaar 2005"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS regelunit Sumitomo Electric.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+control+unit+sumitomo+electric-1721.ts1628718737.jpg",
+        "product_link": "https://ecu.eu/suzuki/abs-asr-esp-control-unit-2420/suzuki/abs-asr-esp-control-unit/abs-control-unit-sumitomo-electric-4262",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-control-unit-sumitomo-electric/suzuki-5610065d0-sumitomo-sebsiiic-109817.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65D0",
+                            "5610065D0"
+                        ]
+                    },
+                    {
+                        "title": "Sumitomo - Onderdeelnummer.",
+                        "numbers": [
+                            "S-EBS II IC",
+                            "SEBSIIIC"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 2.0 TD (Grand Vitara, FT) Bouwjaar 1999",
+                    "Suzuki Grand Vitara 2.0i (Grand Vitara, GT) Bouwjaar 1999 - 2001",
+                    "Suzuki Grand Vitara 2.5i V6 (Grand Vitara, FT) Bouwjaar 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-control-unit-sumitomo-electric/suzuki-5610065d10-sumitomo-sebsiiic-105925.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65D10",
+                            "5610065D10"
+                        ]
+                    },
+                    {
+                        "title": "Sumitomo - Onderdeelnummer.",
+                        "numbers": [
+                            "S-EBS II IC",
+                            "SEBSIIIC"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 2.5i V6 (Grand Vitara, FT) Bouwjaar 1998"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-control-unit-sumitomo-electric/suzuki-65d2-sumitomo-sk306261-121238.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "65D2"
+                        ]
+                    },
+                    {
+                        "title": "Sumitomo - Onderdeelnummer.",
+                        "numbers": [
+                            "SK3-0626-1",
+                            "SK306261"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 2.0i (Grand Vitara, GT) Bouwjaar 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-control-unit-sumitomo-electric/suzuki-65d2-sumitomo-sk336041-121239.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "65D2"
+                        ]
+                    },
+                    {
+                        "title": "Sumitomo - Onderdeelnummer.",
+                        "numbers": [
+                            "SK3-3604-1",
+                            "SK336041"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-control-unit-sumitomo-electric/suzuki-65d2-sumitomo-sk344011-105928.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "65D2"
+                        ]
+                    },
+                    {
+                        "title": "Sumitomo - Onderdeelnummer.",
+                        "numbers": [
+                            "SK3-4401-1",
+                            "SK344011"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-control-unit-sumitomo-electric/suzuki-65d2-sumitomo-sk344121-105927.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "65D2"
+                        ]
+                    },
+                    {
+                        "title": "Sumitomo - Onderdeelnummer.",
+                        "numbers": [
+                            "SK3-4412-1",
+                            "SK344121"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-control-unit-sumitomo-electric/suzuki-65d2-sumitomo-sk34y131-116292.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "65D2"
+                        ]
+                    },
+                    {
+                        "title": "Sumitomo - Onderdeelnummer.",
+                        "numbers": [
+                            "SK3-4Y13-1",
+                            "SK34Y131"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.6i (Grand Vitara, FT) Bouwjaar 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-control-unit-sumitomo-electric/suzuki-65d2-sumitomo-sk352031-118538.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "65D2"
+                        ]
+                    },
+                    {
+                        "title": "Sumitomo - Onderdeelnummer.",
+                        "numbers": [
+                            "SK3-5203-1",
+                            "SK352031"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-control-unit-sumitomo-electric/suzuki-sumitomo-sk22wd07101-118537.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Sumitomo - Onderdeelnummer.",
+                        "numbers": [
+                            "SK2-2WD-0710-1",
+                            "SK22WD07101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/abs-control-unit-sumitomo-electric/suzuki-sumitomo-sk22wd07171-105926.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Sumitomo - Onderdeelnummer.",
+                        "numbers": [
+                            "SK2-2WD-0717-1",
+                            "SK22WD07171"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4085.ts1628718748.jpg",
+        "product_link": "https://ecu.eu/suzuki/abs-asr-esp-control-unit-2420/suzuki/abs-asr-esp-control-unit/esp-8.0-4632",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-8.0/suzuki-5611054la0-bosch-0265951297-0265230838-952-114148.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-54LA0",
+                            "5611054LA0"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 951 297",
+                            "0265951297"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 230 838",
+                            "0265230838"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "952"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki SX4 1.6 VVT (SX4, EY) Bouwjaar 2009 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-8.0/suzuki-5611055le0-bosch-0265951314-0265238071-629-146538.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-55LE0",
+                            "5611055LE0"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 951 314",
+                            "0265951314"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 238 071",
+                            "0265238071"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-8.0/suzuki-5611079ja-5611055la1-bosch-0265951309-0265238069-629-121370.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-79JA",
+                            "5611079JA"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-55LA1",
+                            "5611055LA1"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 951 309",
+                            "0265951309"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 238 069",
+                            "0265238069"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki SX4 1.6 VVT (SX4, EY) Bouwjaar 2010 - 2015",
+                    "Suzuki SX4 2.0 DDiS 4WD (SX4, EY) Bouwjaar 2010 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-8.0/suzuki-5611079ja-5611055ln1-bosch-0265951311-0265238075-629-124937.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-79JA",
+                            "5611079JA"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-55LN1",
+                            "5611055LN1"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 951 311",
+                            "0265951311"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 238 075",
+                            "0265238075"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki SX4 1.6 VVT 4WD (SX4, EY) Bouwjaar 2009 - 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-8.0/suzuki-5611079ja-5611079ja0-2wd-bosch-0265950461-0265235006-629-109662.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-79JA",
+                            "5611079JA"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110 79JA0",
+                            "5611079JA0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "2WD"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 461",
+                            "0265950461"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 006",
+                            "0265235006"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki SX4 1.6 VVT (SX4, EY) Bouwjaar 2007 - 2009",
+                    "Suzuki SX4 1.9 DDiS (SX4, EY) Bouwjaar 2006 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-8.0/suzuki-5611079ja-5611079jb0-4wd-bosch-0265950462-0265235008-629-151410.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-79JA",
+                            "5611079JA"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-79JB0",
+                            "5611079JB0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "4WD"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 462",
+                            "0265950462"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 008",
+                            "0265235008"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki SX4 1.6 VVT (SX4, EY) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-8.0/suzuki-5611079ja-5611079jb0-4wd-bosch-0265950462-0265235008-829-109661.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-79JA",
+                            "5611079JA"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-79JB0",
+                            "5611079JB0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "4WD"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 462",
+                            "0265950462"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 008",
+                            "0265235008"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki SX4 1.6 VVT (SX4, EY) Bouwjaar 2007 - 2009",
+                    "Suzuki SX4 1.9 DDiS 4WD (SX4, EY) Bouwjaar 2007"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 9.0.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+9+0-112771.ts1628711709.jpg",
+        "product_link": "https://ecu.eu/suzuki/abs-asr-esp-control-unit-2420/suzuki/abs-asr-esp-control-unit/esp-9.0-6277",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-9.0/suzuki-2265106455-5611054pb0-bosch-0265956291-0265243863-508-140474.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "2265106455"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-54PB0",
+                            "5611054PB0"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 956 291",
+                            "0265956291"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 243 863",
+                            "0265243863"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "508"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Vitara 1.6 (Vitara, LY) Bouwjaar 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-9.0/suzuki-2265106455-5611055pb2-bosch-0265956509-0265257549-508-145469.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "2265106455"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-55PB2",
+                            "5611055PB2"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 956 509",
+                            "0265956509"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 257 549",
+                            "0265257549"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "508"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-9.0/suzuki-2265106455-5611061mh0-bosch-0265956510-0265254830-508-145086.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "2265106455"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-61MH0",
+                            "5611061MH0"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 956 510",
+                            "0265956510"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 254 830",
+                            "0265254830"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "508"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki S-Cross 1.0 Hatchback (SX4 S-Cross, AKK) Bouwjaar 2017"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-9.0/suzuki-2265106455-5611086ra0-bosch-0265956510-0265257998-151231.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "2265106455"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-86RA0",
+                            "5611086RA0"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 956 510",
+                            "0265956510"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 257 998",
+                            "0265257998"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Vitara 1.4 (Vitara, LY) Bouwjaar 2019"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-9.0/suzuki-5611060pa0-bosch-0265956193-0265243272-509-121703.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-60PA0",
+                            "5611060PA0"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 956 193",
+                            "0265956193"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 243 272",
+                            "0265243272"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "509"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki S-Cross 1.6 (SX4 S-Cross, AKK) Bouwjaar 2014 - 2016",
+                    "Suzuki Swift 1.2 (Swift, NZ/FZ) Bouwjaar 2015 - 2016",
+                    "Suzuki Vitara 1.6 (Vitara, LY) Bouwjaar 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-9.0/suzuki-5611068la-2wd-bosch-0265956013-0265242044-504-120985.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-68LA",
+                            "5611068LA"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "2WD"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 956 013",
+                            "0265956013"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 242 044",
+                            "0265242044"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "504"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Swift 1.2 (Swift, NZ/FZ) Bouwjaar 2010 - 2013",
+                    "Suzuki Swift Sport 1.6 (Swift, NZ/FZ) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-9.0/suzuki-5611068la2-bosch-0265965013-135987.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-68LA2",
+                            "5611068LA2"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 965 013",
+                            "0265965013"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-9.0/suzuki-5611071ln-4wd-bosch-0265956013-0265242431-153774.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-71LN",
+                            "5611071LN"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "4WD"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 956 013",
+                            "0265956013"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 242 431",
+                            "0265242431"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Swift 1.2 (Swift, NZ/FZ) Bouwjaar 2010 - 2013",
+                    "Suzuki Swift Sport 1.6 (Swift, NZ/FZ) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-9.0/suzuki-5611084ma-bosch-0265956201-0265255360-583-144954.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-84MA",
+                            "5611084MA"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 956 201",
+                            "0265956201"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 255 360",
+                            "0265255360"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "583"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Celerio 1.0 (Celerio) Bouwjaar 16 - 2017"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK100.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk100-253760.ts1628714193.jpg",
+        "product_link": "https://ecu.eu/suzuki/abs-asr-esp-control-unit-2420/suzuki/abs-asr-esp-control-unit/esp-mk100-6895",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-mk100/suzuki-06262333341-561168rb-28516246013-ate-06210983123-06210250454-144160.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "06.2623-3334.1",
+                            "06262333341"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "5611-68RB",
+                            "561168RB"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "28.5162-4601.3",
+                            "28516246013"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-8312.3",
+                            "06210983123"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-5045.4",
+                            "06210250454"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Swift 1.0 Hybrid Hatchback (Swift, RZ/AZ) Bouwjaar 2016 - 2017"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK60.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk60-660.ts1629122352.jpg",
+        "product_link": "https://ecu.eu/suzuki/abs-asr-esp-control-unit-2420/esp-mk60-285",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-00401292d0-ate-06210904663-06210208464-2125-140536.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "00401292D0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0466.3",
+                            "06210904663"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0846.4",
+                            "06210208464"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.9 DDiS (Grand Vitara, JT) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-00401583d0-65j9-ate-06210904673-06210208464-2125-152926.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "00401583D0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "65J9"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0467.3",
+                            "06210904673"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0846.4",
+                            "06210208464"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.6i (Grand Vitara, JT)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-00401585d0-65j9-ate-06210904693-06210208464-2125-119166.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "00401585D0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "65J9"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0469.3",
+                            "06210904693"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0846.4",
+                            "06210208464"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.9 DDiS (Grand Vitara, JT) Bouwjaar 2006 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-00405362d0-65j9-ate-06210909493-06210208464-2125-119018.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "00405362D0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "65J9"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0949.3",
+                            "06210909493"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0846.4",
+                            "06210208464"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.9 DDiS (Grand Vitara, JT) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-06210213123-5610052k1-ate-06210951723-5610052k0-2125-107234.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "06.2102-1312.3",
+                            "06210213123"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-52K1",
+                            "5610052K1"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5172.3",
+                            "06210951723"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "56100-52K0",
+                            "5610052K0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Alto 1.0i (Alto, GF) Bouwjaar 2012",
+                    "Suzuki Splash 1.0 (Splash, A5B) Bouwjaar 2008 - 2011",
+                    "Suzuki Splash 1.2 (Splash, A5B) Bouwjaar 2007 - 2010",
+                    "Suzuki Splash 1.3 DDiS (Splash, A5B) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-06210905963-ate-06210207344-65jg-138749.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "06.2109-0596.3",
+                            "06210905963"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0734.4",
+                            "06210207344"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "65JG"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.9 DDiS (Grand Vitara, JT)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-06210909043-66j0-ate-06210206664-2125-141246.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "06.2109-0904.3",
+                            "06210909043"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "66J0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0666.4",
+                            "06210206664"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-28560023013-52k0-ate-06210951723-06219012584-2125-146781.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "28.5600-2301.3",
+                            "28560023013"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "52K0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5172.3",
+                            "06210951723"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2190-1258.4",
+                            "06219012584"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Splash 1.0 (Splash, A5B) Bouwjaar 2008 - 2011",
+                    "Suzuki Splash 1.2 (Splash, A5B) Bouwjaar 2008 - 2009",
+                    "Suzuki Splash 1.3 DDiS (Splash, A5B) Bouwjaar 2008 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-52k0-ate-06210951723-06210209834-2125-108131.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "52K0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5172.3",
+                            "06210951723"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0983.4",
+                            "06210209834"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Splash 1.0 (Splash, A5B) Bouwjaar 2008 - 2011",
+                    "Suzuki Splash 1.2 (Splash, A5B) Bouwjaar 2008 - 2009",
+                    "Suzuki Splash 1.3 DDiS (Splash, A5B) Bouwjaar 2008 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-52k0-ate-06210951723-06210213124-2125-110969.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "52K0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5172.3",
+                            "06210951723"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1312.4",
+                            "06210213124"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Splash 1.0 (Splash, A5B) Bouwjaar 2008 - 2010",
+                    "Suzuki Splash 1.2 (Splash, A5B) Bouwjaar 2008 - 2011",
+                    "Suzuki Suzuki Splash (Splash) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-52k0-k12mt-ate-06210951893-06219012564-2125-121587.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "52K0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "K12 MT",
+                            "K12MT"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5189.3",
+                            "06210951893"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2190-1256.4",
+                            "06219012564"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-5610065j0-5610056j6-56jg-ate-06210909543-06210207344-2125-104546.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65J0",
+                            "5610065J0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-56J6",
+                            "5610056J6"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56JG"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0954.3",
+                            "06210909543"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0734.4",
+                            "06210207344"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.9 DDiS (Grand Vitara, JT) Bouwjaar 2006 - 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-5610065j0-5610065j5-ate-06210906023-06210204584-2125-104549.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65J0",
+                            "5610065J0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65J5",
+                            "5610065J5"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0602.3",
+                            "06210906023"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0458.4",
+                            "06210204584"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 2.0i (Grand Vitara, JT) Bouwjaar 2006 - 2008 Motorcode J20"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-5610065j0-5610065j6-diesel-ate-06210905963-06210203914-2125-104548.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65J0",
+                            "5610065J0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65J6",
+                            "5610065J6"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "Diesel"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0596.3",
+                            "06210905963"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0391.4",
+                            "06210203914"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.9 DDiS (Grand Vitara, JT) Bouwjaar 2005 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-5610065j0-5610065j9-5610065jn-ate-06210951023-06210208714-2125-107972.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65J0",
+                            "5610065J0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65J9",
+                            "5610065J9"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65JN",
+                            "5610065JN"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5102.3",
+                            "06210951023"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0871.4",
+                            "06210208714"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.6i (Grand Vitara, JT) Bouwjaar 2007 - 2009",
+                    "Suzuki Grand Vitara 1.9 DDiS (Grand Vitara, JT) Bouwjaar 2006 - 2011",
+                    "Suzuki Grand Vitara 2.0i (Grand Vitara, JT) Bouwjaar 2006 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-5610065j0-ate-06210951023-06210213124-2125-140891.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65J0",
+                            "5610065J0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5102.3",
+                            "06210951023"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1312.4",
+                            "06210213124"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.6i (Grand Vitara, JT) Bouwjaar 2007 - 2009",
+                    "Suzuki Grand Vitara 1.9 DDiS (Grand Vitara, JT) Bouwjaar 2006 - 2011",
+                    "Suzuki Grand Vitara 2.0i (Grand Vitara, JT) Bouwjaar 2006 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-5610065j6-5610065j9-ate-06210951543-06210208714-2125-104545.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65J6",
+                            "5610065J6"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65J9",
+                            "5610065J9"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5154.3",
+                            "06210951543"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0871.4",
+                            "06210208714"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.6i (Grand Vitara, JT) Bouwjaar 2008",
+                    "Suzuki Grand Vitara 1.9 DDiS (Grand Vitara, JT) Bouwjaar 2007 - 2009",
+                    "Suzuki Grand Vitara 2.0i (Grand Vitara, JT) Bouwjaar 2008 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-5610065jf-ate-06210909533-06210207324-107233.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-65JF",
+                            "5610065JF"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0953.3",
+                            "06210909533"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0732.4",
+                            "06210207324"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 2.0i (Grand Vitara, JT) Bouwjaar 2006 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-5610072k0-ate-06210951913-06210209824-2125-107237.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-72K0",
+                            "5610072K0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5191.3",
+                            "06210951913"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0982.4",
+                            "06210209824"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Swift 1.3 DDiS (Swift, MZ/EZ) Bouwjaar 2006 - 2010 Motorcode D13A",
+                    "Suzuki Swift 1.3 (Swift, MZ/EZ) Bouwjaar 2007 - 2010 Motorcode M13",
+                    "Suzuki Swift 1.5 (Swift, MZ/EZ) Bouwjaar 2008 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/esp-mk60/suzuki-5610086l0-ate-06210215854-107238.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-86L0",
+                            "5610086L0"
+                        ]
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1585.4",
+                            "06210215854"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1028",
+                        "fault_description": "Fout in het circuit van de hoofdcilinder - druksensor."
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK61",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk61-5139.ts1628722665.jpg",
+        "product_link": "https://ecu.eu/suzuki/abs-asr-esp-control-unit-2420/suzuki/abs-asr-esp-control-unit/esp-mk61-4718",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-mk61/suzuki-5610068k5-2wdmt-ate-06210954683-06219010234-630144-149624.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-68K5",
+                            "5610068K5"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "2WD MT",
+                            "2WDMT"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5468.3",
+                            "06210954683"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2190-1023.4",
+                            "06219010234"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630144"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Alto 1.0i (Alto, GF) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-mk61/suzuki-5610077k0-5610078k8-ate-06210953293-06210210294-630144-110852.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-77K0",
+                            "5610077K0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-78K8",
+                            "5610078K8"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5329.3",
+                            "06210953293"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1029.4",
+                            "06210210294"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630144"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.6i (Grand Vitara, JT) Bouwjaar 2010 - 2012",
+                    "Suzuki Grand Vitara 1.9 DDiS (Grand Vitara, JT) Bouwjaar 2008 - 2010",
+                    "Suzuki Grand Vitara 1.9 (Grand Vitara, JT) Bouwjaar 2009",
+                    "Suzuki Grand Vitara 2.0i (Grand Vitara, FT) Bouwjaar 2003",
+                    "Suzuki Grand Vitara 2.0i (Grand Vitara, JT) Bouwjaar 2010",
+                    "Suzuki Grand Vitara 2.4 4x4 (Grand Vitara, JT) Bouwjaar 2008 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-mk61/suzuki-68k5-2wdmt-ate-06210953943-06210210244-630144-110854.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "68K5"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "2WD MT",
+                            "2WDMT"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5394.3",
+                            "06210953943"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1024.4",
+                            "06210210244"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630144"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Alto 1.0i (Alto, GF) Bouwjaar 2000 - 2012",
+                    "Suzuki Alto 1.1i (Alto, FF) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-mk61/suzuki-68k6-ate-06210953933-06210210264-630144-111792.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "68K6"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5393.3",
+                            "06210953933"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1026.4",
+                            "06210210264"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630144"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Alto 1.0i (Alto, GF) Bouwjaar 2008 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-mk61/suzuki-68k6-ate-06210963113-06210220894-630144-135623.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "68K6"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-6311.3",
+                            "06210963113"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-2089.4",
+                            "06210220894"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630144"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Alto 1.0i (Alto, GF) Bouwjaar 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-mk61/suzuki-77k0-ate-06210953233-06210210294-630144-134213.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "77K0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5323.3",
+                            "06210953233"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1029.4",
+                            "06210210294"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630144"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 2.4 4x4 (Grand Vitara, JT) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-mk61/suzuki-77k0-ate-06210953303-06210210314-630144-117668.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "77K0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5330.3",
+                            "06210953303"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1031.4",
+                            "06210210314"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630144"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 3.2 4x4 (Grand Vitara, JT) Bouwjaar 2008 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-mk61/suzuki-77k0-ate-06210960003-06210218124-630144-114237.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "77K0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-6000.3",
+                            "06210960003"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1812.4",
+                            "06210218124"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630144"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.6i (Grand Vitara, JT) Bouwjaar 2010 - 2011",
+                    "Suzuki Grand Vitara 1.9 DDiS (Grand Vitara, JT) Bouwjaar 2001 - 2011",
+                    "Suzuki Grand Vitara 2.4 4x4 (Grand Vitara, JT) Bouwjaar 2010 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/esp-mk61/suzuki-77k0-ate-06210962693-06210220604-630144-117667.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "77K0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-6269.3",
+                            "06210962693"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-2060.4",
+                            "06210220604"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630144"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": "C1063",
+                        "fault_description": "Kleprelais defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.9 (Grand Vitara, JT) Bouwjaar 2011 - 2013",
+                    "Suzuki Grand Vitara 2.4 4x4 (Grand Vitara, JT) Bouwjaar 2013 - 2015"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "MK 70.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mk+70-2199.ts1628724449.jpg",
+        "product_link": "https://ecu.eu/suzuki/abs-asr-esp-control-unit-2420/suzuki/abs-asr-esp-control-unit/mk-70-5918",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/mk-70/suzuki-28570043043-76k1-ate-06210953333-06210208204-146969.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "28.5700-4304.3",
+                            "28570043043"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "76K1"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5333.3",
+                            "06210953333"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0820.4",
+                            "06210208204"
+                        ]
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus systeem verstoord."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 2.0i (Grand Vitara, JT) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/mk-70/suzuki-5611084e0-ate-06210901313-06210200014-0007-129004.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-84E0",
+                            "5611084E0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0131.3",
+                            "06210901313"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0001.4",
+                            "06210200014"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "0007"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus systeem verstoord."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Wagon R+ 1.3i (Wagon R, MM) Bouwjaar 2002 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/mk-70/suzuki-5611086g11-ate-06210901473-06210200714-0007-129484.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56110-86G11",
+                            "5611086G11"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0147.3",
+                            "06210901473"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0071.4",
+                            "06210200714"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "0007"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus systeem verstoord."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Ignis 1.3 DDiS (Ignis, MH) Bouwjaar 2006",
+                    "Suzuki Ignis 1.5 16V (Ignis, MH) Bouwjaar 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/mk-70/suzuki-64j0-5610064j0-ate-06210905763-06210205044-119649.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "64J0"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-64J0",
+                            "5610064J0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0576.3",
+                            "06210905763"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0504.4",
+                            "06210205044"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus systeem verstoord."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.6 4x4 (Grand Vitara, JT) Bouwjaar 2006",
+                    "Suzuki Grand Vitara 2.0i 4WD (Grand Vitara, JT) Bouwjaar 2005",
+                    "Suzuki Grand Vitara 2.0i (Grand Vitara, JT) Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/mk-70/suzuki-64j2-5610064j0-ate-06210950913-06210208764-122268.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "64J2"
+                        ]
+                    },
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "56100-64J0",
+                            "5610064J0"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5091.3",
+                            "06210950913"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0876.4",
+                            "06210208764"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1061",
+                        "fault_description": "Defecte pompmotor / motorrelais"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus systeem verstoord."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Grand Vitara 1.9 DDiS (Grand Vitara, JT) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/abs-asr-esp-control-unit/mk-70/suzuki-73k1-ate-06210952023-06210207794-0120-138741.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "73K1"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5202.3",
+                            "06210952023"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0779.4",
+                            "06210207794"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "0120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus systeem verstoord."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Suzuki Swift 1.3 (Swift, MZ/EZ) Bouwjaar 2008"
+                ]
+            }
+        ]
+    }
+]

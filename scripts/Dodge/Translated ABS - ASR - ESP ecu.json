@@ -1,0 +1,1341 @@
+[
+    {
+        "part_name": "ABS MK25.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+mk25-279348.ts1628714698.jpg",
+        "product_link": "https://ecu.eu/dodge/abs-asr-esp-ecu-6102/dodge/abs-asr-esp-ecu/abs-mk25-6105",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/abs-mk25/dodge-303ac-p68023303ac-ate-25092843593-25021205684-1139-120633.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "303AC"
+                        ]
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P68023303AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-4359.3",
+                            "25092843593"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-0568.4",
+                            "25021205684"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "1139"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4082.ts1628718747.jpg",
+        "product_link": "https://ecu.eu/dodge/abs-asr-esp-ecu-6102/dodge/abs-asr-esp-ecu/esp-8.0-6402",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-8.0/dodge-p52855644ae-52855644ae-bosch-0265950565-0265235113-660-136935.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P52855644AE"
+                        ]
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "52855644AE"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 565",
+                            "0265950565"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 113",
+                            "0265235113"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "660"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK25.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk25-5139.ts1628722665.jpg",
+        "product_link": "https://ecu.eu/dodge/abs-asr-esp-ecu-6102/dodge/abs-asr-esp-ecu/esp-mk25-6317",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-00403004c100-p04743821ah-ate-25092841503-25021209014-581317-150725.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "00403004C100"
+                        ]
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P04743821AH"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-4150.3",
+                            "25092841503"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-0901.4",
+                            "25021209014"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "581317"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-064ac-p05181064ac-ate-25092843703-25021206244-581317-149404.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "064AC"
+                        ]
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P05181064AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-4370.3",
+                            "25092843703"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-0624.4",
+                            "25021206244"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "581317"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-215ac-p68049215ac-ate-25092851333-25021215014-581317-136204.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "215AC"
+                        ]
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P68049215AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-5133.3",
+                            "25092851333"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-1501.4",
+                            "25021215014"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "581317"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-68207201ab-ate-25092853103-25021221064-144456.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "68207201AB"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-5310.3",
+                            "25092853103"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-2106.4",
+                            "25021221064"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-823ac-p05105823ac-ate-25092843093-25021203114-1317-149953.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "823AC"
+                        ]
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P05105823AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-4309.3",
+                            "25092843093"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-0311.4",
+                            "25021203114"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "1317"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p04766395ag-ate-25092841693-25021209854-581317-150784.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P04766395AG"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-4169.3",
+                            "25092841693"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-0985.4",
+                            "25021209854"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "581317"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p04766395ah-ate-25092841953-25021210474-136648.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P04766395AH"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-4195.3",
+                            "25092841953"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-1047.4",
+                            "25021210474"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p04766396ag-ate-25092841703-25021209874-581317-149154.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P04766396AG"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-4170.3",
+                            "25092841703"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-0987.4",
+                            "25021209874"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "581317"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p04766396ah-ate-25092841963-25021210494-152030.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P04766396AH"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-4196.3",
+                            "25092841963"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-1049.4",
+                            "25021210494"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p04779800ab-ate-25092850583-25021212814-1283-136542.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P04779800AB"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-5058.3",
+                            "25092850583"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-1281.4",
+                            "25021212814"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "1283"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p04780000ac-ate-25092850083-25021210374-581283-151130.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P04780000AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-5008.3",
+                            "25092850083"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-1037.4",
+                            "25021210374"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "581283"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p05154116aa-ate-25092850843-25021213774-581283-151149.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P05154116AA"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-5084.3",
+                            "25092850843"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-1377.4",
+                            "25021213774"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "581283"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p05181547aa-ate-25092850853-25021211934-152029.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P05181547AA"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-5085.3",
+                            "25092850853"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-1193.4",
+                            "25021211934"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p52125441ad-ate-25092841113-25021207584-581283-137392.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P52125441AD"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-4111.3",
+                            "25092841113"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-0758.4",
+                            "25021207584"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "581283"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p52125441ae-ate-25092841353-25021208214-146533.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P52125441AE"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-4135.3",
+                            "25092841353"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-0821.4",
+                            "25021208214"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p52125462ac-ate-25092843333-25021204804-581283-127753.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P52125462AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-4333.3",
+                            "25092843333"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-0480.4",
+                            "25021204804"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "581283"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p68193650ac-ate-25092853353-25021221644-152028.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P68193650AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-5335.3",
+                            "25092853353"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-2164.4",
+                            "25021221644"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p68193650ad-ate-25092853363-25021221744-1629-144286.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P68193650AD"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-5336.3",
+                            "25092853363"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-2174.4",
+                            "25021221744"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "1629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p68193650ae-ate-25092853453-25021222004-144287.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P68193650AE"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-5345.3",
+                            "25092853453"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-2200.4",
+                            "25021222004"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dodge/abs-asr-esp-ecu/esp-mk25/dodge-p68207201ac-ate-25092853283-25021221454-1629-146016.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "P68207201AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0928-5328.3",
+                            "25092853283"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "25.0212-2145.4",
+                            "25021221454"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "1629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS-pompmotor regelcircuit."
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

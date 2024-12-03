@@ -1,0 +1,310 @@
+[
+    {
+        "part_name": "EDC MS6.3.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc+ms6+3-10441.ts1628718776.jpg",
+        "product_link": "https://ecu.eu/multicar/engine-control-unit-4984/multicar/engine-control-unit/edc-ms6.3-4986",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/multicar/engine-control-unit/edc-ms6.3/multicar-500332361-bosch-0281001537-112689.html",
+                "part_numbers": [
+                    {
+                        "title": "Multicar - Onderdeelnummer",
+                        "numbers": [
+                            "500332361"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 001 537",
+                            "0281001537"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0115",
+                        "fault_description": "Koelvloeistoftemperatuursensor onderbreking / geen signaal en P0180 Brandstof - temperatuursensor onderbreking / geen signaal."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Multicar (M26)",
+                    "Multicar M30 (M30) Bouwjaar 2002"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC16C39",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c39-208128.ts1628719578.jpg",
+        "product_link": "https://ecu.eu/multicar/engine-control-unit-4984/multicar/engine-control-unit/edc16c39-6212",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/multicar/engine-control-unit/edc16c39/bucher-schoerling-43002034f-bosch-0281013348-124717.html",
+                "part_numbers": [
+                    {
+                        "title": "Bucher-Schoerling - Onderdeelnummer.",
+                        "numbers": [
+                            "43002034F"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 013 348",
+                            "0281013348"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Motor ECU - functionele storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "EDC17CP20.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc17cp20-53256.ts1628724460.jpg",
+        "product_link": "https://ecu.eu/multicar/engine-control-unit-4984/multicar/engine-control-unit/edc17cp20-5791",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/multicar/engine-control-unit/edc17cp20/multicar-03l906019bb-bosch-0281016760-120005.html",
+                "part_numbers": [
+                    {
+                        "title": "Multicar - Onderdeelnummer",
+                        "numbers": [
+                            "03L 906 019 BB",
+                            "03L906019BB"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 016 760",
+                            "0281016760"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "Motorregelunit - geen communicatie."
+                    },
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "Motor start niet, er is geen communicatie tussen de ECU en het diagnoseapparaat."
+                    },
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "De zekering voor de motorregeling brandt door wanneer de motor ECU is aangesloten."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Multicar (Tremo) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/multicar/engine-control-unit/edc17cp20/multicar-03l906019er-03l906019er-volkswagen-vw-03l906019ba-bosch-0281018053-119433.html",
+                "part_numbers": [
+                    {
+                        "title": "Multicar - Onderdeelnummer",
+                        "numbers": [
+                            "03L 906 019 ER",
+                            "03L906019ER"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "03L 906 019 BA",
+                            "03L906019BA"
+                        ]
+                    },
+                    {
+                        "title": "Multicar - Onderdeelnummer",
+                        "numbers": [
+                            "03L906019ER"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 018 053",
+                            "0281018053"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "Motorregelunit - geen communicatie."
+                    },
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "Motor start niet, er is geen communicatie tussen de ECU en het diagnoseapparaat."
+                    },
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "De zekering voor de motorregeling brandt door wanneer de motor ECU is aangesloten."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Multicar (M30)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/multicar/engine-control-unit/edc17cp20/multicar-03l906019er-volkswagen-vw-03l906019bb-03l906019ba-bosch-0281016760-120006.html",
+                "part_numbers": [
+                    {
+                        "title": "Multicar - Onderdeelnummer",
+                        "numbers": [
+                            "03L906019ER"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "03L 906 019 BB",
+                            "03L906019BB"
+                        ]
+                    },
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "03L 906 019 BA",
+                            "03L906019BA"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 016 760",
+                            "0281016760"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "Motorregelunit - geen communicatie."
+                    },
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "Motor start niet, er is geen communicatie tussen de ECU en het diagnoseapparaat."
+                    },
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "De zekering voor de motorregeling brandt door wanneer de motor ECU is aangesloten."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Multicar (M30) Bouwjaar 2011 - 2012"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC17CP52.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc17cp52-201229.ts1628719526.jpg",
+        "product_link": "https://ecu.eu/multicar/engine-control-unit-4984/multicar/engine-control-unit/edc17cp52-5792",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/multicar/engine-control-unit/edc17cp52/multicar-504359918-10r035562-bosch-0281020149-121965.html",
+                "part_numbers": [
+                    {
+                        "title": "Multicar - Onderdeelnummer",
+                        "numbers": [
+                            "504359918"
+                        ]
+                    },
+                    {
+                        "title": "Multicar - Onderdeelnummer",
+                        "numbers": [
+                            "10R035562"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 020 149",
+                            "0281020149"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "F32F",
+                        "fault_description": "Boostdrukmagneetklep A - buiten bereik."
+                    },
+                    {
+                        "fault_code": "F42F",
+                        "fault_description": "Uitlaatgasrecirculatiebesturing - buiten bereik."
+                    },
+                    {
+                        "fault_code": "F43F",
+                        "fault_description": "Lambdasonde B1S1 - defect."
+                    },
+                    {
+                        "fault_code": "P035F",
+                        "fault_description": "Turbocharger systeem defect."
+                    },
+                    {
+                        "fault_code": "P045F",
+                        "fault_description": "Uitlaatgasrecirculatiesysteem bank 1 defect NOx-concentratie interne fout."
+                    },
+                    {
+                        "fault_code": "P055F",
+                        "fault_description": "Uitlaatgasrecirculatiesysteem bank 1 defect NOx-concentratie interne fout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De stekkerplug is gedeeltelijk geoxideerd, pinnen zijn al gebroken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Multicar (M31) Bouwjaar 2013 - 2014"
+                ]
+            }
+        ]
+    }
+]

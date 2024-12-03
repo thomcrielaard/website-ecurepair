@@ -1,0 +1,48 @@
+[
+    {
+        "part_name": "EUR.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/suzuki+3000094suzi+general+motors+gm3000094+vetronix+z1090a-1318.ts1628718733.jpg",
+        "product_link": "https://ecu.eu/suzuki/diagnostic-tool-120",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/diagnostic-tool/suzuki-3000094suzi-general-motors-gm3000094-vetronix-z1090a-254.html",
+                "part_numbers": [
+                    {
+                        "title": "Suzuki - Part number",
+                        "numbers": [
+                            "3000094-SUZI",
+                            "3000094SUZI"
+                        ]
+                    },
+                    {
+                        "title": "GENERAL MOTORS - Onderdeelnummer.",
+                        "numbers": [
+                            "GM3000094"
+                        ]
+                    },
+                    {
+                        "title": "VETRONIX - Onderdeelnummer.",
+                        "numbers": [
+                            "Z1090A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tester schakelt zichzelf uit en/of gaat niet aan."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

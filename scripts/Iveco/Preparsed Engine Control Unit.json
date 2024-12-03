@@ -1,0 +1,538 @@
+[
+    {
+        "part_name": "EDC M7",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc+m7-1078.ts1628711298.jpg",
+        "product_link": "https://ecu.eu/iveco/engine-control-unit-4110/iveco/engine-control-unit/edc-m7-4804",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc-m7/iveco-970911-bosch-0281001429-134158.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO - Part number",
+                        "numbers": [
+                            "970911"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 429",
+                            "0281001429"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "ECU intermittently out of operation"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc-m7/iveco-bosch-0281001147-117211.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 147",
+                            "0281001147"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "ECU intermittently out of operation"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc-m7/iveco-bosch-0281001703-132775.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 703",
+                            "0281001703"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "ECU intermittently out of operation"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc-m7/iveco-bosch-0281001704-111243.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 704",
+                            "0281001704"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "ECU intermittently out of operation"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "EDC MS6.3",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc+ms6+3-10441.ts1628718776.jpg",
+        "product_link": "https://ecu.eu/iveco/engine-control-unit-4110/iveco/engine-control-unit/edc-ms6.3-4973",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc-ms6.3/iveco-500332361-bosch-0281001537-112670.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO - Part number",
+                        "numbers": [
+                            "500332361"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 537",
+                            "0281001537"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0115",
+                        "fault_description": "Coolant temperature sensor interruption / no signalandP0180Fuel - temperature sensor interruption / no signal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "IVECO Daily 2.8 JTD (Daily) Year of manufacture 2002"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC16C39",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c39-208128.ts1628719578.jpg",
+        "product_link": "https://ecu.eu/iveco/engine-control-unit-4110/iveco/engine-control-unit/edc16c39-4113",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc16c39/iveco-504121602-bosch-0281012193-105158.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO - Part number",
+                        "numbers": [
+                            "504121602"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 012 193",
+                            "0281012193"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Engine ECU - functional failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The connector plug is oxidized, partially, pins are already broken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "IVECO Daily 130 Multijet (Daily) Year of manufacture 2009 - 2011",
+                    "IVECO Daily 2.3 JTD HPI (Daily) Year of manufacture 2006 - 2010",
+                    "IVECO (Daily) Year of manufacture 2006",
+                    "IVECO Daily 3.0 16V JTD (Daily) Year of manufacture 2007",
+                    "IVECO Daily 3.0 JTD (Daily) Year of manufacture 2006 - 2009",
+                    "IVECO Daily 3.0 JTD HPI (Daily) Year of manufacture 2006 - 2009",
+                    "IVECO Daily 3.0 JTD HPT (Daily) Year of manufacture 2007 - 2011"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC16C8",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c8-2209.ts1628724450.jpg",
+        "product_link": "https://ecu.eu/iveco/engine-control-unit-4110/iveco/engine-control-unit/edc16c8-4119",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc16c8/iveco-504073032-bosch-0281011228-105197.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO - Part number",
+                        "numbers": [
+                            "504073032"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 011 228",
+                            "0281011228"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine temporarily doesn't start – when the error occurs, there is no communication possible with the ecu and the motor-/pre-ignite control light is not lighted up"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "IVECO Year of manufacture 2005",
+                    "IVECO Daily 2.3 JTD (Daily) Year of manufacture 2003 - 2011",
+                    "IVECO Daily 2.8 JTD (Daily) Year of manufacture 2004 - 2006",
+                    "IVECO Daily 3.0 JTD (Daily) Year of manufacture 2005 - 2006"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC17C49",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc17c49-201213.ts1628719526.jpg",
+        "product_link": "https://ecu.eu/iveco/engine-control-unit-4110/iveco/engine-control-unit/edc17c49-5783",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc17c49/iveco-5801352711-bosch-0281017455-124118.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO - Part number",
+                        "numbers": [
+                            "5801352711"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 017 455",
+                            "0281017455"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "all errors on request"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "IVECO Daily 130 Multijet (Daily) Year of manufacture 2013",
+                    "IVECO (Daily) Year of manufacture 2012 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc17c49/iveco-5801557345-bosch-0281030169-133610.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO - Part number",
+                        "numbers": [
+                            "580 155 734 5",
+                            "5801557345"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 030 169",
+                            "0281030169"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "all errors on request"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "IVECO",
+                    "IVECO Daily 130 Multijet (Daily)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc17c49/iveco-5801593656-bosch-0281030088-130519.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO - Part number",
+                        "numbers": [
+                            "5801593656"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 030 088",
+                            "0281030088"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "all errors on request"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "IVECO"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc17c49/iveco-5802338412-bosch-0281035648-145290.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO - Part number",
+                        "numbers": [
+                            "5802338412"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 035 648",
+                            "0281035648"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "all errors on request"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "EDC17CP52",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc17cp52-201229.ts1628719526.jpg",
+        "product_link": "https://ecu.eu/iveco/engine-control-unit-4110/iveco/engine-control-unit/edc17cp52-5784",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc17cp52/iveco-504359918-bosch-0281020149-120724.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO - Part number",
+                        "numbers": [
+                            "504359918"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 020 149",
+                            "0281020149"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P035F",
+                        "fault_description": "Turbocharger system faulty"
+                    },
+                    {
+                        "fault_code": "P045F",
+                        "fault_description": "Exhaust gas recirculation system bank 1 faultyNOx concentration internal error"
+                    },
+                    {
+                        "fault_code": "P055F",
+                        "fault_description": "Exhaust gas recirculation system bank 1 faultyNOx concentration internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The connector plug is oxidized, partially, pins are already broken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "IVECO Daily 130 Multijet (Daily) Year of manufacture 2009 - 2011",
+                    "IVECO Daily 170 Multijet (Daily) Year of manufacture 2011",
+                    "IVECO (Daily)",
+                    "IVECO Daily 3.0 16V JTD (Daily) Year of manufacture 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc17cp52/iveco-5801467201-bosch-0281018453-130547.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO - Part number",
+                        "numbers": [
+                            "580 146 720 1",
+                            "5801467201"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 018 453",
+                            "0281018453"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P035F",
+                        "fault_description": "Turbocharger system faulty"
+                    },
+                    {
+                        "fault_code": "P045F",
+                        "fault_description": "Exhaust gas recirculation system bank 1 faultyNOx concentration internal error"
+                    },
+                    {
+                        "fault_code": "P055F",
+                        "fault_description": "Exhaust gas recirculation system bank 1 faultyNOx concentration internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The connector plug is oxidized, partially, pins are already broken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "IVECO",
+                    "IVECO Daily 130 Multijet (Daily)",
+                    "IVECO Daily 3.0 16V JTD (Daily) Year of manufacture 2013",
+                    "IVECO Daily 3.0 JTD HPI (Daily)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/iveco/engine-control-unit/edc17cp52/iveco-5801593502-bosch-0281030092-140867.html",
+                "part_numbers": [
+                    {
+                        "title": "IVECO - Part number",
+                        "numbers": [
+                            "580 159 350 2",
+                            "5801593502"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 030 092",
+                            "0281030092"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P035F",
+                        "fault_description": "Turbocharger system faulty"
+                    },
+                    {
+                        "fault_code": "P045F",
+                        "fault_description": "Exhaust gas recirculation system bank 1 faultyNOx concentration internal error"
+                    },
+                    {
+                        "fault_code": "P055F",
+                        "fault_description": "Exhaust gas recirculation system bank 1 faultyNOx concentration internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The connector plug is oxidized, partially, pins are already broken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "IVECO"
+                ]
+            }
+        ]
+    }
+]

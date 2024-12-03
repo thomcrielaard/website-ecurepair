@@ -1,0 +1,819 @@
+[
+    {
+        "part_name": "ACM2.1",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/acm2+1-251583.ts1628723167.jpg",
+        "product_link": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment-6019/mercedes-truck/exhaust-gas-aftertreatment/acm2.1-6020",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004462754-continental-132264.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 27 54",
+                            "A0004462754"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2012",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004463154-continental-132262.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 31 54",
+                            "A0004463154"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1840 LS 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2012 - 2013",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2012 - 2013",
+                    "MERCEDES 1845 LSnRL 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1851 LS 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2542 L 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2545 L nR 6x2 (Actros, 963) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004463254-continental-134881.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 32 54",
+                            "A0004463254"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1835 LS 4X2 (Actros, 963) Year of manufacture 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004463454-continental-120661.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 34 54",
+                            "A0004463454"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1833 L nR 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1840 LS 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1842 LS 4x2 (Arocs, 964) Year of manufacture 2013",
+                    "MERCEDES 1842 LSnRL 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1843 L 4X2 (Antos, 963) Year of manufacture 2013",
+                    "MERCEDES 1843 LS 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1843 LS 4x2 (Arocs, 964) Year of manufacture 2013",
+                    "MERCEDES 1845 L 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1845 LS 4X2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1845 LSnRL 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1848 LS 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2036 AK 4x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2543 L 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2545 L 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2545 L nR 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2551 L 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 3243 K 8x4/4 (Arocs, 964) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004463954-continental-133386.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 39 54",
+                            "A0004463954"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1836 L 4x2 (Actros, 963) Year of manufacture 2012",
+                    "MERCEDES 1842 L nR 4x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2012",
+                    "MERCEDES 1842 LSnRL 4x2 (Actros, 963) Year of manufacture 2012",
+                    "MERCEDES 1843 LS 4X2 (Actros, 963) Year of manufacture 2012 - 2013",
+                    "MERCEDES 1845 LS 4X2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1848 LS 4X2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 1851 LS 4x2 (Actros, 963) Year of manufacture 2012",
+                    "MERCEDES 2540 L 6x2 (Antos, 963) Year of manufacture 2013",
+                    "MERCEDES 2542 L 6x2 (Actros, 963) Year of manufacture 2013",
+                    "MERCEDES 2545 L nR 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 3240 B 8x4/4 (Arocs, 964)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004464054-continental-132261.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 40 54",
+                            "A0004464054"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1018 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1218 K 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1218 L 4X2 (Atego, 967) Year of manufacture 2013 - 2017",
+                    "MERCEDES 1218 L/NR 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1221 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1221 L/NR 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1223 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1223 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1223 L/NR 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2014 - 2017",
+                    "MERCEDES 1224 L/NR 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1227 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1230 L 4x2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1323 LKO 4x2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1324 L 4x2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1324 LS 4x2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1327 L 4x2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1330 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1523 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1524 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1527 L 4x2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1530 L 4x2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1824 L 4x2 (Antos, 963) Year of manufacture 2014",
+                    "MERCEDES 1827 K 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1830 L 4x2 (Antos, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1832 L 4X2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1832 LS 4x2 (Antos, 963) Year of manufacture 2015",
+                    "MERCEDES 1835 K 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 816 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 816 4x2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 816 L 4X2 (Atego, 967) Year of manufacture 2014 - 2015",
+                    "MERCEDES 818 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2013 - 2017",
+                    "MERCEDES 821 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 918 L 4X2 (Atego, 967) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004464154-continental-153243.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 41 54",
+                            "A0004464154"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004464254-continental-145902.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 42 54",
+                            "A0004464254"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1223 L 4X2 (Atego, 967) Year of manufacture 2013",
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2013 - 2015",
+                    "MERCEDES 1330 L 4X2 (Atego, 967) Year of manufacture 2013",
+                    "MERCEDES 1832 K 4x2 (Arocs, 964) Year of manufacture 2013",
+                    "MERCEDES 816 K 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004464354-continental-135071.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 43 54",
+                            "A0004464354"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1224 L/NR 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1524 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 1840 LS 4X2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1842 LSnRL 4x2 (Actros, 963) Year of manufacture 2017",
+                    "MERCEDES 1843 LS 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2015",
+                    "MERCEDES 1845 LSnRL 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1851 AK 4x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2535 L 6x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2542 L 6x2 (Antos, 963) Year of manufacture 2016",
+                    "MERCEDES 2643 LK 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 2645 LS 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3240 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3240 B 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3245 K 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 816 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 818 L 4X2 (Atego, 967) Year of manufacture 2015",
+                    "MERCEDES 821 K 4X2 (Atego, 967) Year of manufacture 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004464654-continental-132263.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 46 54",
+                            "A0004464654"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004464854-continental-130056.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 48 54",
+                            "A0004464854"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1524 L 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1830 L 4x2 (Antos, 963) Year of manufacture 2013",
+                    "MERCEDES 1833 L 4x2 (Arocs, 964) Year of manufacture 2017",
+                    "MERCEDES 1836 K 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1840 LS 4x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1842 AS 4x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1842 LS 4x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1842 LS 4x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1842 LSnRL 4x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1843 L 4X2 (Antos, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1843 L nRA 4x2 (Actros, 963) Year of manufacture 2018",
+                    "MERCEDES 1843 LS 4x2 (Actros, 963) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1843 LS 4x2 (Arocs, 964) Year of manufacture 2014 - 2015",
+                    "MERCEDES 1845 AS 4x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1845 K 4X2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1845 LS 4X2 (Actros, 963) Year of manufacture 2013 - 2015",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2017",
+                    "MERCEDES 1845 LSnRL 4x2 (Actros, 963) Year of manufacture 2013 - 2015",
+                    "MERCEDES 1848 LS 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1848 LS nR 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 1851 AK 4x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 1851 AS 4x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 1851 LS 4x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2043 AS 4x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2540 L 6x2 (Antos, 963) Year of manufacture 2014",
+                    "MERCEDES 2542 L 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2543 L 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2545 L 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2545 L nR 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2548 L 6x2 (Antos, 963) Year of manufacture 2014",
+                    "MERCEDES 2548 L 6x2 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2548 L nR 6x2 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2645 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2648 L 6x4 (Actros, 963) Year of manufacture 2014",
+                    "MERCEDES 2651 LK 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 2651 LS 6x4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 3240 B 8x4/4 (Arocs, 964) Year of manufacture 2014",
+                    "MERCEDES 3245 K 8x4/4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 3348 K 6x4 (Arocs, 964) Year of manufacture 2015",
+                    "MERCEDES 4145 AK 8x6/4 (Arocs, 964)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004464954-continental-145215.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 49 54",
+                            "A0004464954"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1324 LKO 4X2 (Atego, 967) Year of manufacture 2018",
+                    "MERCEDES 1843 LS 4x2 (Actros, 963) Year of manufacture 2017",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2016 - 2017",
+                    "MERCEDES 1848 LSnRL 4x2 (Actros, 963) Year of manufacture 2017",
+                    "MERCEDES 3235 B 8x4/4 (Arocs, 964) Year of manufacture 2017"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004465854-continental-137403.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 58 54",
+                            "A0004465854"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1223 L/NR 4X2 (Atego, 967) Year of manufacture 2014",
+                    "MERCEDES 1840 LS 4x2 (Actros, 963) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004466454-continental-137480.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 64 54",
+                            "A0004466454"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1223 L 4X2 (Atego, 967) Year of manufacture 2016",
+                    "MERCEDES 1224 L 4X2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1323 LKO 4X2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1840 4X2 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 1843 LSnRA 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1845 LS 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1848 LS 4X2 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 1848 LS nR 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2543 L 6X2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 2648 K 6x4 (Arocs, 964) Year of manufacture 2016",
+                    "MERCEDES 3243 K 8X4/4 (Arocs, 964) Year of manufacture 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004466754-continental-139811.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 67 54",
+                            "A0004466754"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 1324 LKO 4X2 (Atego, 967) Year of manufacture 2017",
+                    "MERCEDES 1840 LS 4x2 (Actros, 963) Year of manufacture 2016",
+                    "MERCEDES 1843 LS 4x2 (Actros, 963) Year of manufacture 2018",
+                    "MERCEDES 1845 LSnRL 4x2 (Actros, 963) Year of manufacture 2017",
+                    "MERCEDES 2651 LS 6x4 (Arocs, 964) Year of manufacture 2018",
+                    "MERCEDES 4145 K 8x4/4 (Arocs, 964) Year of manufacture 2021"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004469254-continental-150052.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 92 54",
+                            "A0004469254"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0004469654-continental-a2c76553200-152836.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 446 96 54",
+                            "A0004469654"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C76553200"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes-truck/exhaust-gas-aftertreatment/acm2.1/mercedes-a0014460054-continental-a2c77078300-149367.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 001 446 00 54",
+                            "A0014460054"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C77078300"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "760202",
+                        "fault_description": "ACM: Power supply of control unit \"A60 Control unit exhaust post-treatment (ACM) defective"
+                    },
+                    {
+                        "fault_code": "B30C15",
+                        "fault_description": "The signal of component B37 (pressure sensor exhaust gas before diesel oxidation catalytic converter) and (or) B38 (pressure sensor exhaust gas after DPF) is implausible"
+                    },
+                    {
+                        "fault_code": "B60D04",
+                        "fault_description": "The power supply of the component '17Y06 (valve AdBlue dosing unit)' presents a short circuit to ground."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

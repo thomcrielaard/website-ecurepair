@@ -1,0 +1,3749 @@
+[
+    {
+        "part_name": "ABS 5.3.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+5+3-1080.ts1628711298.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit-27/mitsubishi/abs-asr-esp-control-unit/abs-5.3-3511",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-5.3/mitsubishi-mr249754-bosch-0273004225-0265216464-111109.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR 249 754",
+                            "MR249754"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 225",
+                            "0273004225"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 464",
+                            "0265216464"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Carisma 1.6i (Carisma, DA0) Bouwjaar 1997",
+                    "Mitsubishi Carisma 1.8 GDI (Carisma, DA0) Bouwjaar 1998 - 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-5.3/mitsubishi-mr334810-bosch-0273004322-0265216596-128497.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR 334 810",
+                            "MR334810"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 322",
+                            "0273004322"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 596",
+                            "0265216596"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Space Star 1.3i (Space Star, DG0) Bouwjaar 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-5.3/mitsubishi-mr475695-bosch-0273004488-0265216773-838-111110.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR 475 695",
+                            "MR475695"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 488",
+                            "0273004488"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 773",
+                            "0265216773"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "838"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Carisma 1.6i (Carisma, DA0) Bouwjaar 2003",
+                    "Mitsubishi Carisma 1.8 GDI (Carisma, DA0) Bouwjaar 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-5.3/mitsubishi-mr475697-bosch-0273004489-0265216775-838-111108.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR 475 697",
+                            "MR475697"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 273 004 489",
+                            "0273004489"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 216 775",
+                            "0265216775"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "838"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Space Star 1.3i (Space Star, DG0) Bouwjaar 2001",
+                    "Mitsubishi Space Star 1.8 GDI (Space Star, DG0) Bouwjaar 2001",
+                    "Mitsubishi Space Star 1.8i (Space Star, DG0) Bouwjaar 2004 - 2005"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS 8.0.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+8+0-4104.ts1628718748.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit-27/mitsubishi/abs-asr-esp-control-unit/abs-8.0-3512",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-8.0/mitsubishi-4670a401-bosch-0265800844-0265232175-777-118430.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A401"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 844",
+                            "0265800844"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 232 175",
+                            "0265232175"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "777"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Colt 1.1i (Colt, Z30) Bouwjaar 2009 - 2012",
+                    "Mitsubishi Colt 1.3i (Colt, Z30) Bouwjaar 2009 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-8.0/mitsubishi-mn116161-smart-a4544200975-bosch-0265800403-0265231502-803-104854.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MN116161"
+                        ]
+                    },
+                    {
+                        "title": "SMART - Onderdeelnummer",
+                        "numbers": [
+                            "A 454 420 09 75",
+                            "A4544200975"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 403",
+                            "0265800403"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 231 502",
+                            "0265231502"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "803"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Colt 1.1i (Colt, Z30) Bouwjaar 2004 - 2008",
+                    "Mitsubishi Colt 1.3i (Colt, Z30) Bouwjaar 2004 - 2008",
+                    "Mitsubishi Colt 1.5 CZC (Colt, Z30) Bouwjaar 2008",
+                    "Mitsubishi Colt 1.5 DI-D (Colt, Z30) Bouwjaar 2005 - 2006",
+                    "Mitsubishi Colt 1.5i (Colt, Z30) Bouwjaar 2005 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-8.0/mitsubishi-mn116162-smart-a5454201375-bosch-0265231503-127784.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MN116162"
+                        ]
+                    },
+                    {
+                        "title": "SMART - Onderdeelnummer",
+                        "numbers": [
+                            "A 545 420 13 75",
+                            "A5454201375"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 231 503",
+                            "0265231503"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Colt 1.1i (Colt, Z30) Bouwjaar 2004 - 2008",
+                    "Mitsubishi Colt 1.3i (Colt, Z30) Bouwjaar 2004 - 2008",
+                    "Mitsubishi Colt 1.5 CZC (Colt, Z30) Bouwjaar 2008",
+                    "Mitsubishi Colt 1.5 DI-D (Colt, Z30) Bouwjaar 2005 - 2006",
+                    "Mitsubishi Colt 1.5i (Colt, Z30) Bouwjaar 2005 - 2006"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS Mitsubishi Electric.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+mitsubishi+electric-171313.ts1628712481.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit-27/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric-3886",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mb314922-mitsubishi-electric-x2t30372-121221.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB314922"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T30372"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mb863282-mitsubishi-electric-x2t30671-132291.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB863282"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T30671"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mb863941-mitsubishi-electric-x2t30571-157.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB863941"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T30571"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Pajero 2.5 TD (Pajero, V20) Bouwjaar 1992",
+                    "Mitsubishi Pajero 3.0i Cabrio (Pajero, V20) Bouwjaar 1992",
+                    "Mitsubishi Pajero 3.0i V6 (Pajero, V20) Bouwjaar 1992"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mb904665-mitsubishi-electric-x2t30672-103660.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB904665"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T30672"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mb921845-mitsubishi-electric-x2t31071-118287.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB921845"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T31071"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mb942489-mitsubishi-electric-x2t30971-2615.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MB942489"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T30971"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Pajero 3.0i Cabrio (Pajero, V20) Bouwjaar 1994"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mr182156-mitsubishi-electric-x2t31074-158.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR182156"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T31074"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Pajero 2.8 TD (Pajero, V20) Bouwjaar 1995",
+                    "Mitsubishi Pajero 3.0i V6 (Pajero, V20) Bouwjaar 1995",
+                    "Mitsubishi Pajero 3.5i V6-24V (Pajero, V20) Bouwjaar 1994 - 1996"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mr252986-mitsubishi-electric-x2t31671-121222.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR252986"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T31671"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mr282190-mitsubishi-electric-x2t31076-103658.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR282190"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T31076"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mr309792-mitsubishi-electric-x2t31077-118288.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR309792"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T31077"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Pajero 2.8 TD (Pajero, V20) Bouwjaar 1997"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mr309793-mitsubishi-electric-x2t31078-118286.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR309793"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T31078"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mr372180-mitsubishi-electric-x2t32775-104158.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR372180"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T32775"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mr400413-mitsubishi-electric-x2t34975-280.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR400413"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T34975"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Pajero Classic 2.5 TD (Pajero, V20) Bouwjaar 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mr400415-mitsubishi-electric-x2t34971-121220.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR400415"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T34971"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mr445910-mitsubishi-electric-x2t32572-155.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR445910"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T32572"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Colt 1.3i (Colt, CJ0) Bouwjaar 1998 - 2000",
+                    "Mitsubishi Colt 1.6i (Colt, CJ0) Bouwjaar 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/abs-mitsubishi-electric/mitsubishi-mr527980-mitsubishi-electric-x2t32573-156.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR527980"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Onderdeelnummer",
+                        "numbers": [
+                            "X2T32573"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Gedeeltelijke of volledige functionele storing van ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Colt 1.3i (Colt, CJ0) Bouwjaar 2002"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4082.ts1628718747.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit-27/mitsubishi/abs-asr-esp-control-unit/esp-8.0-4781",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-8.0/mitsubishi-4670a206-bosch-0265950588-0265234498-118075.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A206"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 588",
+                            "0265950588"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 234 498",
+                            "0265234498"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Colt 1.3i (Colt, Z30) Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-8.0/mitsubishi-4670a226-4670a224-bosch-0265950545-0265235097-829-114290.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A226"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A224"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 545",
+                            "0265950545"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 097",
+                            "0265235097"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Colt 1.1i (Colt, Z30) Bouwjaar 2008",
+                    "Mitsubishi Colt 1.3i (Colt, Z30) Bouwjaar 2006 - 2008",
+                    "Mitsubishi Colt 1.5 CZC (Colt, Z30) Bouwjaar 2006 - 2009",
+                    "Mitsubishi Colt 1.5 DI-D (Colt, Z30) Bouwjaar 2006 - 2007",
+                    "Mitsubishi Colt 1.5i (Colt, Z30) Bouwjaar 2006 - 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-8.0/mitsubishi-4670a403b06-bosch-0265951048-0265230168-778-111190.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A403 B06",
+                            "4670A403B06"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 951 048",
+                            "0265951048"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 230 168",
+                            "0265230168"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "778"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Colt 1.1i (Colt, Z30) Bouwjaar 2012",
+                    "Mitsubishi Colt 1.3i (Colt, Z30) Bouwjaar 2008 - 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-8.0/mitsubishi-bosch-0265234257-118073.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 234 257",
+                            "0265234257"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-8.0/mitsubishi-mn116165-bosch-0265950456-0265234314-829-107392.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MN116165"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 456",
+                            "0265950456"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 234 314",
+                            "0265234314"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Colt 1.1i (Colt, Z30) Bouwjaar 2006",
+                    "Mitsubishi Colt 1.3i (Colt, Z30) Bouwjaar 2005",
+                    "Mitsubishi Colt 1.5 Turbo CZC (Colt, Z30) Bouwjaar 2005 - 2006",
+                    "Mitsubishi Colt 1.5i (Colt, Z30) Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-8.0/mitsubishi-mn116166-bosch-0265234316-118076.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MN116166"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 234 316",
+                            "0265234316"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-8.0/mitsubishi-mr977096-bosch-0265950361-0265234120-829-118078.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR977096"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 950 361",
+                            "0265950361"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 234 120",
+                            "0265234120"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Colt 1.3i (Colt, Z30) Bouwjaar 2004",
+                    "Mitsubishi Colt 1.5 DI-D (Colt, Z30)",
+                    "Mitsubishi Colt 1.5i (Colt, Z30) Bouwjaar 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-8.0/mitsubishi-mr977097-bosch-0265234500-118077.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR977097"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 234 500",
+                            "0265234500"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-8.0/mitsubishi-s4670a225-bosch-0265235099-118074.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "S4670A225"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 235 099",
+                            "0265235099"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot verschillende magneetkleppen opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 9.0.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+9+0-112771.ts1628711709.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit-27/mitsubishi/abs-asr-esp-control-unit/esp-9.0-7209",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-9.0/mitsubishi-2265106452-4670a738-bosch-0265956143-0265243048-504-127318.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "2265106452"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A738"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 956 143",
+                            "0265956143"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 243 048",
+                            "0265243048"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "504"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Space Star 1.2 Mivec (Space Star, A0) Bouwjaar 2013"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK100.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk100-253760.ts1628714193.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit-27/mitsubishi/abs-asr-esp-control-unit/esp-mk100-6032",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk100/mitsubishi-06262132671-4670a992-ate-06210969513-06210229524-136975.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "06.2621-3267.1",
+                            "06262132671"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A992"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-6951.3",
+                            "06210969513"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-2952.4",
+                            "06210229524"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1200",
+                        "fault_description": "Magneetkleppen voor-rechts/achter-links circuit defect."
+                    },
+                    {
+                        "fault_code": "C1204",
+                        "fault_description": "Magneetkleppen voor-rechts/achter-links circuit defect."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.2 DI-D 4WD (Outlander, GF0) Bouwjaar 2014",
+                    "Mitsubishi Outlander 2.2 DI-D (Outlander, CW0) Bouwjaar 2017"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk100/mitsubishi-28516523022-ate-06210984663-06210252664-150356.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "28.5165-2302.2",
+                            "28516523022"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-8466.3",
+                            "06210984663"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-5266.4",
+                            "06210252664"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1200",
+                        "fault_description": "Magneetkleppen voor-rechts/achter-links circuit defect."
+                    },
+                    {
+                        "fault_code": "C1204",
+                        "fault_description": "Magneetkleppen voor-rechts/achter-links circuit defect."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi ASX 1.6 Mivec (ASX, GA0) Bouwjaar 2017 - 2018"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk100/mitsubishi-4670a756-ate-06210966063-06210224234-06261339931-120830.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A756"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-6606.3",
+                            "06210966063"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-2423.4",
+                            "06210224234"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2613-3993.1",
+                            "06261339931"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1200",
+                        "fault_description": "Magneetkleppen voor-rechts/achter-links circuit defect."
+                    },
+                    {
+                        "fault_code": "C1204",
+                        "fault_description": "Magneetkleppen voor-rechts/achter-links circuit defect."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.2 DI-D (Outlander, GF0) Bouwjaar 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk100/mitsubishi-4670a772-ate-06210968913-06210227824-153559.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A772"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-6891.3",
+                            "06210968913"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-2782.4",
+                            "06210227824"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1200",
+                        "fault_description": "Magneetkleppen voor-rechts/achter-links circuit defect."
+                    },
+                    {
+                        "fault_code": "C1204",
+                        "fault_description": "Magneetkleppen voor-rechts/achter-links circuit defect."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk100/mitsubishi-4670b374-06262332791-ate-06210982393-06210249174-152439.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670B374"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "06.2623-3279.1",
+                            "06262332791"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-8239.3",
+                            "06210982393"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-4917.4",
+                            "06210249174"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1200",
+                        "fault_description": "Magneetkleppen voor-rechts/achter-links circuit defect."
+                    },
+                    {
+                        "fault_code": "C1204",
+                        "fault_description": "Magneetkleppen voor-rechts/achter-links circuit defect."
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Regelunit functie defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.2 DI-D (Outlander, GF0) Bouwjaar 2018"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK60.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk60-423.ts1628718730.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit-27/mitsubishi/abs-asr-esp-control-unit/esp-mk60-4353",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a017-ate-06210902923-06210200864-108439.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A017"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0292.3",
+                            "06210902923"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0086.4",
+                            "06210200864"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Grandis 2.4i (Grandis, NA0) Bouwjaar 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a078-ate-06210202644-103645.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A078"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0264.4",
+                            "06210202644"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a078-ate-06210904313-06210202644-2111-108606.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A078"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0431.3",
+                            "06210904313"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0264.4",
+                            "06210202644"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2111"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Grandis 2.0 DI-D (Grandis, NA0) Bouwjaar 2006 - 2008",
+                    "Mitsubishi Grandis 2.4i (Grandis, NA0) Bouwjaar 2005 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a078-ate-06210904313-06210209254-2153-110515.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A078"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0431.3",
+                            "06210904313"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0925.4",
+                            "06210209254"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2153"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Grandis 2.0 DI-D (Grandis, NA0) Bouwjaar 2008 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a235-ate-06210909863-06210209364-2153-106807.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A235"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0986.3",
+                            "06210909863"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0936.4",
+                            "06210209364"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2153"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.2 DI-D (Outlander, CW0) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a336-ate-06210904313-06210208164-2111-2997.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A336"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0431.3",
+                            "06210904313"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0816.4",
+                            "06210208164"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2111"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.0 DI-D (Outlander, CW0) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a336-ate-06210908193-06210208164-2111-107722.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A336"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0819.3",
+                            "06210908193"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0816.4",
+                            "06210208164"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2111"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.0 DI-D (Outlander, CW0) Bouwjaar 2007 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a336-ate-06210908193-06210208914-2153-1461.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A336"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0819.3",
+                            "06210908193"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0891.4",
+                            "06210208914"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2153"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.0 DI-D (Outlander, CW0) Bouwjaar 2007 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a337-ate-1409.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A337"
+                        ]
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a340-ate-06210951003-06210209344-2153-103646.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A340"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5100.3",
+                            "06210951003"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06-2102-0934.4",
+                            "06210209344"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2153"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.0 DI-D 4x4 (Outlander, CW0)",
+                    "Mitsubishi Outlander 2.0 DI-D (Outlander, CW0) Bouwjaar 2008 - 2009",
+                    "Mitsubishi Outlander 2.2 DI-D (Outlander, CW0) Bouwjaar 2008 - 2010 Motorcode 4HN",
+                    "Mitsubishi Outlander 2.4 4x4 (Outlander, CU0) Bouwjaar 2008 - 2009",
+                    "Mitsubishi Outlander 2.4 4x4 (Outlander, CW0) Bouwjaar 2009",
+                    "Mitsubishi Outlander 2.4 Mivec (Outlander, CW0) Bouwjaar 2008 - 2010 Motorcode 4B12"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a346-ate-1407.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A346"
+                        ]
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a350-ate-1408.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A350"
+                        ]
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-4670a457-ate-06210955313-06210212394-2153-108926.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A457"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5531.3",
+                            "06210955313"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1239.4",
+                            "06210212394"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2153"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.0 DI-D (Outlander, CW0) Bouwjaar 2009",
+                    "Mitsubishi Outlander 2.4 Mivec (Outlander, CW0) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk60/mitsubishi-mn116523-ate-06210903113-06210201424-103647.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MN116523"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0311.3",
+                            "06210903113"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0142.4",
+                            "06210201424"
+                        ]
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C121D",
+                        "fault_description": "Storingen in het circuit van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C121E",
+                        "fault_description": "Abnormaal uitgangssignaal van de remdruksensor."
+                    },
+                    {
+                        "fault_code": "C1361",
+                        "fault_description": "Abnormale eigenschappen van de druksensor."
+                    },
+                    {
+                        "fault_code": "C1364",
+                        "fault_description": "Fout in druksensor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "MITSUBISHI Grandis 2.4i (Grandis, NA0) Bouwjaar 2004"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK61 (ASC).",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk61+asc-5139.ts1628722665.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit-27/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29-4513",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-06210956443-ate-133748.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "06.2109-5644.3",
+                            "06210956443"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-06210956553-ate-06210956553-133670.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "06.2109-5655.3",
+                            "06210956553"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5655.3",
+                            "06210956553"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Lancer Sportback 2.0 Ralliart 4x4 (Lancer, CY0/CX0) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-06261334001-4670a475-ate-06210955903-06210213164-630149-134861.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "06.2613-3400.1",
+                            "06261334001"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A475"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5590.3",
+                            "06210955903"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1316.4",
+                            "06210213164"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630149"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Lancer EVO X (Lancer, CY0/CX0) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-06261335251-4670a502-ate-06210957383-06210215334-0151-124261.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "06.2613-3525.1",
+                            "06261335251"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A502"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5738.3",
+                            "06210957383"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1533.4",
+                            "06210215334"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "0151"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.2 DI-D (Outlander, CW0) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-06261335861-4670a539-ate-06210957713-06210216034-630151-132324.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "06.2613-3586.1",
+                            "06261335861"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A539"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5771.3",
+                            "06210957713"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1603.4",
+                            "06210216034"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630151"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Lancer 1.8 Mivec (Lancer, CY0/CX0) Bouwjaar 2008",
+                    "Mitsubishi Lancer Sportback 2.0 DI-D (Lancer, CY0/CX0) Bouwjaar 2010 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-06261338351-4670a643-ate-06210963493-06210221164-630151-136943.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "06.2613-3835.1",
+                            "06261338351"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A643"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-6349.3",
+                            "06210963493"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-2116.4",
+                            "06210221164"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630151"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi ASX 1.8 DI-D (ASX, GA0) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a212-ate-06210951673-06210205384-630149-123520.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A212"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5167.3",
+                            "06210951673"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0538.4",
+                            "06210205384"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630149"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Lancer EVO X (Lancer, CY0/CX0) Bouwjaar 2008 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a265-4670a888-ate-06210950443-06210207004-106806.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A265"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A888"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5044.3",
+                            "06210950443"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0700.4",
+                            "06210207004"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Lancer 1.5i (Lancer, CY0/CX0) Bouwjaar 2008 - 2010",
+                    "Mitsubishi Lancer 1.8 Mivec (Lancer, CY0/CX0) Bouwjaar 2005 - 2011",
+                    "Mitsubishi Lancer 2.0 DI-D (Lancer, CY0/CX0) Bouwjaar 1996 - 2010",
+                    "Mitsubishi Space Star 1.2 Mivec (Space Star, A0) Bouwjaar 2019"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a298-ate-06210957143-06210215304-119085.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A298"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5714.3",
+                            "06210957143"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1530.4",
+                            "06210215304"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi ASX 1.6 Mivec (ASX, GA0) Bouwjaar 2010 - 2012",
+                    "Mitsubishi ASX 1.8 DI-D (ASX, GA0) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a335-ate-108602.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A335"
+                        ]
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a352-ate-06210952233-06210211334-630151-108084.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A352"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5223.3",
+                            "06210952233"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1133.4",
+                            "06210211334"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630151"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Lancer 1.5i (Lancer, CY0/CX0) Bouwjaar 2009 - 2011",
+                    "Mitsubishi Lancer 1.8 Mivec (Lancer, CY0/CX0) Bouwjaar 1999 - 2010",
+                    "Mitsubishi Lancer 2.0 DI-D (Lancer, CY0/CX0) Bouwjaar 2009",
+                    "Mitsubishi Lancer Sportback 1.5i (Lancer, CY0/CX0) Bouwjaar 2009 - 2011",
+                    "Mitsubishi Lancer Sportback 1.8i (Lancer, CY0/CX0) Bouwjaar 2000 - 2012",
+                    "Mitsubishi Lancer Sportback 2.0 DI-D (Lancer, CY0/CX0) Bouwjaar 2009 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a353-ate-108596.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A353"
+                        ]
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a413-ate-06210955923-06210214704-630151-121939.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A413"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5592.3",
+                            "06210955923"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1470.4",
+                            "06210214704"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630151"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Lancer 1.8 Mivec (Lancer, CY0/CX0) Bouwjaar 2008",
+                    "Mitsubishi Lancer Sportback 1.5i (Lancer, CY0/CX0) Bouwjaar 2010 - 2012",
+                    "Mitsubishi Lancer Sportback 1.8i (Lancer, CY0/CX0) Bouwjaar 2010 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a414-ate-108599.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A414"
+                        ]
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a453-ate-06210954133-06210215154-117669.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A453"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5413.3",
+                            "06210954133"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1515.4",
+                            "06210215154"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.0i (Outlander, CW0) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a464-ate-108597.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A464"
+                        ]
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a540-ate-108600.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A540"
+                        ]
+                    },
+                    {
+                        "title": "ATE.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a544-ate-06210958173-06210206154-630151-122148.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A544"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5817.3",
+                            "06210958173"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0615.4",
+                            "06210206154"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630151"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.2 DI-D (Outlander, CW0) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a552-ate-06210957693-06210217584-630151-121100.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A552"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5769.3",
+                            "06210957693"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-1758.4",
+                            "06210217584"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "630151"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander 2.2 DI-D (Outlander, CW0) Bouwjaar 2011 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/esp-mk61-%28asc%29/mitsubishi-4670a561-ate-06210958113-06210117844-117670.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "4670A561"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5811.3",
+                            "06210958113"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2101-1784.4",
+                            "06210117844"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormale voedingsspanning pompmotor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Lancer Sportback 1.6i (Lancer, CY0/CX0) Bouwjaar 2010 - 2011"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "HBB hogedrukremsysteem.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/hbb+high+pressure+braking+system-207327.ts1628722990.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit-27/mitsubishi/abs-asr-esp-control-unit/hbb-high-pressure-braking-system-5821",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/hbb-high-pressure-braking-system/mitsubishi-mn102843-aisin-128604.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MN102843"
+                        ]
+                    },
+                    {
+                        "title": "AISIN.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "53",
+                        "fault_description": "Defecte pomp-motorrelais."
+                    },
+                    {
+                        "fault_code": "55",
+                        "fault_description": "Pomp-motorkringstoring."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Pajero 3.2 DI-D (Pajero, V60) Bouwjaar 2003 - 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/hbb-high-pressure-braking-system/mitsubishi-mn116391-128603.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MN116391"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "53",
+                        "fault_description": "Defecte pomp-motorrelais."
+                    },
+                    {
+                        "fault_code": "55",
+                        "fault_description": "Pomp-motorkringstoring."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/hbb-high-pressure-braking-system/mitsubishi-mr407202-mb858850-151224.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR407202"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "MB858850"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "53",
+                        "fault_description": "Defecte pomp-motorrelais."
+                    },
+                    {
+                        "fault_code": "55",
+                        "fault_description": "Pomp-motorkringstoring."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Montero 3.2 DI-D (Montero, V60)",
+                    "Mitsubishi Pajero 3.2 DI-D (Pajero, V60) Bouwjaar 2001 - 2007",
+                    "Mitsubishi Pajero 3.2 DI-D (Pajero, V80) Bouwjaar 2007 - 2017",
+                    "Mitsubishi Pajero 3.5 GDI V6-24V (Pajero, V60) Bouwjaar 2002 - 2003",
+                    "Mitsubishi Pajero 3.8 GDI (Pajero, V80) Bouwjaar 2006 - 2007",
+                    "Mitsubishi Pajero 3.8 (Pajero, V80) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/hbb-high-pressure-braking-system/mitsubishi-mr569728-aisin-bb858850-119833.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR569728"
+                        ]
+                    },
+                    {
+                        "title": "AISIN - Onderdeelnummer",
+                        "numbers": [
+                            "BB858850"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "53",
+                        "fault_description": "Defecte pomp-motorrelais."
+                    },
+                    {
+                        "fault_code": "55",
+                        "fault_description": "Pomp-motorkringstoring."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Montero 3.2 DI-D (Montero, V60)",
+                    "Mitsubishi Pajero 3.2 DI-D (Pajero, V60) Bouwjaar 2001 - 2007",
+                    "Mitsubishi Pajero 3.2 DI-D (Pajero, V80) Bouwjaar 2007 - 2017",
+                    "Mitsubishi Pajero 3.5 GDI V6-24V (Pajero, V60) Bouwjaar 2002 - 2003",
+                    "Mitsubishi Pajero 3.8 GDI (Pajero, V80) Bouwjaar 2006 - 2007",
+                    "Mitsubishi Pajero 3.8 (Pajero, V80) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/abs-asr-esp-control-unit/hbb-high-pressure-braking-system/mitsubishi-mr977461-128602.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR977461"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "53",
+                        "fault_description": "Defecte pomp-motorrelais."
+                    },
+                    {
+                        "fault_code": "55",
+                        "fault_description": "Pomp-motorkringstoring."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Pajero 3.2 DI-D (Pajero, V60) Bouwjaar 2001 - 2006"
+                ]
+            }
+        ]
+    }
+]

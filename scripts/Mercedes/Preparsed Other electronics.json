@@ -1,0 +1,2924 @@
+[
+    {
+        "part_name": "Belt carrier",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/belt+carrier-1059857.ts1655467552.jpg",
+        "product_link": "https://ecu.eu/mercedes/other-electronics-2808/mercedes/other-electronics/belt-carrier-6959",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/belt-carrier/mercedes-0008205826-bosch-1137328053-128298.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "000 820 58 26",
+                            "0008205826"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "1 137 328 053",
+                            "1137328053"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Belt carrier without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 230CE Coupe (124er, 124) Year of manufacture 1988",
+                    "MERCEDES 300CE (124er, 124) Year of manufacture 1989"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/belt-carrier/mercedes-1248205026-bosch-1137328055-130641.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "124 820 50 26",
+                            "1248205026"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "1 137 328 055",
+                            "1137328055"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Belt carrier without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 230CE Coupe (124er, 124) Year of manufacture 1992",
+                    "MERCEDES 300CE (124er, 124) Year of manufacture 1991",
+                    "MERCEDES 300CE-24 (124er, 124) Year of manufacture 1991",
+                    "MERCEDES E320 Coupe (124er, 124) Year of manufacture 1992"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/belt-carrier/mercedes-1408202526-bosch-1137328040-123937.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "140 820 25 26",
+                            "1408202526"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "1 137 328 040",
+                            "1137328040"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Belt carrier without function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 300CE-24 Cabrio (124er, 124) Year of manufacture 1994",
+                    "MERCEDES E200 Cabrio (124er, 124) Year of manufacture 1995",
+                    "MERCEDES E220 Cabrio (124er, 124) Year of manufacture 1995"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Glow time output stage LIN",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/glow+time+output+stage+lin-571330.ts1632472060.jpg",
+        "product_link": "https://ecu.eu/mercedes/other-electronics-2808/mercedes/other-electronics/glow-time-output-stage-lin-6788",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/glow-time-output-stage-lin/mercedes-a6291530479-beru-0522150201-141734.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 629 153 04 79",
+                            "A6291530479"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522150201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2267-001",
+                        "fault_description": "LIN message from component N14/3 glow time output stage - faulty message or timeout"
+                    },
+                    {
+                        "fault_code": "2270-002",
+                        "fault_description": "N14/3 Glow time output stage - no supply voltage"
+                    },
+                    {
+                        "fault_code": "P2133",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2133-004",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2134",
+                        "fault_description": "Glow plug 2 has a short-circuit to the groundGlow plug 2 wiring error"
+                    },
+                    {
+                        "fault_code": "P2134-004",
+                        "fault_description": "Glow plug cylinder 2 interruption"
+                    },
+                    {
+                        "fault_code": "P2138",
+                        "fault_description": "Glowing plug 6 interruption"
+                    },
+                    {
+                        "fault_code": "P2270-004",
+                        "fault_description": "N14/3 Glow stage - at least one glow plug is not activated"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES E420 CDI (E-Klasse, 211) Year of manufacture 2006",
+                    "MERCEDES GL420 CDI 4MATIC (GL-Klasse, 164) Year of manufacture 2006",
+                    "MERCEDES ML420 CDI 4MATIC (M-Klasse, 164)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/glow-time-output-stage-lin/mercedes-a6291530679-beru-0522150201-dc8g0227-141146.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 629 153 06 79",
+                            "A6291530679"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522150201"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "DC8G02-27",
+                            "DC8G0227"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2267-001",
+                        "fault_description": "LIN message from component N14/3 glow time output stage - faulty message or timeout"
+                    },
+                    {
+                        "fault_code": "2270-002",
+                        "fault_description": "N14/3 Glow time output stage - no supply voltage"
+                    },
+                    {
+                        "fault_code": "P2133",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2133-004",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2134",
+                        "fault_description": "Glow plug 2 has a short-circuit to the groundGlow plug 2 wiring error"
+                    },
+                    {
+                        "fault_code": "P2134-004",
+                        "fault_description": "Glow plug cylinder 2 interruption"
+                    },
+                    {
+                        "fault_code": "P2138",
+                        "fault_description": "Glowing plug 6 interruption"
+                    },
+                    {
+                        "fault_code": "P2270-004",
+                        "fault_description": "N14/3 Glow stage - at least one glow plug is not activated"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES E420 CDI (E-Klasse, 211) Year of manufacture 2005 - 2007",
+                    "MERCEDES GL420 CDI 4MATIC (GL-Klasse, 164) Year of manufacture 2007 - 2008",
+                    "MERCEDES GL450 CDI 4MATIC (GL-Klasse, 164)",
+                    "MERCEDES ML420 CDI 4MATIC (M-Klasse, 164) Year of manufacture 2006 - 2018",
+                    "MERCEDES ML450 CDI 4MATIC (M-Klasse, 164) Year of manufacture 2010",
+                    "MERCEDES S420 CDI (S-Klasse, 221) Year of manufacture 2007 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/glow-time-output-stage-lin/mercedes-a6291530679-e2110022345-144125.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 629 153 06 79",
+                            "A6291530679"
+                        ]
+                    },
+                    {
+                        "title": "Part number",
+                        "numbers": [
+                            "E2110022345"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2267-001",
+                        "fault_description": "LIN message from component N14/3 glow time output stage - faulty message or timeout"
+                    },
+                    {
+                        "fault_code": "2270-002",
+                        "fault_description": "N14/3 Glow time output stage - no supply voltage"
+                    },
+                    {
+                        "fault_code": "P2133",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2133-004",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2134",
+                        "fault_description": "Glow plug 2 has a short-circuit to the groundGlow plug 2 wiring error"
+                    },
+                    {
+                        "fault_code": "P2134-004",
+                        "fault_description": "Glow plug cylinder 2 interruption"
+                    },
+                    {
+                        "fault_code": "P2138",
+                        "fault_description": "Glowing plug 6 interruption"
+                    },
+                    {
+                        "fault_code": "P2270-004",
+                        "fault_description": "N14/3 Glow stage - at least one glow plug is not activated"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES GL420 CDI 4MATIC (GL-Klasse, 164) Year of manufacture 2006 - 2009",
+                    "MERCEDES GL450 CDI 4MATIC (GL-Klasse, 164) Year of manufacture 2010 - 2011",
+                    "MERCEDES ML420 CDI 4MATIC (M-Klasse, 164) Year of manufacture 2007 - 2010",
+                    "MERCEDES S420 CDI (S-Klasse, 221) Year of manufacture 2007 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/glow-time-output-stage-lin/mercedes-a6421530379-beru-0522140202-145115.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 642 153 03 79",
+                            "A6421530379"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0 522 140 202",
+                            "0522140202"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2267-001",
+                        "fault_description": "LIN message from component N14/3 glow time output stage - faulty message or timeout"
+                    },
+                    {
+                        "fault_code": "2270-002",
+                        "fault_description": "N14/3 Glow time output stage - no supply voltage"
+                    },
+                    {
+                        "fault_code": "P2133",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2133-004",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2134",
+                        "fault_description": "Glow plug 2 has a short-circuit to the groundGlow plug 2 wiring error"
+                    },
+                    {
+                        "fault_code": "P2134-004",
+                        "fault_description": "Glow plug cylinder 2 interruption"
+                    },
+                    {
+                        "fault_code": "P2138",
+                        "fault_description": "Glowing plug 6 interruption"
+                    },
+                    {
+                        "fault_code": "P2270-004",
+                        "fault_description": "N14/3 Glow stage - at least one glow plug is not activated"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/glow-time-output-stage-lin/mercedes-a6421532079-beru-0522140202-dc8g0227-140969.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 642 153 20 79",
+                            "A6421532079"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522140202"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "DC8G02-27",
+                            "DC8G0227"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2267-001",
+                        "fault_description": "LIN message from component N14/3 glow time output stage - faulty message or timeout"
+                    },
+                    {
+                        "fault_code": "2270-002",
+                        "fault_description": "N14/3 Glow time output stage - no supply voltage"
+                    },
+                    {
+                        "fault_code": "P2133",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2133-004",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2134",
+                        "fault_description": "Glow plug 2 has a short-circuit to the groundGlow plug 2 wiring error"
+                    },
+                    {
+                        "fault_code": "P2134-004",
+                        "fault_description": "Glow plug cylinder 2 interruption"
+                    },
+                    {
+                        "fault_code": "P2138",
+                        "fault_description": "Glowing plug 6 interruption"
+                    },
+                    {
+                        "fault_code": "P2270-004",
+                        "fault_description": "N14/3 Glow stage - at least one glow plug is not activated"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES ML280 CDI 4MATIC (M-Klasse, 164) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/glow-time-output-stage-lin/mercedes-e2110022364-beru-0522150702-141282.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "E2110022364"
+                        ]
+                    },
+                    {
+                        "title": "Beru - Part number",
+                        "numbers": [
+                            "0522150702"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2267-001",
+                        "fault_description": "LIN message from component N14/3 glow time output stage - faulty message or timeout"
+                    },
+                    {
+                        "fault_code": "2270-002",
+                        "fault_description": "N14/3 Glow time output stage - no supply voltage"
+                    },
+                    {
+                        "fault_code": "P2133",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2133-004",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2134",
+                        "fault_description": "Glow plug 2 has a short-circuit to the groundGlow plug 2 wiring error"
+                    },
+                    {
+                        "fault_code": "P2134-004",
+                        "fault_description": "Glow plug cylinder 2 interruption"
+                    },
+                    {
+                        "fault_code": "P2138",
+                        "fault_description": "Glowing plug 6 interruption"
+                    },
+                    {
+                        "fault_code": "P2270-004",
+                        "fault_description": "N14/3 Glow stage - at least one glow plug is not activated"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES E420 CDI (E-Klasse, 211) Year of manufacture 2006",
+                    "MERCEDES GL420 CDI 4MATIC (GL-Klasse, 164) Year of manufacture 2007",
+                    "MERCEDES ML420 CDI 4MATIC (M-Klasse, 164) Year of manufacture 201 - 2010",
+                    "MERCEDES ML450 CDI 4MATIC (M-Klasse, 164) Year of manufacture 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/glow-time-output-stage-lin/mercedes-e2110032317-ccu118-148218.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "E2110032317"
+                        ]
+                    },
+                    {
+                        "title": "Part number",
+                        "numbers": [
+                            "CCU118"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2267-001",
+                        "fault_description": "LIN message from component N14/3 glow time output stage - faulty message or timeout"
+                    },
+                    {
+                        "fault_code": "2270-002",
+                        "fault_description": "N14/3 Glow time output stage - no supply voltage"
+                    },
+                    {
+                        "fault_code": "P2133",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2133-004",
+                        "fault_description": "Glowing plug 1 interruption"
+                    },
+                    {
+                        "fault_code": "P2134",
+                        "fault_description": "Glow plug 2 has a short-circuit to the groundGlow plug 2 wiring error"
+                    },
+                    {
+                        "fault_code": "P2134-004",
+                        "fault_description": "Glow plug cylinder 2 interruption"
+                    },
+                    {
+                        "fault_code": "P2138",
+                        "fault_description": "Glowing plug 6 interruption"
+                    },
+                    {
+                        "fault_code": "P2270-004",
+                        "fault_description": "N14/3 Glow stage - at least one glow plug is not activated"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Turbo-charger actuator",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+        "product_link": "https://ecu.eu/mercedes/other-electronics-2808/mercedes/other-electronics/turbo-charger-actuator-4096",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/turbo-charger-actuator/mercedes-6nw008412-hella-712120-104902.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "6NW 008 412",
+                            "6NW008412"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "712120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2510",
+                        "fault_description": "Boost pressure regulator component defective"
+                    },
+                    {
+                        "fault_code": "2510-001",
+                        "fault_description": "Check boost pressure regulator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 120 CDI (Vito, 639) Year of manufacture 2006 - 2007",
+                    "MERCEDES 316 CDI (Sprinter, 906) Year of manufacture 2006",
+                    "MERCEDES 318 CDI (Sprinter, 906) Year of manufacture 2006",
+                    "MERCEDES C200 CDI (C-Klasse, 203) Year of manufacture 2004 - 2005",
+                    "MERCEDES C200 CDI T-Modell (C-Klasse, 203)",
+                    "MERCEDES C220 CDI (C-Klasse, 203) Year of manufacture 2004 - 2006 Engine code 646.963",
+                    "MERCEDES C220 CDI Sportcoupe (C-Klasse, 203) Year of manufacture 2005",
+                    "MERCEDES C220 CDI T-Modell (C-Klasse, 203) Engine code 646.963",
+                    "MERCEDES C220 CDI T-Modell (C-Klasse, 204) Year of manufacture 2008",
+                    "MERCEDES C320 CDI (C-Klasse, 203) Year of manufacture 2005 - 2006",
+                    "MERCEDES C320 CDI T-Modell (C-Klasse, 203) Engine code 642.910",
+                    "MERCEDES CLK320 CDI (CLK-Klasse, 209) Year of manufacture 2006",
+                    "MERCEDES CLK320 CDI Cabrio (CLK-Klasse, 209) Year of manufacture 2005 - 2008",
+                    "MERCEDES CLS320 CDI (CLS-Klasse, 219) Year of manufacture 2006 - 2007",
+                    "MERCEDES E200 CDI (E-Klasse, 211) Year of manufacture 2005",
+                    "MERCEDES E220 CDI (E-Klasse, 211) Year of manufacture 2002 - 2005 Engine code 646.961",
+                    "MERCEDES E220 CDI T-Modell (E-Klasse, 211) Year of manufacture 2004 - 2006 Engine code 646.961",
+                    "MERCEDES E270 CDI (E-Klasse, 211) Year of manufacture 2022",
+                    "MERCEDES E270 CDI T-Modell (E-Klasse, 211) Year of manufacture 2003 - 2006 Engine code 647.961",
+                    "MERCEDES E280 CDI 4MATIC (E-Klasse, 211)",
+                    "MERCEDES E280 CDI 4MATIC T-Modell (E-Klasse, 211) Year of manufacture 2006 Engine code 642.921 TCU code 642.921",
+                    "MERCEDES E280 CDI (E-Klasse, 211) Year of manufacture 2004 - 2008 Engine code 642.920, 648.961",
+                    "MERCEDES E280 CDI T-Modell (E-Klasse, 211) Engine code 642.920",
+                    "MERCEDES E320 CDI 4MATIC (E-Klasse, 211) Year of manufacture 2006 - 2007",
+                    "MERCEDES E320 CDI 4MATIC T-Modell (E-Klasse, 211) Year of manufacture 2006",
+                    "MERCEDES E320 CDI (E-Klasse, 211) Year of manufacture 2005 - 2006 Engine code 642.920",
+                    "MERCEDES E320 CDI T-Modell (E-Klasse, 211) Engine code 642.920 TCU code 642.920",
+                    "MERCEDES E320 T-Modell (E-Klasse, 211)",
+                    "MERCEDES E400 CDI (E-Klasse, 211) Year of manufacture 2004 Engine code 628.961 TCU code 628.961",
+                    "MERCEDES E420 CDI (E-Klasse, 211)",
+                    "MERCEDES G400 CDI (G-Klasse, 463) Year of manufacture 2004 - 2006",
+                    "MERCEDES GL320 CDI 4MATIC (GL-Klasse, 164) Year of manufacture 2006 Engine code 642.940",
+                    "MERCEDES GLK320 CDI 4MATIC (GLK-Klasse, 204) Year of manufacture 2009",
+                    "MERCEDES ML280 CDI 4MATIC (M-Klasse, 164) Year of manufacture 2005 - 2007 Engine code 642.940",
+                    "MERCEDES ML320 CDI 4MATIC (M-Klasse, 164) Engine code 642.940 TCU code 642.940",
+                    "MERCEDES ML400 CDI (M-Klasse, 163) Engine code 628.963 TCU code 628.963",
+                    "MERCEDES R280 CDI 4MATIC (R-Klasse, 251) Year of manufacture 2007",
+                    "MERCEDES R320 CDI 4MATIC (R-Klasse, 251) Year of manufacture 2006",
+                    "MERCEDES S320 CDI (S-Klasse, 221) Year of manufacture 2006",
+                    "MERCEDES Viano 3.0 CDI (Viano, 639) Year of manufacture 2006 - 2007",
+                    "Mercedes GL320 CDI 4MATIC (GL-Klasse, 164) Year of manufacture 2006 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/turbo-charger-actuator/mercedes-6nw009228-hella-730314-106287.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "6NW 009 228",
+                            "6NW009228"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "730314"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2510",
+                        "fault_description": "Boost pressure regulator component defective"
+                    },
+                    {
+                        "fault_code": "2510-001",
+                        "fault_description": "Check boost pressure regulator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES C200 CDI (C-Klasse, 204) Year of manufacture 2008",
+                    "MERCEDES C200 CDI T-Modell (C-Klasse, 204) Year of manufacture 2009",
+                    "MERCEDES C220 CDI (C-Klasse, 204) Year of manufacture 2008 - 2009",
+                    "MERCEDES C220 CDI T-Modell (C-Klasse, 204) Year of manufacture 2008",
+                    "MERCEDES C320 CDI 4MATIC (C-Klasse, 204) Year of manufacture 2007 - 2009",
+                    "MERCEDES C320 CDI 4MATIC T-Modell (C-Klasse, 204) Year of manufacture 2008 - 2009",
+                    "MERCEDES C320 CDI (C-Klasse, 204) Year of manufacture 2007 - 2009",
+                    "MERCEDES C320 CDI T-Modell (C-Klasse, 204) Year of manufacture 2007 - 2009 Engine code 642.960",
+                    "MERCEDES E220 CDI (E-Klasse, 211) Year of manufacture 2006 - 2007 Engine code 646.821",
+                    "MERCEDES E220 CDI T-Modell (E-Klasse, 211) Year of manufacture 2007 - 2008",
+                    "MERCEDES E300 BlueTec (E-Klasse, 211) Year of manufacture 2007 - 2009",
+                    "MERCEDES E320 CDI 4MATIC T-Modell (E-Klasse, 211) Year of manufacture 2008",
+                    "MERCEDES G320 CDI Cabrio (G-Klasse, 463) Year of manufacture 2007",
+                    "MERCEDES G320 CDI (G-Klasse, 463) Year of manufacture 2008 - 2010",
+                    "MERCEDES ML320 CDI 4MATIC (M-Klasse, 164) Year of manufacture 2008",
+                    "MERCEDES ML420 CDI 4MATIC (M-Klasse, 164) Year of manufacture 2006",
+                    "MERCEDES S420 CDI (S-Klasse, 221) Year of manufacture 2006 - 2007 Engine code 629.911 TCU code 629.911"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/turbo-charger-actuator/mercedes-6nw009420-hella-712120-104901.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "6NW 009 420",
+                            "6NW009420"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "712120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2510",
+                        "fault_description": "Boost pressure regulator component defective"
+                    },
+                    {
+                        "fault_code": "2510-001",
+                        "fault_description": "Check boost pressure regulator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 120 CDI (Vito, 639) Year of manufacture 2007 - 2008",
+                    "MERCEDES 211 CDI (Sprinter, 906) Year of manufacture 2006",
+                    "MERCEDES 218 CDI (Sprinter, 906) Year of manufacture 2006 - 2018 Engine code 642.992",
+                    "MERCEDES 311 CDI (Sprinter, 906) Year of manufacture 2008",
+                    "MERCEDES 318 CDI (Sprinter, 906) Engine code 642.992 TCU code 642.992",
+                    "MERCEDES 518 CDI (Sprinter, 906) Year of manufacture 2008 - 2009",
+                    "MERCEDES C200 CDI Sportcoupe (C-Klasse, 203)",
+                    "MERCEDES C200 CDI T-Modell (C-Klasse, 203) Year of manufacture 2007",
+                    "MERCEDES C220 CDI (C-Klasse, 203) Year of manufacture 2005 - 2007",
+                    "MERCEDES C220 CDI T-Modell (C-Klasse, 203) Year of manufacture 2007",
+                    "MERCEDES C320 CDI (C-Klasse, 203) Year of manufacture 2006 Engine code 642.910",
+                    "MERCEDES C320 CDI T-Modell (C-Klasse, 203) Year of manufacture 2005 - 2007",
+                    "MERCEDES CLK320 CDI (CLK-Klasse, 209) Year of manufacture 2006 - 2008 Engine code 642.910",
+                    "MERCEDES CLK320 CDI Cabrio (CLK-Klasse, 209)",
+                    "MERCEDES CLS320 CDI (CLS-Klasse, 219) Engine code 642.920 TCU code 642.920",
+                    "MERCEDES E220 CDI (E-Klasse, 211) Year of manufacture 2006",
+                    "MERCEDES E220 CDI T-Modell (E-Klasse, 211) Year of manufacture 2006",
+                    "MERCEDES E280 CDI 4MATIC (E-Klasse, 211) Engine code 642.921 TCU code 642.921",
+                    "MERCEDES E280 CDI 4MATIC T-Modell (E-Klasse, 211) Year of manufacture 2007 - 2008",
+                    "MERCEDES E280 CDI (E-Klasse, 211) Engine code 642.920",
+                    "MERCEDES E280 CDI T-Modell (E-Klasse, 211) Engine code 642.920",
+                    "MERCEDES E320 CDI 4MATIC (E-Klasse, 211) Year of manufacture 2005 - 2009 Engine code 642.921",
+                    "MERCEDES E320 CDI 4MATIC T-Modell (E-Klasse, 211) Year of manufacture 2007 - 2009",
+                    "MERCEDES E320 CDI (E-Klasse, 211) Year of manufacture 2005 - 2009 Engine code 642.920",
+                    "MERCEDES E320 CDI T-Modell (E-Klasse, 211) Year of manufacture 2005 - 2009 Engine code 642.920 TCU code 642.920",
+                    "MERCEDES E350 CDI (E-Klasse, 212) Year of manufacture 2010 - 2011",
+                    "MERCEDES E350 CDI T-Modell (E-Klasse, 212) Year of manufacture 2010",
+                    "MERCEDES GL320 CDI 4MATIC (GL-Klasse, 164) Year of manufacture 2007 - 2008",
+                    "MERCEDES GLK320 CDI 4MATIC (GLK-Klasse, 204) Year of manufacture 2008 - 2009",
+                    "MERCEDES ML270 CDI (M-Klasse, 163) Year of manufacture 2005",
+                    "MERCEDES ML280 CDI 4MATIC (M-Klasse, 164) Year of manufacture 2006 - 2009",
+                    "MERCEDES ML320 CDI 4MATIC (M-Klasse, 164) Engine code 642.940 TCU code 642.940",
+                    "MERCEDES ML400 CDI (M-Klasse, 163) Year of manufacture 2005",
+                    "MERCEDES R280 CDI 4MATIC (R-Klasse, 251) Year of manufacture 2007",
+                    "MERCEDES R280 CDI (R-Klasse, 251) Year of manufacture 2009",
+                    "MERCEDES R300 CDI 4MATIC (R-Klasse, 251) Year of manufacture 2008 - 2009",
+                    "MERCEDES R320 CDI 4MATIC (R-Klasse, 251) Year of manufacture 2005 - 2009 Engine code 642.950",
+                    "MERCEDES S320 CDI 4MATIC L (S-Klasse, 221) Year of manufacture 2006 - 2007 Engine code 642.932",
+                    "MERCEDES S320 CDI 4MATIC (S-Klasse, 221) Year of manufacture 2008",
+                    "MERCEDES S320 CDI (S-Klasse, 221) Year of manufacture 2006 - 2008",
+                    "MERCEDES Viano 3.0 CDI (Viano, 639) Year of manufacture 2006 - 2008",
+                    "MERCEDES Vito 120 CDI (Viano, 639) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/turbo-charger-actuator/mercedes-6nw009543-hella-763797-117184.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "6NW 009 543",
+                            "6NW009543"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "763797"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2510",
+                        "fault_description": "Boost pressure regulator component defective"
+                    },
+                    {
+                        "fault_code": "2510-001",
+                        "fault_description": "Check boost pressure regulator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES C350 CDI T-Modell (C-Klasse, 204) Year of manufacture 2011",
+                    "MERCEDES CLS350 D (CLS-Klasse, 218)",
+                    "MERCEDES E300 CDI T-Modell (E-Klasse, 212) Year of manufacture 2012 - 2013",
+                    "MERCEDES E350 BLUETEC 4MATIC (E-Klasse, 212) Year of manufacture 2013",
+                    "MERCEDES E350 BlueTec T-Modell (E-Klasse, 212) Year of manufacture 2014 - 2016",
+                    "MERCEDES E350 CDI BlueTEC Coupe (E-Klasse, 207)",
+                    "MERCEDES E350 CDI (E-Klasse, 212) Year of manufacture 2012",
+                    "MERCEDES E350 CDI T-Modell (E-Klasse, 212) Year of manufacture 2010 - 2012",
+                    "MERCEDES E350d (E-Klasse, 213) Year of manufacture 2017",
+                    "MERCEDES GL350 CDI 4MATIC (GL-Klasse, 164) Year of manufacture 2012",
+                    "MERCEDES GL350 d (GL-Klasse, 166) Year of manufacture 2013 - 2016",
+                    "MERCEDES GLC350 d 4MATIC (GLC-Klasse, 253) Year of manufacture 2019",
+                    "MERCEDES GLK350 CDI 4MATIC (GLK-Klasse, 204) Year of manufacture 2013",
+                    "MERCEDES ML350 BLUETEC 4MATIC (M-Klasse, 166) Year of manufacture 2011 - 2015",
+                    "MERCEDES S350 BLUETEC 4MATIC (S-Klasse, 221) Year of manufacture 2011 - 2013",
+                    "MERCEDES S350 BLUETEC (S-Klasse, 221) Year of manufacture 2011 - 2012",
+                    "MERCEDES S350 d 4MATIC (S-Klasse, 222) Year of manufacture 2015 - 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/turbo-charger-actuator/mercedes-6nw009550-hella-767649-124491.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "6NW 009 550",
+                            "6NW009550"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "767649"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2510",
+                        "fault_description": "Boost pressure regulator component defective"
+                    },
+                    {
+                        "fault_code": "2510-001",
+                        "fault_description": "Check boost pressure regulator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/turbo-charger-actuator/mercedes-6nw009660-hella-781751-108216.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "6NW 009 660",
+                            "6NW009660"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "781751"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2510",
+                        "fault_description": "Boost pressure regulator component defective"
+                    },
+                    {
+                        "fault_code": "2510-001",
+                        "fault_description": "Check boost pressure regulator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 109 CDI (Vito, 639)",
+                    "MERCEDES 122 CDI (Vito, 639) Year of manufacture 2011 - 2014",
+                    "MERCEDES 318 CDI (Sprinter, 906) Year of manufacture 2009",
+                    "MERCEDES 319 CDI (Sprinter, 906)",
+                    "MERCEDES C300 CDI 4MATIC T-Modell (C-Klasse, 204) Year of manufacture 2013",
+                    "MERCEDES C320 CDI (C-Klasse, 203) Year of manufacture 2005",
+                    "MERCEDES C350 CDI 4MATIC (C-Klasse, 204) Year of manufacture 2010",
+                    "MERCEDES CLK320 CDI Cabrio (CLK-Klasse, 209) Year of manufacture 2007",
+                    "MERCEDES CLS320 CDI Coupe (CLS-Klasse, 219) Year of manufacture 2006 - 2010",
+                    "MERCEDES E280 CDI 4MATIC T-Modell (E-Klasse, 211) Year of manufacture 2006 - 2008",
+                    "MERCEDES E280 CDI T-Modell (E-Klasse, 211) Year of manufacture 2005 - 2008",
+                    "MERCEDES E300 CDI (E-Klasse, 212) Year of manufacture 2010",
+                    "MERCEDES E300 CDI T-Modell (E-Klasse, 212) Year of manufacture 2009 - 2011",
+                    "MERCEDES E320 CDI 4MATIC T-Modell (E-Klasse, 211) Year of manufacture 2006 - 2007",
+                    "MERCEDES E320 CDI (E-Klasse, 211) Year of manufacture 2006",
+                    "MERCEDES E320 CDI T-Modell (E-Klasse, 211) Engine code 642.920 TCU code 642.920",
+                    "MERCEDES E350 CDI 4MATIC (E-Klasse, 212) Year of manufacture 2010",
+                    "MERCEDES E350 CDI Cabrio (E-Klasse, 207) Year of manufacture 2010",
+                    "MERCEDES E350 CDI Coupe (E-Klasse, 207) Year of manufacture 2010",
+                    "MERCEDES E350 CDI (E-Klasse, 212) Year of manufacture 2009",
+                    "MERCEDES E350 CDI T-Modell (E-Klasse, 212) Year of manufacture 2010 - 2011",
+                    "MERCEDES G320 CDI (G-Klasse, 463) Year of manufacture 2007 - 2008",
+                    "MERCEDES GL320 CDI 4MATIC (GL-Klasse, 164) Year of manufacture 2007",
+                    "MERCEDES GL350 CDI 4MATIC (GL-Klasse, 164) Year of manufacture 2010 - 2012",
+                    "MERCEDES GLK320 CDI 4MATIC (GLK-Klasse, 204) Year of manufacture 2009",
+                    "MERCEDES GLK350 CDI 4MATIC (GLK-Klasse, 204) Year of manufacture 2009 - 2011",
+                    "MERCEDES ML280 CDI 4MATIC (M-Klasse, 164) Year of manufacture 2005 - 2008",
+                    "MERCEDES ML280 CDI (M-Klasse, 164) Year of manufacture 2006 - 2007",
+                    "MERCEDES ML320 CDI 4MATIC (M-Klasse, 164) Engine code 642.940 TCU code 642.940",
+                    "MERCEDES ML350 CDI 4MATIC (M-Klasse, 164) Year of manufacture 2010 - 2011",
+                    "MERCEDES R320 CDI 4MATIC (R-Klasse, 251) Year of manufacture 2006 - 2009",
+                    "MERCEDES Viano 3.0 CDI (Viano, 639) Year of manufacture 2009 - 2012"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "control unit idle stabilisation type 126 / 107",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+unit+idle+stabilisation+type+126+107-236078.ts1628713814.jpg",
+        "product_link": "https://ecu.eu/mercedes/other-electronics-2808/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107-5312",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0025450132-vdo-412202002001-117178.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 01 32",
+                            "0025450132"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.202/002/001",
+                            "412202002001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Idle speed is not maintained"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "engine is hunting at idle speed"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "idle speed too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "total failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 380SEC (S-Klasse, 126) Year of manufacture 1982",
+                    "MERCEDES 380SL (SL-Klasse, 107) Year of manufacture 1980 - 1985",
+                    "MERCEDES (SL-Klasse) Year of manufacture 1985"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0025450132-vdo-412202002002-145607.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 01 32",
+                            "0025450132"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.202/002/002",
+                            "412202002002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Idle speed is not maintained"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "engine is hunting at idle speed"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "idle speed too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "total failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0025450732-vdo-412202006001-117176.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 07 32",
+                            "0025450732"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.202/006/001",
+                            "412202006001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Idle speed is not maintained"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "engine is hunting at idle speed"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "idle speed too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "total failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 380SE (S-Klasse, 126) Year of manufacture 1982 - 1983",
+                    "MERCEDES 380SEC (S-Klasse, 126) Year of manufacture 1982 - 1986",
+                    "MERCEDES 380SEL (S-Klasse, 126) Year of manufacture 1982",
+                    "MERCEDES 380SL (SL-Klasse, 107) Year of manufacture 1983 - 1984",
+                    "MERCEDES 380SLC Coupe (SL-Klasse, 107) Year of manufacture 1984",
+                    "MERCEDES 500SE (S-Klasse, 126) Year of manufacture 1982 - 1983",
+                    "MERCEDES 500SEC (S-Klasse, 126) Year of manufacture 1982 - 1984",
+                    "MERCEDES 500SEL (S-Klasse, 126) Year of manufacture 1982 - 1983",
+                    "MERCEDES 500SL Roadster (SL-Klasse, 107) Year of manufacture 1982 - 1984"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0025453332-vdo-412202010001-117174.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 33 32",
+                            "0025453332"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.202/010/001",
+                            "412202010001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Idle speed is not maintained"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "engine is hunting at idle speed"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "idle speed too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "total failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 380SE (S-Klasse, 126) Year of manufacture 1985",
+                    "MERCEDES 380SL (SL-Klasse, 107) Year of manufacture 1981 - 1993",
+                    "MERCEDES 500SEC (S-Klasse, 126) Year of manufacture 1984",
+                    "MERCEDES 500SEL (S-Klasse, 126)",
+                    "MERCEDES 500SL Roadster (SL-Klasse, 107) Year of manufacture 1983 - 1985"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0025453332-vdo-412202010002-117177.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 33 32",
+                            "0025453332"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412 202/010/002",
+                            "412202010002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Idle speed is not maintained"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "engine is hunting at idle speed"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "idle speed too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "total failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 380SL (SL-Klasse, 107) Year of manufacture 1982 - 1985"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0025454032-vdo-412202012001-117172.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 40 32",
+                            "0025454032"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.202/012/001",
+                            "412202012001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Idle speed is not maintained"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "engine is hunting at idle speed"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "idle speed too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "total failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 380SE (S-Klasse, 126) Year of manufacture 1979 - 1985 Engine code 116.963 TCU code 116.963",
+                    "MERCEDES 380SEC (S-Klasse, 126) Year of manufacture 1981 - 1985 Engine code 116.963",
+                    "MERCEDES 380SEL (S-Klasse, 126) Year of manufacture 1984 - 1985",
+                    "MERCEDES 380SL (SL-Klasse, 107)",
+                    "MERCEDES 500SE (S-Klasse, 126) Year of manufacture 1982 - 1985",
+                    "MERCEDES 500SEC (S-Klasse, 126) Year of manufacture 1981 - 1985",
+                    "MERCEDES 500SEL (S-Klasse, 126) Year of manufacture 1982 - 1986",
+                    "MERCEDES 500SL Roadster (SL-Klasse, 107) Year of manufacture 1982 - 1985"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0025454032-vdo-412202012001-125522.html",
+                "part_numbers": [],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Idle speed is not maintained"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "engine is hunting at idle speed"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "idle speed too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "total failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 380SE (S-Klasse, 126) Year of manufacture 1979 - 1985 Engine code 116.963 TCU code 116.963",
+                    "MERCEDES 380SEC (S-Klasse, 126) Year of manufacture 1981 - 1985 Engine code 116.963",
+                    "MERCEDES 380SEL (S-Klasse, 126) Year of manufacture 1984 - 1985",
+                    "MERCEDES 380SL (SL-Klasse, 107)",
+                    "MERCEDES 500SE (S-Klasse, 126) Year of manufacture 1982 - 1985",
+                    "MERCEDES 500SEC (S-Klasse, 126) Year of manufacture 1981 - 1985",
+                    "MERCEDES 500SEL (S-Klasse, 126) Year of manufacture 1982 - 1986",
+                    "MERCEDES 500SL Roadster (SL-Klasse, 107) Year of manufacture 1982 - 1985"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0025454032-vdo-412202012003-117175.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 40 32",
+                            "0025454032"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.202/012/003",
+                            "412202012003"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Idle speed is not maintained"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "engine is hunting at idle speed"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "idle speed too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "total failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 380SL (SL-Klasse, 107) Year of manufacture 1984 - 1985",
+                    "MERCEDES 500SL Roadster (SL-Klasse, 107) Year of manufacture 1984 - 1985"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0025457232-vdo-412202012002-130982.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 72 32",
+                            "0025457232"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.202/012/002",
+                            "412202012002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Idle speed is not maintained"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "engine is hunting at idle speed"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "idle speed too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "total failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 500SEC (S-Klasse, 126) Year of manufacture 1984 - 1985",
+                    "MERCEDES 500SEL (S-Klasse, 126) Year of manufacture 1984 - 1985"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0045451032-vdo-412214001001-126550.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "004 545 10 32",
+                            "0045451032"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.214/001/001",
+                            "412214001001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 420SL Roadster (SL-Klasse, 107) Year of manufacture 1986",
+                    "MERCEDES 500SE (S-Klasse, 126) Year of manufacture 1986",
+                    "MERCEDES 500SL Roadster (SL-Klasse, 107) Year of manufacture 1986 - 1987"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0045451132-vdo-412214001002-124912.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "004 545 11 32",
+                            "0045451132"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.214/001/002",
+                            "412214001002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 560 SL (SL-Klasse, 107) Year of manufacture 1986",
+                    "MERCEDES 560SEL (S-Klasse, 126) Year of manufacture 1986 - 1987"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0065458432-vdo-412214001003-117173.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "006 545 84 32",
+                            "0065458432"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.214/001/003",
+                            "412214001003"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 420SE (S-Klasse, 126) Year of manufacture 1988 - 1990",
+                    "MERCEDES 420SEC (S-Klasse, 126) Year of manufacture 1987",
+                    "MERCEDES 500SE (S-Klasse, 126) Year of manufacture 1991",
+                    "MERCEDES 560SE (S-Klasse, 126) Year of manufacture 1989",
+                    "MERCEDES 560SEC (S-Klasse, 126) Year of manufacture 1989 - 1991"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-0065458532-vdo-412214001004-131246.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "006 545 85 32",
+                            "0065458532"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.214/001/004",
+                            "412214001004"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/control-unit-idle-stabilisation-type-126-107/mercedes-vdo-412202006002-135001.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES",
+                        "numbers": []
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.202/006/002",
+                            "412202006002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Idle speed is not maintained"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "engine is hunting at idle speed"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "idle speed too high"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "total failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "cruise control unit",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/cruise+control+unit-96138.ts1628725249.jpg",
+        "product_link": "https://ecu.eu/mercedes/other-electronics-2808/mercedes/other-electronics/cruise-control-unit-5310",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0015450632-vdo-41220311-123553.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 06 32",
+                            "0015450632"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.203/1/1",
+                            "41220311"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0015452032-vdo-41220313-131311.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 20 32",
+                            "0015452032"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.203/1/3",
+                            "41220313"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 350SL Roadster (SL-Klasse, 107) Year of manufacture 1977",
+                    "MERCEDES 450SEL 6.9 (S-Klasse, 116) Year of manufacture 1976",
+                    "MERCEDES 450SL Roadster (SL-Klasse, 107) Year of manufacture 1977 - 1980"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0015452132-vdo-41220314-117161.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 21 32",
+                            "0015452132"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.203/1/4",
+                            "41220314"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 280SL Roadster (SL-Klasse, 107) Year of manufacture 1980",
+                    "MERCEDES 300CD (123er, 123) Year of manufacture 1980",
+                    "MERCEDES 500SEC (S-Klasse, 126)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0015457632-vdo-41220512-117160.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 76 32",
+                            "0015457632"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.205/1/2",
+                            "41220512"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 280SE (S-Klasse, 126) Year of manufacture 1983",
+                    "MERCEDES 280SL (SL-Klasse, 107) Year of manufacture 1983",
+                    "MERCEDES 380SE (S-Klasse, 126) Year of manufacture 1983 Engine code 116.963 TCU code 116.963",
+                    "MERCEDES 380SL (SL-Klasse, 107) Year of manufacture 1983",
+                    "MERCEDES 500SE (S-Klasse, 126) Year of manufacture 1987",
+                    "MERCEDES 500SL Roadster (SL-Klasse, 107) Year of manufacture 1981",
+                    "MERCEDES 500SLC (SL-Klasse, 107) Year of manufacture 1980"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0015457932-vdo-412205001001-132018.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 79 32",
+                            "0015457932"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.205/001/001",
+                            "412205001001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0025451632-vdo-41220514-132466.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 16 32",
+                            "0025451632"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.205/1/4",
+                            "41220514"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 300SD Turbo (S-Klasse, 126) Year of manufacture 1982",
+                    "MERCEDES 500SEC (S-Klasse, 126) Year of manufacture 1983",
+                    "MERCEDES 500SL Roadster (SL-Klasse, 107) Year of manufacture 1984"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0025453232-vdo-41220516-136584.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 32 32",
+                            "0025453232"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.205/1/6",
+                            "41220516"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0025453732-vdo-412203114-117158.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 37 32",
+                            "0025453732"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.203/1/14",
+                            "412203114"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0025459132-vdo-41220572-124816.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 91 32",
+                            "0025459132"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.205/7/2",
+                            "41220572"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES E300 Turbodiesel T-Modell (124er, 124) Year of manufacture 1992"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0035450732-vdo-41220574-117155.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 07 32",
+                            "0035450732"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.205/7/4",
+                            "41220574"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 280SL Roadster (SL-Klasse, 107) Year of manufacture 1985",
+                    "MERCEDES 300SE (S-Klasse, 126) Year of manufacture 1987",
+                    "MERCEDES 300SL Roadster (SL-Klasse, 107) Year of manufacture 1986 - 1989",
+                    "MERCEDES 380SL (SL-Klasse, 107) Year of manufacture 1984 - 1985",
+                    "MERCEDES 420SE (S-Klasse, 126) Year of manufacture 1986",
+                    "MERCEDES 420SL Roadster (SL-Klasse, 107) Year of manufacture 1986",
+                    "MERCEDES 500SE (S-Klasse, 126) Year of manufacture 1983",
+                    "MERCEDES 560SEC (S-Klasse, 126) Year of manufacture 1986 - 1987"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0035450832-vdo-41220573-148064.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 08 32",
+                            "0035450832"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.205/7/3",
+                            "41220573"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 230 TE (123er, 123) Year of manufacture 1984"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0035450832-vdo-41220575-128684.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 08 32",
+                            "0035450832"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.205/7/5",
+                            "41220575"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 280 (123er, 123) Year of manufacture 1983"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0035450932-vdo-41220575-117159.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 09 32",
+                            "0035450932"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.205/7/5",
+                            "41220575"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 200T (123er, 123)",
+                    "MERCEDES 300E (124er, 124) Year of manufacture 1985 - 1987",
+                    "MERCEDES 500SE (S-Klasse, 126) Year of manufacture 1985 - 1986",
+                    "MERCEDES 500SEL (S-Klasse, 126) Year of manufacture 1984",
+                    "MERCEDES 500SL Roadster (SL-Klasse, 107) Year of manufacture 1983 - 1986",
+                    "MERCEDES 560SL Roadster (SL-Klasse, 107) Year of manufacture 1986 - 1987"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0035458632-vdo-41220577-134582.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 86 32",
+                            "0035458632"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.205/7/7",
+                            "41220577"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0045452432-vdo-41220578-139905.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "004 545 24 32",
+                            "0045452432"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.205/7/8",
+                            "41220578"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 300D Turbo (124er, 124) Year of manufacture 1988",
+                    "MERCEDES 300TD (124er, 124) Year of manufacture 1988"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0055450532-vdo-41221211-117154.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "005 545 05 32",
+                            "0055450532"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.212/1/1",
+                            "41221211"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 190E 1.8 (190er, 201) Year of manufacture 1992",
+                    "MERCEDES 190E 2.0 (190er, 201) Year of manufacture 1991",
+                    "MERCEDES 190E 2.3 (190er, 201) Year of manufacture 1991",
+                    "MERCEDES 190E 2.6 (190er, 201) Year of manufacture 1991",
+                    "MERCEDES 200E (124er, 124)",
+                    "MERCEDES 230CE Coupe (124er, 124) Year of manufacture 1990",
+                    "MERCEDES 230E (124er, 124) Year of manufacture 1988 - 1992",
+                    "MERCEDES 230TE (124er, 124) Year of manufacture 1988 - 1992",
+                    "MERCEDES 250D (124er, 124) Year of manufacture 1993",
+                    "MERCEDES 260E (124er, 124) Year of manufacture 1991",
+                    "MERCEDES 300CE (124er, 124) Year of manufacture 1989 - 1992",
+                    "MERCEDES 300CE-24 (124er, 124) Year of manufacture 1991",
+                    "MERCEDES 300CE-24 Cabrio (124er, 124) Year of manufacture 1993",
+                    "MERCEDES 300D (124er, 124)",
+                    "MERCEDES 300D Turbo (124er, 124) Year of manufacture 1993",
+                    "MERCEDES 300E (124er, 124) Year of manufacture 1985 - 1991 Engine code 103.980",
+                    "MERCEDES 300SE (S-Klasse, 126) Year of manufacture 1987 - 1991",
+                    "MERCEDES 300TE (124er, 124) Year of manufacture 1989 - 1992",
+                    "MERCEDES 300TE-24 (124er, 124) Year of manufacture 1991 - 1993",
+                    "MERCEDES 420SL Roadster (SL-Klasse, 107) Year of manufacture 1987",
+                    "MERCEDES 500SE (S-Klasse, 126) Year of manufacture 1986",
+                    "MERCEDES 500SEC (S-Klasse, 126) Year of manufacture 1989",
+                    "MERCEDES 560 SL (SL-Klasse, 107) Year of manufacture 1988",
+                    "MERCEDES 560SEC (S-Klasse, 126) Year of manufacture 1987 - 1991",
+                    "MERCEDES 560SEL (S-Klasse, 126) Year of manufacture 1989 - 1991",
+                    "MERCEDES 560SL Roadster (SL-Klasse, 107) Year of manufacture 1987 - 1989",
+                    "MERCEDES E220 Coupe (124er, 124) Year of manufacture 1993",
+                    "MERCEDES E300 Turbodiesel T-Modell (124er, 124) Year of manufacture 1991 - 1993"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0055451232-vdo-41221611-134328.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "005 545 12 32",
+                            "0055451232"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.216/1/1",
+                            "41221611"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0075454332-vdo-412212009001-125068.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "007 545 43 32",
+                            "0075454332"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.212/009/001",
+                            "412212009001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 300SL (SL-Klasse, 129) Year of manufacture 1991 - 1993",
+                    "MERCEDES 300SL-24 (SL-Klasse, 129) Year of manufacture 1991 - 1993",
+                    "MERCEDES 500SL (SL-Klasse, 129) Year of manufacture 1990 - 1991"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0145453932-vdo-412212009002-123654.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "014 545 39 32",
+                            "0145453932"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.212/009/002",
+                            "412212009002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES G300 D (G-Klasse, 463) Year of manufacture 1995",
+                    "MERCEDES G350 DT (G-Klasse, 463) Year of manufacture 1993"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/cruise-control-unit/mercedes-0145454032-vdo-412212001004-117157.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "014 545 40 32",
+                            "0145454032"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "412.212/001/004",
+                            "412212001004"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "cruise control no function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES E200 (124er, 124) Year of manufacture 1995",
+                    "MERCEDES E200 Cabrio (124er, 124) Year of manufacture 1994 - 1997",
+                    "MERCEDES E220 (124er, 124) Year of manufacture 1993 - 1995",
+                    "MERCEDES E220 Cabrio (124er, 124) Year of manufacture 1994 - 1997",
+                    "MERCEDES E220 Coupe (124er, 124) Year of manufacture 1994",
+                    "MERCEDES E300 Turbodiesel T-Modell (124er, 124) Year of manufacture 1994"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "fuel pump relay",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/fuel+pump+relay-96141.ts1628725249.jpg",
+        "product_link": "https://ecu.eu/mercedes/other-electronics-2808/mercedes/other-electronics/fuel-pump-relay-5311",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0015451805-lk-117166.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 18 05",
+                            "0015451805"
+                        ]
+                    },
+                    {
+                        "title": "LK",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0015452805-lk-05898700-126547.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 28 05",
+                            "0015452805"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "05 8987 00",
+                            "05898700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 230GE (G-Klasse, 460) Year of manufacture 1983 - 1985"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0015453405-05896376-121417.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 34 05",
+                            "0015453405"
+                        ]
+                    },
+                    {
+                        "title": "Part number",
+                        "numbers": [
+                            "05 8963 76",
+                            "05896376"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0015453605-bosch-896377-147498.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 36 05",
+                            "0015453605"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "89 6377",
+                            "896377"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0015454105-siemens-5wk2245-145236.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 41 05",
+                            "0015454105"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WK2 245",
+                            "5WK2245"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 230CE (123er, 123) Year of manufacture 1982"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0015456705-898301-152893.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 67 05",
+                            "0015456705"
+                        ]
+                    },
+                    {
+                        "title": "Part number",
+                        "numbers": [
+                            "89 83 01",
+                            "898301"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 230 TE (123er, 123) Year of manufacture 1984",
+                    "MERCEDES 230CE (123er, 123) Year of manufacture 1983",
+                    "MERCEDES 230E (123er, 123) Year of manufacture 1982 - 1983"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0015456705-lk-05898531-124786.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 67 05",
+                            "0015456705"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "05 8985 31",
+                            "05898531"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 230CE (123er, 123) Year of manufacture 1982 - 1984",
+                    "MERCEDES 230E (123er, 123) Year of manufacture 1984"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0015456705-siemens-5wk2248-153488.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 67 05",
+                            "0015456705"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WK2 248",
+                            "5WK2248"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 230E (123er, 123) Year of manufacture 1984"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0015456805-lk-898302-6650min6zyl12vmtacho-142240.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 68 05",
+                            "0015456805"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "898302"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "6650/min 6Zyl. 12V M-Tacho",
+                            "6650min6Zyl12VMTacho"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 280CE (123er, 123) Year of manufacture 1982 - 1984",
+                    "MERCEDES 280TE (123er, 123) Year of manufacture 1983"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0025451605-lk-117167.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 16 05",
+                            "0025451605"
+                        ]
+                    },
+                    {
+                        "title": "LK",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 420SEL (S-Klasse, 126) Year of manufacture 1989"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0025452105-lk-05895654-117170.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 21 05",
+                            "0025452105"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "05 8956 54",
+                            "05895654"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 190E 2.0 (190er, 201) Year of manufacture 1989"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0025453305-lk-05895660-117165.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 33 05",
+                            "0025453305"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "05 8956 60",
+                            "05895660"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 420SL Roadster (SL-Klasse, 107) Year of manufacture 1986",
+                    "MERCEDES 500SEC (S-Klasse, 126) Year of manufacture 1982"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0025457205-lk-05895666-145233.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 72 05",
+                            "0025457205"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "05 8956 66",
+                            "05895666"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0035450205-lk-05370100-117164.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 02 05",
+                            "0035450205"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "05 3701 00",
+                            "05370100"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 230GE (G-Klasse, 461) Year of manufacture 1990 - 1996"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0035450205-lk-05370400-24v-117163.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 02 05",
+                            "0035450205"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "05 3704 00",
+                            "05370400"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "24V"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 230GE (G-Klasse, 461) Year of manufacture 1992"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0035450705-lk-05895672-123712.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 07 05",
+                            "0035450705"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "05 8956 72",
+                            "05895672"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0035451405-lk-117169.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 14 05",
+                            "0035451405"
+                        ]
+                    },
+                    {
+                        "title": "LK",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0035452005-lk-05370201-147261.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 20 05",
+                            "0035452005"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "05 3702 01",
+                            "05370201"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0035452205-lk-05370203-140820.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 22 05",
+                            "0035452205"
+                        ]
+                    },
+                    {
+                        "title": "LK - Part number",
+                        "numbers": [
+                            "05 3702 03",
+                            "05370203"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 190E 2.3 (190er, 201) Year of manufacture 1985"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/other-electronics/fuel-pump-relay/mercedes-0035452405-898182-136042.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 24 05",
+                            "0035452405"
+                        ]
+                    },
+                    {
+                        "title": "Part number",
+                        "numbers": [
+                            "89 81 82",
+                            "898182"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Vehilcle intermittently turns off while driving and/or sporadically doesn't start"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "faulty control of the fuel pump"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 300SE (S-Klasse, 126) Year of manufacture 1989"
+                ]
+            }
+        ]
+    }
+]

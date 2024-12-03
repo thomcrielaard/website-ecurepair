@@ -1,0 +1,407 @@
+[
+    {
+        "part_name": "IDM CR inspuitregelunit.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/idm+cr+injection+control+unit-207748.ts1628713196.jpg",
+        "product_link": "https://ecu.eu/toyota/miscellaneous-3066/toyota/miscellaneous/idm-cr-injection-control-unit-5865",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987042070-denso-129651.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "89870-42070",
+                            "8987042070"
+                        ]
+                    },
+                    {
+                        "title": "Denso.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1271",
+                        "fault_description": "Brandstofregelaarcircuit storing (EDU Drive)."
+                    },
+                    {
+                        "fault_code": "P1272",
+                        "fault_description": "Brandstofdrukregelaar storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001562-124455.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "89871-20080",
+                            "8987120080"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "131000-1562",
+                            "1310001562"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1271",
+                        "fault_description": "Brandstofregelaarcircuit storing (EDU Drive)."
+                    },
+                    {
+                        "fault_code": "P1272",
+                        "fault_description": "Brandstofdrukregelaar storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Toyota Auris 2.0 D-4D (Auris, E15) Bouwjaar 2009 - 2011",
+                    "Toyota Auris 2.2 D-CAT (Auris, E15) Bouwjaar 2010",
+                    "Toyota Avensis 2.0 D-CAT (Avensis, T27) Bouwjaar 2009 - 2022",
+                    "Toyota Avensis 2.2 D-CAT (Avensis, T27) Bouwjaar 2009 - 2013",
+                    "Toyota Corolla Verso 2.0 D-4D (Corolla Verso)",
+                    "Toyota Corolla Verso 2.2 D-CAT (Corolla Verso, R20) Bouwjaar 2009",
+                    "Toyota Land Cruiser 3.0 D-4D (Landcruiser, J15) Bouwjaar 2011",
+                    "Toyota RAV4 2.2 D-4D (RAV4, A3) Bouwjaar 2009 - 2011",
+                    "Toyota RAV4 2.2 D-CAT (RAV4, A3) Bouwjaar 2010",
+                    "Toyota Verso 2.0 D-4D (Verso) Bouwjaar 2010",
+                    "Toyota Verso 2.0 D-4D (Verso, R2) Bouwjaar 2009 - 2012",
+                    "Toyota Verso 2.2 D-4D (Verso, R2) Bouwjaar 2009 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001563-132071.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "89871-20080",
+                            "8987120080"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "131000-1563",
+                            "1310001563"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1271",
+                        "fault_description": "Brandstofregelaarcircuit storing (EDU Drive)."
+                    },
+                    {
+                        "fault_code": "P1272",
+                        "fault_description": "Brandstofdrukregelaar storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Toyota Avensis 2.0 D-CAT (Avensis, T27) Bouwjaar 2012",
+                    "Toyota RAV4 2.2 D-4D (RAV4, A3) Bouwjaar 2011",
+                    "Toyota Verso 2.0 D-4D (Verso, R2) Bouwjaar 2011 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001564-119450.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "89871-20080",
+                            "8987120080"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "131000-1564",
+                            "1310001564"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1271",
+                        "fault_description": "Brandstofregelaarcircuit storing (EDU Drive)."
+                    },
+                    {
+                        "fault_code": "P1272",
+                        "fault_description": "Brandstofdrukregelaar storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Toyota Avensis 2.2 D-CAT (Avensis, T27) Bouwjaar 2011",
+                    "Toyota RAV4 2.2 D-4D (RAV4, A3) Bouwjaar 2011",
+                    "Toyota Verso 2.0 D-4D (Verso, R2) Bouwjaar 2011",
+                    "Toyota Verso 2.2 D-4D (Verso, R2) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001565-128974.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "89871-20080",
+                            "8987120080"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "131000-1565",
+                            "1310001565"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1271",
+                        "fault_description": "Brandstofregelaarcircuit storing (EDU Drive)."
+                    },
+                    {
+                        "fault_code": "P1272",
+                        "fault_description": "Brandstofdrukregelaar storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Toyota Auris 2.0 D-4D (Auris, E15) Bouwjaar 2011",
+                    "Toyota Avensis 2.0 D-CAT (Avensis, T27) Bouwjaar 2011 - 2012",
+                    "Toyota Avensis 2.2 D-CAT (Avensis, T27) Bouwjaar 2012 - 2013",
+                    "Toyota Land Cruiser 3.0 D-4D (Landcruiser, J15) Bouwjaar 2012",
+                    "Toyota RAV4 2.2 D-4D (RAV4, A3) Bouwjaar 2011 - 2012",
+                    "Toyota RAV4 2.2 D-CAT (RAV4, A3) Bouwjaar 2011 - 2012",
+                    "Toyota Verso 2.0 D-4D (Verso, R2) Bouwjaar 2011 - 2012",
+                    "Toyota Verso 2.2 D-4D (Verso, R2) Bouwjaar 2011 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001566-119670.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "89871-20080",
+                            "8987120080"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "131000-1566",
+                            "1310001566"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1271",
+                        "fault_description": "Brandstofregelaarcircuit storing (EDU Drive)."
+                    },
+                    {
+                        "fault_code": "P1272",
+                        "fault_description": "Brandstofdrukregelaar storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Toyota Auris 2.0 D-4D (Auris, E15) Bouwjaar 2011 - 2012",
+                    "Toyota Auris 2.0 D-4D (Auris, E18) Bouwjaar 2013",
+                    "Toyota Auris 2.2 D-CAT (Auris, E15) Bouwjaar 2012",
+                    "Toyota Avensis 2.0 D-CAT (Avensis, T27) Bouwjaar 2012 - 2013",
+                    "Toyota Avensis 2.2 D-CAT (Avensis, T27) Bouwjaar 2010 - 2013",
+                    "Toyota Corolla Verso 2.2 D-CAT (Corolla Verso, R20) Bouwjaar 2012 - 2013",
+                    "Toyota Hilux 2.5 D-4D AWD (Hilux, N2) Bouwjaar 2012",
+                    "Toyota Hilux 2.5 D-4D (Hilux, N2) Bouwjaar 2013 - 2014",
+                    "Toyota Hilux 3.0 D-4D AWD (Hilux, N2) Bouwjaar 2013",
+                    "Toyota Hilux 3.0 D-4D (Hilux, N2) Bouwjaar 2012",
+                    "Toyota RAV4 2.2 D-4D (RAV4, A3) Bouwjaar 2010 - 2013",
+                    "Toyota RAV4 2.2 D-4D (RAV4, A4) Bouwjaar 2013",
+                    "Toyota RAV4 2.2 D-CAT (RAV4, A3) Bouwjaar 2010 - 2013",
+                    "Toyota Verso 2.0 D-4D (Verso) Bouwjaar 2013",
+                    "Toyota Verso 2.0 D-4D (Verso, R2) Bouwjaar 2010 - 2015",
+                    "Toyota Verso 2.2 D-4D (Verso, R2) Bouwjaar 2012 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001567-135779.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "89871-20080",
+                            "8987120080"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "131000-1567",
+                            "1310001567"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1271",
+                        "fault_description": "Brandstofregelaarcircuit storing (EDU Drive)."
+                    },
+                    {
+                        "fault_code": "P1272",
+                        "fault_description": "Brandstofdrukregelaar storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Toyota Hilux 3.0 D-4D AWD (Hilux, N2) Bouwjaar 2014",
+                    "Toyota Verso 2.2 D-4D (Verso, R2) Bouwjaar 2010 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001568-129456.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "89871-20080",
+                            "8987120080"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "131000-1568",
+                            "1310001568"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1271",
+                        "fault_description": "Brandstofregelaarcircuit storing (EDU Drive)."
+                    },
+                    {
+                        "fault_code": "P1272",
+                        "fault_description": "Brandstofdrukregelaar storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Toyota Auris 2.0 D-4D (Auris, E18) Bouwjaar 2014",
+                    "Toyota Hilux 3.0 D-4D (Hilux, N2) Bouwjaar 2015",
+                    "Toyota RAV4 2.2 D-4D (RAV4, A4) Bouwjaar 2014 - 2016",
+                    "Toyota Verso 2.0 D-4D (Verso, R2) Bouwjaar 2009",
+                    "Toyota Verso 2.2 D-4D (Verso, R2) Bouwjaar 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001569-136181.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "89871-20080",
+                            "8987120080"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "131000-1569",
+                            "1310001569"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1271",
+                        "fault_description": "Brandstofregelaarcircuit storing (EDU Drive)."
+                    },
+                    {
+                        "fault_code": "P1272",
+                        "fault_description": "Brandstofdrukregelaar storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Toyota Verso 2.0 D-4D (Verso, R2) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/miscellaneous/idm-cr-injection-control-unit/toyota-8987120080-denso-1310001840-148902.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Onderdeelnummer",
+                        "numbers": [
+                            "89871-20080",
+                            "8987120080"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Onderdeelnummer",
+                        "numbers": [
+                            "131000-1840",
+                            "1310001840"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1271",
+                        "fault_description": "Brandstofregelaarcircuit storing (EDU Drive)."
+                    },
+                    {
+                        "fault_code": "P1272",
+                        "fault_description": "Brandstofdrukregelaar storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Toyota Avensis 2.2 D-CAT (Avensis, T27) Bouwjaar 2013"
+                ]
+            }
+        ]
+    }
+]

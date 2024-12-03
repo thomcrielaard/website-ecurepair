@@ -1,0 +1,842 @@
+[
+    {
+        "part_name": "ABS 8.0.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+8+0-4104.ts1628718748.jpg",
+        "product_link": "https://ecu.eu/dacia/abs-asr-esp-control-unit-4771/dacia/abs-asr-esp-control-unit/abs-8.0-7196",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/abs-8.0/dacia-8200262807-bosch-0265800396-0265231488-150965.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "8200 262 807",
+                            "8200262807"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 396",
+                            "0265800396"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 231 488",
+                            "0265231488"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/abs-8.0/dacia-8200806980-bosch-0265800897-0265232380-709-153659.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "8200 806 980",
+                            "8200806980"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 897",
+                            "0265800897"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 232 380",
+                            "0265232380"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "709"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/abs-8.0/dacia-8200846463-bosch-0265800903-0265232384-133930.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "8200 846 463",
+                            "8200846463"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 903",
+                            "0265800903"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 232 384",
+                            "0265232384"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Duster I) Bouwjaar 2010 - 2012"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS 8.1.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+8+1-4104.ts1628718748.jpg",
+        "product_link": "https://ecu.eu/dacia/abs-asr-esp-control-unit-4771/dacia/abs-asr-esp-control-unit/abs-8.1-4773",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/abs-8.1/dacia-476604621r-bosch-0265801018-0265232718-709-117758.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "476604621R"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 801 018",
+                            "0265801018"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 232 718",
+                            "0265232718"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "709"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "50C3",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Sandero II) Bouwjaar 2009 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/abs-8.1/dacia-6001547861-bosch-118435.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "6001 547 861",
+                            "6001547861"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "50C3",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Sandero I) Bouwjaar 2006 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/abs-8.1/dacia-6001548610-bosch-118434.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "6001 548 610",
+                            "6001548610"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "50C3",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Sandero I) Bouwjaar 2006 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/abs-8.1/dacia-6001549506-bosch-118433.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "6001 549 506",
+                            "6001549506"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "50C3",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Sandero I) Bouwjaar 2006 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/abs-8.1/dacia-6001550913-bosch-118436.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "6001 550 913",
+                            "6001550913"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "50C3",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Sandero I) Bouwjaar 2006 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/abs-8.1/dacia-8200694434-bosch-0265800584-0265231993-111161.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "8200 694 434",
+                            "8200694434"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 584",
+                            "0265800584"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 231 993",
+                            "0265231993"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "50C3",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "C10C3",
+                        "fault_description": "Regelunit defect / spanning foutief (Gutmann 20675; DF017)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Sandero I) Bouwjaar 2006 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/abs-8.1/dacia-8200756092-bosch-0265800584-0265232110-909-146963.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "8200 756 092",
+                            "8200756092"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 584",
+                            "0265800584"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 232 110",
+                            "0265232110"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "909"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "50C3",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Sandero I) Bouwjaar 2006 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/abs-8.1/dacia-8200756095-bosch-0265800584-0265232198-709-118437.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "8200 756 095",
+                            "8200756095"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 584",
+                            "0265800584"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 232 198",
+                            "0265232198"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "709"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "50C3",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Sandero I) Bouwjaar 2006 - 2009"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4082.ts1628718747.jpg",
+        "product_link": "https://ecu.eu/dacia/abs-asr-esp-control-unit-4771/dacia/abs-asr-esp-control-unit/esp-8.0-6825",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/esp-8.0/dacia-8201226914-bosch-0265951938-0265252200-622-129946.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "8201 226 914",
+                            "8201226914"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 951 938",
+                            "0265951938"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 252 200",
+                            "0265252200"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "622"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Duster I)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/esp-8.0/dacia-8201288015-bosch-0265952073-0265252425-149323.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "8201 288 015",
+                            "8201288015"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 952 073",
+                            "0265952073"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 252 425",
+                            "0265252425"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Duster I) Bouwjaar 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/esp-8.0/dacia-8201304731-bosch-0265951938-0265252424-622-141940.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "8201 304 731",
+                            "8201304731"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 951 938",
+                            "0265951938"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 252 424",
+                            "0265252424"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "622"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De ESP-regelunit verzendt geen gegevens naar de CAN-bus en in andere regelunits worden foutcodes opgeslagen met betrekking tot een 'defecte CAN' van de ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 9.0.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+9+0-112771.ts1628711709.jpg",
+        "product_link": "https://ecu.eu/dacia/abs-asr-esp-control-unit-4771/dacia/abs-asr-esp-control-unit/esp-9.0-7331",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/esp-9.0/dacia-476602738r-bosch-0265956628-0265257337-148448.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "47660 2738 R",
+                            "476602738R"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 956 628",
+                            "0265956628"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 257 337",
+                            "0265257337"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Duster II) Bouwjaar 2019"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/dacia/abs-asr-esp-control-unit/esp-9.0/dacia-476608845r-bosch-0265956285-0265243681-269634-123912.html",
+                "part_numbers": [
+                    {
+                        "title": "Dacia",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Dacia - Part number",
+                        "numbers": [
+                            "47660 8845 R",
+                            "476608845R"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 956 285",
+                            "0265956285"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 243 681",
+                            "0265243681"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "269 634",
+                            "269634"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot remdruksensor opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Dacia (Duster I) Bouwjaar 2014 - 2015"
+                ]
+            }
+        ]
+    }
+]

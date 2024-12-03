@@ -1,0 +1,61 @@
+[
+    {
+        "part_name": "EUR.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/kia+motors+0k9a418200+mando+da114174-6245.ts1628718756.jpg",
+        "product_link": "https://ecu.eu/kia/ignition-distributor-engine-speed-sensor-2927",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/kia/ignition-distributor-engine-speed-sensor/kia-motors-0k9a418200-mando-da114174-107316.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "0K9A4 18 200",
+                            "0K9A418200"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "DA114174"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/ignition-distributor-engine-speed-sensor/kia-motors-kk37018200-mando-da124057-107315.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "KK370 18 200",
+                            "KK37018200"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "DA124057"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Pride 1.3i (Pride, DA) Bouwjaar 1997"
+                ]
+            }
+        ]
+    }
+]

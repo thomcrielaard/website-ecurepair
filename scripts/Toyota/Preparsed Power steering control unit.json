@@ -1,0 +1,529 @@
+[
+    {
+        "part_name": "Power Steering ECU Aygo",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/power+steering+ecu+aygo-751.ts1628722660.jpg",
+        "product_link": "https://ecu.eu/toyota/power-steering-control-unit-51/toyota/power-steering-control-unit/power-steering-ecu-aygo-4532",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/power-steering-ecu-aygo/toyota-896500h010-koyo-6900000521-fujitsu-ten-limited-2250000080-108220.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-0H010",
+                            "896500H010"
+                        ]
+                    },
+                    {
+                        "title": "Koyo - Part number",
+                        "numbers": [
+                            "6900000521"
+                        ]
+                    },
+                    {
+                        "title": "Fujitsu Ten Limited - Part number",
+                        "numbers": [
+                            "225000-0080",
+                            "2250000080"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "TOYOTA Aygo 1.0 VVT-i (Aygo, B1) Year of manufacture 2005 - 2018",
+                    "TOYOTA (Aygo) Year of manufacture 2008 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/power-steering-ecu-aygo/toyota-896500h011-jtekt-6900002387-fujitsu-ten-limited-2250001190-122242.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-0H011",
+                            "896500H011"
+                        ]
+                    },
+                    {
+                        "title": "JTEKT - Part number",
+                        "numbers": [
+                            "6900002387"
+                        ]
+                    },
+                    {
+                        "title": "Fujitsu Ten Limited - Part number",
+                        "numbers": [
+                            "225000-1190",
+                            "2250001190"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "TOYOTA Aygo 1.0 VVT-i (Aygo, B1) Year of manufacture 2012 - 2014",
+                    "TOYOTA Aygo 1.0 VVT-i (Aygo, B4) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/power-steering-ecu-aygo/toyota-896500h030-koyo-6900000544-103662.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-0H030",
+                            "896500H030"
+                        ]
+                    },
+                    {
+                        "title": "Koyo - Part number",
+                        "numbers": [
+                            "6900000544"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Power Steering control unit Auris",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/power+steering+control+unit+auris-5248.ts1628722667.jpg",
+        "product_link": "https://ecu.eu/toyota/power-steering-control-unit-51/toyota/power-steering-control-unit/power-steering-control-unit-auris-4533",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/power-steering-control-unit-auris/toyota-8965002390-denso-1129001780-108219.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-02390",
+                            "8965002390"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112900-1780",
+                            "1129001780"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "TOYOTA Auris 1.4 D-4D (Auris, E15) Year of manufacture 2008",
+                    "TOYOTA Auris 1.4 VVT-i (Auris, E15) Year of manufacture 2007 - 2009",
+                    "TOYOTA Auris 1.6 (Auris, E15) Year of manufacture 2008",
+                    "TOYOTA Auris 1.6 VVT-i (Auris, E15) Year of manufacture 2007 - 2017",
+                    "TOYOTA Auris 2.0 D-4D (Auris, E15) Year of manufacture 2007 - 2008",
+                    "TOYOTA Auris 2.2 D-CAT (Auris, E15) Year of manufacture 2007 - 2009",
+                    "TOYOTA Aygo 1.0 VVT-i (Aygo, B1) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/power-steering-control-unit-auris/toyota-8965002390-denso-1129001781-134842.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-02390",
+                            "8965002390"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112900-1781",
+                            "1129001781"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "TOYOTA Auris 1.4 VVT-i (Auris, E15) Year of manufacture 2008",
+                    "TOYOTA Auris 1.6 VVT-i (Auris, E15) Year of manufacture 2008",
+                    "TOYOTA Auris 2.0 D-4D (Auris, E15) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/power-steering-control-unit-auris/toyota-8965002390-denso-1129001783-142103.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-02390",
+                            "8965002390"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112900-1783",
+                            "1129001783"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "TOYOTA Auris 1.6 VVT-i (Auris, E15) Year of manufacture 2022"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/power-steering-control-unit-auris/toyota-8965012180-jtekt-99130904-denso-1129001474-111602.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-12180",
+                            "8965012180"
+                        ]
+                    },
+                    {
+                        "title": "JTEKT - Part number",
+                        "numbers": [
+                            "991-30904",
+                            "99130904"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112900-1474",
+                            "1129001474"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "TOYOTA Auris 2.0 D-4D (Auris, E15) Year of manufacture 2007 - 2008",
+                    "TOYOTA Yaris 1.8 VVT-i (Yaris, P9) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/power-steering-control-unit-auris/toyota-8965012220-jtekt-99132703-denso-1129001573-112355.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-12220",
+                            "8965012220"
+                        ]
+                    },
+                    {
+                        "title": "JTEKT - Part number",
+                        "numbers": [
+                            "991-32703",
+                            "99132703"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112900-1573",
+                            "1129001573"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/power-steering-control-unit-auris/toyota-8965012350-jtekt-99131304-112808.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-12350",
+                            "8965012350"
+                        ]
+                    },
+                    {
+                        "title": "JTEKT - Part number",
+                        "numbers": [
+                            "991-31304",
+                            "99131304"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "TOYOTA Auris 1.4 D-4D (Auris, E15) Year of manufacture 2007",
+                    "TOYOTA Auris 1.4 VVT-i (Auris, E15) Year of manufacture 2007 - 2008",
+                    "TOYOTA Auris 1.6 (Auris, E15) Year of manufacture 2006 - 2022",
+                    "TOYOTA Auris 1.6 VVT-i (Auris, E15) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/power-steering-control-unit-auris/toyota-8965012370-denso-1129001593-147457.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-12370",
+                            "8965012370"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112900-1593",
+                            "1129001593"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Yaris Power Steering ecu (P9)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/yaris+power+steering+ecu+p9-1050959.ts1654848384.jpg",
+        "product_link": "https://ecu.eu/toyota/power-steering-control-unit-51/toyota/power-steering-control-unit/yaris-power-steering-ecu-%28p9%29-6070",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/yaris-power-steering-ecu-%28p9%29/toyota-896500d070-denso-1129000690-koyo-6900000569-132755.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-0D070",
+                            "896500D070"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112900-0690",
+                            "1129000690"
+                        ]
+                    },
+                    {
+                        "title": "Koyo - Part number",
+                        "numbers": [
+                            "69 00 000 569",
+                            "6900000569"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "TOYOTA Yaris 1.4 D-4D (Yaris, P9)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/yaris-power-steering-ecu-%28p9%29/toyota-896500d091-denso-1129000973-koyo-6900001081-119575.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-0D091",
+                            "896500D091"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112900-0973",
+                            "1129000973"
+                        ]
+                    },
+                    {
+                        "title": "Koyo - Part number",
+                        "numbers": [
+                            "69 00 001 081",
+                            "6900001081"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "TOYOTA Yaris 1.3 VVT-i (Yaris, P9)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/yaris-power-steering-ecu-%28p9%29/toyota-896500d110-denso-1129001331-koyo-6900001067-132582.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-0D110",
+                            "896500D110"
+                        ]
+                    },
+                    {
+                        "title": "Denso - Part number",
+                        "numbers": [
+                            "112900-1331",
+                            "1129001331"
+                        ]
+                    },
+                    {
+                        "title": "Koyo - Part number",
+                        "numbers": [
+                            "69 00 001 067",
+                            "6900001067"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "TOYOTA Yaris 1.3 VVT-i (Yaris, P9) Year of manufacture 2006 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/toyota/power-steering-control-unit/yaris-power-steering-ecu-%28p9%29/toyota-896500d180-jtekt-6900001832-132956.html",
+                "part_numbers": [
+                    {
+                        "title": "TOYOTA - Part number",
+                        "numbers": [
+                            "89650-0D180",
+                            "896500D180"
+                        ]
+                    },
+                    {
+                        "title": "JTEKT",
+                        "numbers": []
+                    },
+                    {
+                        "title": "JTEKT - Part number",
+                        "numbers": [
+                            "69 00 001 832",
+                            "6900001832"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1554",
+                        "fault_description": "Power supply of power steering faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "TOYOTA Yaris 1.3 VVT-i (Yaris, P1) Year of manufacture 2009"
+                ]
+            }
+        ]
+    }
+]

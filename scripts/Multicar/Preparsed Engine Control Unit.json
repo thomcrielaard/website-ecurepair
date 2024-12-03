@@ -1,0 +1,310 @@
+[
+    {
+        "part_name": "EDC MS6.3",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc+ms6+3-10441.ts1628718776.jpg",
+        "product_link": "https://ecu.eu/multicar/engine-control-unit-4984/multicar/engine-control-unit/edc-ms6.3-4986",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/multicar/engine-control-unit/edc-ms6.3/multicar-500332361-bosch-0281001537-112689.html",
+                "part_numbers": [
+                    {
+                        "title": "MULTICAR - Part number",
+                        "numbers": [
+                            "500332361"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 537",
+                            "0281001537"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0115",
+                        "fault_description": "Coolant temperature sensor interruption / no signalandP0180Fuel - temperature sensor interruption / no signal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MULTICAR (M26)",
+                    "MULTICAR M30 (M30) Year of manufacture 2002"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC16C39",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c39-208128.ts1628719578.jpg",
+        "product_link": "https://ecu.eu/multicar/engine-control-unit-4984/multicar/engine-control-unit/edc16c39-6212",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/multicar/engine-control-unit/edc16c39/bucher-schoerling-43002034f-bosch-0281013348-124717.html",
+                "part_numbers": [
+                    {
+                        "title": "BUCHER-SCHOERLING - Part number",
+                        "numbers": [
+                            "43002034F"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 013 348",
+                            "0281013348"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Engine ECU - functional failure"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine sometimes doesn't start, in which case there is no communication possible with the ecu and the ecu is not identified by other ecu's on the CAN-Bus"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Repair of oxidized connectors is possible. For this, please send us an email request beforehand."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "EDC17CP20",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc17cp20-53256.ts1628724460.jpg",
+        "product_link": "https://ecu.eu/multicar/engine-control-unit-4984/multicar/engine-control-unit/edc17cp20-5791",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/multicar/engine-control-unit/edc17cp20/multicar-03l906019bb-bosch-0281016760-120005.html",
+                "part_numbers": [
+                    {
+                        "title": "MULTICAR - Part number",
+                        "numbers": [
+                            "03L 906 019 BB",
+                            "03L906019BB"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 016 760",
+                            "0281016760"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "Motor control unit - no communication"
+                    },
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "Engine doesn't start, there is no communication between the ECU and the diagnostic tool"
+                    },
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "The fuse for the motor control burns out when the engine ECU is connected"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MULTICAR (Tremo) Year of manufacture 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/multicar/engine-control-unit/edc17cp20/multicar-03l906019er-03l906019er-volkswagen-vw-03l906019ba-bosch-0281018053-119433.html",
+                "part_numbers": [
+                    {
+                        "title": "MULTICAR - Part number",
+                        "numbers": [
+                            "03L 906 019 ER",
+                            "03L906019ER"
+                        ]
+                    },
+                    {
+                        "title": "VOLKSWAGEN-VW - Part number",
+                        "numbers": [
+                            "03L 906 019 BA",
+                            "03L906019BA"
+                        ]
+                    },
+                    {
+                        "title": "MULTICAR - Part number",
+                        "numbers": [
+                            "03L906019ER"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 018 053",
+                            "0281018053"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "Motor control unit - no communication"
+                    },
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "Engine doesn't start, there is no communication between the ECU and the diagnostic tool"
+                    },
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "The fuse for the motor control burns out when the engine ECU is connected"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MULTICAR (M30)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/multicar/engine-control-unit/edc17cp20/multicar-03l906019er-volkswagen-vw-03l906019bb-03l906019ba-bosch-0281016760-120006.html",
+                "part_numbers": [
+                    {
+                        "title": "MULTICAR - Part number",
+                        "numbers": [
+                            "03L906019ER"
+                        ]
+                    },
+                    {
+                        "title": "VOLKSWAGEN-VW - Part number",
+                        "numbers": [
+                            "03L 906 019 BB",
+                            "03L906019BB"
+                        ]
+                    },
+                    {
+                        "title": "VOLKSWAGEN-VW - Part number",
+                        "numbers": [
+                            "03L 906 019 BA",
+                            "03L906019BA"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 016 760",
+                            "0281016760"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "Motor control unit - no communication"
+                    },
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "Engine doesn't start, there is no communication between the ECU and the diagnostic tool"
+                    },
+                    {
+                        "fault_code": "01314",
+                        "fault_description": "The fuse for the motor control burns out when the engine ECU is connected"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MULTICAR (M30) Year of manufacture 2011 - 2012"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC17CP52",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc17cp52-201229.ts1628719526.jpg",
+        "product_link": "https://ecu.eu/multicar/engine-control-unit-4984/multicar/engine-control-unit/edc17cp52-5792",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/multicar/engine-control-unit/edc17cp52/multicar-504359918-10r035562-bosch-0281020149-121965.html",
+                "part_numbers": [
+                    {
+                        "title": "MULTICAR - Part number",
+                        "numbers": [
+                            "504359918"
+                        ]
+                    },
+                    {
+                        "title": "MULTICAR - Part number",
+                        "numbers": [
+                            "10R035562"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 020 149",
+                            "0281020149"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "F32F",
+                        "fault_description": "Boost pressure solenoid valve A - out of set range"
+                    },
+                    {
+                        "fault_code": "F42F",
+                        "fault_description": "Exhaust gas recirculation control - out of set range"
+                    },
+                    {
+                        "fault_code": "F43F",
+                        "fault_description": "Lambda sonde B1S1 - defective fehlerhaft"
+                    },
+                    {
+                        "fault_code": "P035F",
+                        "fault_description": "Turbocharger system faulty"
+                    },
+                    {
+                        "fault_code": "P045F",
+                        "fault_description": "Exhaust gas recirculation system bank 1 faultyNOx concentration internal error"
+                    },
+                    {
+                        "fault_code": "P055F",
+                        "fault_description": "Exhaust gas recirculation system bank 1 faultyNOx concentration internal error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The connector plug is oxidized, partially, pins are already broken."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MULTICAR (M31) Year of manufacture 2013 - 2014"
+                ]
+            }
+        ]
+    }
+]

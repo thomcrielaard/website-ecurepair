@@ -1,0 +1,3773 @@
+[
+    {
+        "part_name": "UCH (BCM) Modus / Clio III",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/uch+bcm+modus+clio+iii-326502.ts1628723444.jpg",
+        "product_link": "https://ecu.eu/renault/central-electronics-3015/renault/central-electronics/uch-%28bcm%29-modus-clio-iii-5186",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200200106-johnson-controls-21676966-115311.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200200106"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "21676966"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200292040-johnson-controls-124680.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200292040"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Modus 1.2 (Modus, P) Year of manufacture 2005",
+                    "RENAULT Modus 1.6 (Modus, P) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200343732-johnson-controls-21677738-118347.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200343732"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "21677738"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio III, R (X85)) Year of manufacture 2006",
+                    "RENAULT Clio 1.6 16V (Clio III, R (X85)) Year of manufacture 2005 - 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200343734-johnson-controls-21676337-151762.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200343734"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "21676337"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200497361-johnson-controls-28113679-118348.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200497361"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "28113679"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200497363-johnson-controls-28113681-115309.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200497363"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "28113681"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200528487-johnson-controls-281154582a-122988.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200528487"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "28115458-2A",
+                            "281154582A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Modus 1.6 (Modus, P) Year of manufacture 2005 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200652284-johnson-controls-28118124-117907.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200652284"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "28118124"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio III, R (X85)) Year of manufacture 2006 - 2009",
+                    "RENAULT Clio 1.2 TCe (Clio III, R (X85)) Year of manufacture 2008 - 2009",
+                    "RENAULT Clio 1.6 16V (Clio III, R (X85)) Year of manufacture 2006",
+                    "RENAULT Modus 1.2 (Modus, P) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200652285-johnson-controls-28118125-115667.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200652285"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "28118125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200652285a-johnson-controls-281187755c-124744.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200652285--A",
+                            "8200652285A"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "28118775-5C",
+                            "281187755C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio Grandtour 1.5 dCi (Clio III, R (X85)) Year of manufacture 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200652286-johnson-controls-28118126-115310.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200652286"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "28118126"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Modus 1.2 (Modus, P) Year of manufacture 2007 - 2009",
+                    "RENAULT Modus 1.6 (Modus, P) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200811813-johnson-controls-28120981-115306.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200811813"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "28120981"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio III, R (X85)) Year of manufacture 2007 - 2008",
+                    "RENAULT Clio 1.2 TCe (Clio III, R (X85)) Year of manufacture 2007 - 2008",
+                    "RENAULT Clio 1.6 16V (Clio III, R (X85)) Year of manufacture 2007",
+                    "RENAULT Clio Grandtour 1.2 TCe (Clio III, R (X85)) Year of manufacture 2008",
+                    "RENAULT Modus 1.2 (Modus, P) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200811816-johnson-controls-28120982-118222.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200811816"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "28120982"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.5 dCi (Clio III, R (X85)) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200811817-johnson-controls-28120983-115812.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200811817"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "28120983"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Modus 1.5 dCi (Modus, P) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8200811817-johnson-controls-28330060-116450.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200811817"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "28330060"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio Grandtour 1.2 TCe (Clio III, R (X85)) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8201054119-johnson-controls-2008305-117952.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8201054119"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "2008305"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio III, R (X85)) Year of manufacture 2010 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-%28bcm%29-modus-clio-iii/renault-8201054131-johnson-controls-1975930-127473.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8201054131"
+                        ]
+                    },
+                    {
+                        "title": "Johnson Controls - Part number",
+                        "numbers": [
+                            "1975930"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Rear-fog light - no schwitching off"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tailgate cannot be open"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "UCH Clio II",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/uch+clio+ii-95343.ts1628711541.jpg",
+        "product_link": "https://ecu.eu/renault/central-electronics-3015/renault/central-electronics/uch-clio-ii-5850",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-8200063393a-sagem-216589632d-131043.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200063393A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21658963-2D",
+                            "216589632D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-8200063393a-sagem-216589632f-131042.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200063393A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21658963-2F",
+                            "216589632F"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-8200065817-8200160026-sagem-216589645d-122281.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200065817"
+                        ]
+                    },
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200160026"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21658964-5D",
+                            "216589645D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-8200065817a-sagem-216589645d-120124.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200065817-A",
+                            "8200065817A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21658964-5D",
+                            "216589645D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200063393-sagem-216689218a-122440.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200063393"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668921-8A",
+                            "216689218A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200063393a-sagem-216589632d-uchhg-127699.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200063393 A",
+                            "P8200063393A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21658963-2D",
+                            "216589632D"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "UCH-HG",
+                            "UCHHG"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 (Clio II, B (X65)) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200065817a-sagem-216589645d-124190.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200065817 A",
+                            "P8200065817A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21658964-5D",
+                            "216589645D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2001 - 2002",
+                    "RENAULT Clio 1.2 (Clio II, B (X65)) Year of manufacture 2001",
+                    "RENAULT Clio 1.4 16V (Clio II, B (X65)) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200065817a-sagem-216589645d-uchbg-128193.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200065817 A",
+                            "P8200065817A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21658964-5D",
+                            "216589645D"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "UCH-BG",
+                            "UCHBG"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2001",
+                    "RENAULT Clio 1.2 (Clio II, B (X65)) Year of manufacture 2001",
+                    "RENAULT Clio 1.4 16V (Clio II, B (X65)) Year of manufacture 2001",
+                    "RENAULT Clio 1.5 dCi (Clio II, B (X65)) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200065817b-sagem-216689200a-121063.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200065817 B",
+                            "P8200065817B"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668920-0A",
+                            "216689200A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2001",
+                    "RENAULT Clio 1.2 (Clio II, B (X65)) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200065817b-sagem-216689200a-uchbg-129769.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200065817 B",
+                            "P8200065817B"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668920-0A",
+                            "216689200A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "UCH-BG",
+                            "UCHBG"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200172356a-sagem-216681345a-uchhgbvabvr-132102.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200172356 A",
+                            "P8200172356A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668134-5A",
+                            "216681345A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "UCH-HG-BVA/BVR",
+                            "UCHHGBVABVR"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.4 16V (Clio II, B (X65)) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200172356b-sagem-216689979c-152882.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200172356 B",
+                            "P8200172356B"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668997-9C",
+                            "216689979C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200207134a-sagem-216702938a-129087.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200207134A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21670293-8A",
+                            "216702938A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2002 - 2003",
+                    "RENAULT Clio 1.2 (Clio II, B (X65)) Year of manufacture 2002 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200207134a-sagem-216702938a-130871.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200207134A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21670293-8A",
+                            "216702938A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200207134b-sagem-216739229a-121964.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200207134 B",
+                            "P8200207134B"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21673922-9A",
+                            "216739229A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2003 - 2004",
+                    "RENAULT Clio 1.2 (Clio II, B (X65)) Year of manufacture 2003",
+                    "RENAULT Clio 1.5 dCi (Clio II, B (X65)) Year of manufacture 2003 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200207134c-sagem-216757850a-126380.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200207134 C",
+                            "P8200207134C"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21675785-0A",
+                            "216757850A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2003 - 2004",
+                    "RENAULT Clio 1.2 (Clio II, B (X65)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200207135-p8200207135-sagem-216701027a-116870.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200207135"
+                        ]
+                    },
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200207135"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21670102-7A",
+                            "216701027A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2002",
+                    "RENAULT Clio 1.6 16V (Clio II, B (X65)) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200234045-p8200234045-sagem-21670294x-116869.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200234045"
+                        ]
+                    },
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200234045"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21670294-x",
+                            "21670294x"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2000 - 2003 Engine code D4F 712",
+                    "RENAULT Clio 1.2 (Clio II, B (X65)) Year of manufacture 2002 - 2004",
+                    "RENAULT Clio 1.4 16V (Clio II, B (X65)) Year of manufacture 2002 - 2003",
+                    "RENAULT Clio 1.5 dCi (Clio II, B (X65)) Year of manufacture 2002 - 2003",
+                    "RENAULT Clio 1.6 16V (Clio II, B (X65)) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200234045a-sagem-21673923x-116871.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200234045A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21673923-x",
+                            "21673923x"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2000 - 2004 Engine code D4F712",
+                    "RENAULT Clio 1.2 (Clio II, B (X65)) Year of manufacture 2003 - 2004",
+                    "RENAULT Clio 1.4 16V (Clio II, B (X65)) Year of manufacture 2003",
+                    "RENAULT Clio 1.5 dCi (Clio II, B (X65)) Year of manufacture 2001 - 2003 Engine code K9K 702",
+                    "RENAULT Clio 1.6 16V (Clio II, B (X65)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-clio-ii/renault-p8200234045b-sagem-216757868a-116872.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200234045B"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21675786-8A",
+                            "216757868A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The immobilizer does not unlock (intermittently)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Clio 1.2 16V (Clio II, B (X65)) Year of manufacture 2003",
+                    "RENAULT Clio 1.2 (Clio II, B (X65)) Year of manufacture 2003",
+                    "RENAULT Clio 1.4 16V (Clio II, B (X65)) Year of manufacture 2003",
+                    "RENAULT Clio 1.5 dCi (Clio II, B (X65)) Year of manufacture 2003",
+                    "RENAULT Clio 1.6 16V (Clio II, B (X65)) Year of manufacture 2003"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "UCH Kangoo I",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/uch+kangoo+i-9220.ts1628724455.jpg",
+        "product_link": "https://ecu.eu/renault/central-electronics-3015/renault/central-electronics/uch-kangoo-i-4832",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200094768-sagem-216688948f-114352.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200094768"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668894-8F",
+                            "216688948F"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.5 dCi (Kangoo I, C (X76))"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200094768b-sagem-216688948d-111719.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200094768 B",
+                            "P8200094768B"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668894-8D",
+                            "216688948D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.2 16V (Kangoo I, C (X76)) Year of manufacture 2002 - 2003",
+                    "RENAULT Kangoo 1.2 (Kangoo I, C (X76)) Year of manufacture 2002 - 2003",
+                    "RENAULT Kangoo 1.5 dCi (Kangoo I, C (X76)) Year of manufacture 2002 - 2004",
+                    "RENAULT Kangoo 1.6 16V (Kangoo I, C (X76)) Year of manufacture 2002 - 2003",
+                    "RENAULT Kangoo 1.6 4x4 (Kangoo I, C (X76)) Year of manufacture 2003",
+                    "RENAULT Kangoo 1.9 dTi (Kangoo I, C (X76)) Year of manufacture 2002 - 2003",
+                    "RENAULT (Kangoo I, C (X76)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200094768d-sagem-216688948f-137391.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200094768 D",
+                            "P8200094768D"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668894-8F",
+                            "216688948F"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.2 16V (Kangoo I, C (X76)) Year of manufacture 2003",
+                    "RENAULT Kangoo 1.2 (Kangoo I, C (X76)) Year of manufacture 2003",
+                    "RENAULT Kangoo 1.5 dCi (Kangoo I, C (X76)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200094768g-sagem-216765256b-118862.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200094768 G",
+                            "P8200094768G"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21676525-6B",
+                            "216765256B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.2 16V (Kangoo I, C (X76)) Year of manufacture 2003",
+                    "RENAULT Kangoo 1.6 16V (Kangoo I, C (X76)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200094794b-sagem-216688925d-150777.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200094794--B",
+                            "P8200094794B"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668892-5D",
+                            "216688925D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.5 dCi (Kangoo I, C (X76)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200094794b-sagem-216688935b-111718.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200094794 B",
+                            "P8200094794B"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668893-5B",
+                            "216688935B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.2 (Kangoo I, C (X76)) Year of manufacture 1997 - 2004 Engine code D7F",
+                    "RENAULT Kangoo 1.5 dCi (Kangoo I, C (X76)) Year of manufacture 2002 - 2003",
+                    "RENAULT Kangoo 1.6 4x4 (Kangoo I, C (X76)) Year of manufacture 2003",
+                    "RENAULT (Kangoo I, C (X76)) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200094794d-sagem-216688935d-145633.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200094794--D",
+                            "P8200094794D"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668893-5D",
+                            "216688935D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.2 (Kangoo I, C (X76)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200094794g-sagem-216765224b-152919.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200094794-G",
+                            "P8200094794G"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21676522-4B",
+                            "216765224B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.5 dCi (Kangoo I, C (X76)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200332769j-sagem-216769574a-127942.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200332769 J",
+                            "P8200332769J"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21676957-4A",
+                            "216769574A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.5 dCi (Kangoo I, C (X76)) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200332770j-sagem-216769587a-113197.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200332770 J",
+                            "P8200332770J"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21676958-7A",
+                            "216769587A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.2 16V (Kangoo I, C (X76)) Year of manufacture 2004",
+                    "RENAULT Kangoo 1.5 dCi (Kangoo I, C (X76)) Year of manufacture 2003 - 2004",
+                    "RENAULT Kangoo 1.6 16V (Kangoo I, C (X76)) Year of manufacture 2004",
+                    "RENAULT Kangoo 1.6 4x4 (Kangoo I, C (X76)) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200332770j-sagem-216769587a-124738.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200332770 J",
+                            "P8200332770J"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21676958-7A",
+                            "216769587A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200530968n-sagem-281158527b-131428.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200530968 N",
+                            "P8200530968N"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "28115852-7B",
+                            "281158527B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200530970m-sagem-281158551a-133665.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200530970M"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "28115855-1A",
+                            "281158551A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.5 dCi (Kangoo I, C (X76)) Year of manufacture 2006",
+                    "RENAULT Kangoo 1.6 16V (Kangoo I, C (X76)) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200530970n-sagem-281158551b-117509.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200530970N"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "28115855-1B",
+                            "281158551B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.5 dCi (Kangoo I, C (X76)) Year of manufacture 2006",
+                    "RENAULT Kangoo 1.6 16V (Kangoo I, C (X76)) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200530973m-sagem-281188624a-133666.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200530973M"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "28118862-4A",
+                            "281188624A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200814474-sagem-17946501-130459.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200814474"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "1794650 1",
+                            "17946501"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-kangoo-i/renault-p8200814474s-sagem-17946501-123698.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200814474 S",
+                            "P8200814474S"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "1794650 1",
+                            "17946501"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.2 16V (Kangoo I, C (X76)) Year of manufacture 2002",
+                    "RENAULT Kangoo 1.6 16V (Kangoo I, C (X76)) Year of manufacture 2006"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "UCH Scenic I",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/uch+scenic+i-4629.ts1628711320.jpg",
+        "product_link": "https://ecu.eu/renault/central-electronics-3015/renault/central-electronics/uch-scenic-i-4460",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-7700436246-siemens-s108502600a-107702.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "7700436246"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502600 A",
+                            "S108502600A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane Scenic 1.6 16V (Megane Scenic, JA) Year of manufacture 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-7703297929-siemens-s108502300c-107513.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "7703297929"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502300 C",
+                            "S108502300C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.4 16V (Megane I, A (X64)) Year of manufacture 1999",
+                    "RENAULT Megane Classic 1.4 16V (Megane I, A (X64)) Year of manufacture 1999",
+                    "RENAULT Megane Grandtour 1.6 16V (Megane I, A (X64)) Year of manufacture 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-7703297930-siemens-s108502400b-107973.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "7703297930"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502400 B",
+                            "S108502400B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.6 16V (Megane I, A (X64)) Year of manufacture 1999",
+                    "RENAULT Megane 1.6 e (Megane I, A (X64)) Year of manufacture 1999",
+                    "RENAULT Megane Cabrio 1.6 16V (Megane I, A (X64)) Year of manufacture 1999 - 2000",
+                    "RENAULT Megane Grandtour 1.6 16V (Megane I, A (X64)) Year of manufacture 1999",
+                    "RENAULT Megane Scenic 1.6 (Megane Scenic, JA) Year of manufacture 1999",
+                    "RENAULT Megane Scenic 1.6 e (Megane Scenic, JA) Year of manufacture 1998 - 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-7703297930-siemens-s108502400c-133015.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "7703297930"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502400 C",
+                            "S108502400C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.6 16V (Megane I, A (X64)) Year of manufacture 1999",
+                    "RENAULT Megane Grandtour 1.6 16V (Megane I, A (X64)) Year of manufacture 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029339a-siemens-s108502110c-117514.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029339 A",
+                            "8200029339A"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502110 C",
+                            "S108502110C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029340a-siemens-s108502510c-111721.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029340 A",
+                            "8200029340A"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502510 C",
+                            "S108502510C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.4 16V (Megane I, A (X64)) Year of manufacture 2000",
+                    "RENAULT Megane Cabrio 1.6 16V (Megane I, A (X64)) Year of manufacture 2000",
+                    "RENAULT Megane Cabrio 2.0 (Megane I, A (X64)) Year of manufacture 2000",
+                    "RENAULT Megane Classic 1.4 16V (Megane I, A (X64)) Year of manufacture 2000",
+                    "RENAULT Megane Coupe 1.6 16V (Megane I, A (X64)) Year of manufacture 2000",
+                    "RENAULT Megane Grandtour 1.4 16V (Megane I, A (X64)) Year of manufacture 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029340b-siemens-s108502510d-118104.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029340 B",
+                            "8200029340B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502510 D",
+                            "S108502510D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.6 16V (Megane I, A (X64)) Year of manufacture 2000",
+                    "RENAULT Megane Cabrio 1.4 16V (Megane I, A (X64)) Year of manufacture 2000",
+                    "RENAULT Megane Cabrio 1.6 16V (Megane I, A (X64)) Year of manufacture 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029340b-siemens-s108502510e-111720.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029340 B",
+                            "8200029340B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502510 E",
+                            "S108502510E"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.4 16V (Megane I, A (X64)) Year of manufacture 2001",
+                    "RENAULT Megane 1.6 16V (Megane I, A (X64)) Year of manufacture 2001",
+                    "RENAULT Megane Cabrio 1.4 16V (Megane I, A (X64)) Year of manufacture 2001",
+                    "RENAULT Megane Classic 1.4 16V (Megane I, A (X64)) Year of manufacture 2001",
+                    "RENAULT Megane Grandtour 1.6 16V (Megane I, A (X64)) Year of manufacture 2000",
+                    "RENAULT Megane Scenic 1.4 16V (Megane Scenic, JA) Year of manufacture 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029340b-siemens-s108502510f-124819.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029340 B",
+                            "8200029340B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502510 F",
+                            "S108502510F"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029340b-siemens-s108502510g-117512.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029340 B",
+                            "8200029340B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502510 G",
+                            "S108502510G"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.4 16V (Megane I, A (X64)) Year of manufacture 2001 - 2002",
+                    "RENAULT Megane 1.6 16V (Megane I, A (X64)) Year of manufacture 2001 - 2002",
+                    "RENAULT Megane Cabrio 1.6 16V (Megane I, A (X64)) Year of manufacture 2003",
+                    "RENAULT Megane Classic 1.6 16V (Megane I, A (X64)) Year of manufacture 2002",
+                    "RENAULT Megane Grandtour 1.4 16V (Megane I, A (X64)) Year of manufacture 2003",
+                    "RENAULT Megane Grandtour 1.6 16V (Megane I, A (X64)) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029342-siemens-s108502610a-137160.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029342"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502610 A",
+                            "S108502610A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.4 16V (Megane I, A (X64)) Year of manufacture 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029342a-siemens-s108502610c-111722.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029342 A",
+                            "8200029342A"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502610 C",
+                            "S108502610C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.4 16V (Megane I, A (X64)) Year of manufacture 2000",
+                    "RENAULT Megane Scenic 1.6 16V (Megane Scenic, JA) Year of manufacture 2000 - 2002",
+                    "RENAULT Megane Scenic 1.9 dTi (Megane Scenic, JA) Year of manufacture 2000",
+                    "RENAULT Megane Scenic 2.0 16V (Megane Scenic, JA) Year of manufacture 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029342b-siemens-s108502610c-117511.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029342B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502610 C",
+                            "S108502610C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane Scenic 1.6 16V (Megane Scenic, JA) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029342b-siemens-s108502610d-107514.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029342B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502610 D",
+                            "S108502610D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane Coupe 1.4 16V (Megane I, A (X64)) Year of manufacture 1999",
+                    "RENAULT Megane Grandtour 1.6 16V (Megane I, A (X64)) Year of manufacture 2002",
+                    "RENAULT Megane Scenic 1.6 16V (Megane Scenic, JA) Year of manufacture 2000",
+                    "RENAULT Megane Scenic 2.0 16V (Megane Scenic, JA) Year of manufacture 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029342b-siemens-s108502610e-117510.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029342B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502610 E",
+                            "S108502610E"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.6 16V (Megane I, A (X64)) Year of manufacture 2000",
+                    "RENAULT Megane Scenic 1.6 16V (Megane Scenic, JA) Year of manufacture 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029342b-siemens-s108502610f-125697.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029342B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502610 F",
+                            "S108502610F"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.6 16V (Megane I, A (X64)) Year of manufacture 2001",
+                    "RENAULT Megane Scenic 1.6 16V (Megane Scenic, JA) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029342b-siemens-s108502610g-107512.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029342B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502610 G",
+                            "S108502610G"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.4 16V (Megane I, A (X64)) Year of manufacture 2001 - 2002",
+                    "RENAULT Megane 1.6 16V (Megane I, A (X64)) Year of manufacture 2001",
+                    "RENAULT Megane Grandtour 1.6 16V (Megane I, A (X64)) Year of manufacture 2003",
+                    "RENAULT Megane Grandtour 1.9 DCI (Megane I, A (X64)) Year of manufacture 2001",
+                    "RENAULT Megane Scenic 1.4 16V (Megane Scenic, JA) Year of manufacture 2001",
+                    "RENAULT Megane Scenic 1.6 16V (Megane Scenic, JA) Year of manufacture 2000 - 2003",
+                    "RENAULT Megane Scenic 1.8 16V (Megane Scenic, JA) Year of manufacture 2002",
+                    "RENAULT Megane Scenic 1.9 dCi (Megane Scenic, JA) Year of manufacture 2004",
+                    "RENAULT Megane Scenic 2.0 16V (Megane Scenic, JA) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-scenic-i/renault-8200029342b-siemens-s108502610h-117513.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200029342B"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "S108502610 H",
+                            "S108502610H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction indicator"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Windscreen wiper malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Megane 1.6 16V (Megane I, A (X64)) Year of manufacture 2000 - 2002",
+                    "RENAULT Megane Grandtour 1.6 16V (Megane I, A (X64)) Year of manufacture 2001"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "UCH Trafic I",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/uch+trafic+i-9220.ts1628724455.jpg",
+        "product_link": "https://ecu.eu/renault/central-electronics-3015/renault/central-electronics/uch-trafic-i-5852",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-216768267c-sagem-p8200298946h-152833.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "21676826-7C",
+                            "216768267C"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "P8200298946-H",
+                            "P8200298946H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Master 2.8 dTi (Master II, D (X70)) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200156015b-sagem-216676287d-137435.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200156015-B",
+                            "P8200156015B"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21667628-7D",
+                            "216676287D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Trafic 1.9 dCi (Trafic II, L (X83)) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200156015c-sagem-216688906b-129079.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200156015-C",
+                            "P8200156015C"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21 668 890-6B",
+                            "216688906B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Trafic 1.9 dCi (Trafic II, L (X83)) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200156015d-sagem-216688906b-122623.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200156015-D",
+                            "P8200156015D"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21 668 890-6B",
+                            "216688906B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Trafic 1.9 dCi (Trafic II, L (X83)) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200156016b-sagem-216676290d-129091.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200156016 B",
+                            "P8200156016B"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21667629-0D",
+                            "216676290D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Trafic 1.9 dCi (Trafic II, L (X83)) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200156016d-sagem-216688914b-121338.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200156016 D",
+                            "P8200156016D"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668891-4B",
+                            "216688914B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Trafic 1.9 dCi (Trafic II, L (X83)) Year of manufacture 2002 - 2003",
+                    "RENAULT Trafic 2.0 (Trafic II, L (X83)) Year of manufacture 2002",
+                    "RENAULT Trafic 2.5 dCi (Trafic II, L (X83)) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200156017b-sagem-216676302b-dv43-131044.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200156017-B",
+                            "P8200156017B"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21667630-2B",
+                            "216676302B"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "D V4.3",
+                            "DV43"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200156017d-sagem-216688927d-g1v491-134342.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200156017-D",
+                            "P8200156017D"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21668892-7D",
+                            "216688927D"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "G1 V4.91",
+                            "G1V491"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Trafic 1.9 dCi (Trafic II, L (X83)) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200263337h-sagem-216768275c-147502.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200263337--H",
+                            "P8200263337H"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21676827-5C",
+                            "216768275C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Master 2.5 dCi (Master II, D (X70)) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200298945-sagem-216768254d-122375.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200298945"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21676825-4D",
+                            "216768254D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200374949-sagem-216768791d-129090.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200374949"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21676879-1D",
+                            "216768791D"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200374949g-sagem-216768791a-133906.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200374949-G",
+                            "P8200374949G"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "21676879-1A",
+                            "216768791A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Trafic 1.9 dCi (Trafic II, L (X83)) Year of manufacture 2004",
+                    "RENAULT Trafic 2.5 dCi (Trafic II, L (X83)) Year of manufacture 2003 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200461378l-sagem-281127676a-uchn1x70-136418.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200461378-L",
+                            "P8200461378L"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "28112767-6A",
+                            "281127676A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "UCH-N1-X70",
+                            "UCHN1X70"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200461379l-sagem-281127725a-136479.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200461379-L",
+                            "P8200461379L"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "28112772-5A",
+                            "281127725A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200461556k-sagem-281127697a-131023.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200461556-K",
+                            "P8200461556K"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "28112769-7A",
+                            "281127697A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Trafic 1.9 dCi (Trafic II, L (X83)) Year of manufacture 2002 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200461558k-sagem-281127746a-bv65-131045.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200 461 558 K",
+                            "P8200461558K"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "28112774-6A",
+                            "281127746A"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "B V6.5",
+                            "BV65"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200461565l-sagem-281127717a-126845.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200461565 L",
+                            "P8200461565L"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "28112771-7A",
+                            "281127717A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Kangoo 1.5 dCi (Kangoo I, C (X76)) Year of manufacture 2004 - 2005",
+                    "RENAULT Kangoo 1.6 16V (Kangoo I, C (X76)) Year of manufacture 2005",
+                    "RENAULT Kangoo 1.9 dCi (Kangoo I, C (X76)) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200483186l-sagem-281132627a1-127100.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200483186 L",
+                            "P8200483186L"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "28113262-7A1",
+                            "281132627A1"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200530951n-sagem-281158569b-144276.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200530951-N",
+                            "P8200530951N"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "28115856-9B",
+                            "281158569B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Intermittent or permanent, total function loss"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-trafic-i/renault-p8200530962n-sagem-281158530b-127299.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "P8200530962--N",
+                            "P8200530962N"
+                        ]
+                    },
+                    {
+                        "title": "Sagem - Part number",
+                        "numbers": [
+                            "28115853-0B",
+                            "281158530B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Indicator right and/or left malfunction"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Master 2.5 dCi (Master II, D (X70)) Year of manufacture 2006"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "UCH Twingo II / Wind",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/uch+twingo+ii+wind-1071192.ts1656407889.jpg",
+        "product_link": "https://ecu.eu/renault/central-electronics-3015/renault/central-electronics/uch-twingo-ii-wind-6914",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-twingo-ii-wind/renault-8200741619a-temic-00401560a8-152457.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200741619--A",
+                            "8200741619A"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "00401560 A8",
+                            "00401560A8"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Outage of front wipers"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Twingo 1.2 16V (Twingo II, CN (X44)) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-twingo-ii-wind/renault-8200836532a-00401560a9-151840.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200836532--A",
+                            "8200836532A"
+                        ]
+                    },
+                    {
+                        "title": "Part number",
+                        "numbers": [
+                            "00401560 A9",
+                            "00401560A9"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Outage of front wipers"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-twingo-ii-wind/renault-8200874481-temic-00401560b0-bcmx44l2-128166.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200874481"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "00401560 B0",
+                            "00401560B0"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "BCM X44-L2",
+                            "BCMX44L2"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Outage of front wipers"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Twingo 1.2 16V (Twingo II, CN (X44)) Year of manufacture 2008 - 2013",
+                    "RENAULT Twingo 1.2 (Twingo II, CN (X44)) Year of manufacture 2008 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-twingo-ii-wind/renault-8200874483a-8200874483a-temic-00401561b0-bcmx44l3-132045.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200874483 A",
+                            "8200874483A"
+                        ]
+                    },
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8200874483-A",
+                            "8200874483A"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "00401561 B0",
+                            "00401561B0"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "BCM X44-L3",
+                            "BCMX44L3"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Outage of front wipers"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Twingo 1.2 16V (Twingo II, CN (X44)) Year of manufacture 2008 - 2010",
+                    "RENAULT Twingo 1.2 TCe (Twingo II, CN (X44)) Year of manufacture 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-twingo-ii-wind/renault-8201002168-temic-00401559b3-bcmx44l42-145526.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8201002168"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "00401559 B3",
+                            "00401559B3"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "BCM X44-L42",
+                            "BCMX44L42"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Outage of front wipers"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Wind 1.2 TCe (Wind, EN) Year of manufacture 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-twingo-ii-wind/renault-8201229416-temic-00401560b3-145261.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8201229416"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "00401560 B3",
+                            "00401560B3"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Outage of front wipers"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Twingo 1.2 16V (Twingo II, CN (X44)) Year of manufacture 2012 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-twingo-ii-wind/renault-8201229417-temic-00401561b3-bcmx44l3-132601.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8201229417"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "00401561 B3",
+                            "00401561B3"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "BCM X44-L3",
+                            "BCMX44L3"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Outage of front wipers"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Twingo 1.2 16V (Twingo II, CN (X44)) Year of manufacture 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-twingo-ii-wind/renault-8201350220-temic-00401560b4-148962.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8201350220"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "00401560 B4",
+                            "00401560B4"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Outage of front wipers"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Twingo 1.2 16V (Twingo II, CN (X44)) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/renault/central-electronics/uch-twingo-ii-wind/renault-8201350221-temic-00401561b4-bcmx44l2-125082.html",
+                "part_numbers": [
+                    {
+                        "title": "RENAULT - Part number",
+                        "numbers": [
+                            "8201350221"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "00401561 B4",
+                            "00401561B4"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "BCM X44-L2",
+                            "BCMX44L2"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Outage of front wipers"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "RENAULT Twingo 1.2 16V (Twingo II, CN (X44)) Year of manufacture 2009 - 2014"
+                ]
+            }
+        ]
+    }
+]

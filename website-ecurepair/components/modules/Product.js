@@ -25,10 +25,11 @@ export default function Product(props) {
             className={styles.ProductImage}
             src={
               API_URL +
-              (props.product.afbeelding.data
-                ? props.product.afbeelding.data.attributes.url
-                : props.product.onderdeel.data.attributes.afbeeldingen.data[0]
-                    .attributes.url)
+              (props.product.afbeelding
+                ? props.product.afbeelding.url
+                : props.product.onderdeel.afbeeldingen
+                ? props.product.onderdeel.afbeeldingen[0].url
+                : "/uploads/no_image_available_3b34877500.png")
             }
             alt={props.product.onderdeelnummer}
             fill
@@ -43,13 +44,13 @@ export default function Product(props) {
       >
         <Title text={props.product.onderdeelnummer} size="lg" />
         <div className={styles.ProductTitleWrapper}>
-          {props.product.merks.data.map((brand, key) => (
+          {props.product.merks.map((brand, key) => (
             <React.Fragment key={key}>
               <Link
                 className={styles.ProductQuicklink}
-                href={`/onderdelen?merk=${brand.id}`}
+                href={`/onderdelen/zoeken/1?merk=${brand.id}`}
               >
-                {brand.attributes.naam}
+                {brand.naam}
               </Link>
               <Chevron
                 width={10}
@@ -58,9 +59,9 @@ export default function Product(props) {
               />
               <Link
                 className={styles.ProductQuicklink}
-                href={`/onderdelen?merk=${brand.id}&part=${props.product.onderdeel.data.id}`}
+                href={`/onderdelen/zoeken/1?merk=${brand.id}&part=${props.product.onderdeel.id}`}
               >
-                {props.product.onderdeel.data.attributes.naam}
+                {props.product.onderdeel.naam}
               </Link>
             </React.Fragment>
           ))}

@@ -1,0 +1,83 @@
+[
+    {
+        "part_name": "Contact plate with speed sensors 5-speed automatic (722.6).",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/contact+plate+with+speed+sensors+5+speed+automatic+722+6-313628.ts1628715350.jpg",
+        "product_link": "https://ecu.eu/dodge/gearbox-ecu-6377/dodge/gearbox-ecu/contact-plate-with-speed-sensors-5-speed-automatic-%28722.6%29.-6378",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/dodge/gearbox-ecu/contact-plate-with-speed-sensors-5-speed-automatic-%28722.6%29./dodge-1402701161-136391.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge - Part number",
+                        "numbers": [
+                            "140 270 11 61",
+                            "1402701161"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "13",
+                        "fault_description": "Speed sensor N3"
+                    },
+                    {
+                        "fault_code": "109",
+                        "fault_description": "Speed sensor N3"
+                    },
+                    {
+                        "fault_code": "P2200",
+                        "fault_description": "(Gutmann 8704) Y§/6n2 Speed sensor 2 - faulty"
+                    },
+                    {
+                        "fault_code": "P2203",
+                        "fault_description": "(Gutmann 8707) Y3/6n3 Speed sensor 3 - faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Control unit 5-speed automatic (722.6)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+unit+5+speed+automatic+722+6-108687.ts1628718946.jpg",
+        "product_link": "https://ecu.eu/dodge/gearbox-ecu-6377/dodge/gearbox-ecu/control-unit-5-speed-automatic-%28722.6%29-6379",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/dodge/gearbox-ecu/control-unit-5-speed-automatic-%28722.6%29/dodge-p05150186ah-siemens-5wp20104ack-128267.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge - Part number",
+                        "numbers": [
+                            "P05150186AH"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WP20104ACK"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "Unit faulty"
+                    },
+                    {
+                        "fault_code": "P0743",
+                        "fault_description": "Solenoid valve converter lock-up clutch Y3/6y6 - electrical fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

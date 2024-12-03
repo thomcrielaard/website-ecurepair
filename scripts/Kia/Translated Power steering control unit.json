@@ -1,0 +1,1058 @@
+[
+    {
+        "part_name": "Ceed (ED) / Soul (AM) / Venga (YN) elektrische stuurbekrachtigingsregelunit.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ceed+ed+soul+am+venga+yn+electric+power+steering+control+unit-164377.ts1628712316.jpg",
+        "product_link": "https://ecu.eu/kia/power-steering-control-unit-2922/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit-5541",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563001h100-mobis-2h56399500-1h56300100-119485.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56300-1H100",
+                            "563001H100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "2H56399500"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1H56300100"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Ceed 1.4 CVVT (Ceed, ED) Bouwjaar 2008 - 2010",
+                    "Kia Motors Ceed 1.6 CRDi (Ceed, ED) Bouwjaar 2008 - 2009",
+                    "Kia Motors Ceed 1.6i (Ceed, ED) Bouwjaar 2007 - 2010",
+                    "Kia Motors Ceed 2.0 CRDi (Ceed, ED) Bouwjaar 2008",
+                    "Kia Motors Ceed 2.0 CVVT (Ceed, ED) Bouwjaar 2008",
+                    "Kia Motors (Ceed, ED) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563001h500-130722.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56300-1H500",
+                            "563001H500"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563001h850-mobis-1h56300850-125124.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56300-1H850",
+                            "563001H850"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1H56300850"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Ceed 1.4 CVVT (Ceed, ED) Bouwjaar 2009 - 2011",
+                    "Kia Motors Ceed 1.6 CRDi (Ceed, ED) Bouwjaar 2009 - 2014",
+                    "Kia Motors Ceed 1.6i (Ceed, ED) Bouwjaar 2009 - 2011",
+                    "Kia Motors Ceed 2.0 CVVT (Ceed, ED) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563001h860-mobis-1h56300860-132929.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56300-1H860",
+                            "563001H860"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1H56300860"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Ceed 1.4 CVVT (Ceed, ED) Bouwjaar 2011",
+                    "Kia Motors Ceed 1.4 (Ceed, ED) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563001h861-1h56300861-mobis-135417.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "563001H861"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "1H56300861"
+                        ]
+                    },
+                    {
+                        "title": "Mobis",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Ceed 1.4 CVVT (Ceed, ED) Bouwjaar 2012",
+                    "Kia Motors Ceed 1.6i (Ceed, ED) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563001h950-130719.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56300-1H950",
+                            "563001H950"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563001h960-130720.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56300-1H960",
+                            "563001H960"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563001h980-130721.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56300-1H980",
+                            "563001H980"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563001p000-563101p000-mobis-1p56300000-129687.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56300-1P000",
+                            "563001P000"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56310-1P000",
+                            "563101P000"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1P56300000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Venga 1.4 CRDi (Venga, YN) Bouwjaar 2010",
+                    "Kia Motors Venga 1.4 (Venga, YN) Bouwjaar 2010",
+                    "Kia Motors Venga 1.6 16V CRDi (Venga, YN) Bouwjaar 2010",
+                    "Kia Motors Venga 1.6 (Venga, YN) Bouwjaar 2010 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563001p050-1p56300050-mobis-1p56398000-1p56398010-144326.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56300-1P050",
+                            "563001P050"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "1P56300050"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1P563-98000",
+                            "1P56398000"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1P563-98010",
+                            "1P56398010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563001p051-mobis-1p56300051-1p56398000-135949.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "563001P051"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1P56300051"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1P563-98000",
+                            "1P56398000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Venga 1.4 CVVT-i (Venga, YN) Bouwjaar 2013",
+                    "Kia Motors Venga 1.4 (Venga, YN) Bouwjaar 2010",
+                    "Kia Motors Venga 1.6 (Venga, YN) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563002k000-mobis-2k56300000-127582.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "563002K000"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "2K56300000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Soul 1.6 CRDi (Soul, AM) Bouwjaar 2009 - 2010",
+                    "Kia Motors Soul 1.6i CVVT (Soul, AM) Bouwjaar 2009 - 2011",
+                    "Kia Motors (Soul, AM) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563002k200-2k56300200-mobis-2k56398000-2k56398010-131078.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56300-2K200",
+                            "563002K200"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "2K563-00200",
+                            "2K56300200"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "2K563-98000",
+                            "2K56398000"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "2K563-98010",
+                            "2K56398010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Soul 1.6 CRDi (Soul, AM) Bouwjaar 2009",
+                    "Kia Motors Soul 1.6i CVVT (Soul, AM) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563101h500-mobis-1h56310100-128752.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "563101H500"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1H56310100"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Ceed 1.4 CVVT (Ceed, ED) Bouwjaar 2008 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563101h860-1h56310860-mobis-1h56399000-1h56399010-129990.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56310-1H860",
+                            "563101H860"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "1H56310860"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1H563-99000",
+                            "1H56399000"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1H563-99010",
+                            "1H56399010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Ceed 1.4 CVVT (Ceed, ED) Bouwjaar 2009",
+                    "Kia Motors Ceed 1.6i (Ceed, ED) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563102k000-130716.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56310-2K000",
+                            "563102K000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563102k200-130717.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56310-2K200",
+                            "563102K200"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/ceed-%28ed%29-soul-%28am%29-venga-%28yn%29-electric-power-steering-control-unit/kia-motors-563102k210-130718.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56310-2K210",
+                            "563102K210"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Picanto (BA) elektrische stuurbekrachtiging.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/picanto+ba+electric+power+steering-144248.ts1628724499.jpg",
+        "product_link": "https://ecu.eu/kia/power-steering-control-unit-2922/kia/power-steering-control-unit/picanto-%28ba%29-electric-power-steering-7090",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/picanto-%28ba%29-electric-power-steering/kia-motors-5630007501-mando-147859.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56300-07501",
+                            "5630007501"
+                        ]
+                    },
+                    {
+                        "title": "Mando.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C1291",
+                        "fault_description": "Storing koppelingssensor - Signaalverschil."
+                    },
+                    {
+                        "fault_code": "C1292",
+                        "fault_description": "Storing koppelingssensor - signaalverschil."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Picanto 1.1i (Picanto, BA) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/picanto-%28ba%29-electric-power-steering/kia-motors-5630007505-mando-151544.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "56300-07505",
+                            "5630007505"
+                        ]
+                    },
+                    {
+                        "title": "Mando.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C1291",
+                        "fault_description": "Storing koppelingssensor - Signaalverschil."
+                    },
+                    {
+                        "fault_code": "C1292",
+                        "fault_description": "Storing koppelingssensor - signaalverschil."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Picanto 1.0i (Picanto, BA) Bouwjaar 2011",
+                    "Kia Motors Picanto 1.1i (Picanto, BA) Bouwjaar 2011"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Sorento (XM) Elektrische stuurbekrachtiging.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/sorento+xm+electric+power+steering-370197.ts1628723604.jpg",
+        "product_link": "https://ecu.eu/kia/power-steering-control-unit-2922/kia/power-steering-control-unit/sorento-%28xm%29-electric-power-steering-6840",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/sorento-%28xm%29-electric-power-steering/kia-motors-563002p500-2p56399500-mobis-135512.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "563002P500"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "2P563-99500",
+                            "2P56399500"
+                        ]
+                    },
+                    {
+                        "title": "Mobis",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Sorento 2.2 CRDi 4x4 (Sorento, XM) Bouwjaar 2012 - 2014",
+                    "Kia Motors Sorento 2.4 GDI (Sorento, XM) Bouwjaar 2012 - 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/sorento-%28xm%29-electric-power-steering/kia-motors-563002p700-2p56399500-2p56300700-mobis-4xmc1206-142207.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "563002P700"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "2P563-99500",
+                            "2P56399500"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "2P56300700"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4XMC1206"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Sorento 2.2 CRDi 4x4 (Sorento, XM) Bouwjaar 2012 - 2014",
+                    "Kia Motors Sorento 2.4 GDI (Sorento, XM) Bouwjaar 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/sorento-%28xm%29-electric-power-steering/kia-motors-563002t451-2t56399500-2t56300451-mobis-4tfu1112-145201.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "563002T451"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "2T563-99500",
+                            "2T56399500"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "2T56300451"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4TFU1112"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Optima 1.7 CRDi (Optima, TF) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/sorento-%28xm%29-electric-power-steering/kia-motors-563002t451-2t56399500-2t56300451-mobis-4tfy1204-145848.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "563002T451"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "2T563-99500",
+                            "2T56399500"
+                        ]
+                    },
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "2T56300451"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4TFY1204"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Kia Motors Optima 1.7 CRDi (Optima, TF) Bouwjaar 2012 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/sorento-%28xm%29-electric-power-steering/kia-motors-563102p500-146542.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "563102P500"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/kia/power-steering-control-unit/sorento-%28xm%29-electric-power-steering/kia-motors-563102p700-144592.html",
+                "part_numbers": [
+                    {
+                        "title": "Kia Motors - Onderdeelnummer",
+                        "numbers": [
+                            "563102P700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

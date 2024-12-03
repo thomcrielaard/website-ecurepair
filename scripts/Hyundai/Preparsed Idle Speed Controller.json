@@ -1,0 +1,35 @@
+[
+    {
+        "part_name": "EUR",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/hyundai+mitsubishi+electric+e9t15292-822.ts1628722661.jpg",
+        "product_link": "https://ecu.eu/hyundai/idle-speed-controller-106",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/idle-speed-controller/hyundai-mitsubishi-electric-e9t15292-100813.html",
+                "part_numbers": [
+                    {
+                        "title": "HYUNDAI",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mitsubishi Electric - Part number",
+                        "numbers": [
+                            "E9T15292"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Problems on idle or no idling"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,173 @@
+[
+    {
+        "part_name": "V60 D6 Plug-In Hybrid Onboard Charger (OBC)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/v60+d6+plug+in+hybrid+onboard+charger+obc-1855624.ts1689942418.jpg",
+        "product_link": "https://ecu.eu/volvo/high-voltage-hybrid-technology-7158/volvo/high-voltage-hybrid-technology/v60-d6-plug-in-hybrid-onboard-charger-%28obc%29-7159",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/volvo/high-voltage-hybrid-technology/v60-d6-plug-in-hybrid-onboard-charger-%28obc%29/volvo-30659929-eltek-valere-10036588-150157.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "30659929"
+                        ]
+                    },
+                    {
+                        "title": "Eltek Valere - Part number",
+                        "numbers": [
+                            "10036588"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Charging not possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V60 D6 AWD Recharge (V60)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/high-voltage-hybrid-technology/v60-d6-plug-in-hybrid-onboard-charger-%28obc%29/volvo-31394702-eltek-valere-2586698-150158.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "31394702"
+                        ]
+                    },
+                    {
+                        "title": "Eltek Valere - Part number",
+                        "numbers": [
+                            "2586698"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Charging not possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/high-voltage-hybrid-technology/v60-d6-plug-in-hybrid-onboard-charger-%28obc%29/volvo-31453939-eltek-valere-10443031-152003.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "31453939"
+                        ]
+                    },
+                    {
+                        "title": "Eltek Valere - Part number",
+                        "numbers": [
+                            "10443031"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Charging not possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/high-voltage-hybrid-technology/v60-d6-plug-in-hybrid-onboard-charger-%28obc%29/volvo-32202164-eltek-valere-150536.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "32202164"
+                        ]
+                    },
+                    {
+                        "title": "Eltek Valere",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Charging not possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "VOLVO V60 D6 AWD Recharge (V60) Year of manufacture 2017"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/high-voltage-hybrid-technology/v60-d6-plug-in-hybrid-onboard-charger-%28obc%29/volvo-32202166-eltek-valere-11781964-152373.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "32202166"
+                        ]
+                    },
+                    {
+                        "title": "Eltek Valere - Part number",
+                        "numbers": [
+                            "11781964"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Charging not possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/volvo/high-voltage-hybrid-technology/v60-d6-plug-in-hybrid-onboard-charger-%28obc%29/volvo-36003020-150159.html",
+                "part_numbers": [
+                    {
+                        "title": "VOLVO - Part number",
+                        "numbers": [
+                            "36003020"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Charging not possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

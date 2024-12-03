@@ -14,18 +14,15 @@ function Error({ product }) {
   return (
     <>
       <Head>
-        <title>{`${product.attributes.onderdeelnummer} \u2013 Reparatie en Revisie`}</title>
-        <meta name="description" content={product.attributes.omschrijving} />
+        <title>{`${product.onderdeelnummer} \u2013 Reparatie en Revisie`}</title>
+        <meta name="description" content={product.omschrijving} />
       </Head>
 
       <Navbar />
 
       <Container>
-        <Product product={product.attributes} />
-        <ProductAttributes
-          errors={product.attributes.fouten}
-          cars={product.attributes.autos}
-        />
+        <Product product={product} />
+        <ProductAttributes errors={product.fouten} cars={product.autos} />
       </Container>
 
       <Footer />
@@ -33,35 +30,26 @@ function Error({ product }) {
   );
 }
 
-export async function getStaticPaths() {
+// Use getServerSideProps for dynamic rendering
+export async function getServerSideProps(context) {
   const { data } = await Axios.get(
-    `${API_URL}/api/products?fields=onderdeelnummer`
-  );
-
-  const paths = data.data.map((product) => {
-    return {
-      params: { number: `${product.attributes.onderdeelnummer}` },
-    };
-  });
-
-  return {
-    paths,
-    fallback: "blocking",
-  };
-}
-
-export async function getStaticProps(context) {
-  const { data } = await Axios.get(
-    `${API_URL}/api/products?filters[onderdeelnummer][$eq]=${context.params.number}&populate=merks,onderdeel,afbeelding,onderdeel.afbeeldingen`
+    `${API_URL}/api/products?filters[onderdeelnummer][$eq]=${context.params.number}&populate[afbeelding][fields][0]=url&populate[onderdeel][populate][afbeeldingen][fields][0]=url&populate[merks][fields][0]=id&populate[merks][fields][1]=naam`
   );
 
   const product = data.data[0];
+
+  console.log(product);
+
+  if (!product) {
+    return {
+      notFound: true,
+    };
+  }
 
   return {
     props: {
       product,
     },
-    revalidate: 10,
   };
 }
 

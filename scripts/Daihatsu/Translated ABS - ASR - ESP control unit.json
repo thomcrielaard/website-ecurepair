@@ -1,0 +1,917 @@
+[
+    {
+        "part_name": "ABS 8.0.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+8+0-4104.ts1628718748.jpg",
+        "product_link": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit-4088/daihatsu/abs-asr-esp-control-unit/abs-8.0-4763",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/abs-8.0/daihatsu-89540b2190-bosch-0265800641-0265231961-111143.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "89540-B2190",
+                            "89540B2190"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 800 641",
+                            "0265800641"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 265 231 961",
+                            "0265231961"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode ventielrelais opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ESP ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS MK70.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+mk70-2199.ts1628724449.jpg",
+        "product_link": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit-4088/daihatsu/abs-asr-esp-control-unit/abs-mk70-4275",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/abs-mk70/daihatsu-44510b1010-89540b1010-2wd-ate-06210903383-06210200624-145211.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-B1010",
+                            "44510B1010"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "89540-B1010",
+                            "89540B1010"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "2WD"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0338.3",
+                            "06210903383"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0062.4",
+                            "06210200624"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus systeem verstoord."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/abs-mk70/daihatsu-44510b1010-89540b1010-2wd-ate-06210904963-06210200624-114763.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-B1010",
+                            "44510B1010"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "89540-B1010",
+                            "89540B1010"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "2WD"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0496.3",
+                            "06210904963"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0062.4",
+                            "06210200624"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus systeem verstoord."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/abs-mk70/daihatsu-44510b1010-89540b1010-2wd-ate-06210906673-06210204524-106091.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-B1010",
+                            "44510B1010"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "89540-B1010",
+                            "89540B1010"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "2WD"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0667.3",
+                            "06210906673"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0452.4",
+                            "06210204524"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus systeem verstoord."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/abs-mk70/daihatsu-44510b1011-89540b1010-2wd-ate-06210909293-06210207184-106122.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-B1011",
+                            "44510B1011"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "89540-B1010",
+                            "89540B1010"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "2WD"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0929.3",
+                            "06210909293"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0718.4",
+                            "06210207184"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus systeem verstoord."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu",
+                    "Daihatsu Sirion 1.0i (Sirion, M3) Bouwjaar 2004 Motorcode 1KR-FE"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/abs-mk70/daihatsu-44510b1080-89540b1080-4wd-ate-06210908343-06210205244-135507.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-B1080",
+                            "44510B1080"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "89540-B1080",
+                            "89540B1080"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "4WD"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0834.3",
+                            "06210908343"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0524.4",
+                            "06210205244"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus systeem verstoord."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/abs-mk70/daihatsu-44510b1110-89540b1110-2wd-ate-06210950243-06210207684-134164.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-B1110",
+                            "44510B1110"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "89540-B1110",
+                            "89540B1110"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "2WD"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-5024.3",
+                            "06210950243"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0768.4",
+                            "06210207684"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CAN-bus systeem verstoord."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor een of meer wielsensoren opgeslagen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ABS Nisshinbo.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+nisshinbo-1630.ts1628718735.jpg",
+        "product_link": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit-4088/daihatsu/abs-asr-esp-control-unit/abs-nisshinbo-4089",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/abs-nisshinbo/daihatsu-4451097401-nisshinbo-112217.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-97401",
+                            "4451097401"
+                        ]
+                    },
+                    {
+                        "title": "Nisshinbo.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/abs-nisshinbo/daihatsu-4451097401-nisshinbo-8954097401-115191.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-97401",
+                            "4451097401"
+                        ]
+                    },
+                    {
+                        "title": "Nisshinbo - Onderdeelnummer",
+                        "numbers": [
+                            "89540-97401",
+                            "8954097401"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/abs-nisshinbo/daihatsu-4451097402-8954097402-nisshinbo-104883.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-97402",
+                            "4451097402"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "89540-97402",
+                            "8954097402"
+                        ]
+                    },
+                    {
+                        "title": "Nisshinbo.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcodes met betrekking tot de ABS-pompmotor opgeslagen. Stuur de regelunit samen met de pompmotor op."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK60.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk60-423.ts1628718730.jpg",
+        "product_link": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit-4088/daihatsu/abs-asr-esp-control-unit/esp-mk60-4100",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/esp-mk60/daihatsu-44510b1060-89540b1060-ate-06210906773-06210204764-2125-105019.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-B1060",
+                            "44510B1060"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "89540-B1060",
+                            "89540B1060"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0677.3",
+                            "06210906773"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0476.4",
+                            "06210204764"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1246",
+                        "fault_description": "Remvloeistofdruksensor storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/esp-mk60/daihatsu-44510b1100-89540b1100-ate-06210903733-06210207164-2125-141605.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-B1100",
+                            "44510B1100"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "89540-B1100",
+                            "89540B1100"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0373.3",
+                            "06210903733"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06-2102-0716.4",
+                            "06210207164"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1246",
+                        "fault_description": "Remvloeistofdruksensor storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/esp-mk60/daihatsu-44510b1100-89540b1100-ate-06210909763-06210207164-2125-110036.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-B1100",
+                            "44510B1100"
+                        ]
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "89540-B1100",
+                            "89540B1100"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0976.3",
+                            "06210909763"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0716.4",
+                            "06210207164"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1246",
+                        "fault_description": "Remvloeistofdruksensor storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/esp-mk60/daihatsu-44510b1130-ate-06210205304-105018.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "44510-B1130",
+                            "44510B1130"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0530.4",
+                            "06210205304"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1246",
+                        "fault_description": "Remvloeistofdruksensor storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/esp-mk60/daihatsu-89540b1130-ate-06210908303-06210205304-2125-109825.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Daihatsu - Onderdeelnummer",
+                        "numbers": [
+                            "89540-B1130",
+                            "89540B1130"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0830.3",
+                            "06210908303"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0530.4",
+                            "06210205304"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "2125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1246",
+                        "fault_description": "Remvloeistofdruksensor storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Daihatsu",
+                    "Daihatsu Sirion 1.5 (Sirion, M3) Bouwjaar 2010 Motorcode 3SZ-VE"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/daihatsu/abs-asr-esp-control-unit/esp-mk60/daihatsu-ate-06210909313-06210205324-109803.html",
+                "part_numbers": [
+                    {
+                        "title": "Daihatsu",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Daihatsu",
+                        "numbers": []
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2109-0931.3",
+                            "06210909313"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Onderdeelnummer",
+                        "numbers": [
+                            "06.2102-0532.4",
+                            "06210205324"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1246",
+                        "fault_description": "Remvloeistofdruksensor storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Er komt geen remvloeistof aan bij een of meer remklauwen of er wordt geen druk vrijgegeven in ten minste een remcircuit. Er wordt geen foutcode opgeslagen in de ABS/ESP-regelunit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pompmotor draait continu."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,419 @@
+[
+    {
+        "part_name": "S-Type ecu Automatic Climate Control (Vehicles with Navigation System)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/s+type+ecu+automatic+climate+control+vehicles+with+navigation+system-279362.ts1628714698.jpg",
+        "product_link": "https://ecu.eu/jaguar/heating-air-conditioning-5921/jaguar/heating-air-conditioning/s-type-ecu-automatic-climate-control-%28vehicles-with-navigation-system%29-6115",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/s-type-ecu-automatic-climate-control-%28vehicles-with-navigation-system%29/jaguar-2r8h18c612ce-148904.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "2R8H18C612CE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 3.0 24V (X200) Year of manufacture 2003",
+                    "JAGUAR S-Type 4.2 V8 32V (X200) Year of manufacture 2002 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/s-type-ecu-automatic-climate-control-%28vehicles-with-navigation-system%29/jaguar-2r8h18c612cf-visteon-140273.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "2R8H18C612CF"
+                        ]
+                    },
+                    {
+                        "title": "Visteon",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 3.0 24V (X200) Year of manufacture 2004 - 2005",
+                    "JAGUAR S-Type 4.2 V8 32V (X200) Year of manufacture 2002 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/s-type-ecu-automatic-climate-control-%28vehicles-with-navigation-system%29/jaguar-4r8318c612df-visteon-133731.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "4R83-18C612-DF",
+                            "4R8318C612DF"
+                        ]
+                    },
+                    {
+                        "title": "Visteon",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/s-type-ecu-automatic-climate-control-%28vehicles-with-navigation-system%29/jaguar-6r8318c612ca-visteon-133730.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "6R83-18C612-CA",
+                            "6R8318C612CA"
+                        ]
+                    },
+                    {
+                        "title": "Visteon",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 3.0 24V (X200) Year of manufacture 2005 - 2006",
+                    "JAGUAR S-Type 4.2 V8 32V (X200) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/s-type-ecu-automatic-climate-control-%28vehicles-with-navigation-system%29/jaguar-6r8318c612cb-visteon-145363.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "6R8318C612CB"
+                        ]
+                    },
+                    {
+                        "title": "Visteon",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 4.2 V8 32V (X200) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/s-type-ecu-automatic-climate-control-%28vehicles-with-navigation-system%29/jaguar-6r8318c612ga-valeo-133729.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "6R83-18C612-GA",
+                            "6R8318C612GA"
+                        ]
+                    },
+                    {
+                        "title": "Valeo",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 2.7 D (X200) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/s-type-ecu-automatic-climate-control-%28vehicles-with-navigation-system%29/jaguar-x206drccd-visteon-6r8318c612ga-147487.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "X206DRCCD"
+                        ]
+                    },
+                    {
+                        "title": "Visteon - Part number",
+                        "numbers": [
+                            "6R8318C612GA"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 2.7 D (X200) Year of manufacture 2005 - 2007"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "S-type control panel Automatic air-conditioning (until 2002)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/s+type+control+panel+automatic+air+conditioning+until+2002-279996.ts1628714710.jpg",
+        "product_link": "https://ecu.eu/jaguar/heating-air-conditioning-5921/jaguar/heating-air-conditioning/s-type-control-panel-automatic-air-conditioning-%28until-2002%29-6114",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/s-type-control-panel-automatic-air-conditioning-%28until-2002%29/jaguar-xr8h18c612ah-153511.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "XR8H-18C612-AH",
+                            "XR8H18C612AH"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/s-type-control-panel-automatic-air-conditioning-%28until-2002%29/jaguar-xr8h18c612al-147227.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "XR8H-18C612-AL",
+                            "XR8H18C612AL"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 3.0 24V (X200) Year of manufacture 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/s-type-control-panel-automatic-air-conditioning-%28until-2002%29/jaguar-xr8h18c612ap-133728.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "XR8H-18C612-AP",
+                            "XR8H18C612AP"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Type S automatic air-conditioning control module (from 2003)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/type+s+automatic+air+conditioning+control+module+from+2003-229447.ts1628713657.jpg",
+        "product_link": "https://ecu.eu/jaguar/heating-air-conditioning-5921/jaguar/heating-air-conditioning/type-s-automatic-air-conditioning-control-module-%28from-2003%29-5922",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/type-s-automatic-air-conditioning-control-module-%28from-2003%29/jaguar-2r8h18c612bn-130515.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "2R8H18C612BN"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 2.5 (X200) Year of manufacture 2004 - 2005",
+                    "JAGUAR S-Type 3.0 24V (X200) Year of manufacture 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/type-s-automatic-air-conditioning-control-module-%28from-2003%29/jaguar-4r8318c612fe-130522.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "4R8318C612FE"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/jaguar/heating-air-conditioning/type-s-automatic-air-conditioning-control-module-%28from-2003%29/jaguar-6r8318c612ba-visteon-146957.html",
+                "part_numbers": [
+                    {
+                        "title": "JAGUAR - Part number",
+                        "numbers": [
+                            "6R8318C612BA"
+                        ]
+                    },
+                    {
+                        "title": "Visteon",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1265",
+                        "fault_description": "servomotor bridging cold air - circuit disturbance"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Can not adjust the temperature"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JAGUAR S-Type 3.0 24V (X200) Year of manufacture 2005"
+                ]
+            }
+        ]
+    }
+]

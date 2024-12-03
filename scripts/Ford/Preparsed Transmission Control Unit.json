@@ -1,0 +1,1752 @@
+[
+    {
+        "part_name": "AG4",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ag4-398.ts1628718729.jpg",
+        "product_link": "https://ecu.eu/ford/transmission-control-unit-85/ford/transmission-control-unit/ag4-4666",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/ag4/ford-099927733ap-hella-5dg00807701-109849.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "099 927 733 AP",
+                            "099927733AP"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "5DG008077-01",
+                            "5DG00807701"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00258",
+                        "fault_description": "Magnetic valve 1 (N88) - interruption"
+                    },
+                    {
+                        "fault_code": "00260",
+                        "fault_description": "Magnetic valve 2 (N89) - interruption"
+                    },
+                    {
+                        "fault_code": "00262",
+                        "fault_description": "Magnetic valve 3 (N90) - interruption"
+                    },
+                    {
+                        "fault_code": "00264",
+                        "fault_description": "Magnetic valve 4 (N91) - interruption"
+                    },
+                    {
+                        "fault_code": "00266",
+                        "fault_description": "Magnetic valve 5 (N92) - interruption"
+                    },
+                    {
+                        "fault_code": "00270",
+                        "fault_description": "Magnetic valve 7 (N94) - interruption"
+                    },
+                    {
+                        "fault_code": "00268",
+                        "fault_description": "Magnetic valve 6 (N93) - interruption"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": "00281",
+                        "fault_description": "Drive speed sensor (G68) - no signal"
+                    },
+                    {
+                        "fault_code": "00297",
+                        "fault_description": "Transmission speed sensor (G38) - no signal"
+                    },
+                    {
+                        "fault_code": "00281 00297",
+                        "fault_description": "The errors occur together and cannot be deleted"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Galaxy 2.3i (Galaxy) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/ag4/ford-099927733q-hella-5dg00753461-117303.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "099 927 733 Q",
+                            "099927733Q"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "5DG007534-61",
+                            "5DG00753461"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "00258",
+                        "fault_description": "Magnetic valve 1 (N88) - interruption"
+                    },
+                    {
+                        "fault_code": "00260",
+                        "fault_description": "Magnetic valve 2 (N89) - interruption"
+                    },
+                    {
+                        "fault_code": "00262",
+                        "fault_description": "Magnetic valve 3 (N90) - interruption"
+                    },
+                    {
+                        "fault_code": "00264",
+                        "fault_description": "Magnetic valve 4 (N91) - interruption"
+                    },
+                    {
+                        "fault_code": "00266",
+                        "fault_description": "Magnetic valve 5 (N92) - interruption"
+                    },
+                    {
+                        "fault_code": "00270",
+                        "fault_description": "Magnetic valve 7 (N94) - interruption"
+                    },
+                    {
+                        "fault_code": "00268",
+                        "fault_description": "Magnetic valve 6 (N93) - interruption"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": "00281",
+                        "fault_description": "Drive speed sensor (G68) - no signal"
+                    },
+                    {
+                        "fault_code": "00297",
+                        "fault_description": "Transmission speed sensor (G38) - no signal"
+                    },
+                    {
+                        "fault_code": "00281 00297",
+                        "fault_description": "The errors occur together and cannot be deleted"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Galaxy 2.3i (Galaxy) Year of manufacture 1998 - 1999"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Durashift EST",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/durashift+est-453.ts1628718731.jpg",
+        "product_link": "https://ecu.eu/ford/transmission-control-unit-85/ford/transmission-control-unit/durashift-est-4133",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-26nr7m168-luk-117281.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "26NR-7M168",
+                            "26NR7M168"
+                        ]
+                    },
+                    {
+                        "title": "LUK",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2003",
+                    "FORD Fusion 1.4i (Fusion) Year of manufacture 2003 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-26sr7m168gf-luk-ag9d307700a-108938.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "26SR-7M168GF",
+                            "26SR7M168GF"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG9D307700a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2n1r7m168bd-luk-ag9d301804a-108079.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2N1R-7M168-BD",
+                            "2N1R7M168BD"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG 9D3 018 04 a",
+                            "AG9D301804a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2n1r7m168be-luk-ag9d301805a-2843.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2N1R-7M168-BE",
+                            "2N1R7M168BE"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG9D301805a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2003 - 2006",
+                    "FORD Fusion 1.4i (Fusion) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2n1r7m168bf-luk-ag9d301806a-105259.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2N1R-7M168-BF",
+                            "2N1R7M168BF"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG9D301806a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4i (Fiesta)",
+                    "FORD Fusion 1.4i (Fusion) Year of manufacture 2003 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2n1r7m168bg-luk-ag9d307300a-115423.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2N1R-7M168BG",
+                            "2N1R7M168BG"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG9D307300a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2n1r7m168bg-luk-ag9d307300b-105261.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2N1R-7M168BG",
+                            "2N1R7M168BG"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG9D307300b"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2004 - 2008",
+                    "FORD Fusion 1.4i (Fusion) Year of manufacture 2004 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7m168be-luk-ag9d301903a-2844.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7M168-BE",
+                            "2S6R7M168BE"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG9D301903a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7m168gc-luk-ag9d301903a-105258.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7M168-GC",
+                            "2S6R7M168GC"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG9D301903a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4 TDCi (Fiesta) Year of manufacture 2003 - 2005",
+                    "FORD Fusion 1.4 TDCi (Fusion) Year of manufacture 2003 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7m168gd-luk-116330.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7M168-GD",
+                            "2S6R7M168GD"
+                        ]
+                    },
+                    {
+                        "title": "LUK",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7m168gd-luk-ag9d301903a-105262.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7M168-GD",
+                            "2S6R7M168GD"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG9D301903a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fusion 1.4 TDCi (Fusion) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7m168gd-luk-ag9d301904a-109289.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7M168-GD",
+                            "2S6R7M168GD"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG9D301904a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fusion 1.4 TDCi (Fusion) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7m168gf-luk-ag9d307700a-136212.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7M168-GF",
+                            "2S6R7M168GF"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG9D307700a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7m168gf-luk-ag9d307700b-109338.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7M168GF",
+                            "2S6R7M168GF"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG9D307700b"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4 TDCi (Fiesta) Year of manufacture 2007 - 2008",
+                    "FORD Fusion 1.4 TDCi (Fusion) Year of manufacture 2007 - 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7m168sb-luk-ag6d300302a-105260.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7M168-SB",
+                            "2S6R7M168SB"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG 6D3 003 02 a",
+                            "AG6D300302a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7m168sc-luk-ag6d301100a-109291.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7M168-SC",
+                            "2S6R7M168SC"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG 6D3 011 00 a",
+                            "AG6D301100a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2003 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-2s6r7n168gs-luk-ag9d307400a-109290.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7N168-GS",
+                            "2S6R7N168GS"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG 9D3 074 00 a",
+                            "AG9D307400a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-est/ford-luk-ag9d301802a-127319.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD",
+                        "numbers": []
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "AG9D301802a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0810",
+                        "fault_description": "Clutch position controller error"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Display permanently indicating \"F\""
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No diagnosis possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2002"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Durashift actuator / actuator motor",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/durashift+actuator+actuator+motor-153368.ts1628712091.jpg",
+        "product_link": "https://ecu.eu/ford/transmission-control-unit-85/ford/transmission-control-unit/durashift-actuator-actuator-motor-5481",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-actuator-actuator-motor/ford-2s6r7k004ab-luk-g4d400302b-122316.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7K004-AB",
+                            "2S6R7K004AB"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "G 4D4 003 02 b",
+                            "G4D400302b"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0919",
+                        "fault_description": "Shift lever sensor X/Y position"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-actuator-actuator-motor/ford-2s6r7k004ac-luk-g4d400303b-122314.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7K004-AC",
+                            "2S6R7K004AC"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "G 4D4 003 03 b",
+                            "G4D400303b"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0919",
+                        "fault_description": "Shift lever sensor X/Y position"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2003",
+                    "FORD Fusion 1.4i (Fusion) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-actuator-actuator-motor/ford-2s6r7k004ac-luk-g4d400303c-119733.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7K004-AC",
+                            "2S6R7K004AC"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "G 4D4 003 03 c",
+                            "G4D400303c"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0919",
+                        "fault_description": "Shift lever sensor X/Y position"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2003",
+                    "FORD Fusion 1.4i (Fusion) Year of manufacture 2003 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-actuator-actuator-motor/ford-2s6r7k004ac-luk-g4d400303e-122315.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7K004-AC",
+                            "2S6R7K004AC"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "G 4D4 003 03 e",
+                            "G4D400303e"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0919",
+                        "fault_description": "Shift lever sensor X/Y position"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2003 - 2004",
+                    "FORD Fusion 1.4i (Fusion) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-actuator-actuator-motor/ford-2s6r7k004ad-luk-g4d400303f-119661.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7K004-AD",
+                            "2S6R7K004AD"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "G 4D4 003 03 f",
+                            "G4D400303f"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0919",
+                        "fault_description": "Shift lever sensor X/Y position"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fusion 1.4i (Fusion) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-actuator-actuator-motor/ford-2s6r7k004ad-luk-g4d400304a-119880.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7K004-AD",
+                            "2S6R7K004AD"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "G 4D4 003 04 a",
+                            "G4D400304a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0919",
+                        "fault_description": "Shift lever sensor X/Y position"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2005 - 2006",
+                    "FORD Fusion 1.4i (Fusion) Year of manufacture 2005 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-actuator-actuator-motor/ford-2s6r7k004ad-luk-g4d402003a-146643.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7K004-AD",
+                            "2S6R7K004AD"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "G 4D4 020 03a",
+                            "G4D402003a"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0919",
+                        "fault_description": "Shift lever sensor X/Y position"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fusion 1.4i (Fusion) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-actuator-actuator-motor/ford-2s6r7k004ae-luk-l0g4d4000305-bosch-0130008505-0130008506-120737.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "2S6R-7K004-AE",
+                            "2S6R7K004AE"
+                        ]
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "L0G 4D4 0003 05",
+                            "L0G4D4000305"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 130 008 505",
+                            "0130008505"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 130 008 506",
+                            "0130008506"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0919",
+                        "fault_description": "Shift lever sensor X/Y position"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4 TDCi (Fiesta) Year of manufacture 2007 - 2008",
+                    "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2002 - 2008",
+                    "FORD Fusion 1.4i (Fusion) Year of manufacture 2003 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/durashift-actuator-actuator-motor/ford-luk-g1d600307d-bosch-0130008505-146119.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD",
+                        "numbers": []
+                    },
+                    {
+                        "title": "LUK - Part number",
+                        "numbers": [
+                            "G 1D6 003 07 d",
+                            "G1D600307d"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 130 008 505",
+                            "0130008505"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0919",
+                        "fault_description": "Shift lever sensor X/Y position"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Fiesta 1.4i (Fiesta) Year of manufacture 2005"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Powershift 6-Gang DKG DCT450",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/powershift+6+gang+dkg+dct450-1014931.ts1651042420.jpg",
+        "product_link": "https://ecu.eu/ford/transmission-control-unit-85/ford/transmission-control-unit/powershift-6-gang-dkg-dct450-6892",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-7m5r14c247ae-continental-147208.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-AE",
+                            "7M5R14C247AE"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Focus C-Max 2.0 TDCi (Focus C-Max) Year of manufacture 2009",
+                    "FORD Focus Turnier 2.0 TDCi (Focus) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-7m5r14c247ag-continental-151775.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-AG",
+                            "7M5R14C247AG"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-7m5r7h035ca-continental-127690.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-7H035-CA",
+                            "7M5R7H035CA"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Kuga 2.0 TDCi (Kuga) Year of manufacture 2011",
+                    "FORD Mondeo Turnier 2.0 TDCi (Mondeo) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-ag9114c471ab-7m5r14c247fa-continental-127832.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "AG91-14C471-AB",
+                            "AG9114C471AB"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-FA",
+                            "7M5R14C247FA"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD C-Max 2.0 TDCi (C-Max) Year of manufacture 2013",
+                    "FORD S-Max 2.0 TDCi (S-Max) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-ag917z369ah-7m5r14c247ae-continental-151326.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "AG91-7Z369-AH",
+                            "AG917Z369AH"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-AE",
+                            "7M5R14C247AE"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Galaxy 2.0 TDCi (Galaxy) Year of manufacture 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-ag917z369ak-7m5r14c247fa-continental-153385.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "AG917Z369-AK",
+                            "AG917Z369AK"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-FA",
+                            "7M5R14C247FA"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-ag917z369al-7m5r14c247fa-continental-153009.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "AG91-7Z369-AL",
+                            "AG917Z369AL"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-FA",
+                            "7M5R14C247FA"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-ag917z369am-7m5r14c247ae-continental-149493.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "AG91-7Z369-AM",
+                            "AG917Z369AM"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-AE",
+                            "7M5R14C247AE"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-ag917z369am-7m5r14c247fa-continental-147686.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "AG91-7Z369-AM",
+                            "AG917Z369AM"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-FA",
+                            "7M5R14C247FA"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Mondeo Turnier 2.0 TDCi (Mondeo) Year of manufacture 2013",
+                    "FORD S-Max 2.0 TDCi (S-Max) Year of manufacture 2013 - 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-ag917z369cd-7m5r14c247ae-continental-153650.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "AG91-7Z369-CD",
+                            "AG917Z369CD"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-AE",
+                            "7M5R14C247AE"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-am5107z369cd-7m5r14c247fa-continental-150465.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "AM51-07Z369-CD",
+                            "AM5107Z369CD"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-FA",
+                            "7M5R14C247FA"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-am517z369df-7m5r14c247fa-continental-150337.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "AM51-7Z369-DF",
+                            "AM517Z369DF"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-FA",
+                            "7M5R14C247FA"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD C-Max 2.0 TDCi (C-Max) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-am517z369dg-7m5r14c247fa-152126.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "AM51-7Z369-DG",
+                            "AM517Z369DG"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-FA",
+                            "7M5R14C247FA"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD C-Max 2.0 TDCi (C-Max) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-av4107z369aj-7m5r14c247fa-continental-151922.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "AV41-07Z369-AJ",
+                            "AV4107Z369AJ"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-FA",
+                            "7M5R14C247FA"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-ca617z369ac-7m5r14c247fa-continental-151273.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "CA61-7Z369-AC",
+                            "CA617Z369AC"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-FA",
+                            "7M5R14C247FA"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-cv617z369ac-7m5r14c247fa-continental-149194.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "CV61-7Z369-AC",
+                            "CV617Z369AC"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "7M5R-14C247-FA",
+                            "7M5R14C247FA"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/transmission-control-unit/powershift-6-gang-dkg-dct450/ford-fc417z369ac-ds7r14c247ad-continental-150570.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "FC41-7Z369-AC",
+                            "FC417Z369AC"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "DS7R-14C247-AD",
+                            "DS7R14C247AD"
+                        ]
+                    },
+                    {
+                        "title": "Continental",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Connector plug torn off during removal"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2015"
+                ]
+            }
+        ]
+    }
+]

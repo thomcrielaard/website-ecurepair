@@ -1,0 +1,38 @@
+[
+    {
+        "part_name": "EUR",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/dodge+psg5+bosch+0281001827-401.ts1628718729.jpg",
+        "product_link": "https://ecu.eu/dodge/pump-ecu-psg5-6087",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/dodge/pump-ecu-psg5/dodge-psg5-bosch-0281001827-130577.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge - Part number",
+                        "numbers": [
+                            "PSG5"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 281 001 827",
+                            "0281001827"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine stops while driving and doesn't start again"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

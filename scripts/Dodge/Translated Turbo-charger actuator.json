@@ -1,0 +1,38 @@
+[
+    {
+        "part_name": "EUR.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/dodge+6nw009228+hella+730314-2167.ts1628724448.jpg",
+        "product_link": "https://ecu.eu/dodge/turbo-charger-actuator-4977",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/dodge/turbo-charger-actuator/dodge-6nw009228-hella-730314-112664.html",
+                "part_numbers": [
+                    {
+                        "title": "Dodge - Onderdeelnummer",
+                        "numbers": [
+                            "6NW 009 228",
+                            "6NW009228"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "730314"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tijdelijke problemen met de laaddrukregeling – foutcode met betrekking tot de laaddrukregeling, voertuig heeft vermogensverlies, motorcontrolelampje brandt, na aan- en uitzetten van de ontsteking werkt de motor weer normaal – tot de volgende fout optreedt."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

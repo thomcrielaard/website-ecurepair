@@ -1,0 +1,66 @@
+[
+    {
+        "part_name": "Radio Navigatie NTG4 Refresh.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/radio+navigaton+ntg4+refresh-5085451.ts1718173926.jpg",
+        "product_link": "https://ecu.eu/jeep/radio-cd-navigation-7324/jeep/radio-cd-navigation/radio-navigaton-ntg4-refresh-7325",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jeep/radio-cd-navigation/radio-navigaton-ntg4-refresh/jeep-p68224877aa-chrysler-ntg4refresh-harman-automotive-ntg4rhw-36670j-153736.html",
+                "part_numbers": [
+                    {
+                        "title": "Jeep - Onderdeelnummer",
+                        "numbers": [
+                            "P68224877AA"
+                        ]
+                    },
+                    {
+                        "title": "Chrysler - Onderdeelnummer",
+                        "numbers": [
+                            "NTG4 REFRESH",
+                            "NTG4REFRESH"
+                        ]
+                    },
+                    {
+                        "title": "Harman Automotive - Onderdeelnummer",
+                        "numbers": [
+                            "NTG4 RHW",
+                            "NTG4RHW"
+                        ]
+                    },
+                    {
+                        "title": "Harman Automotive - Onderdeelnummer",
+                        "numbers": [
+                            "36670 J",
+                            "36670J"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD en/of DVD wordt niet meer herkend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "CD's / DVD's kunnen niet worden ingevoerd of uitgeworpen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Touchscreen reageert niet of is kapot."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Touchscreen gebruikt / bekrast."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Jeep (Wrangler) Bouwjaar 2015"
+                ]
+            }
+        ]
+    }
+]

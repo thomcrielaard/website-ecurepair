@@ -1,5 +1,22 @@
 @import "@/styles/_config";
 
+.NavbarVacation {
+  position: fixed;
+  top: 0;
+  z-index: 1001;
+  width: 100%;
+  background-color: colors(RED);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  color: colors(WHITE);
+  padding: 15px 40px;
+
+  @include xs {
+    padding: 8px 20px;
+  }
+}
+
 .NavbarBackground {
   position: relative;
   z-index: 998;
@@ -14,6 +31,10 @@
     50% 100%,
     0 calc(100% - 65px)
   );
+
+  &.BackgroundVacation {
+    top: 20px;
+  }
 
   @include xl {
     height: 150px;
@@ -64,6 +85,10 @@
       background-color: colors(GRAY);
       border-bottom: 1px solid transparent;
     }
+  }
+
+  &.VacationContainer {
+    top: 46px;
   }
 }
 
@@ -123,6 +148,10 @@
 
   &.NavbarMobileOpen {
     transform: translateX(0);
+  }
+
+  &.MobileVacation {
+    top: 20px;
   }
 
   @include md {

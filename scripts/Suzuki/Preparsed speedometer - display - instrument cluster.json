@@ -1,0 +1,1611 @@
+[
+    {
+        "part_name": "Swift (AZ/RZ) Cockpit",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/swift+az+rz+cockpit-1017144.ts1651234045.jpg",
+        "product_link": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster-5058/suzuki/speedometer-display-instrument-cluster/swift-%28az-rz%29-cockpit-6913",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28az-rz%29-cockpit/suzuki-3411053ra0-continental-a2c11344600-145436.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-53RA0",
+                            "3411053RA0"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C 113 446 00",
+                            "A2C11344600"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B1810",
+                        "fault_description": "Fuel level sensor circuit interruption"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Fuel gauge shows empty and fuel symbol flashes quickly"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.2 Hatchback (Swift, RZ/AZ) Year of manufacture 2017"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Swift (FZ/NZ) instrument cluster",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/swift+fz+nz+instrument+cluster-102182.ts1628711607.jpg",
+        "product_link": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster-5058/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster-5390",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3410068l42-118769.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-68L42",
+                            "3410068L42"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3410068lb0-118772.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-68LB0",
+                            "3410068LB0"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3410068lb4-118770.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-68LB4",
+                            "3410068LB4"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3410068lh4-118768.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-68LH4",
+                            "3410068LH4"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411068la1-3411068lg-continental-a2c5342246602-118767.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-68LA1",
+                            "3411068LA1"
+                        ]
+                    },
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-68LG",
+                            "3411068LG"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C 534 224 66 - 02",
+                            "A2C5342246602"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.2 (Swift, NZ/FZ) Year of manufacture 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411068la1-continental-a2c5342246604-132801.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-68LA1",
+                            "3411068LA1"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C 534 224 66 - 04",
+                            "A2C5342246604"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.2 Hatchback (Swift, NZ/FZ) Year of manufacture 2011",
+                    "SUZUKI Swift 1.2 (Swift, NZ/FZ) Year of manufacture 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411068la3-vdo-a2c3265010001-152179.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-68LA3",
+                            "3411068LA3"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 326 501 00-01",
+                            "A2C3265010001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411068la4-vdo-a2c3304210001-137139.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-68LA4",
+                            "3411068LA4"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 330 421 00 - 01",
+                            "A2C3304210001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.2 (Swift, NZ/FZ) Year of manufacture 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411068la5-3411068lg-continental-a2c89540300-a2c8954030000-122728.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-68LA5",
+                            "3411068LA5"
+                        ]
+                    },
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-68LG",
+                            "3411068LG"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C 895 403 00",
+                            "A2C89540300"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C 895 403 00 - 00",
+                            "A2C8954030000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.2 (Swift, NZ/FZ) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411068lg-vdo-a2c3304220002-148890.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-68LG",
+                            "3411068LG"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 330 422 00 - 02",
+                            "A2C3304220002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411068lg-vdo-a2c5342246604-136885.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-68LG",
+                            "3411068LG"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 534 224 66 - 04",
+                            "A2C5342246604"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.2 (Swift, NZ/FZ) Year of manufacture 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411068lg1-continental-a2c8953990000-151832.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-68LG1",
+                            "3411068LG1"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C 895 399 00-00",
+                            "A2C8953990000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411070la0-continental-a2c3745870001-118766.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-70LA0",
+                            "3411070LA0"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C 374 587 00 - 01",
+                            "A2C3745870001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift Sport 1.6 (Swift, NZ/FZ) Year of manufacture 2011 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411070la0-continental-a2c3745870002-118901.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-70LA0",
+                            "3411070LA0"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "A2C 374 587 00 - 02",
+                            "A2C3745870002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift Sport 1.6 (Swift, NZ/FZ) Year of manufacture 2012 - 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411070le1-vdo-a2c96238000-135665.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-70LE1",
+                            "3411070LE1"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 962 380 00",
+                            "A2C96238000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift Sport 1.6 (Swift, NZ/FZ) Year of manufacture 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411070le2-vdo-a2c9623850101-153446.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-70LE2",
+                            "3411070LE2"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 962 385 01 - 01",
+                            "A2C9623850101"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift Sport 1.6 (Swift, NZ/FZ) Year of manufacture 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411078pa-vdo-a2c9623790100-a2c9623790000-140456.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-78PA",
+                            "3411078PA"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 962 379 01 - 00",
+                            "A2C9623790100"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 962 379 00 - 00",
+                            "A2C9623790000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.2 (Swift, NZ/FZ) Year of manufacture 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411078pa-vdo-a2c9623830000-153721.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-78PA",
+                            "3411078PA"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 962 383 00-00",
+                            "A2C9623830000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.2 (Swift, NZ/FZ) Year of manufacture 2015"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411078pa0-3411078pa-vdo-a2c9502740000-123147.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-78PA0",
+                            "3411078PA0"
+                        ]
+                    },
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-78PA",
+                            "3411078PA"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 950 274 00 - 00",
+                            "A2C9502740000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.2 Hatchback (Swift, NZ/FZ) Year of manufacture 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28fz-nz%29-instrument-cluster/suzuki-3411078pa1-vdo-118771.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-78PA1",
+                            "3411078PA1"
+                        ]
+                    },
+                    {
+                        "title": "VDO",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.2 (Swift, NZ/FZ) Year of manufacture 2015"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Swift (MZ/EZ/RS) instrument cluster",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/swift+mz+ez+rs+instrument+cluster-12896.ts1628718779.jpg",
+        "product_link": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster-5058/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster-5109",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410057ka0-vdo-a2c53114924-135124.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-57KA0",
+                            "3410057KA0"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 5311 4924",
+                            "A2C53114924"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.6 (Swift, MZ/EZ) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410057kc0-vdo-a2c53219902-126957.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-57KC0",
+                            "3410057KC0"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 532 199 02",
+                            "A2C53219902"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.6 Hatchback (Swift, MZ/EZ) Year of manufacture 2008 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410062ja0-3410062j0-vdo-a2c53088066-113424.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-62JA0",
+                            "3410062JA0"
+                        ]
+                    },
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-62J0",
+                            "3410062J0"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 530 880 66",
+                            "A2C53088066"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.3 (Swift, MZ/EZ) Year of manufacture 2005 - 2008",
+                    "SUZUKI Swift 1.5 (Swift, MZ/EZ) Year of manufacture 2005 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410062jb0-vdo-a2c53088067-113430.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-62JB0",
+                            "3410062JB0"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 530 880 67",
+                            "A2C53088067"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.5 (Swift, MZ/EZ) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410062jc0-vdo-a2c53083780-147699.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-62JC0",
+                            "3410062JC0"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 530 837 80",
+                            "A2C53083780"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.3 (Swift, MZ/EZ) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410063je-vdo-a2c5321991508-152528.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-63JE",
+                            "3410063JE"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 532 199 15 - 08",
+                            "A2C5321991508"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410063je0-3410063je-vdo-a2c5311492606-a2c53114926-113429.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-63JE0",
+                            "3410063JE0"
+                        ]
+                    },
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-63JE",
+                            "3410063JE"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 531 149 26 - 06",
+                            "A2C5311492606"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 531 149 26",
+                            "A2C53114926"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.3 (Swift, MZ/EZ) Year of manufacture 2006 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410072k00-vdo-a2c53219883-113418.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-72K00",
+                            "3410072K00"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 532 198 83",
+                            "A2C53219883"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.3 (Swift, MZ/EZ) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410072ka0-vdo-a2c53219885-113428.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-72KA0",
+                            "3410072KA0"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 532 198 85",
+                            "A2C53219885"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.3 (Swift, MZ/EZ) Year of manufacture 2008 - 2019"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410072kb0-vdo-a2c53219886-113425.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-72KB0",
+                            "3410072KB0"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 532 198 86",
+                            "A2C53219886"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.3 (Swift, MZ/EZ) Year of manufacture 2008 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410072kc0-vdo-a2c53219887-148493.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-72KC0",
+                            "3410072KC0"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 532 198 87",
+                            "A2C53219887"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.5 (Swift, MZ/EZ) Year of manufacture 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410072ke0-vdo-113427.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-72KE0",
+                            "3410072KE0"
+                        ]
+                    },
+                    {
+                        "title": "VDO",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3410073kf0-3410063je-vdo-a2c5321991506-a2c53219915-116479.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-73KF0",
+                            "3410073KF0"
+                        ]
+                    },
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-63JE",
+                            "3410063JE"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 532 199 15 - 06",
+                            "A2C5321991506"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 532 199 15",
+                            "A2C53219915"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Swift 1.3 (Swift, MZ/EZ) Year of manufacture 2008 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3411052l10-vdo-113420.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-52L10",
+                            "3411052L10"
+                        ]
+                    },
+                    {
+                        "title": "VDO",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3411079j20-fiat-vdo-a2c53141294-113419.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-79J20",
+                            "3411079J20"
+                        ]
+                    },
+                    {
+                        "title": "FIAT",
+                        "numbers": []
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "A2C 531 412 94",
+                            "A2C53141294"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FIAT Sedici 1.6 4x4 (Sedici, 189) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3411079j30-vdo-113422.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-79J30",
+                            "3411079J30"
+                        ]
+                    },
+                    {
+                        "title": "VDO",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3411079j50-fiat-vdo-113423.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-79J50",
+                            "3411079J50"
+                        ]
+                    },
+                    {
+                        "title": "FIAT",
+                        "numbers": []
+                    },
+                    {
+                        "title": "VDO",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/swift-%28mz-ez-rs%29-instrument-cluster/suzuki-3411079j70-fiat-vdo-113421.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34110-79J70",
+                            "3411079J70"
+                        ]
+                    },
+                    {
+                        "title": "FIAT",
+                        "numbers": []
+                    },
+                    {
+                        "title": "VDO",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Failure of different indicator lights"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Scale illumination out of order more and more often."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Total failure, only direction indicators still work"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Wagon R (EM/MM) instrument cluster",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/wagon+r+em+mm+instrument+cluster-464877.ts1628717218.jpg",
+        "product_link": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster-5058/suzuki/speedometer-display-instrument-cluster/wagon-r-%28em-mm%29-instrument-cluster-6534",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/wagon-r-%28em-mm%29-instrument-cluster/suzuki-09204704-3410083e50-vdo-110008952002-123940.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "09 204 704",
+                            "09204704"
+                        ]
+                    },
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-83E50",
+                            "3410083E50"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "110.008.952/002",
+                            "110008952002"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Wagon R+ 1.3i (Wagon R, MM) Year of manufacture 2001"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/wagon-r-%28em-mm%29-instrument-cluster/suzuki-3410084e50-vdo-110008952016-129196.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-84E50",
+                            "3410084E50"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "110 008 952 016",
+                            "110008952016"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUZUKI Wagon R+ 1.3i (Wagon R, MM) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/suzuki/speedometer-display-instrument-cluster/wagon-r-%28em-mm%29-instrument-cluster/suzuki-3410085ee0-vdo-110008952036-141868.html",
+                "part_numbers": [
+                    {
+                        "title": "SUZUKI - Part number",
+                        "numbers": [
+                            "34100-85EE0",
+                            "3410085EE0"
+                        ]
+                    },
+                    {
+                        "title": "VDO - Part number",
+                        "numbers": [
+                            "110.008.952/036",
+                            "110008952036"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Malfunction of individual analogue instruments, please describe in detail"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

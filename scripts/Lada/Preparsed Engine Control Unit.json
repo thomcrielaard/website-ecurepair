@@ -1,0 +1,695 @@
+[
+    {
+        "part_name": "M7.9.7",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/m7+9+7-2301.ts1628722663.jpg",
+        "product_link": "https://ecu.eu/lada/engine-control-unit-3464/lada/engine-control-unit/m7.9.7-3466",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-11183141102020-bosch-0261201311-145300.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "11183-1411020-20",
+                            "11183141102020"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 201 311",
+                            "0261201311"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-11194141102002-%D0%BD%D0%BF%D0%BF-%D0%B8%D1%82%D1%8D%D0%BB%D0%BC%D0%B0-npp-itelma-594841730609-114022.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "11194-1411020-02",
+                            "11194141102002"
+                        ]
+                    },
+                    {
+                        "title": "НПП ИТЭЛМА - NPP ITELMA - Part number",
+                        "numbers": [
+                            "59 4 84173 0609",
+                            "594841730609"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-11194141102010-bosch-0261201419-114020.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "11194-1411020-10",
+                            "11194141102010"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 201 419",
+                            "0261201419"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LADA (Kalina) Year of manufacture 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-21067141102021-%D0%B0%D0%B2%D1%82%D1%8D%D0%BB-awtel-594841050609-114021.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21067-1411020-21",
+                            "21067141102021"
+                        ]
+                    },
+                    {
+                        "title": "Автэл - Awtel - Part number",
+                        "numbers": [
+                            "59 4 84105 0609",
+                            "594841050609"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-21114141102020-bosch-0261201206-102168.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21114-1411020-20",
+                            "21114141102020"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 201 206",
+                            "0261201206"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-21114141102040-bosch-0261201207-102169.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21114-1411020-40",
+                            "21114141102040"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 201 207",
+                            "0261201207"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LADA (Kalina)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-21124141102010-bosch-0261208315-105202.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21124-1411020-10",
+                            "21124141102010"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 208 315",
+                            "0261208315"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-21124141102020-bosch-0261201205-102171.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21124-1411020-20",
+                            "21124141102020"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 201 205",
+                            "0261201205"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LADA Kalina 1.6i (Kalina, 111) Year of manufacture 2004 Engine code 21124, 21114",
+                    "LADA (Kalina) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-21126141102000-bosch-0261201421-131168.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21126-1411020-00",
+                            "21126141102000"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 201 421",
+                            "0261201421"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-21126141102032-%D0%BD%D0%BF%D0%BF-%D0%B8%D1%82%D1%8D%D0%BB%D0%BC%D0%B0-npp-itelma-594841780410-114023.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21126-1411020-32",
+                            "21126141102032"
+                        ]
+                    },
+                    {
+                        "title": "НПП ИТЭЛМА - NPP ITELMA - Part number",
+                        "numbers": [
+                            "59 4 84178 0410",
+                            "594841780410"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-21214141102010-bosch-0261207835-133890.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21214-1411020-10",
+                            "21214141102010"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 207 835",
+                            "0261207835"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-21214141102010-bosch-0261208345-102170.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21214-1411020-10",
+                            "21214141102010"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 208 345",
+                            "0261208345"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LADA (4x4) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/m7.9.7/lada-21214141102020-bosch-0261201208-102167.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21214-1411020-20",
+                            "21214141102020"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 201 208",
+                            "0261201208"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Engine doesn't start, immobilizer active"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LADA (Niva)"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ME17.9.7",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/me17+9+7-206297.ts1628713173.jpg",
+        "product_link": "https://ecu.eu/lada/engine-control-unit-3464/lada/engine-control-unit/me17.9.7-5848",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/me17.9.7/lada-21214141102060-bosch-0261s06590-123254.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21214-1411020-60",
+                            "21214141102060"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 S06 590",
+                            "0261S06590"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobiliser does not release."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition spark on one cylinder"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LADA 4x4 1.7 (4x4, 21214) Engine code 21214-10",
+                    "LADA (Niva) Year of manufacture 2011 - 2018"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/me17.9.7/lada-21214141102080-bosch-0261s05423-145380.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21214-1411020-80",
+                            "21214141102080"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 S05 423",
+                            "0261S05423"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Immobiliser does not release."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition spark on one cylinder"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LADA (Niva) Year of manufacture 2020"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "MP7.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mp7+0-2304.ts1628718739.jpg",
+        "product_link": "https://ecu.eu/lada/engine-control-unit-3464/lada/engine-control-unit/mp7.0-3465",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/mp7.0/lada-2111141102040-bosch-0261204723-0986262547-121663.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "2111-1411020-40",
+                            "2111141102040"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 204 723",
+                            "0261204723"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 986 262 547",
+                            "0986262547"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/mp7.0/lada-2111141102050-bosch-0261206883-102174.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "2111-1411020-50",
+                            "2111141102050"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 206 883",
+                            "0261206883"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/mp7.0/lada-2112141102050-abg-werke-bosch-0261206985-102173.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "2112-1411020-50",
+                            "2112141102050"
+                        ]
+                    },
+                    {
+                        "title": "ABG-WERKE",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 206 985",
+                            "0261206985"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "LADA (111-Serie) Year of manufacture 2004 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/mp7.0/lada-212141411020-bosch-0261204883-117236.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21214-14110-20",
+                            "212141411020"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 204 883",
+                            "0261204883"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/lada/engine-control-unit/mp7.0/lada-212141411020-bosch-0261206986-102172.html",
+                "part_numbers": [
+                    {
+                        "title": "LADA - Part number",
+                        "numbers": [
+                            "21214-14110-20",
+                            "212141411020"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 261 206 986",
+                            "0261206986"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "LADA Niva 1.7i (Niva, 2121) Year of manufacture 2000",
+                    "LADA (Niva)"
+                ]
+            }
+        ]
+    }
+]

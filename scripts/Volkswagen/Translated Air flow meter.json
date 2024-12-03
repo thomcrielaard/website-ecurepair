@@ -1,0 +1,83 @@
+[
+    {
+        "part_name": "EUR.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/volkswagen+vw+025906301c+bosch+0280202079-215142.ts1628723017.jpg",
+        "product_link": "https://ecu.eu/vw-%28volkswagen%29/air-flow-meter-6182",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/air-flow-meter/volkswagen-vw-025906301c-bosch-0280202079-134759.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "025 906 301 C",
+                            "025906301C"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 202 079",
+                            "0280202079"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen T3 2.1 (T3, 24/25) Bouwjaar 1987 - 1990 Motorcode MV",
+                    "Volkswagen Transporter 2.1 Syncro (T3, 24/25) Bouwjaar 1988 - 1989 Motorcode MV",
+                    "Volkswagen Transporter 2.1 (T3, 24/25) Motorcode MV, DJ, SS"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/vw-%28volkswagen%29/air-flow-meter/volkswagen-vw-037906301-bosch-0280202106-140781.html",
+                "part_numbers": [
+                    {
+                        "title": "Volkswagen / VW - Onderdeelnummer",
+                        "numbers": [
+                            "037 906 301",
+                            "037906301"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0280 202 106",
+                            "0280202106"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Volkswagen Golf 1.8 Cabriolet (Golf I, 15) Bouwjaar 1990 - 1992 Motorcode 2H"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,329 @@
+[
+    {
+        "part_name": "Charger",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/charger-1177265.ts1662709256.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology-7021/mitsubishi/high-voltage-hybrid-technology/charger-7026",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology/charger/mitsubishi-9482a130-yazaki-147870.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "9482A130"
+                        ]
+                    },
+                    {
+                        "title": "Yazaki",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander PHEV (Outlander, GF0) Year of manufacture 2019"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology/charger/mitsubishi-9482a249-yazaki-147483.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "9482A249"
+                        ]
+                    },
+                    {
+                        "title": "Yazaki",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander PHEV (Outlander, GF0) Year of manufacture 2019"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology/charger/mitsubishi-9482a334-yazaki-146794.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "9482A334"
+                        ]
+                    },
+                    {
+                        "title": "Yazaki",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander PHEV (Outlander, GF0) Year of manufacture 2016 - 2021"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology/charger/mitsubishi-9482a335-yazaki-146786.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "9482A335"
+                        ]
+                    },
+                    {
+                        "title": "Yazaki",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi I-Miev (I, HA0)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology/charger/mitsubishi-yazaki-9482a129-152796.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Yazaki - Part number",
+                        "numbers": [
+                            "9482A129"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Outlander PHEV (Outlander, GF0) Year of manufacture 2014"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Motor inverter i-Miev",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/no-image.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology-7021/mitsubishi/high-voltage-hybrid-technology/motor-inverter-i-miev-7024",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology/motor-inverter-i-miev/mitsubishi-9499a620-meidensha-ma20284736-148444.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "9499A620"
+                        ]
+                    },
+                    {
+                        "title": "MEIDENSHA - Part number",
+                        "numbers": [
+                            "MA20284736"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1A15",
+                        "fault_description": "Fault in the high voltage system"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi I-Miev (I, HA0) Year of manufacture 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology/motor-inverter-i-miev/mitsubishi-9499a620-meidensha-ma20341373-144158.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "9499A620"
+                        ]
+                    },
+                    {
+                        "title": "MEIDENSHA - Part number",
+                        "numbers": [
+                            "MA20341373"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1A15",
+                        "fault_description": "Fault in the high voltage system"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi I-Miev (I, HA0) Year of manufacture 2011 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology/motor-inverter-i-miev/mitsubishi-9499a620-meidensha-ma20347641-154190.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "9499A620"
+                        ]
+                    },
+                    {
+                        "title": "MEIDENSHA - Part number",
+                        "numbers": [
+                            "MA20347641"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1A15",
+                        "fault_description": "Fault in the high voltage system"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi I-Miev (I, HA0) Year of manufacture 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology/motor-inverter-i-miev/mitsubishi-9499a620-meidensha-ma20347642-125268.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "9499A620"
+                        ]
+                    },
+                    {
+                        "title": "MEIDENSHA - Part number",
+                        "numbers": [
+                            "MA20347642"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1A15",
+                        "fault_description": "Fault in the high voltage system"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi I-Miev (I, HA0) Year of manufacture 2011 - 2014"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Onboard charger (OBC) i-Miev",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/no-image.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology-7021/mitsubishi/high-voltage-hybrid-technology/onboard-charger-%28obc%29-i-miev-7025",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology/onboard-charger-%28obc%29-i-miev/mitsubishi-9499a437-nichicon-zhtp1529r-137113.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "9499A437"
+                        ]
+                    },
+                    {
+                        "title": "NICHICON - Part number",
+                        "numbers": [
+                            "ZHTP1529R"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0A09",
+                        "fault_description": "DC converter , Low voltage/current supply"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No charging via 220V possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi I-Miev (I, HA0) Year of manufacture 2011 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/high-voltage-hybrid-technology/onboard-charger-%28obc%29-i-miev/mitsubishi-9499c341-nichicon-zhpt1529r-140670.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "9499C341"
+                        ]
+                    },
+                    {
+                        "title": "NICHICON - Part number",
+                        "numbers": [
+                            "ZHPT1529R"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0A09",
+                        "fault_description": "DC converter , Low voltage/current supply"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No charging via 220V possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

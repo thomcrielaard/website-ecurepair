@@ -7,7 +7,8 @@ import Colors from "@/styles/Colors";
 export default function Button(props) {
   const style = {
     "--backgroundColor": props.backgroundColor ?? "transparent",
-    "--hoverBackgroundColor": props.hoverBackgroundColor ?? "transparent",
+    "--hoverBackgroundColor":
+      props.hoverBackgroundColor ?? props.backgroundColor ?? "transparent",
     "--color": props.color ?? Colors.WHITE,
     "--hoverColor": props.hoverColor ?? Colors.WHITE,
     "--borderColor": props.borderColor ?? Colors.WHITE,

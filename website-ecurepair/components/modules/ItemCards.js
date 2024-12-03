@@ -1,5 +1,7 @@
+"use client";
 import * as React from "react";
 import Image from "next/image";
+import ReactPaginate from "react-paginate";
 
 import styles from "@/styles/modules/ItemCards.module.scss";
 
@@ -13,27 +15,32 @@ import Button from "@/components/modules/Button";
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 import { API_URL } from "@/pages/_app";
-import ReactPaginate from "react-paginate";
 import Chevron from "@/assets/svg/Chevron";
 
 export default function ItemCards(props) {
   const size = UseDimensions();
-  const itemsPerPage = 8;
 
-  const [currentItems, setCurrentItems] = React.useState([]);
-  const [pageCount, setPageCount] = React.useState(0);
-  const [itemOffset, setItemOffset] = React.useState(0);
-
+  // Enforces onclick listener for pagination
   React.useEffect(() => {
-    const endOffset = itemOffset + itemsPerPage;
-    setCurrentItems(props.items.slice(itemOffset, endOffset));
-    setPageCount(Math.ceil(props.items.length / itemsPerPage));
-  }, [itemOffset, props.items, size.width, itemsPerPage]);
+    const handleLinkClick = (event) => {
+      const target = event.target.closest("a");
+      if (
+        target &&
+        target.closest(".pagination") &&
+        target.getAttribute("href") &&
+        target.getAttribute("aria-disabled") !== "true"
+      ) {
+        // Stop propagation to prevent react-paginate's onClick
+        event.stopPropagation();
+      }
+    };
 
-  const handlePageClick = (event) => {
-    const newOffset = (event.selected * itemsPerPage) % props.items.length;
-    setItemOffset(newOffset);
-  };
+    document.addEventListener("click", handleLinkClick, true); // Use capture phase
+
+    return () => {
+      document.removeEventListener("click", handleLinkClick, true);
+    };
+  }, []);
 
   return (
     <>
@@ -46,7 +53,7 @@ export default function ItemCards(props) {
         />
       )}
       <div className={styles.ItemCardsContainer}>
-        {currentItems
+        {props.items
           .slice(0, props.short ? 4 : props.items.length)
           .map((item, key) => (
             <div key={key} className={styles.ItemCard}>
@@ -60,14 +67,15 @@ export default function ItemCards(props) {
                   blurDataURL={BlurDataUrl}
                   src={
                     API_URL +
-                    (item.attributes.onderdeelnummer != undefined
-                      ? item.attributes.afbeelding.data
-                        ? item.attributes.afbeelding.data.attributes.url
-                        : item.attributes.onderdeel.data.attributes.afbeeldingen
-                            .data[0].attributes.url
-                      : item.attributes.omslagfoto.data.attributes.url)
+                    (item.onderdeelnummer != undefined
+                      ? item.afbeelding
+                        ? item.afbeelding.url
+                        : item.onderdeel.afbeeldingen
+                        ? item.onderdeel.afbeeldingen[0].url
+                        : "/uploads/no_image_available_3b34877500.png"
+                      : item.omslagfoto.url)
                   }
-                  alt={item.attributes.onderdeelnummer ?? item.attributes.titel}
+                  alt={item.onderdeelnummer ?? item.titel}
                   fill
                   style={{ objectFit: "cover" }}
                 />
@@ -75,14 +83,12 @@ export default function ItemCards(props) {
               <div className={styles.ItemCardTextWrapper}>
                 <div>
                   <Title
-                    text={
-                      item.attributes.onderdeelnummer ?? item.attributes.titel
-                    }
+                    text={item.onderdeelnummer ?? item.titel}
                     size="xs"
                     style={{ wordWrap: "break-word" }}
                   />
                   <Text
-                    text={item.attributes.samenvatting}
+                    text={item.samenvatting}
                     className={styles.ItemCardText}
                     align="left"
                   />
@@ -91,11 +97,11 @@ export default function ItemCards(props) {
                   <Button
                     text="MEER LEZEN"
                     href={
-                      item.attributes.onderdeelnummer != undefined
-                        ? `/onderdelen/${item.attributes.onderdeelnummer
+                      item.onderdeelnummer != undefined
+                        ? `/onderdelen/${item.onderdeelnummer
                             .replace(/\//g, "%2F")
                             .replace(/ /g, "%20")}`
-                        : `/nieuws/${item.attributes.titel.replace(" ", "%20")}`
+                        : `/nieuws/${item.titel.replace(" ", "%20")}`
                     }
                     color={Colors.GRAY}
                     hoverColor={Colors.RED}
@@ -103,29 +109,6 @@ export default function ItemCards(props) {
                     hoverBorderColor={Colors.RED}
                     small
                   />
-                  {/* {props.price && (
-                    <div className={styles.ItemCardPriceWrapper}>
-                      <span
-                        className={
-                          props.discount.ingeschakeld
-                            ? styles.ItemCardDiscountPrice
-                            : styles.ItemCardPrice
-                        }
-                      >
-                        €{Number(item.attributes.prijs).toFixed(2)}
-                      </span>
-                      {props.discount.ingeschakeld && (
-                        <span className={styles.ItemCardPrice}>
-                          €
-                          {Number(
-                            item.attributes.prijs -
-                              (item.attributes.prijs * props.discount.procent) /
-                                100
-                          ).toFixed(2)}
-                        </span>
-                      )}
-                    </div>
-                  )} */}
                 </div>
               </div>
             </div>
@@ -157,10 +140,6 @@ export default function ItemCards(props) {
               />
             </div>
           }
-          onPageChange={handlePageClick}
-          pageRangeDisplayed={2}
-          marginPagesDisplayed={size.width < Breakpoints.xs ? 0 : 1}
-          pageCount={pageCount}
           previousLabel={
             <div className={styles.PaginateLabel}>
               <Chevron
@@ -172,6 +151,16 @@ export default function ItemCards(props) {
               />
             </div>
           }
+          pageRangeDisplayed={2}
+          marginPagesDisplayed={size.width < Breakpoints.xs ? 0 : 1}
+          pageCount={props.pageCount}
+          initialPage={props.page - 1}
+          hrefBuilder={(page) =>
+            props.search
+              ? `/onderdelen/zoeken/${page}?onderdeel=${props.searchText}&merk=${props.searchMerk}&part=${props.searchPart}`
+              : `/onderdelen/pagina/${page}`
+          }
+          hrefAllControls
           renderOnZeroPageCount={null}
           containerClassName={"pagination"}
         />

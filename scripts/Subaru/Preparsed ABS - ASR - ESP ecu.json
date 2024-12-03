@@ -1,0 +1,532 @@
+[
+    {
+        "part_name": "ABS/ASR 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+8+0-4104.ts1628718748.jpg",
+        "product_link": "https://ecu.eu/subaru/abs-asr-esp-ecu-6613/subaru/abs-asr-esp-ecu/abs-asr-8.0-6614",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/subaru/abs-asr-esp-ecu/abs-asr-8.0/subaru-27534sa020-bosch-0265800413-0265231518-804-140321.html",
+                "part_numbers": [
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "27534SA020"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 800 413",
+                            "0265800413"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 231 518",
+                            "0265231518"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "804"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code valve relay memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUBARU Forester 2.0i 4x4 (SG) Year of manufacture 2005"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 1.34",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+1+34-805.ts1628722660.jpg",
+        "product_link": "https://ecu.eu/subaru/abs-asr-esp-ecu-6613/subaru/abs-asr-esp-ecu/esp-1.34-6866",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/subaru/abs-asr-esp-ecu/esp-1.34/subaru-27536ag010-bosch-0265950109-0265225246-913-142380.html",
+                "part_numbers": [
+                    {
+                        "title": "SUBARU",
+                        "numbers": []
+                    },
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "27536AG010"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 109",
+                            "0265950109"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 225 246",
+                            "0265225246"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "913"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/subaru/abs-asr-esp-ecu/esp-1.34/subaru-27536ag090-bosch-0265950142-0265225309-152613.html",
+                "part_numbers": [
+                    {
+                        "title": "SUBARU",
+                        "numbers": []
+                    },
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "27536AG090"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 142",
+                            "0265950142"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 225 309",
+                            "0265225309"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUBARU Legacy 3.0 (BL/BP) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/subaru/abs-asr-esp-ecu/esp-1.34/subaru-27536ag170-bosch-0265950167-0265225364-913-150882.html",
+                "part_numbers": [
+                    {
+                        "title": "SUBARU",
+                        "numbers": []
+                    },
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "27536AG170"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 167",
+                            "0265950167"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 225 364",
+                            "0265225364"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "913"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUBARU Legacy 2.0 (BL/BP) Year of manufacture 2006"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4082.ts1628718747.jpg",
+        "product_link": "https://ecu.eu/subaru/abs-asr-esp-ecu-6613/subaru/abs-asr-esp-ecu/esp-8.0-7201",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/subaru/abs-asr-esp-ecu/esp-8.0/subaru-27536fg190-bosch-0265951901-0265252138-652-150923.html",
+                "part_numbers": [
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "27536FG190"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 951 901",
+                            "0265951901"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 252 138",
+                            "0265252138"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "652"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/subaru/abs-asr-esp-ecu/esp-8.0/subaru-27536sc020-bosch-0265951123-0265230481-652-150387.html",
+                "part_numbers": [
+                    {
+                        "title": "SUBARU",
+                        "numbers": []
+                    },
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "27536SC020"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 951 123",
+                            "0265951123"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 230 481",
+                            "0265230481"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "652"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SUBARU Forester 2.0 D (SH) Year of manufacture 2008"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 9.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+9+0-112771.ts1628711709.jpg",
+        "product_link": "https://ecu.eu/subaru/abs-asr-esp-ecu-6613/subaru/abs-asr-esp-ecu/esp-9.0-7334",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/subaru/abs-asr-esp-ecu/esp-9.0/subaru-2265106452-bosch-0265956131-0265242939-523-137134.html",
+                "part_numbers": [
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "2265106452"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 956 131",
+                            "0265956131"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 242 939",
+                            "0265242939"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "523"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK25",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk25-287323.ts1628714864.jpg",
+        "product_link": "https://ecu.eu/subaru/abs-asr-esp-ecu-6613/subaru/abs-asr-esp-ecu/esp-mk25-6893",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/subaru/abs-asr-esp-ecu/esp-mk25/subaru-06261938091-27536aj002-ate-06210960713-06210218654-0165-132555.html",
+                "part_numbers": [
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "06.2619-3809.1",
+                            "06261938091"
+                        ]
+                    },
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "27536AJ002"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2109-6071.3",
+                            "06210960713"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-1865.4",
+                            "06210218654"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "0165"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/subaru/abs-asr-esp-ecu/esp-mk25/subaru-06261938701-27536aj030-28562203013-ate-06210961433-06210218454-0190-140201.html",
+                "part_numbers": [
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "06.2619-3870.1",
+                            "06261938701"
+                        ]
+                    },
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "27536AJ030"
+                        ]
+                    },
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "28.5622-0301.3",
+                            "28562203013"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2109-6143.3",
+                            "06210961433"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-1845.4",
+                            "06210218454"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "0190"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "SUBARU Legacy 2.0D (BM/BR) Year of manufacture 2012 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/subaru/abs-asr-esp-ecu/esp-mk25/subaru-27536aj003-ate-06210959883-06210218154-0165-145383.html",
+                "part_numbers": [
+                    {
+                        "title": "SUBARU",
+                        "numbers": []
+                    },
+                    {
+                        "title": "SUBARU - Part number",
+                        "numbers": [
+                            "27536AJ003"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2109-5988.3",
+                            "06210959883"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "06.2102-1815.4",
+                            "06210218154"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "0165"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "SUBARU Legacy 2.0D (BM/BR) Year of manufacture 2013"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1107 @@
+[
+    {
+        "part_name": "ABS/ASR MK25",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+asr+mk25-279348.ts1628714698.jpg",
+        "product_link": "https://ecu.eu/chrysler/abs-asr-esp-control-unit-2782/chrysler/abs-asr-esp-control-unit/abs-asr-mk25-6905",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/abs-asr-mk25/chrysler-00402775e200-p04721453ad-ate-25092743163-25021201004-1332-150707.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "00402775E200"
+                        ]
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P04721453AD"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0927-4316.3",
+                            "25092743163"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-0100.4",
+                            "25021201004"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "1332"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "50FE",
+                        "fault_description": "Pump motor failure in the circuit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER Voyager 2.8 CRD Year of manufacture 2008 Engine code ENR"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/abs-asr-mk25/chrysler-p04721453ac-ate-25092643533-25020611554-1028-125635.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P04721453AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0926-4353.3",
+                            "25092643533"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0206-1155.4",
+                            "25020611554"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "1028"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "50FE",
+                        "fault_description": "Pump motor failure in the circuit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER Voyager 2.8 CRD Year of manufacture 2006 Engine code ENR"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/abs-asr-mk25/chrysler-p05085413ab-ate-25092643693-25020612414-1028-152009.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P05085413AB"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0926-4369.3",
+                            "25092643693"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0206-1241.4",
+                            "25020612414"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "1028"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "50FE",
+                        "fault_description": "Pump motor failure in the circuit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/abs-asr-mk25/chrysler-p05085413ac-ate-25092743133-25021201064-1332-148985.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P05085413AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0927-4313.3",
+                            "25092743133"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-0106.4",
+                            "25021201064"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "1332"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "50FE",
+                        "fault_description": "Pump motor failure in the circuit"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER PT Cruiser 2.2 CRD Year of manufacture 2009 Engine code EDJ"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP MK25",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+mk25-3707.ts1628718745.jpg",
+        "product_link": "https://ecu.eu/chrysler/abs-asr-esp-control-unit-2782/chrysler/abs-asr-esp-control-unit/esp-mk25-6592",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-00404577c000-p04779492ai-ate-25092743353-25021215674-581283-130751.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "00404577C000"
+                        ]
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P04779492AI"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0927-4335.3",
+                            "25092743353"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-1567.4",
+                            "25021215674"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "581283"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS pump motor control circuit"
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormal pump motor power supply"
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Control unit function faulty -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER 300C 3.0 CRD Year of manufacture 2006 Engine code EXL",
+                    "CHRYSLER 300C 3.0 CRD Touring Year of manufacture 2006 Engine code EXL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-a1935450532-a0044317412-ate-10092515903-10020404324-0587-150010.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "A 193 545 05 32",
+                            "A1935450532"
+                        ]
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "A 004 431 74 12",
+                            "A0044317412"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0925-1590.3",
+                            "10092515903"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "10.0204-0432.4",
+                            "10020404324"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "0587"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER Crossfire 3.2 Coupe Year of manufacture 2007 Engine code EGX",
+                    "CHRYSLER Crossfire 3.2 Roadster Year of manufacture 2006 Engine code EGX"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-ate-25092543113-140276.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0925-4311.3",
+                            "25092543113"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER 300C 3.5 Touring 4x4 Year of manufacture 2006 Engine code EGG"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-ate-25092850073-25021211534-581317-141431.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0928-5007.3",
+                            "25092850073"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-1153.4",
+                            "25021211534"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "581317"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS pump motor control circuit"
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormal pump motor power supply"
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Control unit function faulty -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER 300C 3.0 CRD Touring Year of manufacture 2010 Engine code EXL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-p04721601ah-ate-25092843943-25021207024-152034.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P04721601AH"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0928-4394.3",
+                            "25092843943"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-0702.4",
+                            "25021207024"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS pump motor control circuit"
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormal pump motor power supply"
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Control unit function faulty -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-p04779242ag-ate-25092543083-25020601244-149243.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P04779242AG",
+                            "P04779242AG"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0925-4308.3",
+                            "25092543083"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0206-0124.4",
+                            "25020601244"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-p04779242ah-ate-25092543123-25020601524-125007.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P04779242AH"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0925-4312.3",
+                            "25092543123"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0206-0152.4",
+                            "25020601524"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER 300C 3.5 Touring Year of manufacture 2007 Engine code EGG",
+                    "CHRYSLER 300C 5.7 Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-p04779679ac-ate-25092843823-25021206374-152035.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P04779679AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0928-4382.3",
+                            "25092843823"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-0637.4",
+                            "25021206374"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS pump motor control circuit"
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormal pump motor power supply"
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Control unit function faulty -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-p04779800ab-ate-25092850583-25021212814-1283-124333.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P04779800AB"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0928-5058.3",
+                            "25092850583"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-1281.4",
+                            "25021212814"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "1283"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS pump motor control circuit"
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormal pump motor power supply"
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Control unit function faulty -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER 300C 3.0 CRD Touring Year of manufacture 2010 Engine code EXL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-p04877028ab-ate-25092850003-25021211014-581317-147499.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P04877028AB"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0928-5000.3",
+                            "25092850003"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-1101.4",
+                            "25021211014"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "581317"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS pump motor control circuit"
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormal pump motor power supply"
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Control unit function faulty -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-p05181639ab-ate-25092843853-25021206434-137902.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P05181639AB"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0928-4385.3",
+                            "25092843853"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-0643.4",
+                            "25021206434"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS pump motor control circuit"
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormal pump motor power supply"
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Control unit function faulty -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-p52089351af-ate-25092543153-25020601764-25020600053-125008.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P52089351AF"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0925-4315.3",
+                            "25092543153"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0206-0176.4",
+                            "25020601764"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0206-0005.3",
+                            "25020600053"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-p68005342ad-ate-25092843543-25021205824-581317-132402.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P68005342AD"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0928-4354.3",
+                            "25092843543"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-0582.4",
+                            "25021205824"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "581317"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS pump motor control circuit"
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormal pump motor power supply"
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Control unit function faulty -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER Sebring 2.0 CRD Year of manufacture 2008 Engine code ECD",
+                    "CHRYSLER Sebring 2.0 CRD Convertible Year of manufacture 2008 - 2010",
+                    "CHRYSLER Sebring 2.7 Convertible Year of manufacture 2008 Engine code EER"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-p68043600ac-ate-25092850563-25021212174-581317-144458.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P68043600AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0928-5056.3",
+                            "25092850563"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-1217.4",
+                            "25021212174"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "581317"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS pump motor control circuit"
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormal pump motor power supply"
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Control unit function faulty -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER Grand Voyager 3.8 Year of manufacture 2009 Engine code EGL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-p68053600aa-ate-25092850443-25021212454-148527.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P68053600AA",
+                            "P68053600AA"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0928-5044.3",
+                            "25092850443"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-1245.4",
+                            "25021212454"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS pump motor control circuit"
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormal pump motor power supply"
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Control unit function faulty -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chrysler/abs-asr-esp-control-unit/esp-mk25/chrysler-p68053600ac-ate-25092851603-25021216164-1317-135581.html",
+                "part_numbers": [
+                    {
+                        "title": "CHRYSLER",
+                        "numbers": []
+                    },
+                    {
+                        "title": "CHRYSLER - Part number",
+                        "numbers": [
+                            "P68053600AC"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0928-5160.3",
+                            "25092851603"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "25.0212-1616.4",
+                            "25021216164"
+                        ]
+                    },
+                    {
+                        "title": "ATE - Part number",
+                        "numbers": [
+                            "1317"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1073",
+                        "fault_description": "ABS pump motor control circuit"
+                    },
+                    {
+                        "fault_code": "C2116",
+                        "fault_description": "Abnormal pump motor power supply"
+                    },
+                    {
+                        "fault_code": "C2200",
+                        "fault_description": "Control unit function faulty -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning the ABS pump motor memorised. Please send the control unit together with the pump motor."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "CHRYSLER Grand Voyager 2.8 CRD Year of manufacture 2011 Engine code ENS"
+                ]
+            }
+        ]
+    }
+]

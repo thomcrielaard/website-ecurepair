@@ -1,0 +1,1450 @@
+[
+    {
+        "part_name": "ABS 5.3",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/abs+5+3-1080.ts1628711298.jpg",
+        "product_link": "https://ecu.eu/smart/abs-asr-esp-control-unit-4156/smart/abs-asr-esp-control-unit/abs-5.3-4158",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/abs-5.3/smart-0004765v001-0004765v002-0004765v003-bosch-0265215467-118021.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4765 V001",
+                            "0004765V001"
+                        ]
+                    },
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4765 V002",
+                            "0004765V002"
+                        ]
+                    },
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4765 V003",
+                            "0004765V003"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 215 467",
+                            "0265215467"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/abs-5.3/smart-0004765v003-bosch-0273004235-0265215467-942-136043.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4765 V003",
+                            "0004765V003"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 235",
+                            "0273004235"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 215 467",
+                            "0265215467"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "942"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Fortwo 0.6 Coupe (Fortwo) Year of manufacture 1998 - 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/abs-5.3/smart-0004765v004-bosch-0265215477-118019.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4765 V004",
+                            "0004765V004"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 215 477",
+                            "0265215477"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/abs-5.3/smart-0004765v005-bosch-0273004235-0265215487-843-105355.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4765 V005",
+                            "0004765V005"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 235",
+                            "0273004235"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 215 487",
+                            "0265215487"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "843"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Fortwo 0.6 Coupe (Fortwo) Year of manufacture 1998 - 2000",
+                    "SMART Fortwo 0.6 (Fortwo) Year of manufacture 1999 - 2000"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/abs-5.3/smart-0004765v006-bosch-0273004235-0265215489-843-118015.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4765 V006",
+                            "0004765V006"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 235",
+                            "0273004235"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 215 489",
+                            "0265215489"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "843"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Fortwo 0.6 (Fortwo) Year of manufacture 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/abs-5.3/smart-0004765v007-bosch-0265215491-118017.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4765 V007",
+                            "0004765V007"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 215 491",
+                            "0265215491"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/abs-5.3/smart-0004765v007-bosch-0273004235-0265215491-883-130415.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4765 V007",
+                            "0004765V007"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 235",
+                            "0273004235"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 215 491",
+                            "0265215491"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "883"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Fortwo 0.6 Coupe (Fortwo) Year of manufacture 1999",
+                    "SMART Fortwo 0.6 (Fortwo) Year of manufacture 1999"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/abs-5.3/smart-0004777v002-bosch-0265215468-118020.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4777 V002",
+                            "0004777V002"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 215 468",
+                            "0265215468"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/abs-5.3/smart-0004777v005-bosch-0265215488-118014.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4777 V005",
+                            "0004777V005"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 215 488",
+                            "0265215488"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/abs-5.3/smart-0004777v006-bosch-0265215490-118016.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4777 V006",
+                            "0004777V006"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 215 490",
+                            "0265215490"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/abs-5.3/smart-0004777v007-bosch-0265215492-118018.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 4777 V007",
+                            "0004777V007"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 215 492",
+                            "0265215492"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/abs-5.3/smart-0006647v003-bosch-0273004530-0265215499-843-105356.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "000 6647 V003",
+                            "0006647V003"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 273 004 530",
+                            "0273004530"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 215 499",
+                            "0265215499"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "843"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Fortwo 0.6 Cabrio (Fortwo) Year of manufacture 2000 - 2002",
+                    "SMART Fortwo 0.6 Coupe (Fortwo) Year of manufacture 2002",
+                    "SMART Fortwo 0.6 (Fortwo) Year of manufacture 2000 - 2002",
+                    "SMART Fortwo 0.8 CDI Cabrio (Coupe) Year of manufacture 2001 - 2007",
+                    "SMART Fortwo 0.8 CDI Coupe (Fortwo) Year of manufacture 2001"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 1.34",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+1+34-805.ts1628722660.jpg",
+        "product_link": "https://ecu.eu/smart/abs-asr-esp-control-unit-4156/smart/abs-asr-esp-control-unit/esp-1.34-4779",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-1.34/smart-0012793v002-bosch-0265950077-0265225185-881-111187.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "0012793V002"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 077",
+                            "0265950077"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 225 185",
+                            "0265225185"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "881"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART FORTWO 0.8CDI Cabrio (Fortwo) Year of manufacture 2004 - 2005",
+                    "SMART Fortwo 0.7 Cabrio (Fortwo) Year of manufacture 2003 - 2004",
+                    "SMART Fortwo 0.7 Coupe (Fortwo) Year of manufacture 2003 - 2005",
+                    "SMART Roadster 0.7 Coupe (Roadster) Year of manufacture 2003 - 2007",
+                    "SMART Roadster 0.7 (Roadster) Year of manufacture 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-1.34/smart-0012794v003-bosch-0265950077-0265225218-117768.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "0012794V003"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 077",
+                            "0265950077"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 225 218",
+                            "0265225218"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART FORTWO 0.8CDI Cabrio (Fortwo) Year of manufacture 2004 - 2005",
+                    "SMART Fortwo 0.7 Cabrio (Fortwo) Year of manufacture 2003 - 2004",
+                    "SMART Fortwo 0.7 Coupe (Fortwo) Year of manufacture 2003 - 2005",
+                    "SMART Roadster 0.7 Coupe (Roadster) Year of manufacture 2003 - 2007",
+                    "SMART Roadster 0.7 (Roadster) Year of manufacture 2004"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 8.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+8+0-4082.ts1628718747.jpg",
+        "product_link": "https://ecu.eu/smart/abs-asr-esp-control-unit-4156/smart/abs-asr-esp-control-unit/esp-8.0-4432",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-0019699v003-bosch-0265950453-0265234306-829-107406.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "0019699V003"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 453",
+                            "0265950453"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 234 306",
+                            "0265234306"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Fortwo 0.7 Cabrio (Fortwo) Year of manufacture 2005 - 2007",
+                    "SMART Fortwo 0.7 Coupe (Fortwo) Year of manufacture 2005 - 2007",
+                    "SMART Fortwo 0.8 CDI Coupe (Fortwo) Year of manufacture 2005 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-4515458032-a4514203075-bosch-0265952173-0265252552-629-133361.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "451 545 80 32",
+                            "4515458032"
+                        ]
+                    },
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 451 420 30 75",
+                            "A4514203075"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 952 173",
+                            "0265952173"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 252 552",
+                            "0265252552"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Fortwo 1.0 Cabrio (Fortwo) Year of manufacture 2013 - 2015",
+                    "SMART Fortwo 1.0 Coupe (Fortwo) Year of manufacture 2013 - 2014",
+                    "SMART Fortwo 1.0 MHD Coupe (Fortwo) Year of manufacture 2013 - 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-a4514200575-bosch-0265950786-0265235467-119206.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 451 420 05 75",
+                            "A4514200575"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 786",
+                            "0265950786"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 235 467",
+                            "0265235467"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning various magnetic valves memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Fortwo 1.0 Cabrio (Fortwo) Year of manufacture 2007",
+                    "SMART Fortwo 1.0 Coupe (Fortwo) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-a4514200875-bosch-0265950891-0265230156-629-118816.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 451 420 08 75",
+                            "A4514200875"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 891",
+                            "0265950891"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 230 156",
+                            "0265230156"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning various magnetic valves memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Fortwo 0.8 CDI Cabrio (Fortwo) Year of manufacture 2008",
+                    "SMART Fortwo 0.8 CDI Coupe (Fortwo) Year of manufacture 2008",
+                    "SMART Fortwo 1.0 Cabrio (Fortwo) Year of manufacture 2008 - 2009",
+                    "SMART Fortwo 1.0 Coupe (Fortwo) Year of manufacture 2008",
+                    "SMART Fortwo 1.0 MHD Coupe (Fortwo) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-a4514201275-bosch-0265951118-0265230390-629-117770.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART",
+                        "numbers": []
+                    },
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A4514201275"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 951 118",
+                            "0265951118"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 230 390",
+                            "0265230390"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Fortwo 0.8 CDI Coupe (Fortwo) Year of manufacture 2011",
+                    "SMART Fortwo 1.0 Cabrio (Fortwo) Year of manufacture 2009 - 2012",
+                    "SMART Fortwo 1.0 Coupe (Fortwo) Year of manufacture 2008 - 2012",
+                    "SMART Fortwo 1.0 MHD Coupe (Fortwo) Year of manufacture 2009 - 2012",
+                    "SMART Fortwo BRABUS Cabrio (Fortwo) Year of manufacture 2010 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-a4515400045-bosch-0265950478-0265235025-122029.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 451 540 00 45",
+                            "A4515400045"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 478",
+                            "0265950478"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 235 025",
+                            "0265235025"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Fortwo 1.0 Coupe (Fortwo) Year of manufacture 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-a4544200175-bosch-0265950361-0265234120-829-107407.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 454 420 01 75",
+                            "A4544200175"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 361",
+                            "0265950361"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 234 120",
+                            "0265234120"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning various magnetic valves memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Forfour 1.1 (Forfour) Year of manufacture 2004 - 2006",
+                    "SMART Forfour 1.3i (Forfour) Year of manufacture 2004 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-a4544201175-bosch-0265950456-0265234314-829-117769.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 454 420 11 75",
+                            "A4544201175"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 456",
+                            "0265950456"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 234 314",
+                            "0265234314"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Forfour 1.1i (Forfour) Year of manufacture 2005 - 2006",
+                    "SMART Forfour 1.3i (Forfour) Year of manufacture 2006",
+                    "SMART Forfour 1.5 CDI (Forfour) Year of manufacture 2005",
+                    "SMART Forfour 1.5i (Forfour) Year of manufacture 2005 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-a4544201275-bosch-0265234316-118024.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 454 420 12 75",
+                            "A4544201275"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 234 316",
+                            "0265234316"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning various magnetic valves memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-a4544201675-bosch-0265950588-0265234498-118027.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 454 420 16 75",
+                            "A4544201675"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 588",
+                            "0265950588"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 234 498",
+                            "0265234498"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning various magnetic valves memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Forfour 1.1 (Forfour) Year of manufacture 2006",
+                    "SMART Forfour 1.1i (Forfour) Year of manufacture 2006",
+                    "SMART Forfour 1.3i (Forfour) Year of manufacture 2006",
+                    "SMART Forfour 1.5i (Forfour) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-a4544201775-bosch-0265234500-118025.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 454 420 17 75",
+                            "A4544201775"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 234 500",
+                            "0265234500"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning various magnetic valves memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-a4544202275-bosch-0265950545-0265235097-829-118026.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART",
+                        "numbers": []
+                    },
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 454 420 22 75",
+                            "A4544202275"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 950 545",
+                            "0265950545"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 235 097",
+                            "0265235097"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "829"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning various magnetic valves memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "SMART Forfour 1.5 CDI (Forfour) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-a4544202375-bosch-0265235099-118022.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 454 420 23 75",
+                            "A4544202375"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 235 099",
+                            "0265235099"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning various magnetic valves memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-a5454200575-bosch-0265234500-118023.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 545 420 05 75",
+                            "A5454200575"
+                        ]
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 234 500",
+                            "0265234500"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning various magnetic valves memorised"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-8.0/smart-bosch-0265234257-117771.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 234 257",
+                            "0265234257"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "The ESP control unit does not send any data to the CAN bus and in other control units fault codes are stored concerning a “faulty CAN” of the ESP."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "ESP 9.0",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/esp+9+0-112771.ts1628711709.jpg",
+        "product_link": "https://ecu.eu/smart/abs-asr-esp-control-unit-4156/smart/abs-asr-esp-control-unit/esp-9.0-7333",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/smart/abs-asr-esp-control-unit/esp-9.0/smart-a4539009702-bosch-0265956403-0265256215-515-141454.html",
+                "part_numbers": [
+                    {
+                        "title": "SMART",
+                        "numbers": []
+                    },
+                    {
+                        "title": "SMART - Part number",
+                        "numbers": [
+                            "A 453 900 97 02",
+                            "A4539009702"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 956 403",
+                            "0265956403"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 265 256 215",
+                            "0265256215"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "515"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error code for one or more wheel sensors memorised -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Error codes concerning brake pressure sensor memorised -only on request!"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No brake fluid arrives at one or more brake callipers or no pressure is released in at least one brake circuit. No error code is stored in the ABS/ESP control unit. (For repair price, see \"Repair hydraulic block\")"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Pump motor runs permanently"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

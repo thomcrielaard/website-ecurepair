@@ -1,0 +1,2130 @@
+[
+    {
+        "part_name": "EDC15C4.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc15c4-378.ts1628718728.jpg",
+        "product_link": "https://ecu.eu/bmw-mini/engine-control-unit-3738/bmw-mini/engine-control-unit/edc15c4-4618",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/edc15c4/bmw-mini-dde7792544-bosch-0281011085-109432.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "DDE7792544"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 011 085",
+                            "0281011085"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Foutcode voor verschillende actuatoren opgeslagen en niet te wissen."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini One 1.4 d Bouwjaar 2004 - 2005"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EDC16C35.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c35-171593.ts1628719312.jpg",
+        "product_link": "https://ecu.eu/bmw-mini/engine-control-unit-3738/bmw-mini/engine-control-unit/edc16c35-6703",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/edc16c35/bmw-mini-dde7799152-bosch-0281012216-123779.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "DDE 7 799 152",
+                            "DDE7799152"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 012 216",
+                            "0281012216"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "46D1",
+                        "fault_description": "Regelunit interne fout (kan niet worden gewist)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini One 1.4 d Bouwjaar 2006",
+                    "BMW Mini One 1.4d Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/edc16c35/bmw-mini-dde7808454-bosch-0281012722-136540.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "DDE 7 808 454",
+                            "DDE7808454"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 012 722",
+                            "0281012722"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "46D1",
+                        "fault_description": "Regelunit interne fout (kan niet worden gewist)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper D Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/edc16c35/bmw-mini-dde7809794-bosch-0281014856-127111.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "DDE7809794"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 014 856",
+                            "0281014856"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "46D1",
+                        "fault_description": "Regelunit interne fout (kan niet worden gewist)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper D Bouwjaar 2007 - 2008",
+                    "BMW Mini Cooper D Clubman Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/edc16c35/bmw-mini-dde7810909-bosch-0281015233-125943.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "DDE 7 810 909",
+                            "DDE7810909"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 015 233",
+                            "0281015233"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "46D1",
+                        "fault_description": "Regelunit interne fout (kan niet worden gewist)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper D Bouwjaar 2008",
+                    "BMW Mini Cooper D Clubman Bouwjaar 2008 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/edc16c35/bmw-mini-dde7823934-bosch-0281015233-120554.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "DDE 7 823 934",
+                            "DDE7823934"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 015 233",
+                            "0281015233"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "46D1",
+                        "fault_description": "Regelunit interne fout (kan niet worden gewist)."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper D Bouwjaar 2009 - 2010",
+                    "BMW Mini One 1.6 Bouwjaar 2009 - 2010"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "EMS2K.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ems2k-5951.ts1628718749.jpg",
+        "product_link": "https://ecu.eu/bmw-mini/engine-control-unit-3738/bmw-mini/engine-control-unit/ems2k-3740",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7513981-siemens-s118012001h-109401.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7513981"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S118012001 H",
+                            "S118012001H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7513983-siemens-s118012001k-130980.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7513983"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S118012001 K",
+                            "S118012001K"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Mini Cooper 1.6 Bouwjaar 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7514587-siemens-s118012001i-113959.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7514587"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S118012001 I",
+                            "S118012001I"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Mini One 1.6i Bouwjaar 2001 - 2002",
+                    "BMW Mini Mini One 1.6i (One, R50) Motorcode W10B16A",
+                    "BMW Mini One 1.6i Bouwjaar 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7520019-siemens-s118012001l-109395.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7520019"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S118012001 L",
+                            "S118012001L"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Mini Cooper 1.6 Bouwjaar 2002",
+                    "BMW Mini Mini Cooper 1.6 (Cooper, R50) Motorcode W10B16A",
+                    "BMW Mini Mini One 1.6i Bouwjaar 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7520019-siemens-s118012001m-109402.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7520019"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S118012001 M",
+                            "S118012001M"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Mini One 1.6i Bouwjaar 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7526784-siemens-s118012001m-109396.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7526784"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S118012001 M",
+                            "S118012001M"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7527610-siemens-s118012001n-109398.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7527610"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S118012001 N",
+                            "S118012001N"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper 1.6 Bouwjaar 2003",
+                    "BMW Mini Cooper S Bouwjaar 2012",
+                    "BMW Mini Mini Cooper 1.6 Bouwjaar 2003 - 2004",
+                    "BMW Mini Mini Cooper 1.6 (Cooper, R50) Bouwjaar 2004 Motorcode W10B16A",
+                    "BMW Mini One 1.6i Bouwjaar 2003 - 2004",
+                    "BMW Mini One 1.6i (One, R50) Bouwjaar 2003 Motorcode W10B16A"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7542310-siemens-s118012003b-109399.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7542310"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S118012003 B",
+                            "S118012003B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Cabrio 1.6 Bouwjaar 2004",
+                    "BMW Mini Mini Cooper 1.6 Bouwjaar 2004 - 2005",
+                    "BMW Mini One 1.6i Bouwjaar 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7545789-siemens-s122237002a-109400.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7545789"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S122237002 A",
+                            "S122237002A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Cabrio 1.6 Bouwjaar 2005",
+                    "BMW Mini Mini Cooper 1.6 Bouwjaar 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7553735-siemens-s122237005a-113958.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7553735"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S122237005 A",
+                            "S122237005A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Cabrio 1.6 Bouwjaar 2005",
+                    "BMW Mini Cooper S",
+                    "BMW Mini Mini Cooper 1.6 Bouwjaar 2005",
+                    "BMW Mini One 1.6i Bouwjaar 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/ems2k/bmw-mini-7557395-siemens-s122237006b-109397.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7557395"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Onderdeelnummer",
+                        "numbers": [
+                            "S122237006 B",
+                            "S122237006B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper 1.6 Bouwjaar 2006",
+                    "BMW Mini Cooper Cabrio 1.6 Bouwjaar 2005 - 2008",
+                    "BMW Mini Cooper Cabrio 1.6 (Cooper Cabrio, R52) Bouwjaar 2006 Motorcode W10B16A",
+                    "BMW Mini Cooper S Bouwjaar 2005 - 2006",
+                    "BMW Mini Cooper S Cabrio 1.6i Bouwjaar 2007 - 2008",
+                    "BMW Mini Cooper S Cabrio Bouwjaar 2005 - 2006",
+                    "BMW Mini Cooper S Cabrio (Mini Cabrio, R52) Bouwjaar 2004 Motorcode W11B16A",
+                    "BMW Mini Cooper S JCW Cabrio 1.6i Bouwjaar 2006",
+                    "BMW Mini John Cooper Works Bouwjaar 2006",
+                    "BMW Mini John Cooper Works (Cooper, R53) Bouwjaar 2004 Motorcode W11B16A",
+                    "BMW Mini Mini Cooper 1.6 Bouwjaar 2005 - 2006",
+                    "BMW Mini Mini One Cabrio Bouwjaar 2006 - 2008",
+                    "BMW Mini Mini One Cabrio (One Cabrio, R52) Motorcode W10B16A",
+                    "BMW Mini One 1.6i Bouwjaar 2005 - 2007",
+                    "BMW Mini One Cabrio 1.6 Bouwjaar 2006"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "MED17.2.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/med17+2-186423.ts1628719427.jpg",
+        "product_link": "https://ecu.eu/bmw-mini/engine-control-unit-3738/bmw-mini/engine-control-unit/med17.2-3741",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7584113-bosch-0261s04163-120520.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 584 113",
+                            "7584113"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S04 163",
+                            "0261S04163"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2008",
+                    "BMW Mini Cooper S Clubman Bouwjaar 2007 - 2008",
+                    "BMW Mini Cooper S Clubman (Cooper Clubman, R55) Bouwjaar 2007 Motorcode N14B16A"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7586134-bosch-0261s04363-123391.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 586 134",
+                            "7586134"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S04 363",
+                            "0261S04363"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2008 - 2009",
+                    "BMW Mini Cooper S Clubman Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7587548-bosch-0261s04442-119815.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 587 548",
+                            "7587548"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S04 442",
+                            "0261S04442"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2007 - 2010",
+                    "BMW Mini Cooper S Cabrio 1.6i Bouwjaar 2009 - 2010",
+                    "BMW Mini Cooper S Clubman Bouwjaar 2008 - 2010",
+                    "BMW Mini Cooper S Clubman (Cooper Clubman, R55) Motorcode N14B16A",
+                    "BMW Mini Cooper S (Cooper, R56) Motorcode N14B16A"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7590857-bosch-0261s04443-121054.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 590 857",
+                            "7590857"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S04 443",
+                            "0261S04443"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2009",
+                    "BMW Mini Cooper S Clubman JCW Bouwjaar 2009 - 2012",
+                    "BMW Mini Cooper S JCW Bouwjaar 2008 - 2012",
+                    "BMW Mini Cooper S JCW (Cooper, R56) Motorcode N14B16C",
+                    "BMW Mini John Cooper Works Cabrio",
+                    "BMW Mini John Cooper Works Coupe Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7610006-bosch-0261201306-136159.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 610 006",
+                            "7610006"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 201 306",
+                            "0261201306"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7610009-bosch-0261201600-119835.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 610 009",
+                            "7610009"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 201 600",
+                            "0261201600"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2006 - 2007",
+                    "BMW Mini Cooper S (Cooper, R56) Bouwjaar 2007 Motorcode N14B16A"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7610011-bosch-0261201969-121052.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 610 011",
+                            "7610011"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 201 969",
+                            "0261201969"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7610081-bosch-0261201708-121053.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 610 081",
+                            "7610081"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 201 708",
+                            "0261201708"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2006 - 2007",
+                    "BMW Mini Cooper S (Cooper, R56) Bouwjaar 2006 Motorcode N14B16A"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7610105-bosch-0261201515-147862.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 610 105",
+                            "7610105"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 201 515",
+                            "0261201515"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/med17.2/bmw-mini-7641003-bosch-0261s04158-121051.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 641 003",
+                            "7641003"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S04 158",
+                            "0261S04158"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2007",
+                    "BMW Mini Cooper S Clubman Bouwjaar 2007",
+                    "BMW Mini Cooper S (Cooper, R56) Motorcode N14B16A"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "MEV17.2.2.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mev17+2+2-186423.ts1628719427.jpg",
+        "product_link": "https://ecu.eu/bmw-mini/engine-control-unit-3738/bmw-mini/engine-control-unit/mev17.2.2-5863",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-7607685-bosch-0261s06125-119640.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 607 685",
+                            "7607685"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S06 125",
+                            "0261S06125"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Bouwjaar 2010",
+                    "BMW Mini Cooper Cabrio Bouwjaar 2010",
+                    "BMW Mini Cooper Clubman Bouwjaar 2010",
+                    "BMW Mini One Bouwjaar 2010",
+                    "BMW Mini One Cabrio 1.6 Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-7615981-bosch-0261s06541-121752.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 615 981",
+                            "7615981"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S06 541",
+                            "0261S06541"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Bouwjaar 2010",
+                    "BMW Mini Cooper Cabrio Bouwjaar 2010",
+                    "BMW Mini Cooper Clubman Bouwjaar 2010",
+                    "BMW Mini One Bouwjaar 2010 - 2011",
+                    "BMW Mini One Countryman Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-7619335-bosch-0261s06662-126831.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 619 335",
+                            "7619335"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S06 662",
+                            "0261S06662"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Bouwjaar 2010 - 2011",
+                    "BMW Mini One Countryman Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-7620987-bosch-0261s06663-119512.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 620 987",
+                            "7620987"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S06 663",
+                            "0261S06663"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Bouwjaar 2011",
+                    "BMW Mini Cooper Cabrio Bouwjaar 2011",
+                    "BMW Mini Cooper (Cooper, R56) Bouwjaar 2011 Motorcode N16B16A",
+                    "BMW Mini Cooper Countryman Bouwjaar 2011",
+                    "BMW Mini One",
+                    "BMW Mini One Cabrio 1.6 Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-7627520-bosch-0261s07212-119513.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 627 520",
+                            "7627520"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S07 212",
+                            "0261S07212"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Bouwjaar 2011",
+                    "BMW Mini Cooper Cabrio Bouwjaar 2011 - 2012",
+                    "BMW Mini Cooper Cabrio (Cooper, R57) Motorcode N16B16A",
+                    "BMW Mini Cooper Countryman Bouwjaar 2011 - 2012",
+                    "BMW Mini One Bouwjaar 2011",
+                    "BMW Mini One Cabrio 1.6 Bouwjaar 2011",
+                    "BMW Mini One (One, R56) Bouwjaar 2011 Motorcode N16B16A"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-7638322-bosch-0261s07955-119486.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 638 322",
+                            "7638322"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S07 955",
+                            "0261S07955"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Bouwjaar 2012",
+                    "BMW Mini Cooper Cabrio Bouwjaar 2012 - 2013",
+                    "BMW Mini One Bouwjaar 2012",
+                    "BMW Mini One Cabrio 1.6 Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-8600124-bosch-0261s08678-128726.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "8 600 124",
+                            "8600124"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S08 678",
+                            "0261S08678"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Bouwjaar 2013",
+                    "BMW Mini Cooper Clubman Bouwjaar 2012 - 2013",
+                    "BMW Mini Cooper Countryman Bouwjaar 2013",
+                    "BMW Mini Cooper Coupe Bouwjaar 2013",
+                    "BMW Mini One Bouwjaar 2012 - 2013",
+                    "BMW Mini One Cabrio 1.6 Bouwjaar 2013",
+                    "BMW Mini One Countryman Bouwjaar 2012 - 2013",
+                    "BMW Mini One (One, R56) Bouwjaar 2012 Motorcode N16B16A"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-8617050-bosch-0261s09706-128562.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "8 617 050",
+                            "8617050"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S09 706",
+                            "0261S09706"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Bouwjaar 2014",
+                    "BMW Mini One Bouwjaar 2013 - 2014",
+                    "BMW Mini One Cabrio 1.6 Bouwjaar 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-8625068-bosch-0261s10129-144847.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "8 625 068",
+                            "8625068"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S10 129",
+                            "0261S10129"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Bouwjaar 2010",
+                    "BMW Mini Cooper Countryman Bouwjaar 2014",
+                    "BMW Mini One Countryman Bouwjaar 2012 - 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mev17.2.2/bmw-mini-8652745-bosch-0261s13661-147551.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "8 652 745",
+                            "8652745"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S13 661",
+                            "0261S13661"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "2BD2",
+                        "fault_description": "Spanningsaanvoer naar Sensor 1 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD3",
+                        "fault_description": "Voedingsspanning sensoren 2 buiten bereik."
+                    },
+                    {
+                        "fault_code": "2BD4",
+                        "fault_description": "Voedingsspanning sensoren 3 buiten bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper Countryman ALL4 Bouwjaar 2016"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "MEVD17.2.x.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mevd17+2+x-186423.ts1628719427.jpg",
+        "product_link": "https://ecu.eu/bmw-mini/engine-control-unit-3738/bmw-mini/engine-control-unit/mevd17.2.x-6158",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7612190-bosch-0261s06340-122071.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 612 190",
+                            "7612190"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S06 340",
+                            "0261S06340"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "36E2",
+                        "fault_description": "Bewaking 5V sensoraanvoer: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E3",
+                        "fault_description": "Bewaking 5V sensoraanvoer 2: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E4",
+                        "fault_description": "Bewaking 5V sensoraanvoer 3: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2010",
+                    "BMW Mini Cooper S Cabrio Bouwjaar 2010",
+                    "BMW Mini Cooper S Clubman Bouwjaar 2010",
+                    "BMW Mini Cooper S (Cooper, R56) Bouwjaar 2010 Motorcode N18B16A"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7613226-bosch-0261s06382-122072.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 613 226",
+                            "7613226"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S06 382",
+                            "0261S06382"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "36E2",
+                        "fault_description": "Bewaking 5V sensoraanvoer: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E3",
+                        "fault_description": "Bewaking 5V sensoraanvoer 2: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E4",
+                        "fault_description": "Bewaking 5V sensoraanvoer 3: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2010",
+                    "BMW Mini Cooper S Cabrio Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7619333-bosch-0261s06658-130505.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 619 333",
+                            "7619333"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S06 658",
+                            "0261S06658"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "36E2",
+                        "fault_description": "Bewaking 5V sensoraanvoer: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E3",
+                        "fault_description": "Bewaking 5V sensoraanvoer 2: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E4",
+                        "fault_description": "Bewaking 5V sensoraanvoer 3: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2011",
+                    "BMW Mini Cooper S Countryman Bouwjaar 2011",
+                    "BMW Mini Cooper S Countryman ALL4 Bouwjaar 2010 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7620984-bosch-0261s06661-152832.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 620 984",
+                            "7620984"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S06 661",
+                            "0261S06661"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "36E2",
+                        "fault_description": "Bewaking 5V sensoraanvoer: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E3",
+                        "fault_description": "Bewaking 5V sensoraanvoer 2: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E4",
+                        "fault_description": "Bewaking 5V sensoraanvoer 3: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7620985-bosch-0261s06659-121947.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 620 985",
+                            "7620985"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S06 659",
+                            "0261S06659"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "36E2",
+                        "fault_description": "Bewaking 5V sensoraanvoer: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E3",
+                        "fault_description": "Bewaking 5V sensoraanvoer 2: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E4",
+                        "fault_description": "Bewaking 5V sensoraanvoer 3: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2011",
+                    "BMW Mini Cooper S Cabrio Bouwjaar 2001 - 2012",
+                    "BMW Mini Cooper S Cabrio (Cooper, R57) Motorcode N18B16A",
+                    "BMW Mini Cooper S Clubman Bouwjaar 2010 - 2011",
+                    "BMW Mini Cooper S (Cooper, R56) Motorcode N18B16A",
+                    "BMW Mini Cooper S Countryman Bouwjaar 2011 - 2012",
+                    "BMW Mini Cooper S Countryman ALL4 Bouwjaar 2011",
+                    "BMW Mini Cooper S Coupe Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7639049-bosch-0261s08046-144584.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 639 049",
+                            "7639049"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S08 046",
+                            "0261S08046"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "36E2",
+                        "fault_description": "Bewaking 5V sensoraanvoer: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E3",
+                        "fault_description": "Bewaking 5V sensoraanvoer 2: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E4",
+                        "fault_description": "Bewaking 5V sensoraanvoer 3: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2017",
+                    "BMW Mini Cooper S Clubman Bouwjaar 2010",
+                    "BMW Mini Cooper S Countryman ALL4 Bouwjaar 2010",
+                    "BMW Mini Cooper S Roadster Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7639421-bosch-0261s07739-132841.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 639 421",
+                            "7639421"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S07 739",
+                            "0261S07739"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "36E2",
+                        "fault_description": "Bewaking 5V sensoraanvoer: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E3",
+                        "fault_description": "Bewaking 5V sensoraanvoer 2: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E4",
+                        "fault_description": "Bewaking 5V sensoraanvoer 3: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2012",
+                    "BMW Mini Cooper S Cabrio Bouwjaar 2012",
+                    "BMW Mini Cooper S Countryman ALL4 Bouwjaar 2012",
+                    "BMW Mini Cooper S Coupe Bouwjaar 2012",
+                    "BMW Mini Cooper S Roadster Bouwjaar 2010 - 2012",
+                    "BMW Mini Cooper S Roadster (Cooper, R59) Motorcode N18B16A"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-7648190-bosch-0261s08557-137597.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "7 648 190",
+                            "7648190"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S08 557",
+                            "0261S08557"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "36E2",
+                        "fault_description": "Bewaking 5V sensoraanvoer: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E3",
+                        "fault_description": "Bewaking 5V sensoraanvoer 2: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E4",
+                        "fault_description": "Bewaking 5V sensoraanvoer 3: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2012 - 2013",
+                    "BMW Mini Cooper S Cabrio Bouwjaar 2012 - 2013",
+                    "BMW Mini Cooper S Clubman Bouwjaar 2012 - 2013",
+                    "BMW Mini Cooper S Countryman Bouwjaar 2013",
+                    "BMW Mini Cooper S Countryman ALL4 Bouwjaar 2012",
+                    "BMW Mini Cooper S JCW Bouwjaar 2012",
+                    "BMW Mini Cooper S Roadster Bouwjaar 2013",
+                    "BMW Mini John Cooper Works Countryman Bouwjaar 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-8610006-bosch-0261s09291-135087.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "8 610 006",
+                            "8610006"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S09 291",
+                            "0261S09291"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "36E2",
+                        "fault_description": "Bewaking 5V sensoraanvoer: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E3",
+                        "fault_description": "Bewaking 5V sensoraanvoer 2: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E4",
+                        "fault_description": "Bewaking 5V sensoraanvoer 3: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2012 - 2015",
+                    "BMW Mini Cooper S Cabrio Bouwjaar 2013 - 2014",
+                    "BMW Mini Cooper S Clubman Bouwjaar 2013",
+                    "BMW Mini Cooper S Countryman Bouwjaar 2013",
+                    "BMW Mini Cooper S JCW Bouwjaar 2013",
+                    "BMW Mini Cooper S Roadster Bouwjaar 2016",
+                    "BMW Mini Paceman Cooper S ALL4 Bouwjaar 2013 - 2014",
+                    "BMW Mini Paceman Cooper S ALL4 (Paceman, R61) Motorcode N18B16A"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/bmw-mini/engine-control-unit/mevd17.2.x/bmw-mini-8621260-bosch-0261s09942-129410.html",
+                "part_numbers": [
+                    {
+                        "title": "BMW Mini - Onderdeelnummer",
+                        "numbers": [
+                            "8 621 260",
+                            "8621260"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 S09 942",
+                            "0261S09942"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "36E2",
+                        "fault_description": "Bewaking 5V sensoraanvoer: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E3",
+                        "fault_description": "Bewaking 5V sensoraanvoer 2: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": "36E4",
+                        "fault_description": "Bewaking 5V sensoraanvoer 3: Spanning buiten geldig bereik."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ontstekingsvonk op één cilinder."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "BMW Mini Cooper S Bouwjaar 2016",
+                    "BMW Mini Cooper S Cabrio Bouwjaar 2014 - 2015",
+                    "BMW Mini Cooper S Countryman Bouwjaar 2014",
+                    "BMW Mini Cooper S Countryman ALL4 Bouwjaar 2014 - 2015"
+                ]
+            }
+        ]
+    }
+]

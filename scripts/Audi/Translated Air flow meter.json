@@ -1,0 +1,44 @@
+[
+    {
+        "part_name": "LMM-4.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/lmm+4-215142.ts1628723017.jpg",
+        "product_link": "https://ecu.eu/audi/air-flow-meter-7143/audi/air-flow-meter/lmm-4-7144",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/audi/air-flow-meter/lmm-4/audi-0379063010-bosch-0280202130-122205.html",
+                "part_numbers": [
+                    {
+                        "title": "Audi - Onderdeelnummer",
+                        "numbers": [
+                            "0379063010"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 280 202 130",
+                            "0280202130"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luchtmassameter signaal defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "De signaalspanning van de luchtmassameter is ruisend."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Audi (80) Bouwjaar 1992 - 1996"
+                ]
+            }
+        ]
+    }
+]

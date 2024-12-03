@@ -1,0 +1,101 @@
+[
+    {
+        "part_name": "Continental GT (2003 - 2018) Instrumentenpaneel",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/continental+gt+2003+2018+instrument+cluster-1141036.ts1660815834.jpg",
+        "product_link": "https://ecu.eu/bentley/speedometer-display-instrument-cluster-7018/bentley/speedometer-display-instrument-cluster/continental-gt-%282003-2018%29-instrument-cluster-7019",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/bentley/speedometer-display-instrument-cluster/continental-gt-%282003-2018%29-instrument-cluster/bentley-3w0920840p-bosch-0263634004-146685.html",
+                "part_numbers": [
+                    {
+                        "title": "Bentley - Onderdeelnummer",
+                        "numbers": [
+                            "3W0 920 840 P",
+                            "3W0920840P"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 263 634 004",
+                            "0263634004"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Displayverlichting flikkert of valt uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Schaalverlichting werkt steeds vaker niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luidspreker voor informatie- en waarschuwingssignalen werkt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Incorrect display of volledige uitval van het scherm (meerprijs)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Volledige uitval."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/bentley/speedometer-display-instrument-cluster/continental-gt-%282003-2018%29-instrument-cluster/bentley-3w0920840t-bosch-0263634012-147805.html",
+                "part_numbers": [
+                    {
+                        "title": "Bentley - Onderdeelnummer",
+                        "numbers": [
+                            "3W0 920 840 T",
+                            "3W0920840T"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 263 634 012",
+                            "0263634012"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Displayverlichting flikkert of valt uit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Schaalverlichting werkt steeds vaker niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Luidspreker voor informatie- en waarschuwingssignalen werkt niet."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Incorrect display of volledige uitval van het scherm (meerprijs)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Volledige uitval."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

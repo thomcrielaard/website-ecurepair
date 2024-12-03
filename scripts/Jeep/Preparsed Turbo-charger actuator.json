@@ -1,0 +1,135 @@
+[
+    {
+        "part_name": "EUR",
+        "image_url": "https://cdn1.ecu.de/im/1/6/p/thumbnail_images/jeep+6nw008412+hella+712120-2167.ts1628724448.jpg",
+        "product_link": "https://ecu.eu/jeep/turbo-charger-actuator-4450",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/jeep/turbo-charger-actuator/jeep-6nw008412-hella-712120-107442.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "6NW 008 412",
+                            "6NW008412"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "712120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2005 - 2010",
+                    "JEEP Grand Cherokee 3.0 CRD (Grand Cherokee, WH) Engine code EXL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/turbo-charger-actuator/jeep-6nw009420-hella-712120-107646.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "6NW 009 420",
+                            "6NW009420"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "712120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2005 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/turbo-charger-actuator/jeep-6nw009543-hella-763797-144251.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "6NW 009 543",
+                            "6NW009543"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "763797"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP (Grand Cherokee) Year of manufacture 2012 - 2016"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/jeep/turbo-charger-actuator/jeep-6nw009660-hella-781751-113074.html",
+                "part_numbers": [
+                    {
+                        "title": "JEEP - Part number",
+                        "numbers": [
+                            "6NW 009 660",
+                            "6NW009660"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "781751"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "JEEP Wrangler 2.8 CRD (Wrangler, JK) Year of manufacture 2007 Engine code ENS",
+                    "JEEP (Wrangler) Year of manufacture 2007 - 2014"
+                ]
+            }
+        ]
+    }
+]

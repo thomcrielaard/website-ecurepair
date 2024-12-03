@@ -1,0 +1,1112 @@
+[
+    {
+        "part_name": "EDC16C39",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/edc16c39-208128.ts1628719578.jpg",
+        "product_link": "https://ecu.eu/chevrolet/engine-control-unit-73/chevrolet/engine-control-unit/edc16c39-4116",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/edc16c39/chevrolet-96813187-bosch-0281012695-113960.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96813187"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 012 695",
+                            "0281012695"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Motor ECU - functionele storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C) Bouwjaar 2006 - 2008",
+                    "Chevrolet (KLAC) Bouwjaar 2007 - 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/edc16c39/chevrolet-96814450-bosch-0281013629-105139.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96814450"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 013 629",
+                            "0281013629"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Motor ECU - functionele storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet Epica 2.0 CDRi (Epica, KL1L) Motorcode Z20S"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/edc16c39/chevrolet-96820448-bosch-0281013600-105140.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96820448"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 013 600",
+                            "0281013600"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Motor ECU - functionele storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet Bouwjaar 2009",
+                    "Chevrolet (KL1N) Bouwjaar 2007 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/edc16c39/chevrolet-96836517-aebi-rasant-%28a%29-bosch-0281014296-140918.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96836517"
+                        ]
+                    },
+                    {
+                        "title": "AEBI RASANT (A).",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 014 296",
+                            "0281014296"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Motor ECU - functionele storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KLAC) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/edc16c39/chevrolet-96858577-bosch-0281014296-113961.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96858577"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 014 296",
+                            "0281014296"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Motor ECU - functionele storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C) Bouwjaar 2008",
+                    "Chevrolet (KLAC) Bouwjaar 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/edc16c39/chevrolet-96879652-bosch-0281015180-113962.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96879652"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 015 180",
+                            "0281015180"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Motor ECU - functionele storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/edc16c39/chevrolet-96892357-bosch-0281015176-113166.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96892357"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 015 176",
+                            "0281015176"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Motor ECU - functionele storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/edc16c39/chevrolet-96892367-bosch-0281015177-152628.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96892367"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 015 177",
+                            "0281015177"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Motor ECU - functionele storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KLAC) Bouwjaar 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/edc16c39/chevrolet-96892367-bosch-0281016588-117450.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96892367"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 016 588",
+                            "0281016588"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Motor ECU - functionele storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/edc16c39/chevrolet-96950947-bosch-0281015569-120517.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96950947"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 281 015 569",
+                            "0281015569"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0601",
+                        "fault_description": "Eenheid defect."
+                    },
+                    {
+                        "fault_code": "P0606",
+                        "fault_description": "Motor ECU - functionele storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Motor start soms niet, in dat geval is er geen communicatie mogelijk met de ECU en wordt de ECU niet herkend door andere ECU's op de CAN-bus."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Reparatie van geoxideerde connectors is mogelijk."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C) Bouwjaar 2009"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "ME9.6.1 E77.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/me9+6+1+e77-187990.ts1628712851.jpg",
+        "product_link": "https://ecu.eu/chevrolet/engine-control-unit-73/chevrolet/engine-control-unit/me9.6.1-e77-5800",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/me9.6.1-e77/chevrolet-92193636-bosch-0261209107-127424.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "92193636"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 209 107",
+                            "0261209107"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1C)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/me9.6.1-e77/chevrolet-92193637-bosch-0261209133-127723.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "92193637"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "0 261 209 133",
+                            "0261209133"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "MT60.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mt60-190780.ts1628724568.jpg",
+        "product_link": "https://ecu.eu/chevrolet/engine-control-unit-73/chevrolet/engine-control-unit/mt60-5813",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/mt60/chevrolet-25183778-delphi-25183778-130208.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "25 183 778",
+                            "25183778"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "25183778"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0641",
+                        "fault_description": "5V referentie 1 circuit."
+                    },
+                    {
+                        "fault_code": "P0651",
+                        "fault_description": "5V referentie 2 circuit."
+                    },
+                    {
+                        "fault_code": "P0697",
+                        "fault_description": "5V referentie 3 circuit."
+                    },
+                    {
+                        "fault_code": "P06A3",
+                        "fault_description": "5V referentie 4 circuit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1M,M300)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/mt60/chevrolet-25186253-delphi-25186253-129797.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "25 186 253",
+                            "25186253"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "25186253"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0641",
+                        "fault_description": "5V referentie 1 circuit."
+                    },
+                    {
+                        "fault_code": "P0651",
+                        "fault_description": "5V referentie 2 circuit."
+                    },
+                    {
+                        "fault_code": "P0697",
+                        "fault_description": "5V referentie 3 circuit."
+                    },
+                    {
+                        "fault_code": "P06A3",
+                        "fault_description": "5V referentie 4 circuit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1M,M300)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/mt60/chevrolet-25189677-gm-25192128-delphi-119567.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "25189677"
+                        ]
+                    },
+                    {
+                        "title": "GM - Onderdeelnummer",
+                        "numbers": [
+                            "25192128"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0641",
+                        "fault_description": "5V referentie 1 circuit."
+                    },
+                    {
+                        "fault_code": "P0651",
+                        "fault_description": "5V referentie 2 circuit."
+                    },
+                    {
+                        "fault_code": "P0697",
+                        "fault_description": "5V referentie 3 circuit."
+                    },
+                    {
+                        "fault_code": "P06A3",
+                        "fault_description": "5V referentie 4 circuit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/mt60/chevrolet-25192129-delphi-25192129-136229.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "25192129"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "25192129"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0641",
+                        "fault_description": "5V referentie 1 circuit."
+                    },
+                    {
+                        "fault_code": "P0651",
+                        "fault_description": "5V referentie 2 circuit."
+                    },
+                    {
+                        "fault_code": "P0697",
+                        "fault_description": "5V referentie 3 circuit."
+                    },
+                    {
+                        "fault_code": "P06A3",
+                        "fault_description": "5V referentie 4 circuit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1M,M300) Bouwjaar 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/mt60/chevrolet-abvu-gm-25192128-delphi-127687.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "ABVU"
+                        ]
+                    },
+                    {
+                        "title": "GM - Onderdeelnummer",
+                        "numbers": [
+                            "25192128"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0641",
+                        "fault_description": "5V referentie 1 circuit."
+                    },
+                    {
+                        "fault_code": "P0651",
+                        "fault_description": "5V referentie 2 circuit."
+                    },
+                    {
+                        "fault_code": "P0697",
+                        "fault_description": "5V referentie 3 circuit."
+                    },
+                    {
+                        "fault_code": "P06A3",
+                        "fault_description": "5V referentie 4 circuit."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (KL1M,M300) Bouwjaar 2014",
+                    "Chevrolet Spark 1.0 (Spark, KL1M,M300) Bouwjaar 2014 Motorcode B10D1"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "MT80.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mt80-186055.ts1628712799.jpg",
+        "product_link": "https://ecu.eu/chevrolet/engine-control-unit-73/chevrolet/engine-control-unit/mt80-5727",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/mt80/chevrolet-25182875-delphi-123867.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "25182875"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/mt80/chevrolet-96802693-delphi-123672.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96802693"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (T250) Bouwjaar 2008 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/mt80/chevrolet-96802694-delphi-126480.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96802694"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (T250) Bouwjaar 2008 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/mt80/chevrolet-96930403-delphi-96930403-128010.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96930403"
+                        ]
+                    },
+                    {
+                        "title": "Delphi - Onderdeelnummer",
+                        "numbers": [
+                            "96930403"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (T250) Bouwjaar 2009 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/mt80/chevrolet-96992541-delphi-124322.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "96992541"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen communicatie mogelijk met de ECU."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Simtec76.1.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/simtec76+1-187999.ts1628712851.jpg",
+        "product_link": "https://ecu.eu/chevrolet/engine-control-unit-73/chevrolet/engine-control-unit/simtec76.1-5799",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/simtec76.1/chevrolet-25181280-gm-5wy1j12a-121713.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "25181280"
+                        ]
+                    },
+                    {
+                        "title": "GM - Onderdeelnummer",
+                        "numbers": [
+                            "5WY1J12A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "ROM-eenheid programmering - vermogensaanpassing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet Cruze 1.8 (Cruze, KL1J) Bouwjaar 2010 Motorcode F18D4",
+                    "Chevrolet (J300)",
+                    "Chevrolet (KL1J) Bouwjaar 2009 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/simtec76.1/chevrolet-25184173-continental-5wy1j16a-123812.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "25184173"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WY1J16A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "ROM-eenheid programmering - vermogensaanpassing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (J309) Bouwjaar 2011",
+                    "Chevrolet (KL1J) Bouwjaar 2011",
+                    "Chevrolet Orlando 1.8 (Orlando, J309) Bouwjaar 2011 Motorcode F18D4"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/simtec76.1/chevrolet-25186182-continental-5wy1j19b-119667.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "25186182"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WY1J19B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "ROM-eenheid programmering - vermogensaanpassing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet Cruze 1.8 (Cruze, KL1J) Bouwjaar 2012 - 2013 Motorcode F18D4",
+                    "Chevrolet (J309) Bouwjaar 2011 - 2012",
+                    "Chevrolet (KL1J) Bouwjaar 2011 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/simtec76.1/chevrolet-25188565-continental-5wy1j22b-131067.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "25188565"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WY1J22B"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "ROM-eenheid programmering - vermogensaanpassing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/simtec76.1/chevrolet-25189682-continental-5wy1j27a-127425.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "25189682"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WY1J27A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "ROM-eenheid programmering - vermogensaanpassing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (J300) Bouwjaar 2013",
+                    "Chevrolet (KL1J) Bouwjaar 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/simtec76.1/chevrolet-25189683-continental-5wy1j07a-126162.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "25189683"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Onderdeelnummer",
+                        "numbers": [
+                            "5WY1J07A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "ROM-eenheid programmering - vermogensaanpassing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/chevrolet/engine-control-unit/simtec76.1/chevrolet-5wy1j11a-gm-25181013-144683.html",
+                "part_numbers": [
+                    {
+                        "title": "Chevrolet - Part number",
+                        "numbers": [
+                            "5WY1J11A"
+                        ]
+                    },
+                    {
+                        "title": "GM - Onderdeelnummer",
+                        "numbers": [
+                            "25181013"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0605",
+                        "fault_description": "ROM-eenheid programmering - vermogensaanpassing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Chevrolet (J300) Bouwjaar 2009"
+                ]
+            }
+        ]
+    }
+]

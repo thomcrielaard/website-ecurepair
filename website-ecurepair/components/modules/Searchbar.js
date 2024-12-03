@@ -1,3 +1,4 @@
+"use client";
 import * as React from "react";
 
 import styles from "@/styles/modules/Searchbar.module.scss";
@@ -7,14 +8,13 @@ import Colors from "@/styles/Colors";
 import Button from "@/components/modules/Button";
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import Clear from "@/assets/svg/Clear";
+import constructSearchUrl from "@/services/ConstructSearchUrl";
 
 export default function Searchbar(props) {
   const inputRef = React.useRef(null);
   const selectBrandRef = React.useRef(null);
   const selectPartRef = React.useRef(null);
 
-  const [selectedMerk, setSelectedMerk] = React.useState(props.merk ?? null);
-  const [selectedPart, setSelectedPart] = React.useState(props.part ?? null);
   const [inputWidth, setInputWidth] = React.useState(160);
   const [barWidth, setBarWidth] = React.useState(0);
 
@@ -27,7 +27,6 @@ export default function Searchbar(props) {
     }
 
     if (selectBrandRef.current && props.merk && props.merk != "DEFAULT") {
-      setSelectedMerk(props.merk);
       changeMerk(props.merk, props.part);
       selectBrandRef.current.value = props.merk;
     } else {
@@ -35,39 +34,28 @@ export default function Searchbar(props) {
     }
 
     if (selectPartRef.current && props.part && props.part != "DEFAULT") {
-      setSelectedPart(props.part);
       changePart();
+      console.log(props.part);
       selectPartRef.current.value = props.part;
     }
-    updateModules();
   }, [props.text, props.merk, props.part]);
-
-  const updateModules = () => {
-    if (props.updateModules != undefined)
-      props.updateModules(
-        inputRef.current?.value,
-        selectBrandRef.current?.value,
-        selectPartRef.current?.value
-      );
-  };
 
   const changeMerk = (merk, clearPart = true) => {
     const selectedValue = merk;
-    const brand = props.MP.find((item) => item.id === parseInt(selectedValue));
+    const brand = props.searchbarData.find(
+      (item) => item.id === parseInt(selectedValue)
+    );
     if (brand) {
-      setParts(brand.parts);
+      setParts(brand.onderdeels);
       setBarWidth(48);
       if (clearPart) {
-        setSelectedPart(null);
         selectPartRef.current.value = "DEFAULT";
       }
-      updateModules();
     }
   };
 
   const changePart = () => {
     setBarWidth(100);
-    updateModules();
   };
 
   const handleInputChange = () => {
@@ -81,7 +69,6 @@ export default function Searchbar(props) {
     context.font = "18px lato"; // Set the font size and family to match the input
     const width = Math.ceil(context.measureText(inputValue).width);
     setInputWidth(width + 8);
-    updateModules();
   };
 
   return (
@@ -89,27 +76,16 @@ export default function Searchbar(props) {
       <div className={styles.SearchbarWrapper}>
         <div className={styles.Searchbar}>
           <div className={styles.SearchbarFormWrapper}>
-            {props.showButton ? (
-              <form method="GET" action="/onderdelen">
-                <input
-                  type="text"
-                  name="onderdeel"
-                  placeholder="Onderdelen zoeken"
-                  className={`${styles.SearchbarInput} searchbar-input`}
-                  ref={inputRef}
-                  onChange={handleInputChange}
-                />
-              </form>
-            ) : (
+            <form method="GET" action="/onderdelen/zoeken/1">
               <input
                 type="text"
-                name="search"
+                name="onderdeel"
                 placeholder="Onderdelen zoeken"
                 className={`${styles.SearchbarInput} searchbar-input`}
                 ref={inputRef}
                 onChange={handleInputChange}
               />
-            )}
+            </form>
 
             <div className={styles.SearchbarIndicationbar}>
               <div
@@ -136,7 +112,7 @@ export default function Searchbar(props) {
                 <option value="DEFAULT" disabled>
                   Selecteer merk
                 </option>
-                {props.MP.map((brand, key) => (
+                {props.searchbarData.map((brand, key) => (
                   <option key={key} value={brand.id}>
                     {brand.naam}
                   </option>
@@ -175,8 +151,6 @@ export default function Searchbar(props) {
                 inputRef.current.value = "";
                 selectBrandRef.current.value = "DEFAULT";
                 selectPartRef.current.value = "DEFAULT";
-                setSelectedMerk(null);
-                setSelectedPart(null);
 
                 setBarWidth(0);
                 handleInputChange();
@@ -198,28 +172,24 @@ export default function Searchbar(props) {
           </div>
         </div>
 
-        {props.showButton && (
-          <div style={{ display: "flex" }}>
-            <Button
-              text={
-                <div className={styles.SearchbarButton}>
-                  ZOEKEN <MagnifyingGlass width={20} fill={Colors.WHITE} />
-                </div>
-              }
-              borderColor={Colors.RED}
-              backgroundColor={Colors.RED}
-              color={Colors.WHITE}
-              style={{ alignSelf: "center" }}
-              href={`/onderdelen?${
-                inputRef.current?.value && inputRef.current.value != ""
-                  ? `onderdeel=${inputRef.current.value}&`
-                  : ""
-              }merk=${selectBrandRef.current?.value ?? "DEFAULT"}&part=${
-                selectPartRef.current?.value ?? "DEFAULT"
-              }`}
-            />
-          </div>
-        )}
+        <div style={{ display: "flex" }}>
+          <Button
+            text={
+              <div className={styles.SearchbarButton}>
+                ZOEKEN <MagnifyingGlass width={20} fill={Colors.WHITE} />
+              </div>
+            }
+            borderColor={Colors.RED}
+            backgroundColor={Colors.RED}
+            color={Colors.WHITE}
+            style={{ alignSelf: "center" }}
+            href={constructSearchUrl(
+              inputRef.current?.value,
+              selectBrandRef.current?.value,
+              selectPartRef.current?.value
+            )}
+          />
+        </div>
       </div>
     </div>
   );

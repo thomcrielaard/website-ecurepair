@@ -1,0 +1,327 @@
+[
+    {
+        "part_name": "Control unit 4-speed automatic ZF 4HP20",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+unit+4+speed+automatic+zf+4hp20-799079.ts1643021296.jpg",
+        "product_link": "https://ecu.eu/fiat/transmission-control-unit-2882/fiat/transmission-control-unit/control-unit-4-speed-automatic-zf-4hp20-6725",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/fiat/transmission-control-unit/control-unit-4-speed-automatic-zf-4hp20/fiat-55196854-bosch-0260002782-gs86113-zf-6058001147-132666.html",
+                "part_numbers": [
+                    {
+                        "title": "FIAT - Part number",
+                        "numbers": [
+                            "55196854"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 260 002 782",
+                            "0260002782"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Part number",
+                        "numbers": [
+                            "6058 001 147",
+                            "6058001147"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "GS8.61.13",
+                            "GS86113"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FIAT Ducato 2.8 JTD (Ducato, 244) Year of manufacture 2002 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/fiat/transmission-control-unit/control-unit-4-speed-automatic-zf-4hp20/fiat-55196855-bosch-0260002781-zf-6058001073-bosch-gs86113-132667.html",
+                "part_numbers": [
+                    {
+                        "title": "FIAT - Part number",
+                        "numbers": [
+                            "55196855"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 260 002 781",
+                            "0260002781"
+                        ]
+                    },
+                    {
+                        "title": "ZF - Part number",
+                        "numbers": [
+                            "6058 001 073",
+                            "6058001073"
+                        ]
+                    },
+                    {
+                        "title": "BOSCH - Part number",
+                        "numbers": [
+                            "GS8.61.13",
+                            "GS86113"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication with the ESP ecu possible"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Ducato (230/244) selector lever",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ducato+230+244+selector+lever-240601.ts1628713915.jpg",
+        "product_link": "https://ecu.eu/fiat/transmission-control-unit-2882/fiat/transmission-control-unit/ducato-%28230-244%29-selector-lever-5981",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/fiat/transmission-control-unit/ducato-%28230-244%29-selector-lever/fiat-1304104070-131167.html",
+                "part_numbers": [
+                    {
+                        "title": "FIAT - Part number",
+                        "numbers": [
+                            "1304104070"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1711",
+                        "fault_description": "Solenoid valve key blockage (stored in the transmission ecu)"
+                    },
+                    {
+                        "fault_code": "U1722",
+                        "fault_description": "CAN connection to selector lever (stored in transmission control unit)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FIAT Ducato 2.8 JTD (Ducato, 244) Year of manufacture 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/fiat/transmission-control-unit/ducato-%28230-244%29-selector-lever/fiat-1326697080-141539.html",
+                "part_numbers": [
+                    {
+                        "title": "FIAT - Part number",
+                        "numbers": [
+                            "1326697080"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1711",
+                        "fault_description": "Solenoid valve key blockage (stored in the transmission ecu)"
+                    },
+                    {
+                        "fault_code": "U1722",
+                        "fault_description": "CAN connection to selector lever (stored in transmission control unit)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FIAT Ducato 2.8 JTD (Ducato, 230) Year of manufacture 2001 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/fiat/transmission-control-unit/ducato-%28230-244%29-selector-lever/fiat-1328121080-127550.html",
+                "part_numbers": [
+                    {
+                        "title": "FIAT - Part number",
+                        "numbers": [
+                            "1328121080"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1711",
+                        "fault_description": "Solenoid valve key blockage (stored in the transmission ecu)"
+                    },
+                    {
+                        "fault_code": "U1722",
+                        "fault_description": "CAN connection to selector lever (stored in transmission control unit)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FIAT Ducato 2.8 JTD (Ducato, 230) Year of manufacture 2001 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/fiat/transmission-control-unit/ducato-%28230-244%29-selector-lever/fiat-553479900-142787.html",
+                "part_numbers": [
+                    {
+                        "title": "FIAT - Part number",
+                        "numbers": [
+                            "553479900"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1711",
+                        "fault_description": "Solenoid valve key blockage (stored in the transmission ecu)"
+                    },
+                    {
+                        "fault_code": "U1722",
+                        "fault_description": "CAN connection to selector lever (stored in transmission control unit)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FIAT Ducato 2.8 JTD (Ducato, 244) Year of manufacture 2005 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/fiat/transmission-control-unit/ducato-%28230-244%29-selector-lever/fiat-55347991-142785.html",
+                "part_numbers": [
+                    {
+                        "title": "FIAT - Part number",
+                        "numbers": [
+                            "55347991"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1711",
+                        "fault_description": "Solenoid valve key blockage (stored in the transmission ecu)"
+                    },
+                    {
+                        "fault_code": "U1722",
+                        "fault_description": "CAN connection to selector lever (stored in transmission control unit)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FIAT Ducato 2.8 JTD (Ducato, 244) Year of manufacture 2003 - 2005"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/fiat/transmission-control-unit/ducato-%28230-244%29-selector-lever/fiat-7353116073-145061.html",
+                "part_numbers": [
+                    {
+                        "title": "FIAT - Part number",
+                        "numbers": [
+                            "7353116073"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1711",
+                        "fault_description": "Solenoid valve key blockage (stored in the transmission ecu)"
+                    },
+                    {
+                        "fault_code": "U1722",
+                        "fault_description": "CAN connection to selector lever (stored in transmission control unit)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FIAT Ducato 2.8 JTD (Ducato, 244) Year of manufacture 2003 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/fiat/transmission-control-unit/ducato-%28230-244%29-selector-lever/fiat-735327388-140889.html",
+                "part_numbers": [
+                    {
+                        "title": "FIAT - Part number",
+                        "numbers": [
+                            "735327388"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1711",
+                        "fault_description": "Solenoid valve key blockage (stored in the transmission ecu)"
+                    },
+                    {
+                        "fault_code": "U1722",
+                        "fault_description": "CAN connection to selector lever (stored in transmission control unit)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FIAT Ducato 2.8 JTD (Ducato, 244) Year of manufacture 2002 - 2007"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/fiat/transmission-control-unit/ducato-%28230-244%29-selector-lever/fiat-ohnenummer-146217.html",
+                "part_numbers": [
+                    {
+                        "title": "FIAT - Part number",
+                        "numbers": [
+                            "ohne Nummer",
+                            "ohneNummer"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P1711",
+                        "fault_description": "Solenoid valve key blockage (stored in the transmission ecu)"
+                    },
+                    {
+                        "fault_code": "U1722",
+                        "fault_description": "CAN connection to selector lever (stored in transmission control unit)"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

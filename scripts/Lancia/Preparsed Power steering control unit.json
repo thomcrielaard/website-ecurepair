@@ -1,0 +1,308 @@
+[
+    {
+        "part_name": "Ypsilon  electric power steering control unit",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/ypsilon+electric+power+steering+control+unit-149711.ts1628725282.jpg",
+        "product_link": "https://ecu.eu/lancia/power-steering-control-unit-2934/lancia/power-steering-control-unit/ypsilon-electric-power-steering-control-unit-5451",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/lancia/power-steering-control-unit/ypsilon-electric-power-steering-control-unit/lancia-2609658525b-delphi-2609994708a-148672.html",
+                "part_numbers": [
+                    {
+                        "title": "LANCIA - Part number",
+                        "numbers": [
+                            "26096585 25B",
+                            "2609658525B"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "26099947 08A",
+                            "2609994708A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1001",
+                        "fault_description": "ecu internal error"
+                    },
+                    {
+                        "fault_code": "C1002",
+                        "fault_description": "Torque sensor faultysteering angle sensor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LANCIA (Ypsilon) Year of manufacture 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/lancia/power-steering-control-unit/ypsilon-electric-power-steering-control-unit/lancia-2610176108a-26117023-delphi-2609658524a-2609994708a-131604.html",
+                "part_numbers": [
+                    {
+                        "title": "LANCIA - Part number",
+                        "numbers": [
+                            "2610176108A"
+                        ]
+                    },
+                    {
+                        "title": "LANCIA - Part number",
+                        "numbers": [
+                            "26117023"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "26096585 24A",
+                            "2609658524A"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "26099947 08A",
+                            "2609994708A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1001",
+                        "fault_description": "ecu internal error"
+                    },
+                    {
+                        "fault_code": "C1002",
+                        "fault_description": "Torque sensor faultysteering angle sensor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LANCIA (Ypsilon) Year of manufacture 2005 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/lancia/power-steering-control-unit/ypsilon-electric-power-steering-control-unit/lancia-2610176108a-delphi-2609658521a-2609994707l-129408.html",
+                "part_numbers": [
+                    {
+                        "title": "LANCIA - Part number",
+                        "numbers": [
+                            "2610176108A"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "26096585 21A",
+                            "2609658521A"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "26099947 07L",
+                            "2609994707L"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1001",
+                        "fault_description": "ecu internal error"
+                    },
+                    {
+                        "fault_code": "C1002",
+                        "fault_description": "Torque sensor faultysteering angle sensor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LANCIA (Ypsilon) Year of manufacture 2006 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/lancia/power-steering-control-unit/ypsilon-electric-power-steering-control-unit/lancia-26117023-delphi-2609658521a-2610176108a-120886.html",
+                "part_numbers": [
+                    {
+                        "title": "LANCIA - Part number",
+                        "numbers": [
+                            "26117023"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "26096585 21A",
+                            "2609658521A"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "2610176108A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1001",
+                        "fault_description": "ecu internal error"
+                    },
+                    {
+                        "fault_code": "C1002",
+                        "fault_description": "Torque sensor faultysteering angle sensor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LANCIA (Ypsilon) Year of manufacture 2006 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/lancia/power-steering-control-unit/ypsilon-electric-power-steering-control-unit/lancia-51707774-delphi-2609255615b-2609658516h-126012.html",
+                "part_numbers": [
+                    {
+                        "title": "LANCIA - Part number",
+                        "numbers": [
+                            "51707774"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "26092556 15B",
+                            "2609255615B"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "26096585 16H",
+                            "2609658516H"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1001",
+                        "fault_description": "ecu internal error"
+                    },
+                    {
+                        "fault_code": "C1002",
+                        "fault_description": "Torque sensor faultysteering angle sensor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LANCIA (Ypsilon) Year of manufacture 2003 - 2004"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/lancia/power-steering-control-unit/ypsilon-electric-power-steering-control-unit/lancia-51749208-517977951-delphi-2609994707l-2610184906a-122610.html",
+                "part_numbers": [
+                    {
+                        "title": "LANCIA - Part number",
+                        "numbers": [
+                            "51749208"
+                        ]
+                    },
+                    {
+                        "title": "LANCIA - Part number",
+                        "numbers": [
+                            "517977951"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "26099947 07L",
+                            "2609994707L"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "26101849 06A",
+                            "2610184906A"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1001",
+                        "fault_description": "ecu internal error"
+                    },
+                    {
+                        "fault_code": "C1002",
+                        "fault_description": "Torque sensor faultysteering angle sensor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LANCIA (Ypsilon) Year of manufacture 2004 - 2006"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/lancia/power-steering-control-unit/ypsilon-electric-power-steering-control-unit/lancia-51749208-delphi-2609994707l-2609658520c-134144.html",
+                "part_numbers": [
+                    {
+                        "title": "LANCIA - Part number",
+                        "numbers": [
+                            "51749208"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "26099947 07L",
+                            "2609994707L"
+                        ]
+                    },
+                    {
+                        "title": "DELPHI - Part number",
+                        "numbers": [
+                            "26096585 20C",
+                            "2609658520C"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1001",
+                        "fault_description": "ecu internal error"
+                    },
+                    {
+                        "fault_code": "C1002",
+                        "fault_description": "Torque sensor faultysteering angle sensor faulty"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "LANCIA (Ypsilon) Year of manufacture 2005 - 2007"
+                ]
+            }
+        ]
+    }
+]

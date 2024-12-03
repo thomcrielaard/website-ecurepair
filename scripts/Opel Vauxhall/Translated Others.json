@@ -1,0 +1,418 @@
+[
+    {
+        "part_name": "Regelunit koelventilator motor A22DM (LNP/LNQ).",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/control+unit+cooling+fan+motor+a22dm+lnp+lnq-342483.ts1628715919.jpg",
+        "product_link": "https://ecu.eu/opel-vauxhall/others-301/opel-vauxhall/others/control-unit-cooling-fan-motor-a22dm-%28lnp-lnq%29-6275",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/others/control-unit-cooling-fan-motor-a22dm-%28lnp-lnq%29/opel-20787305-bosch-1137328617-135911.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "20 787 305",
+                            "20787305"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Onderdeelnummer",
+                        "numbers": [
+                            "1 137 328 617",
+                            "1137328617"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P0480",
+                        "fault_description": "Koelventilator 1: besturingscircuit storing."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Koelventilator activeringsfout."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Antara 2.2 CDTI 4x4 (Antara, A) Bouwjaar 2011 - 2014 Motorcode A22DM, A22DM LNQ, A22DMH"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Mokka ECU achteras differentieel.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/mokka+ecu+rear+axle+differential-405554.ts1628723698.jpg",
+        "product_link": "https://ecu.eu/opel-vauxhall/others-301/opel-vauxhall/others/mokka-ecu-rear-axle-differential-6420",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-42463357-139349.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "42 463 357",
+                            "42463357"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0800",
+                        "fault_description": "Circuitspanning onder drempelwaarde."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Mokka 1.4 Turbo 4x4 (Mokka, A) Bouwjaar 2013 - 2017 Motorcode A14NET LUJ, B14NET LUJ",
+                    "Opel Mokka 1.4 Turbo (Mokka, A) Bouwjaar 2013 - 2015 Motorcode B14NET LUJ",
+                    "Opel Mokka 1.6 CDTI (Mokka, A) Bouwjaar 2015 - 2016 Motorcode B16DTH LVL",
+                    "Opel Mokka 1.7 CDTI 4x4 (Mokka, A) Bouwjaar 2014 Motorcode A17DTS LUD",
+                    "Opel Mokka X 1.4 Turbo 4x4 (Mokka X, A) Bouwjaar 2017 - 2019 Motorcode B14NET LUJ, D14NET LUJ, B14XFT LE2",
+                    "Opel Mokka X 1.6 CDTI 4x4 (Mokka X, A) Bouwjaar 2016 - 2018 Motorcode B16DTH LVL, D16DTH LVL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-42463359-139348.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "42 463 359",
+                            "42463359"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0800",
+                        "fault_description": "Circuitspanning onder drempelwaarde."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-42745863-139350.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "42 745 863",
+                            "42745863"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0800",
+                        "fault_description": "Circuitspanning onder drempelwaarde."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Mokka 1.4 Turbo (Mokka, A) Bouwjaar 2013 - 2016 Motorcode A14NET LUJ"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-94558564-hitachi-121284.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "94 558 564",
+                            "94558564"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0800",
+                        "fault_description": "Circuitspanning onder drempelwaarde."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Mokka 1.4 Turbo 4x4 (Mokka, A) Bouwjaar 2013 - 2014 Motorcode A14NET LUJ",
+                    "Opel Mokka 1.7 CDTI 4x4 (Mokka, A) Bouwjaar 2013 - 2015 Motorcode A17DTS LUD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-95086473-140197.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "95 086 473",
+                            "95086473"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0800",
+                        "fault_description": "Circuitspanning onder drempelwaarde."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Mokka 1.4 Turbo 4x4 (Mokka, A) Bouwjaar 2012 - 2013 Motorcode A14NET LUJ",
+                    "Opel Mokka 1.7 CDTI 4x4 (Mokka, A) Bouwjaar 2012 - 2013 Motorcode A17DTS LUD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-95273518-hitachi-120254.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "95 273 518",
+                            "95273518"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0800",
+                        "fault_description": "Circuitspanning onder drempelwaarde."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Mokka 1.4 Turbo 4x4 (Mokka, A) Bouwjaar 2013 - 2018 Motorcode A14NET LUJ",
+                    "Opel Mokka 1.4 Turbo (Mokka, A) Bouwjaar 2013 - 2014 Motorcode A14NET LUJ",
+                    "Opel Mokka 1.7 CDTI 4x4 (Mokka, A) Bouwjaar 2013 Motorcode A17DTS LUD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-95365920-hitachi-122490.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "95 365 920",
+                            "95365920"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0800",
+                        "fault_description": "Circuitspanning onder drempelwaarde."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Mokka 1.7 CDTI 4x4 (Mokka, A) Bouwjaar 2014 Motorcode A17DTS LUD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-95381617-hitachi-122489.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "95 381 617",
+                            "95381617"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0800",
+                        "fault_description": "Circuitspanning onder drempelwaarde."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Mokka 1.4 Turbo (Mokka, A) Bouwjaar 2014 - 2015 Motorcode A14NET LUJ",
+                    "Opel Mokka 1.7 CDTI 4x4 (Mokka, A) Bouwjaar 2014 Motorcode A17DTS LUD"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-95423195-140668.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "95 423 195",
+                            "95423195"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0800",
+                        "fault_description": "Circuitspanning onder drempelwaarde."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Mokka 1.4 Turbo 4x4 (Mokka, A) Bouwjaar 2013 - 2017 Motorcode A14NET LUJ, B14NET LUJ",
+                    "Opel Mokka 1.4 Turbo (Mokka, A) Bouwjaar 2014 Motorcode A14NET LUJ",
+                    "Opel Mokka 1.6 CDTI (Mokka, A) Bouwjaar 2015 - 2016 Motorcode B16DTH LVL",
+                    "Opel Mokka 1.7 CDTI 4x4 (Mokka, A) Bouwjaar 2013 - 2014 Motorcode A17DTS LUD",
+                    "Opel Mokka X 1.4 Turbo 4x4 (Mokka X, A) Bouwjaar 2016 - 2017 Motorcode B14XFT LE2",
+                    "Opel Mokka X 1.6 CDTI 4x4 (Mokka X, A) Bouwjaar 2017 - 2018 Motorcode B16DTH LVL"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/others/mokka-ecu-rear-axle-differential/opel-95437244-hitachi-121815.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "95 437 244",
+                            "95437244"
+                        ]
+                    },
+                    {
+                        "title": "Hitachi.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C0800",
+                        "fault_description": "Circuitspanning onder drempelwaarde."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Geen ECU-functie."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Mokka 1.4 Turbo 4x4 (Mokka, A) Bouwjaar 2013 - 2016 Motorcode A14NET LUJ, B14NET LUJ",
+                    "Opel Mokka 1.4 Turbo (Mokka, A) Bouwjaar 2014 - 2018 Motorcode B14NET LUJ",
+                    "Opel Mokka 1.6 CDTI 4x4 (Mokka, A) Bouwjaar 2015 - 2016 Motorcode B16DTH LVL",
+                    "Opel Mokka 1.6 CDTI (Mokka, A) Bouwjaar 2015 - 2016 Motorcode B16DTH LVL",
+                    "Opel Mokka X 1.4 Turbo 4x4 (Mokka X, A) Bouwjaar 2016 Motorcode B14XFT LE2",
+                    "Opel Mokka X 1.6 CDTI 4x4 (Mokka X, A) Bouwjaar 2016 Motorcode B16DTH LVL"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Turbo-oplader actuator.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+        "product_link": "https://ecu.eu/opel-vauxhall/others-301/opel-vauxhall/others/turbo-charger-actuator-4097",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/opel-vauxhall/others/turbo-charger-actuator/opel-6nw008412-hella-712120-104903.html",
+                "part_numbers": [
+                    {
+                        "title": "Opel - Part number",
+                        "numbers": [
+                            "6NW 008 412",
+                            "6NW008412"
+                        ]
+                    },
+                    {
+                        "title": "Hella - Onderdeelnummer",
+                        "numbers": [
+                            "712120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Tijdelijke problemen met de laaddrukregeling – foutcode met betrekking tot de laaddrukregeling, voertuig heeft vermogensverlies, motorcontrolelampje brandt, na aan- en uitzetten van de ontsteking werkt de motor weer normaal – tot de volgende fout optreedt."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Opel Antara 2.0 CDTI 4x4 (Antara, A) Bouwjaar 2007 - 2011 Motorcode Z20DMH"
+                ]
+            }
+        ]
+    }
+]

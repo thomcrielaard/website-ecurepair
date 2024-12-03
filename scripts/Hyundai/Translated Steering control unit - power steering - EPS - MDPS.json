@@ -1,0 +1,1722 @@
+[
+    {
+        "part_name": "Accent (MC) elektrische stuurbekrachtigingsregelunit (2006-2008).",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/accent+mc+electric+power+steering+control+unit+2006+2008-150951.ts1628712040.jpg",
+        "product_link": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps-2912/hyundai/steering-control-unit-power-steering-eps-mdps/accent-%28mc%29-electric-power-steering-control-unit-%282006-2008%29-5454",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/accent-%28mc%29-electric-power-steering-control-unit-%282006-2008%29/hyundai-563000n500-563001e500-mando-q1t23176m-mitsubishi-electric-120894.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-0N500",
+                            "563000N500"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-1E500",
+                            "563001E500"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "Q1T23176M"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C1291",
+                        "fault_description": "Storing koppelingssensor - Signaalverschil."
+                    },
+                    {
+                        "fault_code": "C1292",
+                        "fault_description": "Storing koppelingssensor - signaalverschil."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Accent 1.4i (Accent, MC) Bouwjaar 2005 - 2011",
+                    "Hyundai Accent 1.6i Hatchback (Accent, MC) Bouwjaar 2006 - 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/accent-%28mc%29-electric-power-steering-control-unit-%282006-2008%29/hyundai-563000n700-mando-q1t23177m-126147.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-0N700",
+                            "563000N700"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "Q1T23177M"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C1291",
+                        "fault_description": "Storing koppelingssensor - Signaalverschil."
+                    },
+                    {
+                        "fault_code": "C1292",
+                        "fault_description": "Storing koppelingssensor - signaalverschil."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Accent 1.5 CRDi (Accent, MC) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/accent-%28mc%29-electric-power-steering-control-unit-%282006-2008%29/hyundai-563001e500-mando-q1t23174m-mitsubishi-electric-126193.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-1E500",
+                            "563001E500"
+                        ]
+                    },
+                    {
+                        "title": "Mando - Onderdeelnummer.",
+                        "numbers": [
+                            "Q1T23174M"
+                        ]
+                    },
+                    {
+                        "title": "Mitsubishi Electric.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C1291",
+                        "fault_description": "Storing koppelingssensor - Signaalverschil."
+                    },
+                    {
+                        "fault_code": "C1292",
+                        "fault_description": "Storing koppelingssensor - signaalverschil."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Accent 1.4i (Accent, MC) Bouwjaar 2006 - 2007",
+                    "Hyundai Accent 1.6i Hatchback (Accent, MC) Bouwjaar 2006"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "i10 (PA) / i20 (PB) elektrische stuurbekrachtigingsregelunit.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/i10+pa+i20+pb+electric+power+steering+control+unit-144248.ts1628724499.jpg",
+        "product_link": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps-2912/hyundai/steering-control-unit-power-steering-eps-mdps/i10-%28pa%29-i20-%28pb%29-electric-power-steering-control-unit-5453",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i10-%28pa%29-i20-%28pb%29-electric-power-steering-control-unit/hyundai-563000x500-mando-127358.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-0X500",
+                            "563000X500"
+                        ]
+                    },
+                    {
+                        "title": "Mando.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C1291",
+                        "fault_description": "Storing koppelingssensor - Signaalverschil."
+                    },
+                    {
+                        "fault_code": "C1292",
+                        "fault_description": "Storing koppelingssensor - signaalverschil."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i10-%28pa%29-i20-%28pb%29-electric-power-steering-control-unit/hyundai-563000x590-mando-120890.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-0X590",
+                            "563000X590"
+                        ]
+                    },
+                    {
+                        "title": "Mando.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C1291",
+                        "fault_description": "Storing koppelingssensor - Signaalverschil."
+                    },
+                    {
+                        "fault_code": "C1292",
+                        "fault_description": "Storing koppelingssensor - signaalverschil."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i10-%28pa%29-i20-%28pb%29-electric-power-steering-control-unit/hyundai-563001j700-563001j970-mando-120891.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-1J700",
+                            "563001J700"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-1J970",
+                            "563001J970"
+                        ]
+                    },
+                    {
+                        "title": "Mando.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C1291",
+                        "fault_description": "Storing koppelingssensor - Signaalverschil."
+                    },
+                    {
+                        "fault_code": "C1292",
+                        "fault_description": "Storing koppelingssensor - signaalverschil."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I20 1.2i (i20, PB) Bouwjaar 2010 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i10-%28pa%29-i20-%28pb%29-electric-power-steering-control-unit/hyundai-563101j700-mando-134238.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56310-1J700",
+                            "563101J700"
+                        ]
+                    },
+                    {
+                        "title": "Mando.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C1291",
+                        "fault_description": "Storing koppelingssensor - Signaalverschil."
+                    },
+                    {
+                        "fault_code": "C1292",
+                        "fault_description": "Storing koppelingssensor - signaalverschil."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i10-%28pa%29-i20-%28pb%29-electric-power-steering-control-unit/hyundai-56345e2500-563001j810-mando-120892.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56345-E2500",
+                            "56345E2500"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-1J810",
+                            "563001J810"
+                        ]
+                    },
+                    {
+                        "title": "Mando.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C1291",
+                        "fault_description": "Storing koppelingssensor - Signaalverschil."
+                    },
+                    {
+                        "fault_code": "C1292",
+                        "fault_description": "Storing koppelingssensor - signaalverschil."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I20 1.25 (i20, PB) Bouwjaar 2013 - 2014"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i10-%28pa%29-i20-%28pb%29-electric-power-steering-control-unit/hyundai-563500x690-563000x700-mando-120887.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56350-0X690",
+                            "563500X690"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-0X700",
+                            "563000X700"
+                        ]
+                    },
+                    {
+                        "title": "Mando.",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C1291",
+                        "fault_description": "Storing koppelingssensor - Signaalverschil."
+                    },
+                    {
+                        "fault_code": "C1292",
+                        "fault_description": "Storing koppelingssensor - signaalverschil."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I10 1.0i (i10, PA)",
+                    "Hyundai I10 1.1i (i10, PA) Bouwjaar 2008 - 2010",
+                    "Hyundai I10 1.2i (i10, PA) Bouwjaar 2008 - 2009"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "i30 (FD/FDe) / ix20 (PT) elektrische stuurbekrachtiging.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/i30+fd+fde+ix20+pt+electric+power+steering-164377.ts1628712316.jpg",
+        "product_link": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps-2912/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering-5539",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering/hyundai-563001h100-1h56300100-mobis-1h56398000-1h56398010-130956.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-1H100",
+                            "563001H100"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "1H563-00100",
+                            "1H56300100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1H563-98000",
+                            "1H56398000"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1H563-98010",
+                            "1H56398010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30 1.4i (i30, FD) Bouwjaar 2010 - 2011",
+                    "Hyundai I30 1.6 CRDi CW (i30, FD) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering/hyundai-563001k050-1k56300050-mobis-1k56398000-1k56398010-125009.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-1K050",
+                            "563001K050"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "1K563-00050",
+                            "1K56300050"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1K563-98000",
+                            "1K56398000"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1K563-98010",
+                            "1K56398010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Ix20 1.4i (ix20, PT) Bouwjaar 2010 - 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering/hyundai-563001k051-1k56300051-mobis-1k56398000-1k56398010-131124.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-1K051",
+                            "563001K051"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "1K563-00051",
+                            "1K56300051"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1K563-98000",
+                            "1K56398000"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "1K563-98010",
+                            "1K56398010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai Ix20 1.4i (ix20, PT) Bouwjaar 2013 - 2016",
+                    "Hyundai Ix20 1.6i CRDi (ix20) Bouwjaar 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering/hyundai-563002l600-2l56300600-mobis-2l56398000-2l56398010-119487.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-2L600",
+                            "563002L600"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "2L56300600"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "2L563-98000",
+                            "2L56398000"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "2L563-98010",
+                            "2L56398010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30 1,6i 16V CVVT-i (i30, FD) Bouwjaar 2009 - 2010",
+                    "Hyundai I30 1.4 CW (i30, FD) Bouwjaar 2009 - 2011",
+                    "Hyundai I30 1.4i (i30, FD) Bouwjaar 2007 - 2012",
+                    "Hyundai I30 1.6 CRDi CW (i30, FD) Bouwjaar 2007 - 2011",
+                    "Hyundai I30 1.6 CRDi (i30, FD) Bouwjaar 2008 - 2010",
+                    "Hyundai I30 1.6i CW (i30, FD) Bouwjaar 2009 - 2011",
+                    "Hyundai I30 1.6i (i30, FD) Bouwjaar 2009 - 2010",
+                    "Hyundai (i30) Bouwjaar 2009",
+                    "Hyundai (i30, FD) Bouwjaar 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering/hyundai-563002l700-2l56300700-mobis-2l56398000-2l56398010-119488.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56300-2L700",
+                            "563002L700"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "2L56300700"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "2L563-98000",
+                            "2L56398000"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "2L563-98010",
+                            "2L56398010"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30 1.4 CW (i30, FD) Bouwjaar 2010 - 2011",
+                    "Hyundai I30 1.4i (i30, FD) Bouwjaar 2007 - 2011",
+                    "Hyundai I30 1.6 CRDi CW (i30, FD) Bouwjaar 2009 - 2012",
+                    "Hyundai I30 1.6 CRDi (i30, FD) Bouwjaar 2008 - 2010",
+                    "Hyundai I30 1.6i CW (i30, FD) Bouwjaar 2009 - 2010",
+                    "Hyundai I30 1.6i (i30, FD) Bouwjaar 2008 - 2009",
+                    "Hyundai I30 2.0 CRDi (i30, FD) Bouwjaar 2008 - 2009",
+                    "Hyundai (i30, FD) Bouwjaar 2009 - 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering/hyundai-563002l701-mobis-2l56300700-129282.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563002L701"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "2L56300700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30 1.4i (i30, FD)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering/hyundai-563102l000-124039.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56310-2L000",
+                            "563102L000"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering/hyundai-563102l100-124041.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56310-2L100",
+                            "563102L100"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering/hyundai-563102l400-124042.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56310-2L400",
+                            "563102L400"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering/hyundai-563102l500-130723.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56310-2L500",
+                            "563102L500"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering/hyundai-563102l600-124043.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56310-2L600",
+                            "563102L600"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30 1.4 CW (i30, FD) Bouwjaar 2009",
+                    "Hyundai I30 1.4i (i30, FD) Bouwjaar 2009 - 2010",
+                    "Hyundai I30 1.6 CRDi CW (i30, FD) Bouwjaar 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i30-%28fd-fde%29-ix20-%28pt%29-electric-power-steering/hyundai-563102l700-124044.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "56310-2L700",
+                            "563102L700"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C1259",
+                        "fault_description": "Stuuruithoeksensor - Elektrische storing."
+                    },
+                    {
+                        "fault_code": "C1290",
+                        "fault_description": "Storing koppelingssensor - Hoofdsensor."
+                    },
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I30 1.4i (i30, FD) Bouwjaar 2010",
+                    "Hyundai I30 1.6 CRDi (i30, FD) Bouwjaar 2007 - 2008",
+                    "Hyundai I30 1.6i (i30, FD) Bouwjaar 2007 - 2008"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "i40 (VF) elektrisch stuurwiel.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/i40+vf+electric+power+steering+wheel-370197.ts1628723604.jpg",
+        "product_link": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps-2912/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel-6333",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-3z56300100-mobis-4vfm1203-141842.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z56300100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFM1203"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z100-2p56399500-3z56300100-mobis-4vfh1109-fvfh1109-136963.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z100"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "2P563-99500",
+                            "2P56399500"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z56300100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFH1109"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "FVFH1109"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I40 1.6 GDi (i40, VF) Bouwjaar 2012",
+                    "Hyundai I40 1.7 CRDi CW (i40, VF) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z100-3z56399500-3z56300100-mobis-4vfe1105-fvfe1105-146895.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z100"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z563-99500",
+                            "3Z56399500"
+                        ]
+                    },
+                    {
+                        "title": "Onderdeelnummer",
+                        "numbers": [
+                            "3Z56300100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFE1105"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "FVFE1105"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z100-3z56399500-3z56300100-mobis-4vfl1112-fvfl1112-132144.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z100"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z563-99500",
+                            "3Z56399500"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z56300100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFL1112"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "FVFL1112"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I40 1.6 GDi (i40, VF) Bouwjaar 2012",
+                    "Hyundai I40 1.7 CRDi CW (i40, VF) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z100-3z56399500-mobis-4vfn1204-140849.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z100"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z563-99500",
+                            "3Z56399500"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFN1204"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I40 1.6 GDi (i40, VF) Bouwjaar 2012",
+                    "Hyundai I40 1.7 CRDi CW (i40, VF) Bouwjaar 2012 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z100-mobis-4vff1106-145488.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFF1106"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z100-mobis-4vfh1109-fvfh1109-147269.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFH1109"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "FVFH1109"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z100-mobis-4vfm1203-141748.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z100"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFM1203"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I40 1.6 GDi (i40, VF) Bouwjaar 2012",
+                    "Hyundai I40 1.7 CRDi CW (i40, VF) Bouwjaar 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z150-3z56399700-3z56300150-mobis-4vfsc103-138803.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z150"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z563-99700",
+                            "3Z56399700"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z56300150"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFSC103"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z200-3z56300200-mobis-4vfe1105-140913.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z200"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z56300200"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFE1105"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I40 1.7 CRDi CW (i40, VF) Bouwjaar 2011 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z200-3z56300200-mobis-4vfn1204-fvfn1204-146002.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z200"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z56300200"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFN1204"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "FVFN1204"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I40 1.6 GDi (i40, VF) Bouwjaar 2012",
+                    "Hyundai I40 1.7 CRDi CW (i40, VF) Bouwjaar 2012 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z200-3z56399500-3z56300200-mobis-4vfc1103-fvfc1103-148366.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z200"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z563-99500",
+                            "3Z56399500"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z56300200"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFC1103"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "FVFC1103"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I40 1.7 CRDi CW (i40, VF) Bouwjaar 2011",
+                    "Hyundai I40 2.0 GDI CW (i40, VF) Bouwjaar 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z200-3z56399500-3z56300200-mobis-4vfh1109-fvfh1109-141438.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z200"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z563-99500",
+                            "3Z56399500"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z56300200"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFH1109"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "FVFH1109"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I40 1.7 CRDi CW (i40, VF) Bouwjaar 2011",
+                    "Hyundai I40 2.0 GDI CW (i40, VF) Bouwjaar 2011 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z200-3z56399500-3z56300200-mobis-4vfm1203-fvfm1203-145506.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z200"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z563-99500",
+                            "3Z56399500"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z56300200"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFM1203"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "FVFM1203"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I40 1.6 GDi (i40, VF) Bouwjaar 2012",
+                    "Hyundai I40 1.7 CRDi CW (i40, VF) Bouwjaar 2012 - 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z200-mobis-4vfg1107-141729.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z200"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFG1107"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I40 1.6 GDi (i40, VF) Bouwjaar 2012",
+                    "Hyundai I40 1.7 CRDi CW (i40, VF) Bouwjaar 2011 - 2012"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z200-mobis-4vfh1107-fvfg1107-146761.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z200"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFH1107"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "FVFG1107"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I40 1.6 GDi (i40, VF) Bouwjaar 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z220-3z56399600-3z56300220-mobis-4vfde309-fvfde309-136964.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z220"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z563-99600",
+                            "3Z56399600"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z56300220"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFDE309"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "FVFDE309"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/hyundai/steering-control-unit-power-steering-eps-mdps/i40-%28vf%29-electric-power-steering-wheel/hyundai-563003z230-3z56300230-mobis-4vfp1208-150547.html",
+                "part_numbers": [
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "563003Z230"
+                        ]
+                    },
+                    {
+                        "title": "Hyundai - Part number",
+                        "numbers": [
+                            "3Z56300230"
+                        ]
+                    },
+                    {
+                        "title": "Mobis - Onderdeelnummer.",
+                        "numbers": [
+                            "4VFP1208"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "C2400",
+                        "fault_description": "Motor defect."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Stuur heeft speling, maakt hamergeluiden."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Hyundai I40 1.7 CRDi CW (i40, VF) Bouwjaar 2014"
+                ]
+            }
+        ]
+    }
+]

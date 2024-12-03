@@ -1,0 +1,133 @@
+[
+    {
+        "part_name": "NSX AC control unit",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/nsx+ac+control+unit-1765.ts1628718739.jpg",
+        "product_link": "https://ecu.eu/honda/heating-ac-2901/honda/heating-ac/nsx-ac-control-unit-3981",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/honda/heating-ac/nsx-ac-control-unit/honda-79600sl0033-denshigiken-79600slo033-103902.html",
+                "part_numbers": [
+                    {
+                        "title": "HONDA - Part number",
+                        "numbers": [
+                            "79600-SL0-033",
+                            "79600SL0033"
+                        ]
+                    },
+                    {
+                        "title": "denshigiken - Part number",
+                        "numbers": [
+                            "79600-SLO-033",
+                            "79600SLO033"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Partial or entire functional disorder of ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "HONDA NSX 3.0i Cabrio (NSX, NA) Year of manufacture 1991",
+                    "HONDA NSX 3.0i (NSX) Year of manufacture 1994",
+                    "HONDA NSX 3.0i (NSX, NA) Year of manufacture 1991"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/honda/heating-ac/nsx-ac-control-unit/honda-79600sl0a03-denshigiken-79600sloa03-116287.html",
+                "part_numbers": [
+                    {
+                        "title": "HONDA - Part number",
+                        "numbers": [
+                            "79600-SL0-A03",
+                            "79600SL0A03"
+                        ]
+                    },
+                    {
+                        "title": "denshigiken - Part number",
+                        "numbers": [
+                            "79600-SLO-A03",
+                            "79600SLOA03"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "HONDA NSX 3.0i (NSX, NA) Year of manufacture 1991"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/honda/heating-ac/nsx-ac-control-unit/honda-79600sl0a04-denshigiken-107536.html",
+                "part_numbers": [
+                    {
+                        "title": "HONDA - Part number",
+                        "numbers": [
+                            "79600-SL0-A04",
+                            "79600SL0A04"
+                        ]
+                    },
+                    {
+                        "title": "denshigiken",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/honda/heating-ac/nsx-ac-control-unit/honda-79610sl0a02-denshigiken-141494.html",
+                "part_numbers": [
+                    {
+                        "title": "HONDA - Part number",
+                        "numbers": [
+                            "79610-SL0-A02",
+                            "79610SL0A02"
+                        ]
+                    },
+                    {
+                        "title": "denshigiken",
+                        "numbers": []
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ECU function"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    }
+]

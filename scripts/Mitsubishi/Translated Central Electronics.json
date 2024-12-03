@@ -1,0 +1,80 @@
+[
+    {
+        "part_name": "Centrale vergrendeling Mitsubishi TRW.",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/central+lock+mitsubishi+trw-711.ts1628722659.jpg",
+        "product_link": "https://ecu.eu/mitsubishi/central-electronics-2954/mitsubishi/central-electronics/central-lock-mitsubishi-trw-3890",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mitsubishi/central-electronics/central-lock-mitsubishi-trw/mitsubishi-mr238029-trw-72165-1343.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR238029"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "72165"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Centrale vergrendelingssysteem buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Controlelampjes branden permanent."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Carisma 1.8 GDI (Carisma, DA0) Bouwjaar 2003",
+                    "Mitsubishi Carisma 1.9 DI-D (Carisma, DA0) Bouwjaar 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mitsubishi/central-electronics/central-lock-mitsubishi-trw/mitsubishi-mr916006-trw-72165-1344.html",
+                "part_numbers": [
+                    {
+                        "title": "Mitsubishi - Part number",
+                        "numbers": [
+                            "MR916006"
+                        ]
+                    },
+                    {
+                        "title": "TRW - Onderdeelnummer",
+                        "numbers": [
+                            "72165"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Centrale vergrendelingssysteem buiten werking."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Controlelampjes branden permanent."
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Andere fouten op aanvraag."
+                    }
+                ],
+                "cars": [
+                    "Mitsubishi Carisma 1.8 GDI (Carisma, DA0) Bouwjaar 2003 - 2004",
+                    "Mitsubishi Space Star 1.3i (Space Star, DG0) Bouwjaar 2003",
+                    "Mitsubishi Space Star 1.6i (Space Star, DG0) Bouwjaar 2004"
+                ]
+            }
+        ]
+    }
+]

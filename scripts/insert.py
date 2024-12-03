@@ -1,3 +1,4 @@
+from pathlib import Path
 import requests
 import json
 
@@ -5,14 +6,65 @@ import json
 strapi_url = "https://strapi.ecurepair.nl/api"  # Replace with your Strapi API URL
 
 # Specify the path to your JSON file
-json_file_path = "translated_product_data_mercedes_contactslot.json"
-
-brand_id = 7
-part_id = 9
+# json_file_path = "translated_product_data_mercedes_contactslot.json"
 
 # Open the JSON file for reading
-with open(json_file_path, "r") as json_file:
-    data = json.load(json_file)
+# with open(json_file_path, "r") as json_file:
+#   data = json.load(json_file)
+
+# Function which creates a brand if it doesn't exist and returns the brands ID
+def create_or_get_brand(brand_name):
+  # Attempt to create brand
+  response = requests.post(
+    f"{strapi_url}/merks",
+    json={
+      "data": {
+        "naam": brand_name,
+      }
+    }
+  )
+
+  # Brand already exists, retrieve brand
+  if response.status_code == 400:
+    response = requests.get(
+      f"{strapi_url}/merks?filters[naam][$eq]={brand_name}"
+    )
+
+    # Retrieve ID from brand
+    content = json.loads(response.content)
+    id = content["data"][0]["id"]
+  else:
+    content = json.loads(response.content)
+    id = content["data"]["id"]
+
+  return id
+
+# Function which creates a part if it doesn't exist and returns the part ID
+def create_or_get_part(part_name):
+  # Attempt to create part
+  response = requests.post(
+    f"{strapi_url}/onderdeels",
+    json={
+      "data": {
+        "naam": part_name,
+      }
+    }
+  )
+
+  # Part already exists, retrieve part
+  if response.status_code == 400:
+    response = requests.get(
+      f"{strapi_url}/onderdeels?filters[naam][$eq]={part_name}"
+    )
+
+    # Retrieve ID from part
+    content = json.loads(response.content)
+    id = content["data"][0]["id"]
+  else:
+    content = json.loads(response.content)
+    id = content["data"]["id"]
+
+  return id
 
 # Function to create a module in Strapi
 def create_product(part, product, brand_id, part_id):
@@ -59,12 +111,33 @@ def create_product(part, product, brand_id, part_id):
   )
   return response
 
-for part in data:
-  for product in part['products']:
-    product_response = create_product(part, product, brand_id, part_id)
+# Ensure the base_dir is a Path object
+base_dir = Path.cwd()
+filename_prefix = "Translated "
 
-    if product_response.status_code == 200:
-      print(f"Success for {product['part_numbers'][0]['numbers'][-1]}")
-    else:
-      print(f"Something went wrong with brand {part['part_name']}")
-      print(product_response.content)
+# Iterate through all entries in the base directory
+for entry in base_dir.iterdir():
+  if entry.is_dir():
+    # Search for files starting with "Translated " in the subdirectory
+    # Using glob with pattern "Translated *" to match any file starting with "Translated "
+    translated_files = list(entry.glob(f"{filename_prefix}*"))
+    
+    if translated_files:
+      brand_id = create_or_get_brand(entry.name)
+      for file in translated_files:
+        part_id = create_or_get_part(file.name.removeprefix(filename_prefix).removesuffix(".json"))
+
+        with open(file.relative_to(base_dir), "r", encoding="utf-8") as json_file:
+          data = json.load(json_file)
+          for part in data:
+            for product in part['products']:
+              product_response = create_product(part, product, brand_id, part_id)
+
+              if product_response.status_code == 200:
+                try:
+                  print(f"Success for {entry.name} {file.name} {product['part_numbers'][0]['numbers'][-1]}")
+                except (IndexError, KeyError, TypeError) as e:
+                  print(f"Success for {entry.name} {file.name}")  
+              else:
+                print(f"Something went wrong with brand {part['part_name']}")
+                print(product_response.content)

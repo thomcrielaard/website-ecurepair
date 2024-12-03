@@ -1,0 +1,917 @@
+[
+    {
+        "part_name": "Electronic Ignition (EZ)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/electronic+ignition+ez-816.ts1628722661.jpg",
+        "product_link": "https://ecu.eu/mercedes/ignition-control-unit-46/mercedes/ignition-control-unit/electronic-ignition-%28ez%29-4914",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0035459132-bosch-0227400600-5.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 91 32",
+                            "0035459132"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 600",
+                            "0227400600"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0035459232-bosch-0227400600-112162.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 92 32",
+                            "0035459232"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 600",
+                            "0227400600"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 420SEC (S-Klasse, 126) Year of manufacture 1985 - 1987",
+                    "MERCEDES 420SL Roadster (SL-Klasse, 107)",
+                    "MERCEDES 500SEC (S-Klasse, 126)",
+                    "MERCEDES 500SL Roadster (SL-Klasse, 107)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0045453432-bosch-0227400612-114251.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "004 545 34 32",
+                            "0045453432"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 612",
+                            "0227400612"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 560SEL (S-Klasse, 126) Year of manufacture 1985 - 1987 Engine code 117.968"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0045454432-bosch-0227400538-118091.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "004 545 44 32",
+                            "0045454432"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 538",
+                            "0227400538"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 280SL Roadster (SL-Klasse, 107)",
+                    "MERCEDES 300SL Roadster (SL-Klasse, 107) Year of manufacture 1986"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0045455332-bosch-0227400624-112164.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "004 545 53 32",
+                            "0045455332"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 624",
+                            "0227400624"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 560SL Roadster (SL-Klasse, 107) Year of manufacture 1986"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0045455532-siemens-5wk6144-118093.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "004 545 55 32",
+                            "0045455532"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WK6 144",
+                            "5WK6144"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 560SEL (S-Klasse, 126) Year of manufacture 1987"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0045457132-bosch-0227400618-112146.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "004 545 71 32",
+                            "0045457132"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 618",
+                            "0227400618"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 420SE (S-Klasse, 126) Year of manufacture 1985 Engine code 116.965",
+                    "MERCEDES 420SL Roadster (SL-Klasse, 107)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0055453032-bosch-0227400574-118092.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "005 545 30 32",
+                            "0055453032"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 574",
+                            "0227400574"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0055458532-bosch-0227400585-118090.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "005 545 85 32",
+                            "0055458532"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 585",
+                            "0227400585"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 230E (124er, 124)",
+                    "MERCEDES 300SL Roadster (SL-Klasse, 107) Year of manufacture 1987"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0065453832-bosch-0227400648-112165.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "006 545 38 32",
+                            "0065453832"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 648",
+                            "0227400648"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 190E (190er, 201) Year of manufacture 1989",
+                    "MERCEDES 190E 2.5 (190er, 201)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0065454032-bosch-0227400587-112163.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "006 545 40 32",
+                            "0065454032"
+                        ]
+                    },
+                    {
+                        "title": "MERCEDES",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 587",
+                            "0227400587"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0065455432-bosch-0227400701-58.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "006 545 54 32",
+                            "0065455432"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 701",
+                            "0227400701"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 560SE (S-Klasse, 126) Year of manufacture 1989 - 1990",
+                    "MERCEDES 560SEC (S-Klasse, 126) Year of manufacture 1988 - 1990",
+                    "MERCEDES 560SEL (S-Klasse, 126) Year of manufacture 1988 - 1990 Engine code 117.968",
+                    "Mercedes 560SEC (S-Klasse, 126) Year of manufacture 1989 - 1990"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0065457332-bosch-0227400656-112150.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "006 545 73 32",
+                            "0065457332"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 656",
+                            "0227400656"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 190E 2.6 (190er, 201) Year of manufacture 1988 Engine code 103.942",
+                    "MERCEDES 260E (124er, 124)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0065457432-bosch-0227400658-112149.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "006 545 74 32",
+                            "0065457432"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 658",
+                            "0227400658"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 300CE (124er, 124) Year of manufacture 1988",
+                    "MERCEDES 300SE (S-Klasse, 126) Engine code 103.981",
+                    "MERCEDES 300SL Roadster (SL-Klasse, 107) Year of manufacture 1985 - 1989 Engine code 103.982"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0065457532-siemens-5wk6168-118089.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "006 545 75 32",
+                            "0065457532"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WK6 168",
+                            "5WK6168"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 260E (124er, 124)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0075450732-bosch-0227400706-60.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "007 545 07 32",
+                            "0075450732"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 706",
+                            "0227400706"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 500SE (S-Klasse, 126) Year of manufacture 1990 - 1991",
+                    "MERCEDES 500SEC (S-Klasse, 126)",
+                    "MERCEDES 500SEL (S-Klasse, 126) Year of manufacture 1988 - 1990",
+                    "MERCEDES 560SEL (S-Klasse, 126) Year of manufacture 1988",
+                    "MERCEDES G500 (G-Klasse, 463) Year of manufacture 1993"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0075452232-bosch-0227400710-62.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "007 545 22 32",
+                            "0075452232"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 710",
+                            "0227400710"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 380SEC (S-Klasse, 126) Year of manufacture 1982",
+                    "MERCEDES 420SE (S-Klasse, 126) Year of manufacture 1989 - 1990",
+                    "MERCEDES 420SEC (S-Klasse, 126) Year of manufacture 1987 - 1990",
+                    "MERCEDES 420SEL (S-Klasse, 126) Year of manufacture 1987 - 1990 Engine code 116.965",
+                    "MERCEDES 500SE (S-Klasse, 126)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0075457032-bosch-0227400718-112155.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "007 545 70 32",
+                            "0075457032"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 718",
+                            "0227400718"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 300E-24 (124er, 124) Year of manufacture 1987"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0075457132-bosch-0227400600-87.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "007 545 71 32",
+                            "0075457132"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 400 600",
+                            "0227400600"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/electronic-ignition-%28ez%29/mercedes-0075457132-siemens-5wk6300-116336.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "007 545 71 32",
+                            "0075457132"
+                        ]
+                    },
+                    {
+                        "title": "Siemens - Part number",
+                        "numbers": [
+                            "5WK6300"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Faults on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 300CE-24 (124er, 124) Year of manufacture 1989",
+                    "MERCEDES 300CE-24 Cabrio (124er, 124)",
+                    "MERCEDES 300E-24 (124er, 124) Year of manufacture 1989",
+                    "MERCEDES 300SL-24 (SL-Klasse, 129) Year of manufacture 1993"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Power supply unit ignition system ECI",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/power+supply+unit+ignition+system+eci-424360.ts1628717006.jpg",
+        "product_link": "https://ecu.eu/mercedes/ignition-control-unit-46/mercedes/ignition-control-unit/power-supply-unit-ignition-system-eci-6453",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/power-supply-unit-ignition-system-eci/mercedes-a0001500058-temic-302594-127456.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 150 00 58",
+                            "A0001500058"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "302594"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brakdown of one entire cylinder bank"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "switched power supply for ignition module breakdown"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES CL600 (CL-Klasse, 215) Year of manufacture 2000 - 2003"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/power-supply-unit-ignition-system-eci/mercedes-a0001500158-temic-303784-139588.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 150 01 58",
+                            "A0001500158"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "303784"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brakdown of one entire cylinder bank"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "switched power supply for ignition module breakdown"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES CL600 Coupe (CL-Klasse, 216) Year of manufacture 2007",
+                    "MERCEDES S600 L (S-Klasse, 220) Year of manufacture 2002"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/power-supply-unit-ignition-system-eci/mercedes-a0001500258-temic-303784-133494.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "A 000 150 02 58",
+                            "A0001500258"
+                        ]
+                    },
+                    {
+                        "title": "TEMIC - Part number",
+                        "numbers": [
+                            "303784"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "Brakdown of one entire cylinder bank"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "switched power supply for ignition module breakdown"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES CL600 (CL-Klasse, 215) Year of manufacture 2001 - 2018",
+                    "MERCEDES CL600 Coupe (CL-Klasse, 216) Year of manufacture 2006 - 2009",
+                    "MERCEDES S600 L (S-Klasse, 220) Year of manufacture 2002 - 2003",
+                    "MERCEDES S600 (S-Klasse, 220) Year of manufacture 2000",
+                    "MERCEDES S600 (S-Klasse, 221) Year of manufacture 2006 - 2010",
+                    "MERCEDES S65 AMG (S-Klasse, 220) Year of manufacture 2005",
+                    "MERCEDES S65 AMG (S-Klasse, 221) Year of manufacture 2007",
+                    "MERCEDES SL600 (SL-Klasse, 230) Year of manufacture 2003 - 2005"
+                ]
+            }
+        ]
+    },
+    {
+        "part_name": "Transistor coil ignition inductive (TSZ-I)",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/transistor+coil+ignition+inductive+tsz+i-316595.ts1628715409.jpg",
+        "product_link": "https://ecu.eu/mercedes/ignition-control-unit-46/mercedes/ignition-control-unit/transistor-coil-ignition-inductive-%28tsz-i%29-6222",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/transistor-coil-ignition-inductive-%28tsz-i%29/mercedes-0005457632-bosch-0227100001-121491.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "000 545 76 32",
+                            "0005457632"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 100 001",
+                            "0227100001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/transistor-coil-ignition-inductive-%28tsz-i%29/mercedes-0005457632-bosch-0227100001-122055.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "000 545 76 32",
+                            "0005457632"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 100 001",
+                            "0227100001"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 250 (123er, 123) Year of manufacture 1978 - 1982",
+                    "MERCEDES 280C (123er, 123)",
+                    "MERCEDES 280SE (S-Klasse, 116) Year of manufacture 1977",
+                    "MERCEDES 280SL Roadster (SL-Klasse, 107) Year of manufacture 1976",
+                    "MERCEDES 350SE (S-Klasse, 116) Year of manufacture 1978",
+                    "MERCEDES 350SLC Coupe (SL-Klasse, 107) Year of manufacture 1979",
+                    "MERCEDES 450SE (S-Klasse, 116) Year of manufacture 1976"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/transistor-coil-ignition-inductive-%28tsz-i%29/mercedes-0015458632-bosch-0227100023-123101.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "001 545 86 32",
+                            "0015458632"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 100 023",
+                            "0227100023"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 280 (123er, 123) Year of manufacture 1981",
+                    "MERCEDES 280CE (123er, 123) Year of manufacture 1983"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/transistor-coil-ignition-inductive-%28tsz-i%29/mercedes-0025452632-bosch-0227100042-121326.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "002 545 26 32",
+                            "0025452632"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 100 042",
+                            "0227100042"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES 380SEL (S-Klasse, 126) Year of manufacture 1983",
+                    "MERCEDES 380SL (SL-Klasse, 107) Year of manufacture 1984"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/mercedes/ignition-control-unit/transistor-coil-ignition-inductive-%28tsz-i%29/mercedes-0035452132-bosch-0227100048-119441.html",
+                "part_numbers": [
+                    {
+                        "title": "MERCEDES - Part number",
+                        "numbers": [
+                            "003 545 21 32",
+                            "0035452132"
+                        ]
+                    },
+                    {
+                        "title": "Bosch - Part number",
+                        "numbers": [
+                            "0 227 100 048",
+                            "0227100048"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": null,
+                        "fault_description": "No ignition"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "MERCEDES G350 DT (G-Klasse, 463) Year of manufacture 1992"
+                ]
+            }
+        ]
+    }
+]

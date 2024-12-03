@@ -1,0 +1,548 @@
+[
+    {
+        "part_name": "All-wheel drive control Haldex",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/all+wheel+drive+control+haldex-9869.ts1628711371.jpg",
+        "product_link": "https://ecu.eu/ford/others-2894/ford/others/all-wheel-drive-control-haldex-5995",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-11199701-continental-5wp3351302-112837.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "111997-01",
+                            "11199701"
+                        ]
+                    },
+                    {
+                        "title": "FORD",
+                        "numbers": []
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33513-02",
+                            "5WP3351302"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Control unit configuration error"
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Pressure regulating solenoid valve Electrical circuit fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2008"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-11265601-9v4n04c016ab-continental-5wp3352102-128599.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "112656-01",
+                            "11265601"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "9V4N-04C016-AB",
+                            "9V4N04C016AB"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33521-02",
+                            "5WP3352102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Control unit configuration error"
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Pressure regulating solenoid valve Electrical circuit fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Kuga 2.5i 4x4 (Kuga) Year of manufacture 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-11288001-9v4n04c016ac-continental-5wp3352103-148481.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "112880-01",
+                            "11288001"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "9V4N-04C016-AC",
+                            "9V4N04C016AC"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33521-03",
+                            "5WP3352103"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Control unit configuration error"
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Pressure regulating solenoid valve Electrical circuit fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-11368001-9v4n04c016ac-continental-5wp3352104-131742.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "113680-01",
+                            "11368001"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "9V4N-04C016-AC",
+                            "9V4N04C016AC"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33521-04",
+                            "5WP3352104"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Control unit configuration error"
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Pressure regulating solenoid valve Electrical circuit fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Kuga 2.0 TDCi 4x4 (Kuga)",
+                    "FORD Kuga 2.5i 4x4 (Kuga) Year of manufacture 2009"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-11479301-9v4n04c016ad-9v4n04c016ae-continental-5wp3353102-135196.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "114793-01",
+                            "11479301"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "9V4N-04C016-AD",
+                            "9V4N04C016AD"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "9V4N-04C016-AE",
+                            "9V4N04C016AE"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33531-02",
+                            "5WP3353102"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Control unit configuration error"
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Pressure regulating solenoid valve Electrical circuit fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2010 - 2011",
+                    "FORD Kuga 2.5i 4x4 (Kuga) Year of manufacture 2011"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-11728801-9v4n04c016ad-continental-5wp3353103-129989.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "117288-01",
+                            "11728801"
+                        ]
+                    },
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "9V4N-04C016-AD",
+                            "9V4N04C016AD"
+                        ]
+                    },
+                    {
+                        "title": "Continental - Part number",
+                        "numbers": [
+                            "5WP33531-03",
+                            "5WP3353103"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Control unit configuration error"
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Pressure regulating solenoid valve Electrical circuit fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Kuga 2.0 TDCi 4x4 (Kuga) Year of manufacture 2009 - 2012",
+                    "FORD Kuga 2.5i 4x4 (Kuga) Year of manufacture 2010"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/all-wheel-drive-control-haldex/ford-1681551-141223.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "1681551"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "B2477",
+                        "fault_description": "Control unit configuration error"
+                    },
+                    {
+                        "fault_code": "P0960",
+                        "fault_description": "Pressure regulating solenoid valve Electrical circuit fault"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "No communication possible with the ecu"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            }
+        ]
+    },
+    {
+        "part_name": "Turbo-charger actuator",
+        "image_url": "https://cdn1.ecu.de/im/1/6/c/category_thumbnails/turbo+charger+actuator-2167.ts1628724448.jpg",
+        "product_link": "https://ecu.eu/ford/others-2894/ford/others/turbo-charger-actuator-4093",
+        "products": [
+            {
+                "product_url": "https://ecu.eu/ford/others/turbo-charger-actuator/ford-6nw008412-hella-712120-104898.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "6NW 008 412",
+                            "6NW008412"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "712120"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P132A",
+                        "fault_description": "Turbo changer supercharging pressure control A: electric error"
+                    },
+                    {
+                        "fault_code": "P132B",
+                        "fault_description": "Supercharging pressure control A – faulty (electrical) power supply"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Focus 1.8 TDCi (Focus) Year of manufacture 2007",
+                    "FORD Mondeo 2.0 TDCI (Mondeo) Year of manufacture 2004",
+                    "FORD Mondeo 2.0 TDCi (Mondeo) Year of manufacture 2004 - 2007",
+                    "FORD Mondeo 2.0 TDCi (Mondeo, MK 3) Engine code HJBC, FMBA",
+                    "FORD Mondeo Turnier 2.0 TDCi (Mondeo) Year of manufacture 2003 - 2021",
+                    "FORD Mondeo Turnier 2.0 TDCi (Mondeo, MK 3) Engine code HJB.., HJBC, FMBA",
+                    "FORD Mondeo Turnier 2.0 TDDi (Mondeo)",
+                    "FORD Mondeo Turnier 2.2 TDCi (Mondeo) Year of manufacture 2005 - 2007",
+                    "FORD Mondeo Turnier 2.2 TDCi (Mondeo, MK 3) Year of manufacture 2004 - 2006 Engine code QJB..."
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/turbo-charger-actuator/ford-6nw009206-hella-752406-104899.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "6NW 009 206",
+                            "6NW009206"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "752406"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P132A",
+                        "fault_description": "Turbo changer supercharging pressure control A: electric error"
+                    },
+                    {
+                        "fault_code": "P132B",
+                        "fault_description": "Supercharging pressure control A – faulty (electrical) power supply"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Focus 1.8 TDCi (Focus) Year of manufacture 2010",
+                    "FORD Tourneo Connect 1.8 TDCi (Tourneo Connect) Year of manufacture 2007 - 2009",
+                    "FORD Transit 2.2 TDCi (Transit)",
+                    "FORD Transit 2.2 TDCi (Transit, MK 6) Year of manufacture 2008 Engine code PGFA",
+                    "FORD Transit 2.4 TDCi (Transit)",
+                    "FORD Transit 2.4 TDCi (Transit, MK 6) Year of manufacture 2006 Engine code H9FB",
+                    "FORD Transit Connect 1.8 TDCi (Transit Connect) Year of manufacture 2013"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/turbo-charger-actuator/ford-6nw009483-hella-761963-106117.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "6NW 009 483",
+                            "6NW009483"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "761963"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P132A",
+                        "fault_description": "Turbo changer supercharging pressure control A: electric error"
+                    },
+                    {
+                        "fault_code": "P132B",
+                        "fault_description": "Supercharging pressure control A – faulty (electrical) power supply"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Galaxy 2.2 TDCi (Galaxy) Year of manufacture 2008 - 2010",
+                    "FORD Mondeo Turnier 2.2 TDCi (Mondeo) Year of manufacture 2008 - 2010",
+                    "FORD Transit 2.4 TDCi 4x4 (Transit) Year of manufacture 2008",
+                    "FORD Transit 3.2 TDCi (Transit)"
+                ]
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/turbo-charger-actuator/ford-6nw009543-hella-763797-130187.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "6NW 009 543",
+                            "6NW009543"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "763797"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P132A",
+                        "fault_description": "Turbo changer supercharging pressure control A: electric error"
+                    },
+                    {
+                        "fault_code": "P132B",
+                        "fault_description": "Supercharging pressure control A – faulty (electrical) power supply"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": []
+            },
+            {
+                "product_url": "https://ecu.eu/ford/others/turbo-charger-actuator/ford-6nw009550-hella-767649-117185.html",
+                "part_numbers": [
+                    {
+                        "title": "FORD - Part number",
+                        "numbers": [
+                            "6NW 009 550",
+                            "6NW009550"
+                        ]
+                    },
+                    {
+                        "title": "HELLA - Part number",
+                        "numbers": [
+                            "767649"
+                        ]
+                    }
+                ],
+                "faults": [
+                    {
+                        "fault_code": "P132A",
+                        "fault_description": "Turbo changer supercharging pressure control A: electric error"
+                    },
+                    {
+                        "fault_code": "P132B",
+                        "fault_description": "Supercharging pressure control A – faulty (electrical) power supply"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Temporary problems with charging pressure control – fault code concerning charging pressure control, vehicle is on reduced power, motor control light displayed, after turning on and off of the ignition motor is on normal operation again – until next error occur"
+                    },
+                    {
+                        "fault_code": null,
+                        "fault_description": "Other fault on request"
+                    }
+                ],
+                "cars": [
+                    "FORD Ranger 2.2 TDCi 4x4 (Ranger) Year of manufacture 2012 - 2014",
+                    "FORD Tourneo Custom 2.2 TDCi (Tourneo Custom) Year of manufacture 2014",
+                    "FORD Transit 2.2 TDCi (Transit)",
+                    "FORD Transit 2.4 TDCi (Transit) Year of manufacture 2007",
+                    "FORD (Transit) Year of manufacture 2017",
+                    "FORD Transit Custom 2.2 TDCi (Transit Custom) Year of manufacture 2013 - 2015"
+                ]
+            }
+        ]
+    }
+]
