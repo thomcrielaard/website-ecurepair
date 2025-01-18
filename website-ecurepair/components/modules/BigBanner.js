@@ -33,7 +33,6 @@ export default function BigBanner(props) {
     const brand = props.searchbarData.find(
       (item) => item.id === parseInt(selectedValue)
     );
-    console.log(props.searchbarData);
     if (brand) {
       setBrandValue(merk);
       setParts(brand.onderdeels);
