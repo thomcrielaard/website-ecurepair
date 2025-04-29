@@ -35,7 +35,7 @@ export default function Footer() {
                   text="info@ecurepair.nl"
                   href="mailto:info@ecurepair.nl"
                 />
-                <FooterLink text="+31(0)85-0602759" href="tel:+31850602759" />
+                <FooterLink text="+31(0)26-2340042" href="tel:+31262340042" />
                 <FooterLink text="Ma-Vr. 10:00 - 16:00" href="/contact" />
               </div>
               <div className={styles.FooterIconsWrapper}>
@@ -46,7 +46,7 @@ export default function Footer() {
                 />
                 <FooterIcon
                   icon={<Phone width={15} />}
-                  href="tel:+31850602759"
+                  href="tel:+31262340042"
                   ariaLabel="Bel nu"
                 />
                 <FooterIcon
