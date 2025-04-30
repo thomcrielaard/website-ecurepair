@@ -15,6 +15,7 @@ export default function Title(props) {
           color: props.color,
           ...props.style,
         }}
+        onClick={props.onClick}
       >
         {props.text}
       </h1>

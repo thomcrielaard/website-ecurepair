@@ -9,8 +9,12 @@ import Navbar from "@/components/layout/Navbar";
 import Container from "@/components/containers/Container";
 import Product from "@/components/modules/Product";
 import ProductAttributes from "@/components/modules/ProductAttributes";
+import ProductHero from "@/components/modules/ProductHero";
+import ItemCards from "@/components/modules/ItemCards";
+import Title from "@/components/text/Title";
+import ProductDescription from "@/components/modules/ProductDescription";
 
-function Error({ product }) {
+function Error({ product, similarProducts }) {
   return (
     <>
       <Head>
@@ -21,8 +25,13 @@ function Error({ product }) {
       <Navbar />
 
       <Container>
-        <Product product={product} />
-        <ProductAttributes errors={product.fouten} cars={product.autos} />
+        <ProductHero product={product} />
+        <ProductDescription product={product} />
+      </Container>
+
+      <Container>
+        <Title text="VERGELIJKBARE PRODUCTEN" size="md" align="left" />
+        <ItemCards items={similarProducts} square similar />
       </Container>
 
       <Footer />
@@ -38,7 +47,18 @@ export async function getServerSideProps(context) {
 
   const product = data.data[0];
 
-  console.log(product);
+  const { data: similarProductsData } = await Axios.get(
+    `${API_URL}/api/products?${product.merks
+      .map(
+        (merk, index) =>
+          `filters[merks][documentId][$in][${index}]=${merk.documentId}`
+      )
+      .join("&")}&filters[onderdeel][documentId][$eq]=${
+      product.onderdeel.documentId
+    }&pagination[pageSize]=500&populate[afbeelding][fields][0]=url&populate[onderdeel][populate][afbeeldingen][fields][0]=url`
+  );
+
+  const similarProducts = similarProductsData.data;
 
   if (!product) {
     return {
@@ -49,6 +69,7 @@ export async function getServerSideProps(context) {
   return {
     props: {
       product,
+      similarProducts,
     },
   };
 }
