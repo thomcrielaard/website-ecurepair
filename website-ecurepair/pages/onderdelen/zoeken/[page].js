@@ -90,10 +90,6 @@ export default function Onderdelen({
 export async function getServerSideProps(context) {
   const { onderdeel = "", merk = "", part = "", page = 1 } = context.query;
 
-  console.log(
-    `${API_URL}/api/products/search?tekst=${onderdeel}&merk=${merk}&onderdeel=${part}&pagination[page]=${page}&pagination[pageSize]=8`
-  );
-
   // Get searched products
   const { data: productsData } = await Axios.get(
     `${API_URL}/api/products/search?tekst=${onderdeel}&merk=${merk}&onderdeel=${part}&pagination[page]=${page}&pagination[pageSize]=8`
