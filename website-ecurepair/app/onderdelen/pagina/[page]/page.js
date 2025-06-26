@@ -29,6 +29,10 @@ let cachedSearchbarData = null;
 async function getSearchbarData() {
   if (!cachedSearchbarData) {
     const { data } = await Axios.get(`${API_URL}/api/searchbar`);
+    data.sort((a, b) => a.naam.localeCompare(b.naam));
+    data.forEach((item) => {
+      item.onderdeels.sort((a, b) => a.naam.localeCompare(b.naam));
+    });
     cachedSearchbarData = data;
   }
   return cachedSearchbarData;

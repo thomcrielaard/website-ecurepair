@@ -100,6 +100,10 @@ export async function getServerSideProps(context) {
 
   // Get searchbar data
   const { data: searchbar } = await Axios.get(`${API_URL}/api/searchbar`);
+  searchbar.sort((a, b) => a.naam.localeCompare(b.naam));
+  searchbar.forEach((item) => {
+    item.onderdeels.sort((a, b) => a.naam.localeCompare(b.naam));
+  });
 
   let initialParts = [];
   if (merk) {

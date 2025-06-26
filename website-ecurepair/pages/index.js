@@ -93,6 +93,10 @@ export async function getStaticProps() {
 
   // Get searchbar data
   const { data: searchbar } = await Axios.get(`${API_URL}/api/searchbar`);
+  searchbar.sort((a, b) => a.naam.localeCompare(b.naam));
+  searchbar.forEach((item) => {
+    item.onderdeels.sort((a, b) => a.naam.localeCompare(b.naam));
+  });
 
   // Get all nieuwsberichten
   const { data: newsData } = await Axios.get(

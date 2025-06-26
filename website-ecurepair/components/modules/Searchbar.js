@@ -35,7 +35,6 @@ export default function Searchbar(props) {
 
     if (selectPartRef.current && props.part && props.part != "DEFAULT") {
       changePart();
-      console.log(props.part);
       selectPartRef.current.value = props.part;
     }
   }, [props.text, props.merk, props.part]);
