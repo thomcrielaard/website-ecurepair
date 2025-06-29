@@ -16,11 +16,13 @@ import Button from "@/components/modules/Button";
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 
-export const metadata = {
-  title: "ECU Repair – Onderdelen",
-  description:
-    "Zoek en vind snel de juiste auto-onderdelen bij ECU Repair. Filter op merk, onderdeelnummer of type en ontdek ons uitgebreide assortiment.",
-};
+export async function generateMetadata({ params }) {
+  const pageNumber = params.page;
+  return {
+    title: `ECU Repair – Onderdelen | Pagina ${pageNumber}`,
+    description: `Zoek en vind snel de juiste auto-onderdelen bij ECU Repair. U bekijkt pagina ${pageNumber} van het overzicht.`,
+  };
+}
 
 // Cache the searchbar data globally to ensure it only fetches once
 let cachedSearchbarData = null;
