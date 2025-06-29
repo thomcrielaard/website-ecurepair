@@ -22,14 +22,16 @@ export default function ItemCards(props) {
   const itemsPerPage = props.similar ? 4 : props.items.length;
 
   const [currentItems, setCurrentItems] = React.useState([]);
-  const [pageCount, setPageCount] = React.useState(0);
+  const [pageCount, setPageCount] = React.useState(props.pageCount ?? 0);
   const [itemOffset, setItemOffset] = React.useState(0);
 
   React.useEffect(() => {
     const endOffset = itemOffset + itemsPerPage;
     setCurrentItems(props.items.slice(itemOffset, endOffset));
-    setPageCount(Math.ceil(props.items.length / itemsPerPage));
-  }, [itemOffset, props.items, itemsPerPage]);
+    setPageCount(
+      props.pageCount ?? Math.ceil(props.items.length / itemsPerPage)
+    );
+  }, [itemOffset, props.items, itemsPerPage, props.pageCount]);
 
   const handlePageClick = (event) => {
     const newOffset = (event.selected * itemsPerPage) % props.items.length;
@@ -216,6 +218,45 @@ export default function ItemCards(props) {
             </div>
           ))}
       </div>
+
+      <ReactPaginate
+        breakLabel="..."
+        nextLabel={
+          <div className={styles.PaginateLabel}>
+            <Chevron
+              width={12}
+              color={Colors.BLACK}
+              style={{
+                rotate: "-90deg",
+              }}
+            />
+          </div>
+        }
+        onPageChange={(event) => {
+          const page = event.selected + 1;
+          // Only navigate on click, not on initial render
+          if (typeof window !== "undefined") {
+            window.location.href = `/onderdelen/pagina/${page}`;
+          }
+        }}
+        pageRangeDisplayed={2}
+        marginPagesDisplayed={size.width < Breakpoints.xs ? 0 : 1}
+        pageCount={pageCount}
+        forcePage={(props.page ?? 1) - 1}
+        previousLabel={
+          <div className={styles.PaginateLabel}>
+            <Chevron
+              width={12}
+              color={Colors.BLACK}
+              style={{
+                rotate: "90deg",
+              }}
+            />
+          </div>
+        }
+        renderOnZeroPageCount={null}
+        containerClassName={"pagination"}
+      />
     </>
   );
 }
