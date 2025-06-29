@@ -57,6 +57,13 @@
     border-radius: 2px;
   }
 
+  select:not(:disabled) {
+    color: colors(WHITE);
+  }
+  select:disabled {
+    color: colors(GRAY);
+  }
+
   select option {
     &:not(:disabled) {
       color: colors(GRAY);
