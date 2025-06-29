@@ -59,7 +59,7 @@ export default function BigBanner(props) {
         />
 
         <Container innerClassName={styles.BigBannerContainer}>
-          <Logo responsive />
+          <Logo responsive h1 />
 
           <Text
             text="Welkom bij ECU Repair, dé specialist in geavanceerde autoreparaties. Of het nu gaat om ECU's, tellerklokken, mechatronics of Mercedes contactslotreparaties, ons deskundige team staat klaar om u te helpen met oplossingen en service op maat. Ontdek wat wij voor u kunnen betekenen."

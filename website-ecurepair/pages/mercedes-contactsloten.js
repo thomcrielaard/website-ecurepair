@@ -47,6 +47,7 @@ export default function MercedesContactsloten() {
                 containerClassName={styles.OverOnsTitleBarResponsive}
                 size="lg"
                 underline
+                h1
               />
               <Text text="Mercedes-Benz staat bekend om zijn precisie en verfijnde technologie, en het contactslot van deze voertuigen is geen uitzondering. Een goed functionerend contactslot is essentieel voor de algehele werking van uw auto. Als uw Mercedes-sleutel hapert, niet draait, of andere problemen vertoont, kan dit een teken zijn van een defect contactslot." />
               <Text text="Het team van ECU Repair is gespecialiseerd in de fijne kneepjes van Mercedes technologie. We hebben diepgaande kennis van de systemen en de complexiteit van hun contactsloten. Het herstellen van dit component vereist een grondig inzicht om ervoor te zorgen dat uw Mercedes-Benz weer naadloos functioneert." />

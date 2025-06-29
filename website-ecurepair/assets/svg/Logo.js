@@ -38,14 +38,25 @@ const Logo = (props) => (
         d="M119.8,32.2c-3.6,7.9-13.8,10.7-23.3,8.7C98,34.5,110.2,29.8,119.8,32.2z"
       />
     </svg>
-    <span
-      className={styles.LogoCaption}
-      style={{
-        color: props.color,
-      }}
-    >
-      ECU REPAIR
-    </span>
+    {props.h1 ? (
+      <h1
+        className={styles.LogoCaption}
+        style={{
+          color: props.color,
+        }}
+      >
+        ECU REPAIR
+      </h1>
+    ) : (
+      <span
+        className={styles.LogoCaption}
+        style={{
+          color: props.color,
+        }}
+      >
+        ECU REPAIR
+      </span>
+    )}
     <span
       className={styles.LogoSubcaption}
       style={{

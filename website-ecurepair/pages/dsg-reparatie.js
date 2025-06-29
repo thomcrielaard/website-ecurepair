@@ -47,6 +47,7 @@ export default function DsgReparatie() {
                 containerClassName={styles.OverOnsTitleBarResponsive}
                 size="lg"
                 underline
+                h1
               />
               <Text text="ECU Repair is de expert in DSG revisie. Dagelijks behandelen wij zowel DSG-6 als DSG-7 modellen met een combinatie van vakmanschap en passie. Het revisieproces is grondig: na een uitgebreide diagnose wordt de DSG volledig ontmanteld, elk onderdeel geïnspecteerd en versleten componenten vervangen. Wanneer we de DSG opnieuw hebben opgebouwd, controleren we de werking zorgvuldig. Na onze revisie presteert uw DSG alsof het splinternieuw is, klaar voor honderdduizenden extra kilometers." />
               <Text text="Naast revisie biedt ECU Repair ook gespecialiseerde DSG reparatiediensten. Als uw DSG versnellingsbak problemen ondervindt, kunnen we met onze 15+ jaar ervaring in het veld, effectief de kern van het probleem identificeren. Door onze diepgaande kennis van DSG systemen, zowel DSG-6 als DSG-7, zijn we in staat om snel en effectief diagnose te stellen en probleemgebieden uit te sluiten. Dit betekent een snellere reparatie en kostenbesparingen voor u. Bovendien, als reparatie of revisie niet haalbaar is, adviseren we ook over vervangingsopties voor uw DSG." />

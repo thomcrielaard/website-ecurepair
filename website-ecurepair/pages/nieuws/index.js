@@ -31,7 +31,7 @@ export default function Nieuwsberichten({ items }) {
       <Navbar />
 
       <Container>
-        <Title text="NIEUWS & UPDATES" size="lg" align="center" underline />
+        <Title text="NIEUWS & UPDATES" size="lg" align="center" underline h1 />
         <Text
           align="center"
           text="Duik dieper in de fascinerende wereld van auto-elektronica. Van handige tips tot het laatste nieuws, lees hier onze nieuwste artikelen en blijf geïnformeerd."

@@ -20,6 +20,7 @@ export default function ContactInfo(props) {
         align={"center"}
         className={styles.ContactInfoTitleResponsive}
         containerClassName={styles.ContactInfoTitleBar}
+        h1
       />
       <div className={styles.ContactInfoWrapper}>
         <div style={{ maxWidth: 200 }}>

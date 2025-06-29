@@ -48,6 +48,7 @@ export default function OverOns() {
                 containerClassName={styles.OverOnsTitleBarResponsive}
                 size="lg"
                 underline
+                h1
               />
               <Text text="ECU Repair is ontstaan uit een passie voor autotechnologie en een drive om elk voertuig zo efficiënt mogelijk te laten functioneren. Al sinds onze oprichting hebben we ons gewijd aan het onderzoeken, diagnosticeren en repareren van geavanceerde auto-elektronica systemen. We hebben een team van toegewijde professionals die continu hun kennis bijspijkeren om aan de eisen van de zich snel ontwikkelende auto-industrie te voldoen." />
               <Text text="Ons hoofddoel is om eigenaars van voertuigen de zekerheid te bieden dat hun auto in de best mogelijke handen is. We begrijpen de complexiteit van moderne auto-elektronica en het belang van deze systemen voor de algehele prestaties van het voertuig. Daarom werken we er onophoudelijk aan om ervoor te zorgen dat elk systeem, van de ECU tot de tellerklok, nauwkeurig en effectief functioneert." />

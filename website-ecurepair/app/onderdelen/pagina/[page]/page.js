@@ -75,7 +75,7 @@ export default async function OnderdelenPage({ params }) {
       <Navbar />
 
       <Container id="search">
-        <Title text="VIND JOUW MODEL" size="lg" align="center" />
+        <Title text="VIND JOUW MODEL" size="lg" align="center" h1 />
         <Text
           text="Zoek en vind de essentiële auto-onderdelen die u nodig hebt. Onze uitgebreide catalogus biedt betrouwbare oplossingen voor uw specifieke behoeften. Betrouwbaarheid gegarandeerd."
           align="center"

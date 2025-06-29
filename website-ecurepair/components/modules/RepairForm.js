@@ -63,6 +63,7 @@ export default function RepairForm(props) {
           size="lg"
           underline={true}
           align="center"
+          h1
         />
       </div>
       <form onSubmit={handleSubmit} style={{ marginTop: 30 }}>

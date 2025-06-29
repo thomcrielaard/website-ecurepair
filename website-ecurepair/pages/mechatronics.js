@@ -47,6 +47,7 @@ export default function Mechatronics() {
                 containerClassName={styles.OverOnsTitleBarResponsive}
                 size="lg"
                 underline
+                h1
               />
               <Text text="In het hart van moderne automatische versnellingsbakken ligt de Mechatronic, een essentieel en complex systeem. Wanneer specifieke versnellingen weigeren, een 'sleutel'-symbool op uw display verschijnt, of als u bepaalde foutcodes zoals P17BF of P189C uitleest, kan dit een indicatie zijn dat uw Mechatronic problemen ondervindt." />
               <Text text="Als het regelbrein van de versnellingsbak is de Mechatronic verantwoordelijk voor het juiste schakelproces. Het systeem omvat diverse solenoids, actuatoren en sensoren, die allemaal nauw samenwerken om ervoor te zorgen dat uw auto op het juiste moment naar de juiste versnelling schakelt. Alles draait hier om precisie en timing, ondersteund door geavanceerde technologie." />

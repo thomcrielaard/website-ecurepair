@@ -47,6 +47,7 @@ export default function EcuReparatie() {
                 containerClassName={styles.OverOnsTitleBarResponsive}
                 size="lg"
                 underline
+                h1
               />
               <Text text="De Electronic Control Unit, beter bekend als de ECU, is het brein van de auto. Het reguleert en beheert talloze functies binnen uw voertuig, van brandstofinjectie tot uitlaatemissies. Deze ingewikkelde module is verantwoordelijk voor de efficiënte werking van bijna elk systeem van uw voertuig, zorgend voor optimale prestaties en een soepele rijervaring." />
               <Text text="Echter, net als elk geavanceerd elektronisch systeem, is de ECU ook vatbaar voor storingen en defecten. Wanneer er problemen optreden met de ECU, kunnen deze zich uiten in tal van manieren, van verminderde brandstofefficiëntie tot verminderde motorprestaties. Het tijdig herkennen van deze symptomen kan het verschil betekenen tussen een kleine reparatie en een dure vervanging." />

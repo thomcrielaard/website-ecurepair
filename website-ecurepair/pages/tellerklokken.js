@@ -27,7 +27,7 @@ export default function MercedesContactsloten() {
   return (
     <>
       <Head>
-        <title>ECU Repair &#8211; Mercedes Contactsloten</title>
+        <title>ECU Repair &#8211; Tellerklokken</title>
         <meta
           name="description"
           content="ECU Repair: Specialist in reparatie van Mercedes tellerklokken, dashboard storingen & auto-elektronica. Problemen met uw kilometerteller? Wij lossen het op."
@@ -47,6 +47,7 @@ export default function MercedesContactsloten() {
                 containerClassName={styles.OverOnsTitleBarResponsive}
                 size="lg"
                 underline
+                h1
               />
               <Text text="Wanneer u achter het stuur van uw auto zit, vertrouwt u op uw dashboard om u essentiële informatie over uw voertuig te geven. Een van de meest cruciale onderdelen is de tellerklok. Is uw snelheidsweergave plots gestopt? Of merkt u dat de teller niet de juiste snelheid of toeren weergeeft? Dit zijn vaak tekenen van een defecte tellerklok. Deze ongemakken kunnen uw rijervaring aanzienlijk verstoren en mogelijk leiden tot verdere complicaties indien niet tijdig aangepakt." />
               <Text text="Een defect in de dagteller kan met name verraderlijk zijn. Het kan bijvoorbeeld gebeuren dat de snelheidsmeter naar behoren functioneert, maar de dagteller dit niet doet. Dit duidt vaak op een mechanisch probleem binnen de tellerklok. Dergelijke problemen kunnen variëren van simpele slijtage tot complexere elektronische kwesties. Gelukkig beschikt ECU Repair over de tools en expertise om deze problemen te identificeren en effectief te verhelpen." />
