@@ -111,7 +111,11 @@ export default function ItemCards(props) {
           ))}
         </div>
         <ReactPaginate
-          breakLabel="..."
+          breakLabel={
+            <span aria-label="Meer pagina's" tabIndex={0}>
+              ...
+            </span>
+          }
           nextLabel={
             <div className={styles.PaginateLabel}>
               <Chevron
@@ -138,6 +142,10 @@ export default function ItemCards(props) {
               />
             </div>
           }
+          ariaLabelBuilder={(page) => `Ga naar pagina ${page}`}
+          nextAriaLabel="Volgende pagina"
+          previousAriaLabel="Vorige pagina"
+          breakAriaLabels={"Meer pagina's"}
           renderOnZeroPageCount={null}
           containerClassName={"pagination"}
         />
@@ -220,7 +228,11 @@ export default function ItemCards(props) {
       </div>
 
       <ReactPaginate
-        breakLabel="..."
+        breakLabel={
+          <span aria-label="Meer pagina's" tabIndex={0}>
+            ...
+          </span>
+        }
         nextLabel={
           <div className={styles.PaginateLabel}>
             <Chevron
@@ -232,6 +244,8 @@ export default function ItemCards(props) {
             />
           </div>
         }
+        hrefBuilder={(page) => `/onderdelen/pagina/${page}`}
+        hrefAllControls
         onPageChange={(event) => {
           const page = event.selected + 1;
           // Only navigate on click, not on initial render
@@ -256,6 +270,11 @@ export default function ItemCards(props) {
         }
         renderOnZeroPageCount={null}
         containerClassName={"pagination"}
+        ariaLabelBuilder={(page) => `Ga naar pagina ${page}`}
+        nextAriaLabel="Volgende pagina"
+        previousAriaLabel="Vorige pagina"
+        breakAriaLabels={"Meer pagina's"}
+        activeClassName={styles.active}
       />
     </>
   );
