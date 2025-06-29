@@ -18,7 +18,7 @@ import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import Background from "@/assets/img/navbar-bg.jpg";
 import Chevron from "@/assets/svg/Chevron";
 
-const vacation = false;
+const vacation = true;
 
 export default function Navbar(props) {
   const pathname = usePathname();
@@ -62,7 +62,7 @@ export default function Navbar(props) {
 
       {vacation && (
         <div className={styles.NavbarVacation}>
-          Wij zijn gesloten in verband met vakantie van 19 juli tot 9 augustus.
+          Wij zijn gesloten in verband met vakantie van 28 juni tot 21 juli.
         </div>
       )}
       <Container
