@@ -18,7 +18,7 @@ import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import Background from "@/assets/img/navbar-bg.jpg";
 import Chevron from "@/assets/svg/Chevron";
 
-const vacation = true;
+const vacation = false;
 
 export default function Navbar(props) {
   const pathname = usePathname();
