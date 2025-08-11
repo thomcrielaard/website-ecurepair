@@ -24,8 +24,28 @@
 }
 
 .NewsItemWrapper {
-  p {
+  p,
+  ul,
+  ol {
     margin-top: 5px;
+    margin-bottom: 1em;
+  }
+
+  ul,
+  ol {
+    padding-left: 1.5em;
+  }
+
+  ul {
+    list-style-type: circle;
+  }
+
+  ol {
+    list-style-type: decimal;
+  }
+
+  a {
+    text-decoration: underline;
   }
 
   h1,
