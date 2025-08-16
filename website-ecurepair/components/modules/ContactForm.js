@@ -73,6 +73,12 @@ export default function ContactForm(props) {
           placeholder="Waar kunnen we u mee helpen?"
           required
         />
+        <div className={styles.ContactFormCheckboxWrapper}>
+          <input type="checkbox" name="business" required />
+          <label htmlFor="business">
+            Ik begrijp dat ECU Repair niet werkzaam is voor particulieren.
+          </label>
+        </div>
         <div className={styles.ContactFormButtonWrapper}>
           {!(loading || showSuccess) && (
             <Button
