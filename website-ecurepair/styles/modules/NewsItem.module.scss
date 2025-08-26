@@ -24,8 +24,28 @@
 }
 
 .NewsItemWrapper {
-  p {
+  p,
+  ul,
+  ol {
     margin-top: 5px;
+    margin-bottom: 1em;
+  }
+
+  ul,
+  ol {
+    padding-left: 1.5em;
+  }
+
+  ul {
+    list-style-type: circle;
+  }
+
+  ol {
+    list-style-type: decimal;
+  }
+
+  a {
+    text-decoration: underline;
   }
 
   h1,
@@ -43,84 +63,76 @@
   }
 
   h6 {
-    font-size: 1.25em;
-
-    @include lg {
-      font-size: 1.2em;
-    }
-
-    @include sm {
-      font-size: 1.1em;
-    }
+    font-size: 1em;
   }
 
   h5 {
-    font-size: 1.4em;
+    font-size: 1.1em;
 
     @include xl {
-      font-size: 1.3em;
+      font-size: 1.05em;
     }
 
     @include lg {
-      font-size: 1.2em;
+      font-size: 1.05em;
     }
 
     @include sm {
-      font-size: 1.1em;
+      font-size: 1em;
     }
   }
 
   h4 {
-    font-size: 1.5em;
+    font-size: 1.2em;
 
     @include sm {
-      font-size: 1.4em;
+      font-size: 1.1em;
     }
   }
 
   h3 {
-    font-size: 2em;
+    font-size: 1.4em;
 
     @include xl {
-      font-size: 1.75em;
+      font-size: 1.2em;
     }
 
     @include lg {
-      font-size: 1.6em;
+      font-size: 1.1em;
     }
 
     @include sm {
-      font-size: 1.5em;
+      font-size: 1em;
     }
   }
 
   h2 {
-    font-size: 2.5em;
+    font-size: 1.75em;
     margin-top: 20px;
 
     @include xl {
-      font-size: 2.25em;
+      font-size: 1.5em;
     }
 
     @include lg {
-      font-size: 2.1em;
+      font-size: 1.35em;
     }
 
     @include sm {
-      font-size: 1.75em;
+      font-size: 1.2em;
     }
   }
 
   h1 {
-    font-size: 3em;
+    font-size: 2.3em;
     margin-top: 30px;
 
     @include xl {
-      font-size: 2.75em;
+      font-size: 2em;
     }
 
     @include sm {
-      font-size: 2.5em;
+      font-size: 1.7em;
     }
   }
 }

@@ -84,6 +84,12 @@ export default function RepairForm(props) {
           placeholder="Omschrijving klacht / Overige opmerkingen"
           className={`input ${styles.ContactFormInput} ${styles.ContactFormTextarea}`}
         />
+        <div className={styles.RepairFormCheckboxWrapper}>
+          <input type="checkbox" id="terms" required />
+          <label htmlFor="terms">
+            Ik begrijp dat ECU Repair niet werkzaam is voor particulieren.
+          </label>
+        </div>
         <div className={styles.RepairForm}>
           <div className={styles.RepairFormSubtitleWrapper}>
             <Title color={Colors.WHITE} size="md" text="Klantgegevens" />
