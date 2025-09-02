@@ -68,7 +68,7 @@ export default function ItemCards(props) {
                         ? item.afbeelding.url
                         : item.onderdeel.afbeeldingen
                         ? item.onderdeel.afbeeldingen[0].url
-                        : "/uploads/no_image_available_3b34877500.png"
+                        : "/uploads/no_image_available_260ccf02f5.png"
                       : item.omslagfoto.url)
                   }
                   alt={item.onderdeelnummer ?? item.titel}
@@ -184,7 +184,7 @@ export default function ItemCards(props) {
                         ? item.afbeelding.url
                         : item.onderdeel.afbeeldingen
                         ? item.onderdeel.afbeeldingen[0].url
-                        : "/uploads/no_image_available_3b34877500.png"
+                        : "/uploads/no_image_available_260ccf02f5.png"
                       : item.omslagfoto.url)
                   }
                   alt={item.onderdeelnummer ?? item.titel}
