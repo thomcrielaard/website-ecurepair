@@ -9,6 +9,7 @@ import Button from "@/components/modules/Button";
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import Clear from "@/assets/svg/Clear";
 import constructSearchUrl from "@/services/ConstructSearchUrl";
+import Link from "next/link";
 
 export default function Searchbar(props) {
   const inputRef = React.useRef(null);
@@ -142,23 +143,13 @@ export default function Searchbar(props) {
               <div className={styles.SearchbarMobileSeparator} />
             </div>
 
-            <button
+            <Link
+              href="/onderdelen/pagina/1"
               className={`${styles.SearchbarClear} hover`}
-              onClick={() => {
-                setParts([]);
-
-                inputRef.current.value = "";
-                selectBrandRef.current.value = "DEFAULT";
-                selectPartRef.current.value = "DEFAULT";
-
-                setBarWidth(0);
-                handleInputChange();
-                updateModules();
-              }}
               aria-label="Selectie wissen"
             >
               <Clear width={12} color={Colors.GRAY} />
-            </button>
+            </Link>
           </div>
           <div className={styles.SearchbarIndicationbar}>
             <div
