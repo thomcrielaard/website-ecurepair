@@ -244,7 +244,9 @@ export default function ItemCards(props) {
             />
           </div>
         }
-        hrefBuilder={(page) => `/onderdelen/pagina/${page}`}
+        hrefBuilder={(page) =>
+          page === 0 || page > pageCount ? "#" : `/onderdelen/pagina/${page}`
+        }
         hrefAllControls
         onPageChange={(event) => {
           const page = event.selected + 1;
