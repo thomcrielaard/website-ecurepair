@@ -33,6 +33,7 @@ export default function ParallexBanner(props) {
               color={Colors.WHITE}
               size="xl"
               align="center"
+              className="uppercase"
             />
 
             <Text text={props.text} color={Colors.WHITE} align="center" slim />

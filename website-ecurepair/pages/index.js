@@ -100,7 +100,7 @@ export async function getStaticProps() {
 
   // Get all nieuwsberichten
   const { data: newsData } = await Axios.get(
-    `${API_URL}/api/nieuwsberichts?populate[omslagfoto][fields][0]=url&sort=id:desc`
+    `${API_URL}/api/nieuwsberichts?populate[omslagfoto][fields][0]=url&sort=id:desc&pagination[pageSize]=4`
   );
 
   const news = newsData.data;

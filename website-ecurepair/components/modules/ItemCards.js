@@ -111,58 +111,60 @@ export default function ItemCards(props) {
           ))}
       </div>
 
-      <ReactPaginate
-        breakLabel={
-          <span aria-label="Meer pagina's" tabIndex={0}>
-            ...
-          </span>
-        }
-        nextLabel={
-          <div className={styles.PaginateLabel}>
-            <Chevron
-              width={12}
-              color={Colors.BLACK}
-              style={{
-                rotate: "-90deg",
-              }}
-            />
-          </div>
-        }
-        hrefBuilder={(page) =>
-          page === 0 || page > pageCount ? "#" : `/onderdelen/pagina/${page}`
-        }
-        hrefAllControls
-        onPageChange={(event) => {
-          if (props.similar) return handlePageClick(event);
-          const page = event.selected + 1;
-          // Only navigate on click, not on initial render
-          if (typeof window !== "undefined") {
-            window.location.href = `/onderdelen/pagina/${page}`;
+      {!props.short && (
+        <ReactPaginate
+          breakLabel={
+            <span aria-label="Meer pagina's" tabIndex={0}>
+              ...
+            </span>
           }
-        }}
-        pageRangeDisplayed={2}
-        marginPagesDisplayed={size.width < Breakpoints.xs ? 0 : 1}
-        pageCount={pageCount}
-        forcePage={(props.page ?? 1) - 1}
-        previousLabel={
-          <div className={styles.PaginateLabel}>
-            <Chevron
-              width={12}
-              color={Colors.BLACK}
-              style={{
-                rotate: "90deg",
-              }}
-            />
-          </div>
-        }
-        renderOnZeroPageCount={null}
-        containerClassName={"pagination"}
-        ariaLabelBuilder={(page) => `Ga naar pagina ${page}`}
-        nextAriaLabel="Volgende pagina"
-        previousAriaLabel="Vorige pagina"
-        breakAriaLabels={"Meer pagina's"}
-        activeClassName={styles.active}
-      />
+          nextLabel={
+            <div className={styles.PaginateLabel}>
+              <Chevron
+                width={12}
+                color={Colors.BLACK}
+                style={{
+                  rotate: "-90deg",
+                }}
+              />
+            </div>
+          }
+          hrefBuilder={(page) =>
+            page === 0 || page > pageCount ? "#" : `/onderdelen/pagina/${page}`
+          }
+          hrefAllControls
+          onPageChange={(event) => {
+            if (props.similar) return handlePageClick(event);
+            const page = event.selected + 1;
+            // Only navigate on click, not on initial render
+            if (typeof window !== "undefined") {
+              window.location.href = `/onderdelen/pagina/${page}`;
+            }
+          }}
+          pageRangeDisplayed={2}
+          marginPagesDisplayed={size.width < Breakpoints.xs ? 0 : 1}
+          pageCount={pageCount}
+          forcePage={(props.page ?? 1) - 1}
+          previousLabel={
+            <div className={styles.PaginateLabel}>
+              <Chevron
+                width={12}
+                color={Colors.BLACK}
+                style={{
+                  rotate: "90deg",
+                }}
+              />
+            </div>
+          }
+          renderOnZeroPageCount={null}
+          containerClassName={"pagination"}
+          ariaLabelBuilder={(page) => `Ga naar pagina ${page}`}
+          nextAriaLabel="Volgende pagina"
+          previousAriaLabel="Vorige pagina"
+          breakAriaLabels={"Meer pagina's"}
+          activeClassName={styles.active}
+        />
+      )}
     </>
   );
 }
