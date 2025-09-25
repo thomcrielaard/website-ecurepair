@@ -66,7 +66,7 @@ export default function EcuReparatie({ news }) {
               <Title size="md" text="Diagnose met de juiste apparatuur" />
               <Text text="Bij ECU Repair werken we met specialistische uitleesmiddel en bijbehorende software. Dit is geen doorsnee uitleesmiddel, maar een systeem dat de werking van een ECU volledig kan simuleren alsof hij in de auto zit. Daardoor kunnen we storingen reproduceren, foutcodes uitlezen en ook écht begrijpen waar de storing vandaan komt." />
               <br />
-              <Text text="En het mooiste? Dankzij de ondersteuning van <strong>CAN</strong>, <strong>LIN</strong> en <strong>J1850</strong> netwerkbussen en regelmatige updates blijft de apparatuur altijd actueel. Of het nu gaat om een oudere Opel of de nieuwste Volkswagen met DSG, de diagnose verloopt soepel en betrouwbaar." />
+              <Text text="En het mooiste? Dankzij de ondersteuning van <strong>CAN</strong>, <strong>LIN</strong> en <strong>J1850</strong> netwerkbussen en regelmatige updates blijft de apparatuur altijd actueel. Of het nu gaat om een oudere Opel met een <a href='/mechatronics'>Mechatronic</a> of de nieuwste Volkswagen met <a href='/dsg-reparatie'>DSG</a>, de diagnose verloopt soepel en betrouwbaar." />
             </>
           }
           right={
