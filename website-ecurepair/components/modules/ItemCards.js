@@ -19,9 +19,9 @@ import Chevron from "@/assets/svg/Chevron";
 
 export default function ItemCards(props) {
   const size = UseDimensions();
-  const itemsPerPage = props.similar ? 4 : props.items.length;
+  const itemsPerPage = props.itemsPerPage ?? props.items.length;
 
-  const [currentItems, setCurrentItems] = React.useState([]);
+  const [currentItems, setCurrentItems] = React.useState(props.items);
   const [pageCount, setPageCount] = React.useState(props.pageCount ?? 0);
   const [itemOffset, setItemOffset] = React.useState(0);
 
@@ -38,122 +38,6 @@ export default function ItemCards(props) {
     setItemOffset(newOffset);
   };
 
-  if (props.similar) {
-    // Custom rendering for similar products with pagination
-    return (
-      <>
-        {props.items.length === 0 && (
-          <Text
-            text="Geen vergelijkbare producten gevonden."
-            align="left"
-            style={{ marginTop: 20 }}
-            slim
-          />
-        )}
-        <div className={styles.ItemCardsContainer}>
-          {currentItems.map((item, key) => (
-            <div key={key} className={styles.ItemCard}>
-              <div
-                className={`${styles.ItemCardImageWrapper} 
-                ${props.square && styles.square}`}
-              >
-                <Image
-                  sizes={`(min-width: ${Breakpoints.lg}) 25vw, (min-width: ${Breakpoints.xs}) 50vw, 100vw`}
-                  placeholder="blur"
-                  blurDataURL={BlurDataUrl}
-                  src={
-                    API_URL +
-                    (item.onderdeelnummer != undefined
-                      ? item.afbeelding
-                        ? item.afbeelding.url
-                        : item.onderdeel.afbeeldingen
-                        ? item.onderdeel.afbeeldingen[0].url
-                        : "/uploads/no_image_available_260ccf02f5.png"
-                      : item.omslagfoto.url)
-                  }
-                  alt={item.onderdeelnummer ?? item.titel}
-                  fill
-                  style={{ objectFit: "cover" }}
-                />
-              </div>
-              <div className={styles.ItemCardTextWrapper}>
-                <div>
-                  <Title
-                    text={item.onderdeelnummer ?? item.titel}
-                    size="xs"
-                    style={{ wordWrap: "break-word" }}
-                  />
-                  <Text
-                    text={item.samenvatting}
-                    className={styles.ItemCardText}
-                    align="left"
-                  />
-                </div>
-                <div className={styles.ItemCardBottomWrapper}>
-                  <Button
-                    text="MEER LEZEN"
-                    href={
-                      item.onderdeelnummer != undefined
-                        ? `/onderdelen/${item.onderdeelnummer
-                            .replace(/\//g, "%2F")
-                            .replace(/ /g, "%20")}`
-                        : `/nieuws/${item.titel.replace(" ", "%20")}`
-                    }
-                    color={Colors.GRAY}
-                    hoverColor={Colors.RED}
-                    borderColor={Colors.LIGHTGRAY}
-                    hoverBorderColor={Colors.RED}
-                    small
-                  />
-                </div>
-              </div>
-            </div>
-          ))}
-        </div>
-        <ReactPaginate
-          breakLabel={
-            <span aria-label="Meer pagina's" tabIndex={0}>
-              ...
-            </span>
-          }
-          nextLabel={
-            <div className={styles.PaginateLabel}>
-              <Chevron
-                width={12}
-                color={Colors.BLACK}
-                style={{
-                  rotate: "-90deg",
-                }}
-              />
-            </div>
-          }
-          onPageChange={handlePageClick}
-          pageRangeDisplayed={2}
-          marginPagesDisplayed={size.width < Breakpoints.xs ? 0 : 1}
-          pageCount={pageCount}
-          previousLabel={
-            <div className={styles.PaginateLabel}>
-              <Chevron
-                width={12}
-                color={Colors.BLACK}
-                style={{
-                  rotate: "90deg",
-                }}
-              />
-            </div>
-          }
-          ariaLabelBuilder={(page) => `Ga naar pagina ${page}`}
-          nextAriaLabel="Volgende pagina"
-          previousAriaLabel="Vorige pagina"
-          breakAriaLabels={"Meer pagina's"}
-          renderOnZeroPageCount={null}
-          containerClassName={"pagination"}
-        />
-      </>
-    );
-  }
-
-  // Default behavior
   return (
     <>
       {props.items.length === 0 && (
@@ -165,7 +49,7 @@ export default function ItemCards(props) {
         />
       )}
       <div className={styles.ItemCardsContainer}>
-        {props.items
+        {currentItems
           .slice(0, props.short ? 4 : props.items.length)
           .map((item, key) => (
             <div key={key} className={styles.ItemCard}>
@@ -210,10 +94,10 @@ export default function ItemCards(props) {
                     text="MEER LEZEN"
                     href={
                       item.onderdeelnummer != undefined
-                        ? `/onderdelen/${item.onderdeelnummer
-                            .replace(/\//g, "%2F")
-                            .replace(/ /g, "%20")}`
-                        : `/nieuws/${item.titel.replace(" ", "%20")}`
+                        ? `/onderdelen/${encodeURIComponent(
+                            item.onderdeelnummer
+                          )}`
+                        : `/nieuws/${encodeURIComponent(item.titel)}`
                     }
                     color={Colors.GRAY}
                     hoverColor={Colors.RED}
@@ -249,6 +133,7 @@ export default function ItemCards(props) {
         }
         hrefAllControls
         onPageChange={(event) => {
+          if (props.similar) return handlePageClick(event);
           const page = event.selected + 1;
           // Only navigate on click, not on initial render
           if (typeof window !== "undefined") {

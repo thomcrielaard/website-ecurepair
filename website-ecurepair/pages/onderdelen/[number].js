@@ -20,6 +20,12 @@ function Error({ product, similarProducts }) {
       <Head>
         <title>{`${product.onderdeelnummer} \u2013 Reparatie en Revisie`}</title>
         <meta name="description" content={product.omschrijving} />
+        <link
+          rel="canonical"
+          href={`https://ecurepair.nl/onderdelen/${encodeURIComponent(
+            product.onderdeelnummer
+          )}`}
+        />
       </Head>
 
       <Navbar />
@@ -31,7 +37,7 @@ function Error({ product, similarProducts }) {
 
       <Container>
         <Title text="VERGELIJKBARE PRODUCTEN" size="md" align="left" />
-        <ItemCards items={similarProducts} square similar />
+        <ItemCards items={similarProducts} itemsPerPage={4} square similar />
       </Container>
 
       <Footer />
