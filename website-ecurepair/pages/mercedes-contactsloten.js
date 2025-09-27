@@ -22,6 +22,10 @@ import Text from "@/components/text/Text";
 import Mercedes from "@/assets/img/mercedes.png";
 import MercedesBanner from "@/assets/img/mercedes-banner.jpg";
 import ParallexBanner from "@/components/modules/ParallexBanner";
+import Reparatie from "@/assets/img/mercedes-contactslot-reparatie.png";
+import MercedesSprinter from "@/assets/img/mercedes-sprinter.png";
+import ECURepair from "@/assets/img/ecurepair.png";
+import Link from "next/link";
 
 export default function MercedesContactsloten() {
   return (
@@ -42,16 +46,61 @@ export default function MercedesContactsloten() {
           left={
             <>
               <Title
-                text="MERCEDES-BENZ"
+                text="Mercedes contactslot reparatie – specialist in autosleutels en elektronica"
                 className={styles.OverOnsTitleResponsive}
                 containerClassName={styles.OverOnsTitleBarResponsive}
                 size="lg"
                 underline
                 h1
               />
-              <Text text="Mercedes-Benz staat bekend om zijn precisie en verfijnde technologie, en het contactslot van deze voertuigen is geen uitzondering. Een goed functionerend contactslot is essentieel voor de algehele werking van uw auto. Als uw Mercedes-sleutel hapert, niet draait, of andere problemen vertoont, kan dit een teken zijn van een defect contactslot." />
-              <Text text="Het team van ECU Repair is gespecialiseerd in de fijne kneepjes van Mercedes technologie. We hebben diepgaande kennis van de systemen en de complexiteit van hun contactsloten. Het herstellen van dit component vereist een grondig inzicht om ervoor te zorgen dat uw Mercedes-Benz weer naadloos functioneert." />
-              <Text text="Het contactslot is meer dan alleen een slot; het is een integraal onderdeel van het elektronische ecosysteem van uw voertuig. Wanneer u problemen ondervindt, is snelle en effectieve service essentieel." />
+              <Text>
+                Een Mercedes staat bekend om betrouwbaarheid en klasse. Maar
+                zodra het <strong>contactslot</strong> begint te haperen, kan
+                die luxe ineens omslaan in pure frustratie. De sleutel draait
+                niet, de motor start niet, of erger nog: het stuurslot blokkeert
+                volledig. Gelukkig hoeft dat niet het einde van de rit te
+                betekenen. Bij ECU Repair zijn we gespecialiseerd in{" "}
+                <strong>Mercedes contactslot reparatie</strong> – van diagnose
+                tot vervanging en alles daartussen.
+              </Text>
+              <br />
+              <Title text="Hoe herken je een defect contactslot?" size="md" />
+              <Text>
+                De klachten lopen uiteen. Soms merk je het meteen: de{" "}
+                <strong>Mercedes sleutel</strong> gaat niet soepel in het slot,
+                of draait maar half. Andere keren lijkt alles normaal, totdat de
+                auto weigert te starten. Veelvoorkomende symptomen zijn:
+              </Text>
+              <ul className="text-lg list-disc list-inside mb-4">
+                <li>
+                  <strong>Startproblemen</strong> - Auto start niet zonder
+                  duidelijke reden
+                </li>
+                <li>
+                  <strong>Vastlopende sleutel</strong> - Een sleutel die
+                  vastloopt of niet wil draaien
+                </li>
+                <li>
+                  <strong>Stuurslot</strong> - Problemen met het stuurslot (
+                  <em>Electronic Steering Lock</em>)
+                </li>
+                <li>
+                  <strong>Dashboardproblemen</strong> - Het dashboard geeft geen
+                  contact meer
+                </li>
+                <li>
+                  <strong>Centrale vergrendeling</strong> - Centrale
+                  vergrendeling die niet reageert
+                </li>
+              </ul>
+              <Text>
+                Bij modellen als de <strong>Mercedes Sprinter</strong>,{" "}
+                <strong>Mercedes Vito</strong> en ook bij oudere types zoals de{" "}
+                <strong>Mercedes W203</strong>, zien we deze storingen
+                regelmatig terugkomen. Vaak ligt de oorzaak dieper in het
+                elektronische contactslot (<em>EIS/ESL</em>), en niet bij de
+                sleutel zelf.
+              </Text>
             </>
           }
           right={
@@ -64,7 +113,7 @@ export default function MercedesContactsloten() {
             >
               <Image
                 src={Mercedes}
-                alt="Mercedes contactslot"
+                alt="Mercedes sleutels"
                 style={{ objectFit: "cover" }}
                 fill
                 sizes={`(min-width: ${Breakpoints.sm}) 45vw, 100vw`}
@@ -74,32 +123,222 @@ export default function MercedesContactsloten() {
             </div>
           }
         />
+        <SideContainer
+          left={
+            <div
+              style={{
+                position: "relative",
+                width: "100%",
+                aspectRatio: "1/1",
+              }}
+            >
+              <Image
+                src={Reparatie}
+                alt="Mercedes sleutels"
+                style={{ objectFit: "cover" }}
+                fill
+                sizes={`(min-width: ${Breakpoints.sm}) 45vw, 100vw`}
+                placeholder="blur"
+                priority
+              />
+            </div>
+          }
+          right={
+            <>
+              <br />
+              <Title
+                text="Waarom reparatie in plaats van vervanging?"
+                size="md"
+              />
+
+              <Text>
+                Een compleet nieuw contactslot bij de dealer betekent meestal:
+                wachten, hoge kosten en opnieuw inleren van sleutels. Reparatie
+                of revisie is vaak het slimme alternatief. Het draait om drie
+                punten:
+              </Text>
+
+              <ul className="text-lg list-decimal list-inside mb-4">
+                <li>
+                  <strong>Snelheid</strong>: we kunnen vaak dezelfde dag nog een
+                  oplossing bieden.
+                </li>
+                <li>
+                  <strong>Kostenbesparing</strong>: een reparatie is een fractie
+                  van de prijs van vervanging.
+                </li>
+                <li>
+                  <strong>Originaliteit behouden</strong>: jouw originele
+                  sleutel en instellingen blijven intact.
+                </li>
+              </ul>
+
+              <Text>
+                En het mooiste? Met onze speciale apparatuur kunnen we het
+                bestaande contactslot uitlezen, de inhoud van de chips
+                veiligstellen en – indien nodig – naar een ander slot klonen. Zo
+                werkt alles weer alsof het nooit defect is geweest.
+              </Text>
+
+              <br />
+
+              <Title text="Onze werkwijze stap voor stap" size="md" />
+
+              <ol className="text-lg list-decimal list-inside mb-4">
+                <li>
+                  Binnenkomst en registratie van het contactslot en de
+                  autosleutel.
+                </li>
+                <li>
+                  Uitgebreide diagnose met gespecialiseerde testapparatuur.
+                </li>
+                <li>
+                  Herstel van defecte componenten of, indien nodig, stuurslot
+                  reparatie.
+                </li>
+                <li>
+                  Grondige eindtest – zodat we zeker weten dat alles
+                  probleemloos functioneert.
+                </li>
+                <li>
+                  Retour naar de garage of klant, klaar voor montage en gebruik.
+                </li>
+              </ol>
+
+              <Text>
+                Deze aanpak is gebaseerd op jarenlange ervaring met Mercedes
+                elektronica. We werken dagelijks met allerlei modellen en hebben
+                daardoor de kennis in huis om snel tot de kern van het probleem
+                te komen.
+              </Text>
+            </>
+          }
+        />
       </Container>
 
       <ParallexBanner
         image={MercedesBanner}
-        title={"CONTACTSLOT DEFECT?"}
+        title={"Klaar om je Mercedes contactslot te laten repareren?"}
         text={
-          "Is het contactslot van uw Mercedes-Benz aan het haperen of werkt het helemaal niet meer? Dergelijke problemen kunnen uw dagelijkse routine verstoren en voor stress zorgen. Maar maakt u zich geen zorgen, ons team van experts bij ECU Repair is er speciaal voor opgeleid om u hierbij te helpen."
+          "Of het nu gaat om een <strong>vastgelopen sleutel</strong>, een <strong>defect stuurslot</strong> of een <strong>elektronisch probleem</strong> in het contactslot: bij ECU Repair vinden we de oplossing. Neem vandaag nog contact met ons op en ontdek hoe snel jouw Mercedes weer probleemloos start."
         }
         buttonText={"CONTACT OPNEMEN"}
         buttonLink={"/contact"}
       />
+
       <Container>
-        <Title text="SYMPTOMEN" align="center" size="lg" underline />
         <SideContainer
-          style={{ marginTop: 20 }}
-          alignTop
+          reverse
           left={
             <>
-              <Text text="Als u moeite heeft met het starten van uw Mercedes-Benz, kan dit te wijten zijn aan een intern probleem binnen het contactslot of een elektronische storing. Het is cruciaal om dit snel te identificeren, omdat het negeren van dergelijke problemen verdere schade aan uw voertuig kan veroorzaken, wat leidt tot hogere reparatiekosten op de lange termijn." />
-              <Text text="Problemen met het inbrengen of draaien van de sleutel in het contactslot zijn eveneens veelvoorkomende symptomen van een defect contactslot. Dit kan veroorzaakt worden door slijtage van het slot zelf, maar ook door problemen met de Electronic Steering Lock (ESL). Het niet tijdig aanpakken hiervan kan resulteren in een sleutel die vastzit of zelfs afbreekt in het slot." />
+              <Title
+                text="Mercedes Sprinter, Mercedes Vito en meer – ieder model zijn eigen uitdaging"
+                size="md"
+              />
+              <Text>
+                De <strong>Mercedes Sprinter</strong> staat bekend als
+                werkpaard, vaak dagelijks ingezet voor transport en logistiek.
+                Juist dan kan een stilgevallen voertuig door een{" "}
+                <em>defect contactslot</em> enorme kosten en vertraging
+                veroorzaken. Ook de <strong>Mercedes Vito</strong>, populair bij
+                ondernemers, kampt regelmatig met vergelijkbare problemen. Of
+                het nu gaat om een zakelijke bestelbus of een comfortabele
+                sedan: wij begrijpen hoe belangrijk het is dat de auto snel weer
+                startklaar is.
+              </Text>
+              <br />
+              <Title text="Stuurslot en sleutelproblemen" size="md" />
+              <Text>
+                Niet altijd ligt de oorzaak in het <strong>contactslot</strong>{" "}
+                zelf. Soms is het het <strong>stuurslot</strong> dat blokkeert,
+                of een <em>elektronische storing</em> in de
+                <strong>sleutelchip</strong>. Onze specialisten onderzoeken het
+                volledige systeem – van autosleutel tot stuurmodule – zodat
+                niets over het hoofd wordt gezien. Stuurslot reparatie is vaak
+                prima mogelijk zonder complete vervanging.
+              </Text>
             </>
           }
           right={
+            <div
+              style={{
+                position: "relative",
+                width: "100%",
+                aspectRatio: "4/3",
+              }}
+            >
+              <Image
+                src={MercedesSprinter}
+                alt="Mercedes Sprinter"
+                style={{ objectFit: "cover" }}
+                fill
+                sizes={`(min-width: ${Breakpoints.sm}) 45vw, 100vw`}
+                placeholder="blur"
+                priority
+              />
+            </div>
+          }
+        />
+        <SideContainer
+          left={
+            <div
+              style={{
+                position: "relative",
+                width: "100%",
+                aspectRatio: "4/3",
+              }}
+            >
+              <Image
+                src={ECURepair}
+                alt="ECU Repair"
+                style={{ objectFit: "cover" }}
+                fill
+                sizes={`(min-width: ${Breakpoints.sm}) 45vw, 100vw`}
+                placeholder="blur"
+                priority
+              />
+            </div>
+          }
+          right={
             <>
-              <Text text="Het contactslot van uw Mercedes-Benz is nauw verbonden met het centrale vergrendelingssysteem. Als u merkt dat de vergrendeling niet goed functioneert, of helemaal niet meer reageert, kan dit een teken zijn dat het contactslot defect is. Deze storing kan het risico op diefstal verhogen en kan de veiligheid van het voertuig in gevaar brengen." />
-              <Text text="Moderne Mercedes-Benz voertuigen integreren elektronische chips in hun sleutels en contactsloten. Deze chips communiceren met elkaar om het voertuig te starten. Eventuele datacorruptie in deze chips, vaak door slijtage of waterschade, kan ertoe leiden dat uw auto niet meer start. Het is essentieel om regelmatige controles uit te voeren om zulke problemen tijdig op te sporen." />
+              <Title text="Service en afspraak maken" size="md" />
+              <Text>
+                We weten hoe frustrerend het is als een Mercedes ineens niet
+                meer start. Daarom bieden we een flexibele service voor garages
+                en ondernemers:
+              </Text>
+              <ul className="text-lg list-disc list-inside mb-4">
+                <li>Snelle doorlooptijden</li>
+                <li>Eerlijke uitleg van de kosten vóór we aan de slag gaan</li>
+                <li>Ondersteuning per telefoon of mail bij twijfelgevallen</li>
+                <li>
+                  Mogelijkheid om het slot op te sturen of langs te brengen op
+                  ons adres
+                </li>
+              </ul>
+              <Text>
+                Een afspraak maken is eenvoudig. Bel ons, mail ons of vul het{" "}
+                <Link href="/reparatieformulier" className="!underline">
+                  reparatieformulier
+                </Link>{" "}
+                in, dan zorgen we dat jouw klant snel weer op weg is.
+              </Text>
+              <br />
+              <Title text="Waarom kiezen voor ECU Repair?" size="md" />
+              <ul className="text-lg list-disc list-inside mb-4">
+                <li>Gespecialiseerd in Mercedes contactslot reparatie</li>
+                <li>Ervaring met modellen als Sprinter, Vito, W203 en meer</li>
+                <li>Directe toegang tot professionele apparatuur</li>
+                <li>
+                  Samenwerking met partnerbedrijven zoals Schakelrobot
+                  Specialist en ABS Pomp Specialist voor bredere autotechnische
+                  ondersteuning
+                </li>
+                <li>
+                  Een persoonlijke aanpak: korte lijnen, duidelijke communicatie
+                  en een betrouwbare oplossing
+                </li>
+              </ul>
             </>
           }
         />

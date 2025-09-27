@@ -25,10 +25,13 @@ export default function Mechatronics() {
   return (
     <>
       <Head>
-        <title>ECU Repair &#8211; Mechatronics</title>
+        <title>
+          Mechatronics reparatie en revisie &#8211; Specialist in auto
+          elektronica &#8211; ECU Repair
+        </title>
         <meta
           name="description"
-          content="ECU Repair: Specialist in Mechatronic reparaties. Bij schakelproblemen, 'sleutel'-symbool of foutcodes P17BF/P189C, bieden wij snelle diagnose & oplossingen."
+          content="Mechatronic reparatie nodig? ECU Repair is specialist in diagnose, revisie en vervanging van DSG mechatronics. Snelle service en betrouwbare oplossingen."
         />
       </Head>
 
