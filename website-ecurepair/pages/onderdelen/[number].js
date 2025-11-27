@@ -47,11 +47,24 @@ function Error({ product, similarProducts }) {
 
 // Use getServerSideProps for dynamic rendering
 export async function getServerSideProps(context) {
-  const { data } = await Axios.get(
-    `${API_URL}/api/products?filters[onderdeelnummer][$eq]=${context.params.number}&populate[afbeelding][fields][0]=url&populate[onderdeel][populate][afbeeldingen][fields][0]=url&populate[merks][fields][0]=id&populate[merks][fields][1]=naam`
+  const { res, params } = context;
+  const number = params.number;
+
+  // 28 days edge caching (2419200)
+  res.setHeader(
+    "Cache-Control",
+    "public, s-maxage=2419200, stale-while-revalidate=2419200"
   );
 
-  const product = data.data[0];
+  const { data } = await Axios.get(
+    `${API_URL}/api/products?filters[onderdeelnummer][$eq]=${number}&populate[afbeelding][fields][0]=url&populate[onderdeel][populate][afbeeldingen][fields][0]=url&populate[merks][fields][0]=id&populate[merks][fields][1]=naam`
+  );
+
+  const product = data.data?.[0];
+
+  if (!product) {
+    return { notFound: true };
+  }
 
   const { data: similarProductsData } = await Axios.get(
     `${API_URL}/api/products?${product.merks
@@ -65,12 +78,6 @@ export async function getServerSideProps(context) {
   );
 
   const similarProducts = similarProductsData.data;
-
-  if (!product) {
-    return {
-      notFound: true,
-    };
-  }
 
   return {
     props: {
