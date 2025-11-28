@@ -101,12 +101,13 @@ module.exports = createCoreController("api::product.product", ({ strapi }) => ({
   async findSimilar(ctx) {
     const id = Number(ctx.params.id);
     const max = Number(ctx.query.max) || 36;
+    const universeLimit = Number(ctx.query.universeLimit) || 500; // safety upper bound
 
     if (!id || Number.isNaN(id)) {
       return ctx.badRequest("Invalid product id");
     }
 
-    // 1) Get base product (minimal fields)
+    // 1) Get the current product with minimal fields needed
     const current = await strapi.entityService.findOne(
       "api::product.product",
       id,
@@ -128,23 +129,19 @@ module.exports = createCoreController("api::product.product", ({ strapi }) => ({
       .map((m) => m.documentId)
       .filter(Boolean);
 
-    // If we don't have an onderdeel, no similarity possible
+    // If we don't have an onderdeel, we can't define similarity
     if (!onderdeelDocId) {
       ctx.body = { data: [] };
       return;
     }
 
     //
-    // 2) Base filters for "similarity"
+    // 2) Define the "similar universe" = all products sharing this onderdeel (+ optional merks)
     //
     const baseFilters = {
-      id: { $ne: id }, // never include self
-      onderdeel: {
-        documentId: onderdeelDocId,
-      },
+      onderdeel: { documentId: onderdeelDocId },
     };
 
-    // Add merk similarity only if product has merks
     if (merkDocIds.length > 0) {
       baseFilters.merks = {
         documentId: { $in: merkDocIds },
@@ -152,49 +149,59 @@ module.exports = createCoreController("api::product.product", ({ strapi }) => ({
     }
 
     //
-    // 3) FIRST PASS: Products with id > current.id
+    // 3) Fetch the entire similar universe, sorted by id ASC
+    //    (this includes the current product itself)
     //
-    const firstPass = await strapi.entityService.findMany(
+    const allSimilar = await strapi.entityService.findMany(
       "api::product.product",
       {
-        filters: {
-          ...baseFilters,
-          id: { $gt: id }, // first half
-        },
+        filters: baseFilters,
         sort: ["id:asc"],
-        limit: max,
-        fields: ["onderdeelnummer", "samenvatting"],
+        limit: universeLimit,
+        fields: ["onderdeelnummer", "samenvatting"], // id always included
       }
     );
 
-    if (firstPass.length >= max) {
-      ctx.body = { data: firstPass };
+    if (!allSimilar.length) {
+      ctx.body = { data: [] };
       return;
     }
 
     //
-    // 4) SECOND PASS: Products with id < current.id (wrap-around)
+    // 4) Find the index of the current product in that sorted list
     //
-    const remaining = max - firstPass.length;
+    const index = allSimilar.findIndex((p) => p.id === id);
 
-    const secondPass = await strapi.entityService.findMany(
-      "api::product.product",
-      {
-        filters: {
-          ...baseFilters,
-          id: { $lt: id }, // wrap-around part
-        },
-        sort: ["id:asc"],
-        limit: remaining,
-        fields: ["onderdeelnummer", "samenvatting"],
-      }
-    );
+    if (index === -1) {
+      // Current product somehow not in the universe; just return first max (without self filter)
+      const withoutSelf = allSimilar.filter((p) => p.id !== id).slice(0, max);
+      ctx.body = { data: withoutSelf };
+      return;
+    }
 
     //
-    // 5) Combine both lists (order preserved) & return
+    // 5) Rotate the list so it starts AFTER the current product,
+    //    then fill with items before it (true circular), and drop self.
     //
+    const rotated = [];
+
+    // After current
+    for (let i = index + 1; i < allSimilar.length; i++) {
+      rotated.push(allSimilar[i]);
+    }
+
+    // Before current
+    for (let i = 0; i < index; i++) {
+      rotated.push(allSimilar[i]);
+    }
+
+    // 6) Explicitly ensure we never include self (even if weird data)
+    const withoutSelf = rotated.filter((p) => p.id !== id);
+
+    const result = withoutSelf.slice(0, max);
+
     ctx.body = {
-      data: [...firstPass, ...secondPass],
+      data: result,
     };
   },
 }));
