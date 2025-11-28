@@ -106,19 +106,15 @@ module.exports = createCoreController("api::product.product", ({ strapi }) => ({
       return ctx.badRequest("Invalid product id");
     }
 
-    // 1) Fetch current product with minimal fields needed for similarity
+    // 1) Get base product (minimal fields)
     const current = await strapi.entityService.findOne(
       "api::product.product",
       id,
       {
         fields: ["id"],
         populate: {
-          onderdeel: {
-            fields: ["id", "documentId"],
-          },
-          merks: {
-            fields: ["id", "documentId"],
-          },
+          onderdeel: { fields: ["documentId"] },
+          merks: { fields: ["documentId"] },
         },
       }
     );
@@ -128,47 +124,77 @@ module.exports = createCoreController("api::product.product", ({ strapi }) => ({
     }
 
     const onderdeelDocId = current.onderdeel?.documentId || null;
-    const merkDocIds = (current.merks || [])
+    const merkDocIds = (current.merks ?? [])
       .map((m) => m.documentId)
       .filter(Boolean);
 
-    // If we don't even know the onderdeel, we can't really find similar ones
+    // If we don't have an onderdeel, no similarity possible
     if (!onderdeelDocId) {
       ctx.body = { data: [] };
       return;
     }
 
-    // 2) Build filters for "similar" products
-    //    - same onderdeel.documentId
-    //    - different id
-    //    - optionally share a merk (if this product has merks)
-    const filters = {
-      id: { $ne: id },
+    //
+    // 2) Base filters for "similarity"
+    //
+    const baseFilters = {
+      id: { $ne: id }, // never include self
       onderdeel: {
         documentId: onderdeelDocId,
       },
     };
 
+    // Add merk similarity only if product has merks
     if (merkDocIds.length > 0) {
-      filters.merks = {
+      baseFilters.merks = {
         documentId: { $in: merkDocIds },
       };
     }
 
-    // 3) Fetch similar products with minimal fields
-    const similar = await strapi.entityService.findMany(
+    //
+    // 3) FIRST PASS: Products with id > current.id
+    //
+    const firstPass = await strapi.entityService.findMany(
       "api::product.product",
       {
-        filters,
-        sort: ["id:desc"], // or "id:asc" if you prefer
+        filters: {
+          ...baseFilters,
+          id: { $gt: id }, // first half
+        },
+        sort: ["id:asc"],
         limit: max,
-        fields: ["onderdeelnummer", "samenvatting"], // id always included by default
+        fields: ["onderdeelnummer", "samenvatting"],
       }
     );
 
-    // 4) Respond in Strapi's usual { data: [] } wrapper shape
+    if (firstPass.length >= max) {
+      ctx.body = { data: firstPass };
+      return;
+    }
+
+    //
+    // 4) SECOND PASS: Products with id < current.id (wrap-around)
+    //
+    const remaining = max - firstPass.length;
+
+    const secondPass = await strapi.entityService.findMany(
+      "api::product.product",
+      {
+        filters: {
+          ...baseFilters,
+          id: { $lt: id }, // wrap-around part
+        },
+        sort: ["id:asc"],
+        limit: remaining,
+        fields: ["onderdeelnummer", "samenvatting"],
+      }
+    );
+
+    //
+    // 5) Combine both lists (order preserved) & return
+    //
     ctx.body = {
-      data: similar,
+      data: [...firstPass, ...secondPass],
     };
   },
 }));
