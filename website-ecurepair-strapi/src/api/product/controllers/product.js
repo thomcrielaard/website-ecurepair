@@ -99,18 +99,20 @@ module.exports = createCoreController("api::product.product", ({ strapi }) => ({
   },
 
   async findSimilar(ctx) {
-    const id = Number(ctx.params.id);
+    const productId = Number(ctx.params.id);
     const max = Number(ctx.query.max) || 36;
+    const universeLimit = Number(ctx.query.universeLimit) || 5000;
 
-    if (!id || Number.isNaN(id)) {
+    if (!productId || Number.isNaN(productId)) {
       return ctx.badRequest("Invalid product id");
     }
 
+    // 1) Get current product with onderdeelnummer + grouping info
     const current = await strapi.entityService.findOne(
       "api::product.product",
-      id,
+      productId,
       {
-        fields: ["id"],
+        fields: ["onderdeelnummer"],
         populate: {
           onderdeel: { fields: ["documentId"] },
           merks: { fields: ["documentId"] },
@@ -122,6 +124,7 @@ module.exports = createCoreController("api::product.product", ({ strapi }) => ({
       return ctx.notFound("Product not found");
     }
 
+    const currentNumber = current.onderdeelnummer;
     const onderdeelDocId = current.onderdeel?.documentId || null;
     const merkDocIds = (current.merks ?? [])
       .map((m) => m.documentId)
@@ -132,44 +135,54 @@ module.exports = createCoreController("api::product.product", ({ strapi }) => ({
       return;
     }
 
+    // 2) Base filters: same onderdeel (+ optional merks)
     const baseFilters = {
       onderdeel: { documentId: onderdeelDocId },
     };
 
     if (merkDocIds.length > 0) {
-      baseFilters.merks = { documentId: { $in: merkDocIds } };
+      baseFilters.merks = {
+        documentId: { $in: merkDocIds },
+      };
     }
 
+    // 3) Fetch universe sorted by onderdeelnummer ASC
     const allSimilar = await strapi.entityService.findMany(
       "api::product.product",
       {
         filters: baseFilters,
-        sort: ["id:asc"],
-        limit: 5000,
-        fields: ["id", "onderdeelnummer", "samenvatting"],
+        sort: ["onderdeelnummer:asc"],
+        limit: universeLimit,
+        fields: ["onderdeelnummer", "samenvatting"],
       }
     );
 
-    const filtered = allSimilar.filter((p) => p.id !== id);
-    if (filtered.length === 0) {
+    if (!allSimilar.length) {
       ctx.body = { data: [] };
       return;
     }
 
-    filtered.sort((a, b) => a.id - b.id);
+    // 4) Find index of current product by onderdeelnummer
+    const index = allSimilar.findIndex(
+      (p) => p.onderdeelnummer === currentNumber
+    );
 
-    const idx = filtered.findIndex((p) => p.id > id);
-
-    let rotated = [];
-
-    if (idx === -1) {
-      rotated = filtered;
-    } else {
-      rotated = [...filtered.slice(idx), ...filtered.slice(0, idx)];
+    if (index === -1) {
+      ctx.body = { data: [] };
+      return;
     }
 
+    // 5) Rotate list so it starts AFTER the current product
+    const rotated = [
+      ...allSimilar.slice(index + 1),
+      ...allSimilar.slice(0, index),
+    ];
+
+    // 6) Take first max
+    const result = rotated.slice(0, max);
+
     ctx.body = {
-      data: rotated.slice(0, max),
+      data: result,
     };
   },
 }));
