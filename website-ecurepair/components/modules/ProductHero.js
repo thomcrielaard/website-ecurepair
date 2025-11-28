@@ -52,7 +52,8 @@ export default function ProductHero(props) {
                 API_URL +
                 (props.product.afbeelding
                   ? props.product.afbeelding.url
-                  : props.product.onderdeel.afbeeldingen
+                  : props.product.onderdeel.afbeeldingen &&
+                    props.product.onderdeel.afbeeldingen[0]
                   ? props.product.onderdeel.afbeeldingen[0].url
                   : "/uploads/no_image_available_260ccf02f5.png")
               }
