@@ -101,13 +101,11 @@ module.exports = createCoreController("api::product.product", ({ strapi }) => ({
   async findSimilar(ctx) {
     const id = Number(ctx.params.id);
     const max = Number(ctx.query.max) || 36;
-    const universeLimit = Number(ctx.query.universeLimit) || 500; // safety upper bound
 
     if (!id || Number.isNaN(id)) {
       return ctx.badRequest("Invalid product id");
     }
 
-    // 1) Get the current product with minimal fields needed
     const current = await strapi.entityService.findOne(
       "api::product.product",
       id,
@@ -129,79 +127,49 @@ module.exports = createCoreController("api::product.product", ({ strapi }) => ({
       .map((m) => m.documentId)
       .filter(Boolean);
 
-    // If we don't have an onderdeel, we can't define similarity
     if (!onderdeelDocId) {
       ctx.body = { data: [] };
       return;
     }
 
-    //
-    // 2) Define the "similar universe" = all products sharing this onderdeel (+ optional merks)
-    //
     const baseFilters = {
       onderdeel: { documentId: onderdeelDocId },
     };
 
     if (merkDocIds.length > 0) {
-      baseFilters.merks = {
-        documentId: { $in: merkDocIds },
-      };
+      baseFilters.merks = { documentId: { $in: merkDocIds } };
     }
 
-    //
-    // 3) Fetch the entire similar universe, sorted by id ASC
-    //    (this includes the current product itself)
-    //
     const allSimilar = await strapi.entityService.findMany(
       "api::product.product",
       {
         filters: baseFilters,
         sort: ["id:asc"],
-        limit: universeLimit,
-        fields: ["onderdeelnummer", "samenvatting"], // id always included
+        limit: 5000,
+        fields: ["id", "onderdeelnummer", "samenvatting"],
       }
     );
 
-    if (!allSimilar.length) {
+    const filtered = allSimilar.filter((p) => p.id !== id);
+    if (filtered.length === 0) {
       ctx.body = { data: [] };
       return;
     }
 
-    //
-    // 4) Find the index of the current product in that sorted list
-    //
-    const index = allSimilar.findIndex((p) => p.id === id);
+    filtered.sort((a, b) => a.id - b.id);
 
-    if (index === -1) {
-      // Current product somehow not in the universe; just return first max (without self filter)
-      const withoutSelf = allSimilar.filter((p) => p.id !== id).slice(0, max);
-      ctx.body = { data: withoutSelf };
-      return;
+    const idx = filtered.findIndex((p) => p.id > id);
+
+    let rotated = [];
+
+    if (idx === -1) {
+      rotated = filtered;
+    } else {
+      rotated = [...filtered.slice(idx), ...filtered.slice(0, idx)];
     }
-
-    //
-    // 5) Rotate the list so it starts AFTER the current product,
-    //    then fill with items before it (true circular), and drop self.
-    //
-    const rotated = [];
-
-    // After current
-    for (let i = index + 1; i < allSimilar.length; i++) {
-      rotated.push(allSimilar[i]);
-    }
-
-    // Before current
-    for (let i = 0; i < index; i++) {
-      rotated.push(allSimilar[i]);
-    }
-
-    // 6) Explicitly ensure we never include self (even if weird data)
-    const withoutSelf = rotated.filter((p) => p.id !== id);
-
-    const result = withoutSelf.slice(0, max);
 
     ctx.body = {
-      data: result,
+      data: rotated.slice(0, max),
     };
   },
 }));
