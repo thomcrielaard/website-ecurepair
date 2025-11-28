@@ -15,5 +15,14 @@ module.exports = {
         middlewares: [],
       },
     },
+    {
+      method: "GET",
+      path: "/products/:id/similar",
+      handler: "product.findSimilar",
+      config: {
+        policies: [],
+        middlewares: [],
+      },
+    },
   ],
 };
