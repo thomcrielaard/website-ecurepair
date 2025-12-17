@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "vakanties",
+  "info": {
+    "singularName": "vakantie",
+    "pluralName": "vakanties",
+    "displayName": "Vakantie"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ingeschakeld": {
+      "type": "boolean",
+      "required": true,
+      "default": false
+    },
+    "tekst": {
+      "type": "string",
+      "default": "Let op! Gesloten in verband met vakantie van ... t/m ...",
+      "required": true
+    }
+  }
+}

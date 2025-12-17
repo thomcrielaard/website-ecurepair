@@ -1,14 +1,4 @@
-import type { Struct, Schema } from '@strapi/strapi';
-
-export interface NieuwsberichtText extends Struct.ComponentSchema {
-  collectionName: 'components_nieuwsbericht_texts';
-  info: {
-    displayName: 'text';
-  };
-  attributes: {
-    text: Schema.Attribute.RichText;
-  };
-}
+import type { Schema, Struct } from '@strapi/strapi';
 
 export interface NieuwsberichtAfbeelding extends Struct.ComponentSchema {
   collectionName: 'components_nieuwsbericht_afbeeldings';
@@ -22,11 +12,21 @@ export interface NieuwsberichtAfbeelding extends Struct.ComponentSchema {
   };
 }
 
+export interface NieuwsberichtText extends Struct.ComponentSchema {
+  collectionName: 'components_nieuwsbericht_texts';
+  info: {
+    displayName: 'text';
+  };
+  attributes: {
+    text: Schema.Attribute.RichText;
+  };
+}
+
 declare module '@strapi/strapi' {
   export module Public {
     export interface ComponentSchemas {
-      'nieuwsbericht.text': NieuwsberichtText;
       'nieuwsbericht.afbeelding': NieuwsberichtAfbeelding;
+      'nieuwsbericht.text': NieuwsberichtText;
     }
   }
 }
