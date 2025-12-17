@@ -3,6 +3,7 @@ import * as React from "react";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
+import Axios from "axios";
 
 import { Spin as Hamburger } from "hamburger-react";
 
@@ -17,8 +18,17 @@ import TextLink from "@/components/text/TextLink";
 import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import Background from "@/assets/img/navbar-bg.jpg";
 import Chevron from "@/assets/svg/Chevron";
+import { API_URL } from "@/pages/_app";
 
-const vacation = false;
+async function getVacation() {
+  const { data } = await Axios.get(
+    `${API_URL}/api/vakantie?fields[0]=ingeschakeld&fields[1]=tekst`
+  );
+  return {
+    enabled: data.data.ingeschakeld,
+    text: data.data.tekst,
+  };
+}
 
 export default function Navbar(props) {
   const pathname = usePathname();
@@ -28,6 +38,7 @@ export default function Navbar(props) {
   const [isOpen, setOpen] = React.useState(false);
   const [showNavbar, setShowNavbar] = React.useState(false);
   const [focusSearch, setFocusSearch] = React.useState(false);
+  const [vacation, setVacation] = React.useState({ enabled: false, text: "" });
 
   const handleScroll = () => {
     setShowNavbar(window.scrollY > 30);
@@ -40,12 +51,19 @@ export default function Navbar(props) {
     };
   });
 
+  React.useEffect(() => {
+    (async () => {
+      const data = await getVacation();
+      setVacation(data);
+    })();
+  }, []);
+
   return (
     <>
       {!props.transparent && (
         <div
           className={`${styles.NavbarBackground} 
-        ${vacation && styles.BackgroundVacation}`}
+        ${vacation.enabled && styles.BackgroundVacation}`}
         >
           <Image
             src={Background}
@@ -60,16 +78,14 @@ export default function Navbar(props) {
       )}
       <MobileNavExpanded open={isOpen} setOpen={setOpen} />
 
-      {vacation && (
-        <div className={styles.NavbarVacation}>
-          Wij zijn gesloten in verband met vakantie van 28 juni tot 21 juli.
-        </div>
+      {vacation.enabled && (
+        <div className={styles.NavbarVacation}>{vacation.text}</div>
       )}
       <Container
         className={`${styles.NavbarContainer} 
         ${showNavbar && styles.ShowNavbar} 
         ${isOpen && styles.isOpen}
-        ${vacation && styles.VacationContainer}`}
+        ${vacation.enabled && styles.VacationContainer}`}
         paddingVert="15px"
         background="transparent"
       >
@@ -172,7 +188,7 @@ function MobileNavExpanded(props) {
       <Container
         className={`${styles.NavbarMobileNavContainer} 
         ${props.open && styles.NavbarMobileOpen}
-        ${vacation && styles.MobileVacation}`}
+        ${props.vacation && styles.MobileVacation}`}
         paddingVert="30px"
       >
         <div className={styles.NavbarMobileNavWrapper}>
