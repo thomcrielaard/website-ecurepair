@@ -18,7 +18,7 @@ export default function Title(props) {
           }}
           onClick={props.onClick}
         >
-          {props.text}
+          {props.children ?? props.text}
         </h1>
       ) : (
         <h2
@@ -33,7 +33,7 @@ export default function Title(props) {
           }}
           onClick={props.onClick}
         >
-          {props.text}
+          {props.children ?? props.text}
         </h2>
       )}
       {props.underline && (

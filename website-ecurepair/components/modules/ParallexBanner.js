@@ -12,7 +12,7 @@ import Title from "@/components/text/Title";
 
 import Button from "@/components/modules/Button";
 
-export default function ParallexBanner(props) {
+export default function ParallaxBanner(props) {
   return (
     <>
       <div className={styles.ParallexBannerContainer}>
@@ -33,17 +33,19 @@ export default function ParallexBanner(props) {
               color={Colors.WHITE}
               size="xl"
               align="center"
-              className="uppercase"
             />
 
-            <Text text={props.text} color={Colors.WHITE} align="center" slim />
+            <Text color={Colors.WHITE} align="center" slim>
+              {props.children ?? props.text}
+            </Text>
 
             <Button
               text={props.buttonText}
               backgroundColor={Colors.WHITE}
               color={Colors.GRAY}
               hoverColor={Colors.RED}
-              href={props.url}
+              href={props.buttonLink}
+              target={props.target}
             />
           </div>
         </Container>

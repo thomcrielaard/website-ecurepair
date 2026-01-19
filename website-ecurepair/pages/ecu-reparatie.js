@@ -94,12 +94,14 @@ export default function EcuReparatie({ news }) {
       <ParallexBanner
         image={ECUBanner}
         title={"ECU defect? Neem contact met ons op!"}
-        text={
-          "Heb je te maken met een <strong>defecte ECU</strong>? Wil je direct een ECU laten onderzoeken of reviseren? Bel of mail ons, of stuur de ECU op naar onze werkplaats. Samen zorgen we dat elke auto weer zonder zorgen de weg op kan."
-        }
         buttonText={"CONTACT OPNEMEN"}
         buttonLink={"/contact"}
-      />
+      >
+        Heb je te maken met een <strong>defecte ECU</strong>? Wil je direct een
+        ECU laten onderzoeken of reviseren? Bel of mail ons, of stuur de ECU op
+        naar onze werkplaats. Samen zorgen we dat elke auto weer zonder zorgen
+        de weg op kan.
+      </ParallexBanner>
 
       <Container>
         <SideContainer

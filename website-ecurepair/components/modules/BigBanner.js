@@ -62,12 +62,18 @@ export default function BigBanner(props) {
           <Logo responsive h1 />
 
           <Text
-            text="Welkom bij ECU Repair, dé specialist in geavanceerde autoreparaties. Of het nu gaat om ECU's, tellerklokken, mechatronics of Mercedes contactslotreparaties, ons deskundige team staat klaar om u te helpen met oplossingen en service op maat. Ontdek wat wij voor u kunnen betekenen."
             color={Colors.WHITE}
             align="center"
             style={{ textShadow: "0px 0px 4px #000000" }}
             slim
-          />
+          >
+            Welkom bij ECU Repair, dé specialist in geavanceerde autoreparaties.
+            Wij hebben jarenlange ervaring in het testen, repareren en reviseren
+            van auto-elektronica. Denk aan ECU&apos;s, DSG&apos;s, mechatronics,
+            Mercedes contactsloten en hybride accupakketten. Modules worden los
+            getest, technisch beoordeeld en alleen behandeld wanneer dat ook
+            echt zinvol is.
+          </Text>
         </Container>
 
         <div className={styles.BigBannerSearchContainer}>
