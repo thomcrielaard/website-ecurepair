@@ -238,9 +238,9 @@ export default function EcuRevisie() {
                 prettig, zeker bij terugkerende storingen, foutcodes of een
                 hardnekkig probleem binnen het motormanagement van de auto.
               </Text>
-              <Title size="xs">Stap 1 - Reparatie aanmelden</Title>
+              <Title size="xs">Stap 1 - Revisie aanmelden</Title>
               <Text align="left" className="mb-2">
-                Je meld de reparatie online aan via ons{" "}
+                Je meldt de revisie online aan via ons{" "}
                 <Link
                   href="https://reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
                   target="_blank"
@@ -307,7 +307,7 @@ export default function EcuRevisie() {
             "ecu-reparatie",
             "ecu-testen",
             "dsg-revisie",
-            "mechatronic-reparatie",
+            // "mechatronic-reparatie",
           ]}
         />
       </Container>

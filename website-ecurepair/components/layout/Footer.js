@@ -59,21 +59,25 @@ export default function Footer() {
             <div className={styles.FooterSitelinksWrapper}>
               <Title text="SNEL NAAR" color={Colors.WHITE} size="sm" />
               <div className={styles.FooterSitelinksInnerWrapper}>
-                <FooterLink text="Home" href="/" bar={pathname == "/"} />
                 <FooterLink
-                  text="Over ons"
-                  href="/overons"
-                  bar={pathname == "/overons"}
-                />
-                <FooterLink
-                  text="DSG reparatie"
-                  href="/dsg-reparatie"
-                  bar={pathname == "/dsg-reparatie"}
+                  text="DSG revisie"
+                  href="/dsg-revisie"
+                  bar={pathname == "/dsg-revisie"}
                 />
                 <FooterLink
                   text="ECU reparatie"
                   href="/ecu-reparatie"
                   bar={pathname == "/ecu-reparatie"}
+                />
+                <FooterLink
+                  text="ECU revisie"
+                  href="/ecu-revisie"
+                  bar={pathname == "/ecu-revisie"}
+                />
+                <FooterLink
+                  text="ECU testen"
+                  href="/ecu-testen"
+                  bar={pathname == "/ecu-testen"}
                 />
                 <FooterLink
                   text="Mechatronics"
@@ -85,40 +89,18 @@ export default function Footer() {
                   href="/mercedes-contactsloten"
                   bar={pathname == "/mercedes-contactsloten"}
                 />
-                <FooterLink
-                  text="Tellerklokken"
-                  href="/tellerklokken"
-                  bar={pathname == "/tellerklokken"}
-                />
-                <FooterLink
-                  text="Onderdelen"
-                  href="/onderdelen/pagina/1"
-                  bar={
-                    pathname.includes("/onderdelen") ||
-                    pathname == "/reparatieformulier"
-                  }
-                />
-                <FooterLink
-                  text="Nieuws"
-                  href="/nieuws"
-                  bar={
-                    pathname.includes("/nieuws") ||
-                    pathname.includes("/fouten/")
-                  }
-                />
-                <FooterLink
-                  text="Contact"
-                  href="/contact"
-                  bar={pathname == "/contact"}
-                />
               </div>
             </div>
             <div className={styles.FooterWrapper}>
               <Title text="OVER ONS" color={Colors.WHITE} size="sm" />
-              <Text
-                color={Colors.MEDIUMWHITE}
-                text="ECU Repair specialiseert zich in auto-elektronica reparaties. Van ECU's tot tellerklokken en mechatronics, onze toegewijde experts bieden vertrouwde oplossingen voor uw voertuig, met jarenlange ervaring en een onwrikbaar streven naar kwaliteit en klanttevredenheid."
-              />
+              <Text color={Colors.MEDIUMWHITE}>
+                ECU Repair is gespecialiseerd in het testen, repareren en
+                reviseren van auto-elektronica. Wij richten ons op onder andere
+                ECU&apos;s, DSG-systemen, mechatronics, Mercedes contactsloten
+                en hybride accupakketten. Modules worden los getest en technisch
+                beoordeeld, zodat alleen werkzaamheden worden uitgevoerd die ook
+                echt nodig zijn.
+              </Text>
             </div>
             <div className={styles.FooterSitelinksWrapper}>
               <Title text="GEGEVENS" color={Colors.WHITE} size="sm" />

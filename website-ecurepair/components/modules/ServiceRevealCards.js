@@ -226,9 +226,6 @@ export default function ServiceRevealCards({
             className={`group relative block aspect-square w-full overflow-hidden shadow-sm ring-1 ring-black/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-black/40 focus-visible:ring-offset-2 ${className}`}
           >
             {/* SEO + accessibility text (not visible) */}
-            <h3 id={`${a11yTextId}-title`} className="sr-only">
-              {title}
-            </h3>
             <p id={a11yTextId} className="sr-only">
               {description}
             </p>

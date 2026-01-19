@@ -110,14 +110,35 @@ export default function Navbar(props) {
             />
             <div className={styles.NavbarDropdown}>
               <NavbarLink href="/overons" text="Over ons" />
-              <NavbarLink href="/dsg-reparatie" text="DSG reparatie" />
+              <NavbarLink href="/dsg-revisie" text="DSG revisie" />
               <NavbarLink href="/ecu-reparatie" text="ECU reparatie" />
-              <NavbarLink href="/mechatronics" text="Mechatronics" />
-              <NavbarLink
-                href="/mercedes-contactsloten"
-                text="Mercedes contactsloten"
+              <NavbarLink href="/ecu-revisie" text="ECU revisie" />
+              <NavbarLink href="/ecu-testen" text="ECU testen" />
+              {/* <NavbarLink
+                href="/hybride-accu-reparatie"
+                text="Hybride accu reparatie"
               />
-              <NavbarLink href="/tellerklokken" text="Tellerklokken" />
+              <NavbarLink
+                href="/hybride-accu-revisie"
+                text="Hybride accu revisie"
+              />
+              <NavbarLink
+                href="/mechatronic-reparatie"
+                text="Mechatronic reparatie"
+              />
+              <NavbarLink
+                href="/mechatronic-revisie"
+                text="Mechatronic revisie"
+              />
+
+              <NavbarLink
+                href="/mercedes-contactslot-reparatie"
+                text="Mercedes contactslot reparatie"
+              />
+              <NavbarLink
+                href="/mercedes-contactslot-revisie"
+                text="Mercedes contactslot revisie"
+              /> */}
             </div>
           </div>
           <NavbarLink
@@ -208,14 +229,35 @@ function MobileNavExpanded(props) {
             }`}
           >
             <NavbarLink href="/overons" text="Over ons" />
-            <NavbarLink href="/dsg-reparatie" text="DSG reparatie" />
+            <NavbarLink href="/dsg-revisie" text="DSG revisie" />
             <NavbarLink href="/ecu-reparatie" text="ECU reparatie" />
-            <NavbarLink href="/mechatronics" text="Mechatronics" />
-            <NavbarLink
-              href="/mercedes-contactsloten"
-              text="Mercedes contactsloten"
+            <NavbarLink href="/ecu-revisie" text="ECU revisie" />
+            <NavbarLink href="/ecu-testen" text="ECU testen" />
+            {/* <NavbarLink
+              href="/hybride-accu-reparatie"
+              text="Hybride accu reparatie"
             />
-            <NavbarLink href="/tellerklokken" text="Tellerklokken" />
+            <NavbarLink
+              href="/hybride-accu-revisie"
+              text="Hybride accu revisie"
+            />
+            <NavbarLink
+              href="/mechatronic-reparatie"
+              text="Mechatronic reparatie"
+            />
+            <NavbarLink
+              href="/mechatronic-revisie"
+              text="Mechatronic revisie"
+            />
+
+            <NavbarLink
+              href="/mercedes-contactslot-reparatie"
+              text="Mercedes contactslot reparatie"
+            />
+            <NavbarLink
+              href="/mercedes-contactslot-revisie"
+              text="Mercedes contactslot revisie"
+            /> */}
           </div>
           <NavbarLink
             href="/onderdelen/pagina/1"

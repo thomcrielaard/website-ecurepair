@@ -29,12 +29,10 @@ export default function EcuRevisie() {
   return (
     <>
       <Head>
-        <title>
-          ECU Repair &#8211; ECU revisie bij terugkerende storingen en foutcodes
-        </title>
+        <title>ECU Repair &#8211; ECU testen voor diagnose en controle</title>
         <meta
           name="description"
-          content="ECU revisie bij structurele ECU problemen. Terugkerende foutcodes, noodloop of startproblemen? Vraag direct een ECU revisie aan bij ECU Repair."
+          content="ECU testen om de staat van de ECU te beoordelen. Geschikt bij storingen of als controle. Meld de ECU eenvoudig aan via het reparatieformulier."
         />
       </Head>
 
@@ -307,7 +305,7 @@ export default function EcuRevisie() {
             "ecu-reparatie",
             "ecu-revisie",
             "dsg-revisie",
-            "mechatronic-revisie",
+            // "mechatronic-revisie",
           ]}
         />
       </Container>

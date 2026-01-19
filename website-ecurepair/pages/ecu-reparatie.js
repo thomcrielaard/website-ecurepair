@@ -26,6 +26,7 @@ import ECURepair from "@/assets/img/ecurepair.png";
 import ECUBanner from "@/assets/img/about-ecu.jpg";
 import ParallexBanner from "@/components/modules/ParallexBanner";
 import ItemCards from "@/components/modules/ItemCards";
+import ServiceRevealCards from "@/components/modules/ServiceRevealCards";
 
 export default function EcuReparatie({ news }) {
   return (
@@ -156,37 +157,24 @@ export default function EcuReparatie({ news }) {
         />
       </Container>
 
-      <Container paddingVert="0" innerClassName="flex justify-center">
-        <div className="w-full md:w-1/2 xl:w-1/3 max-w-2xl relative aspect-square">
-          <Image
-            src={ECURepair}
-            alt="ECU Repair"
-            style={{ objectFit: "cover" }}
-            fill
-            sizes={`(min-width: ${Breakpoints.sm}) 45vw, 100vw`}
-            placeholder="blur"
-            priority
-          />
-        </div>
-      </Container>
-
       <Container>
-        <Title
-          text="Nieuws & ontwikkelingen"
-          size="lg"
-          align="center"
-          underline
-        />
-        <Text
-          text="De wereld van auto-elektronica staat nooit stil. Nieuwe storingen, veranderende software en steeds complexere systemen – er gebeurt altijd iets. Bij ECU Repair delen we daarom regelmatig nieuws en inzichten uit de praktijk. Denk aan trends die we in garages zien, handige tips voor diagnose of updates over nieuwe apparatuur en technieken. Benieuwd wat er speelt? Lees hieronder onze laatste nieuwsberichten en blijf op de hoogte van alles rond ECU reparatie en autodiagnose."
-          align="center"
-          slim
-        />
-        <ItemCards
-          items={news}
-          buttonText="Al ons nieuws"
-          buttonLink="/nieuws"
-          short
+        <Title text="Overige diensten" size="lg" align="center" underline />
+        <Text align="center" className="mb-8" slim>
+          Naast ECU reparatie ondersteunen wij bedrijven ook bij andere
+          werkzaamheden binnen auto-elektronica. Zo voeren wij ECU testen uit om
+          de staat van modules te beoordelen en ECU revisie wanneer structurele
+          elektronische klachten blijven terugkomen. Op die manier kan per
+          voertuig een gerichte keuze worden gemaakt, afgestemd op motor,
+          transmissie en het gebruik in de praktijk.
+        </Text>
+        <ServiceRevealCards
+          includeIds={[
+            "dsg-revisie",
+            "ecu-revisie",
+            "ecu-testen",
+            // "mechatronic-reparatie",
+            // "mechatronic-revisie",
+          ]}
         />
       </Container>
 

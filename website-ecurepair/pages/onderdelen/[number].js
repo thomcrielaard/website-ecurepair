@@ -138,6 +138,8 @@ export async function getServerSideProps(context) {
     },
   }));
 
+  console.log(simUrl);
+
   //
   // 6) Return props
   //

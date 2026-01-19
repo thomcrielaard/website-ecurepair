@@ -18,6 +18,7 @@ import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 
 import Banner from "@/assets/img/parallex.jpg";
+import ServiceRevealCards from "@/components/modules/ServiceRevealCards";
 
 export default function Home({ products, searchbar, news }) {
   return (
@@ -26,7 +27,7 @@ export default function Home({ products, searchbar, news }) {
         <title>ECU Repair &#8211; Home</title>
         <meta
           name="description"
-          content="ECU Repair: specialist in ECU, DSG, mechatronics, Mercedes contactsloten en tellerklok reparaties. Hoogwaardige service & deskundige oplossingen voor uw auto."
+          content="ECU Repair is specialist in testen, repareren en reviseren van auto-elektronica zoals ECU's, DSG, mechatronics, contactsloten en hybride accu's."
         />
       </Head>
 
@@ -36,11 +37,41 @@ export default function Home({ products, searchbar, news }) {
 
       <Cards />
 
+      <Container>
+        <Title text="Onze diensten" size="lg" align="center" underline />
+        <Text align="center" className="mb-8" slim>
+          Wij bij ECU Repair specialiseren ons in alles op het gebied van auto
+          elektronica. Zo bieden wij full-service oplossingen voor{" "}
+          <em>ECU&apos;s</em>, <em>DSG&apos;s</em>, <em>mechatronics</em>,{" "}
+          <em>hybride accu&apos;s</em> en <em>Mercedes contactsloten</em>. Wij
+          helpen garagebedrijven met reparaties, revisies en tests voor al deze
+          onderdelen. Wij begrijpen dat jouw klant niet zit te wachten op
+          onnodige kosten en lange wachttijden. Daarom bieden wij snelle,
+          betrouwbare en betaalbare oplossingen op maat. Benieuwd naar wat wij
+          voor jou kunnen betekenen? Lees dan verder!
+        </Text>
+        <ServiceRevealCards
+          includeIds={[
+            "dsg-revisie",
+            "ecu-reparatie",
+            "ecu-testen",
+            "ecu-revisie",
+            // "mercedes-contactslot-reparatie",
+            // "mercedes-contactslot-revisie",
+            // "mechatronic-reparatie",
+            // "mechatronic-revisie",
+            // "hybride-accu-reparatie",
+            // "hybride-accu-revisie",
+          ]}
+        />
+      </Container>
+
       <Container id="search">
         <Title text="ONZE ONDERDELEN" size="lg" align="center" />
         <Text
           text="Zoek en vind de essentiële auto-onderdelen die u nodig hebt. Onze uitgebreide catalogus biedt betrouwbare oplossingen voor uw specifieke behoeften. Betrouwbaarheid gegarandeerd."
           align="center"
+          className="mb-4"
           slim
         />
         <Searchbar searchbarData={searchbar} showButton />
@@ -57,12 +88,17 @@ export default function Home({ products, searchbar, news }) {
       <ParallexBanner
         image={Banner}
         title={"WAT WIJ DOEN"}
-        text={
-          "Bij ECU Repair staan we voor toonaangevende expertise in auto-onderdeel reparaties. Of het nu gaat om ECU's, tellerklokken, mechatronics of Mercedes contactsloten, ons team van deskundige monteurs heeft de ervaring en kennis om u te helpen. Onze klantgerichte benadering garandeert tevredenheid bij elke service."
-        }
         buttonText={"MEER OVER ONS"}
         buttonLink={"/overons"}
-      />
+      >
+        Wij testen en herstellen auto-elektronica op componentniveau. Dat
+        betekent: onderdelen los van het voertuig onderzoeken, signalen en
+        communicatie controleren en vaststellen of reparatie of revisie de beste
+        oplossing is. Als het mogelijk is, repareren we gericht en vervangen we
+        zo min mogelijk componenten. Verder leveren we advies over bekende
+        problemen en mogelijke revisies. Zo weet je vooraf waar je aan toe bent
+        en kun je je klant beter informeren.
+      </ParallexBanner>
 
       <Container style={{ marginTop: "4rem" }}>
         <Title text="NIEUWS & UPDATES" size="lg" align="center" underline />
