@@ -28,8 +28,8 @@ export default function Product(props) {
               (props.product.afbeelding
                 ? props.product.afbeelding.url
                 : props.product.onderdeel.afbeeldingen
-                ? props.product.onderdeel.afbeeldingen[0].url
-                : "/uploads/no_image_available_260ccf02f5.png")
+                  ? props.product.onderdeel.afbeeldingen[0].url
+                  : "/uploads/no_image_available_260ccf02f5.png")
             }
             alt={props.product.onderdeelnummer}
             fill
@@ -89,7 +89,7 @@ export default function Product(props) {
           <div style={{ alignSelf: "flex-end" }}>
             <Button
               text={"REPARATIEFORMULIER"}
-              href="/reparatieformulier"
+              href="https://www.reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
               color={Colors.WHITE}
               hoverColor={Colors.RED}
               borderColor={Colors.RED}

@@ -53,9 +53,9 @@ export default function ProductHero(props) {
                 (props.product.afbeelding
                   ? props.product.afbeelding.url
                   : props.product.onderdeel.afbeeldingen &&
-                    props.product.onderdeel.afbeeldingen[0]
-                  ? props.product.onderdeel.afbeeldingen[0].url
-                  : "/uploads/no_image_available_260ccf02f5.png")
+                      props.product.onderdeel.afbeeldingen[0]
+                    ? props.product.onderdeel.afbeeldingen[0].url
+                    : "/uploads/no_image_available_260ccf02f5.png")
               }
               alt={props.product.onderdeelnummer}
               fill
@@ -78,7 +78,7 @@ export default function ProductHero(props) {
           <hr className="w-full border-t border-gray-300" />
           <Button
             text={"REPARATIEFORMULIER"}
-            href="/reparatieformulier"
+            href="https://www.reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
             color={Colors.WHITE}
             hoverColor={Colors.RED}
             borderColor={Colors.RED}
@@ -124,7 +124,7 @@ export default function ProductHero(props) {
                   target="_blank"
                   className="flex gap-2 items-center !text-emerald-500 font-semibold text-xl"
                   href={`https://api.whatsapp.com/send/?phone=31262340042&text=Beste+ECU+Repair%2C%0a%0a+Ik+heb+een+vraag+over+${encodeURIComponent(
-                    props.product.onderdeelnummer
+                    props.product.onderdeelnummer,
                   )}%0a%0a_ECU+Repair+is+alleen+werkzaam+voor+bedrijven_&type=phone_number&app_absent=0`}
                 >
                   WhatsApp Ons

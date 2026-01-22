@@ -32,7 +32,7 @@ export default function Onderdelen({
   return (
     <>
       <Head>
-        <title>ECU Repair &#8211; Onderdelen</title>
+        <title>ECU Repair – Onderdelen</title>
         <meta
           name="description"
           content="Zoek en vind snel de juiste auto-onderdelen bij ECU Repair. Filter op merk, onderdeelnummer of type en ontdek ons uitgebreide assortiment."
@@ -65,7 +65,7 @@ export default function Onderdelen({
             hoverColor={Colors.RED}
             hoverBorderColor={Colors.RED}
             style={{ marginTop: 30 }}
-            href="/reparatieformulier"
+            href="https://www.reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
             target="_blank"
           />
         </div>
@@ -92,7 +92,7 @@ export async function getServerSideProps(context) {
 
   // Get searched products
   const { data: productsData } = await Axios.get(
-    `${API_URL}/api/products/search?tekst=${onderdeel}&merk=${merk}&onderdeel=${part}&pagination[page]=${page}&pagination[pageSize]=8`
+    `${API_URL}/api/products/search?tekst=${onderdeel}&merk=${merk}&onderdeel=${part}&pagination[page]=${page}&pagination[pageSize]=8`,
   );
 
   const products = productsData.data;

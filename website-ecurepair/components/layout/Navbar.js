@@ -22,7 +22,7 @@ import { API_URL } from "@/pages/_app";
 
 async function getVacation() {
   const { data } = await Axios.get(
-    `${API_URL}/api/vakantie?fields[0]=ingeschakeld&fields[1]=tekst`
+    `${API_URL}/api/vakantie?fields[0]=ingeschakeld&fields[1]=tekst`,
   );
   return {
     enabled: data.data.ingeschakeld,
@@ -114,6 +114,14 @@ export default function Navbar(props) {
               <NavbarLink href="/ecu-reparatie" text="ECU reparatie" />
               <NavbarLink href="/ecu-revisie" text="ECU revisie" />
               <NavbarLink href="/ecu-testen" text="ECU testen" />
+              <NavbarLink
+                href="/mercedes-contactslot-reparatie"
+                text="Mercedes contactslot reparatie"
+              />
+              <NavbarLink
+                href="/mechatronic-reparatie"
+                text="Mechatronic reparatie"
+              />
               {/* <NavbarLink
                 href="/hybride-accu-reparatie"
                 text="Hybride accu reparatie"
@@ -130,11 +138,6 @@ export default function Navbar(props) {
                 href="/mechatronic-revisie"
                 text="Mechatronic revisie"
               />
-
-              <NavbarLink
-                href="/mercedes-contactslot-reparatie"
-                text="Mercedes contactslot reparatie"
-              />
               <NavbarLink
                 href="/mercedes-contactslot-revisie"
                 text="Mercedes contactslot revisie"
@@ -147,9 +150,9 @@ export default function Navbar(props) {
             active={pathname.includes("/onderdelen")}
           />
           <NavbarLink
-            href="/reparatieformulier"
+            href="https://www.reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
             text="Reparatieformulier"
-            active={pathname == "/reparatieformulier"}
+            target="_blank"
           />
           <NavbarLink
             href="/nieuws"
@@ -233,6 +236,14 @@ function MobileNavExpanded(props) {
             <NavbarLink href="/ecu-reparatie" text="ECU reparatie" />
             <NavbarLink href="/ecu-revisie" text="ECU revisie" />
             <NavbarLink href="/ecu-testen" text="ECU testen" />
+            <NavbarLink
+              href="/mechatronic-reparatie"
+              text="Mechatronic reparatie"
+            />
+            <NavbarLink
+              href="/mercedes-contactslot-reparatie"
+              text="Mercedes contactslot reparatie"
+            />
             {/* <NavbarLink
               href="/hybride-accu-reparatie"
               text="Hybride accu reparatie"
@@ -242,18 +253,10 @@ function MobileNavExpanded(props) {
               text="Hybride accu revisie"
             />
             <NavbarLink
-              href="/mechatronic-reparatie"
-              text="Mechatronic reparatie"
-            />
-            <NavbarLink
               href="/mechatronic-revisie"
               text="Mechatronic revisie"
             />
 
-            <NavbarLink
-              href="/mercedes-contactslot-reparatie"
-              text="Mercedes contactslot reparatie"
-            />
             <NavbarLink
               href="/mercedes-contactslot-revisie"
               text="Mercedes contactslot revisie"
@@ -265,9 +268,9 @@ function MobileNavExpanded(props) {
             active={pathname.includes("/onderdelen")}
           />
           <NavbarLink
-            href="/reparatieformulier"
+            href="https://www.reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
             text="Reparatieformulier"
-            active={pathname == "/reparatieformulier"}
+            target="_blank"
           />
           <NavbarLink
             href="/nieuws"
@@ -301,6 +304,7 @@ function NavbarLink(props) {
       hoverColor={Colors.RED}
       className={styles.NavbarLink}
       bar={props.active}
+      target={props.target}
     />
   );
 }

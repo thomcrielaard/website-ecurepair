@@ -2,6 +2,38 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
+  async rewrites() {
+    return [
+      {
+        source: "/sitemaps/products/:id(\\d+)\\.xml",
+        destination: "/sitemaps/products/:id",
+      },
+    ];
+  },
+  async redirects() {
+    return [
+      {
+        source: "/mercedes-contactsloten",
+        destination: "/mercedes-contactslot-reparatie",
+        permanent: true,
+      },
+      {
+        source: "/mercedes-contactsloten/",
+        destination: "/mercedes-contactslot-reparatie",
+        permanent: true,
+      },
+      {
+        source: "/mechatronics",
+        destination: "/mechatronic-reparatie",
+        permanent: true,
+      },
+      {
+        source: "/mechatronics/",
+        destination: "/mechatronic-reparatie",
+        permanent: true,
+      },
+    ];
+  },
   images: {
     remotePatterns: [
       {

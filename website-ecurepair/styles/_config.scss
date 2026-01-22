@@ -1,3 +1,5 @@
+@use "sass:map";
+
 @mixin xs {
   @media (max-width: 576px) {
     @content;
@@ -40,7 +42,7 @@
     LIGHTGRAY: #666666,
   );
 
-  $color: map-get($colors, $key);
+  $color: map.get($colors, $key);
 
   @if $opacity != 1 {
     @return rgba($color, $opacity);

@@ -1,4 +1,4 @@
-@import "@/styles/_config";
+@use "../config" as *;
 
 .ContactFormContainer {
   display: flex;

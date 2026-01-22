@@ -1,4 +1,4 @@
-@import "@/styles/_config";
+@use "../config" as *;
 
 .CardsContainer {
   margin-bottom: calc(4rem + 75px);
