@@ -63,7 +63,7 @@ export default async function OnderdelenPage({ params }) {
 
   // Fetch products data
   const { data: productsData } = await Axios.get(
-    `${API_URL}/api/products?fields[0]=onderdeelnummer&fields[1]=samenvatting&populate[afbeelding][fields][0]=url&populate[onderdeel][populate][afbeeldingen][fields][0]=url&pagination[pageSize]=8&pagination[page]=${page}`,
+    `${API_URL}/api/products?fields[0]=onderdeelnummer&fields[1]=samenvatting&populate[afbeelding][fields][0]=url&populate[onderdeel][populate][afbeeldingen][fields][0]=url&pagination[pageSize]=8&sort=onderdeelnummer:asc&pagination[page]=${page}`,
   );
 
   const products = productsData.data;
