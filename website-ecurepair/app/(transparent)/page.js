@@ -79,8 +79,6 @@ export default async function HomePage() {
 
   return (
     <>
-      <Navbar transparent />
-
       <BigBanner searchbarData={searchbar} />
 
       <Cards />
@@ -159,8 +157,6 @@ export default async function HomePage() {
           short
         />
       </Container>
-
-      <Footer />
     </>
   );
 }

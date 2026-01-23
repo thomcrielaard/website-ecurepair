@@ -2,8 +2,6 @@ import React from "react";
 import Axios from "axios";
 import { notFound } from "next/navigation";
 
-import { API_URL } from "@/pages/_app";
-
 import Colors from "@/styles/Colors";
 import Container from "@/components/containers/Container";
 
@@ -20,6 +18,8 @@ export const revalidate = 3600;
 // Cache the searchbar data globally to ensure it only fetches once per server instance
 let cachedSearchbarData = null;
 
+const API_URL = process.env.NEXT_PUBLIC_API_URL;
+
 async function getSearchbarData() {
   if (!cachedSearchbarData) {
     const { data } = await Axios.get(`${API_URL}/api/searchbar`);
@@ -33,7 +33,7 @@ async function getSearchbarData() {
 }
 
 export async function generateMetadata({ params }) {
-  const { page } = params;
+  const { page } = await params;
 
   return {
     title: `ECU Repair – Onderdelen | Pagina ${page}`,
@@ -64,7 +64,7 @@ export default async function OnderdelenPage({ params }) {
       `&populate[onderdeel][populate][afbeeldingen][fields][0]=url` +
       `&pagination[pageSize]=8` +
       `&pagination[page]=${page}` +
-      `&sort[0]=id:asc`;
+      `&sort[0]=onderdeelnummer:asc`;
 
     const { data: productsData } = await Axios.get(url);
 
