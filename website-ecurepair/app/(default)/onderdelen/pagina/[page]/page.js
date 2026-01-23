@@ -42,10 +42,11 @@ export async function generateMetadata({ params }) {
 }
 
 export default async function OnderdelenPage({ params }) {
-  const page = Number(params.page);
+  const { page } = await params;
+  const pageNumber = Number(page);
 
   // basic validation
-  if (!Number.isFinite(page) || page < 1) {
+  if (!Number.isFinite(pageNumber) || pageNumber < 1) {
     notFound();
   }
 
@@ -63,7 +64,7 @@ export default async function OnderdelenPage({ params }) {
       `&populate[afbeelding][fields][0]=url` +
       `&populate[onderdeel][populate][afbeeldingen][fields][0]=url` +
       `&pagination[pageSize]=8` +
-      `&pagination[page]=${page}` +
+      `&pagination[page]=${pageNumber}` +
       `&sort[0]=onderdeelnummer:asc`;
 
     const { data: productsData } = await Axios.get(url);
@@ -72,7 +73,7 @@ export default async function OnderdelenPage({ params }) {
     const pagination = productsData.meta?.pagination;
 
     // If user requests page beyond pageCount, 404 it
-    if (!pagination || page > pagination.pageCount) {
+    if (!pagination || pageNumber > pagination.pageCount) {
       notFound();
     }
 
