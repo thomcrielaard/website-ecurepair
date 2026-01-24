@@ -17,8 +17,8 @@ import HybrideBanner from "@/assets/img/services/hybride-accu-banner.webp";
 
 export function generateMetadata() {
   return {
-    title: `ECU Repair \u2013 DSG revisie voor problemen en preventief onderhoud`,
-    description: `Problemen met de DSG automaat of preventief reviseren? ECU Repair voert DSG revisies uit met diagnose, duidelijke kosten en heldere terugkoppeling.`,
+    title: `ECU Repair \u2013 Hybride accu reparatie en accupakket herstel`,
+    description: `ECU Repair is specialist in hybride accu reparatie, diagnose en herstel van accupakketten. Voor garages en ondernemers in de auto-industrie.`,
   };
 }
 
