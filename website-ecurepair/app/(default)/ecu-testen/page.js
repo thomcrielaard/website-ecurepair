@@ -290,11 +290,12 @@ export default function EcuTestenPage() {
         </Text>
         <ServiceRevealCards
           includeIds={[
+            "dsg-revisie",
             "ecu-reparatie",
             "ecu-revisie",
-            "dsg-revisie",
+            "hybride-accu-reparatie",
             "mercedes-contactslot-reparatie",
-            // "mechatronic-revisie",
+            "mechatronic-reparatie",
           ]}
         />
       </Container>

@@ -17,6 +17,7 @@ import ParallexBanner from "@/components/modules/ParallexBanner";
 import Reparatie from "@/assets/img/mercedes-contactslot-reparatie.png";
 import MercedesSprinter from "@/assets/img/mercedes-sprinter.png";
 import ECURepair from "@/assets/img/ecurepair.png";
+import ServiceRevealCards from "@/components/modules/ServiceRevealCards";
 
 export function generateMetadata() {
   return {
@@ -335,6 +336,25 @@ export default function MercedesContactslotenPage() {
               </ul>
             </>
           }
+        />
+      </Container>
+
+      <Container>
+        <Title text="Overige diensten" size="lg" align="center" underline />
+        <Text align="center" className="mb-8" slim>
+          Naast Mercedes contactslot reparatie bieden we ook diverse andere
+          diensten aan voor autotechniek en elektronica. Bekijk hieronder een
+          overzicht van onze specialisaties.
+        </Text>
+        <ServiceRevealCards
+          includeIds={[
+            "dsg-revisie",
+            "ecu-reparatie",
+            "ecu-testen",
+            "ecu-revisie",
+            "hybride-accu-reparatie",
+            "mechatronic-reparatie",
+          ]}
         />
       </Container>
     </>

@@ -16,6 +16,7 @@ import DSG from "@/assets/img/dsg.png";
 import MechatronicBanner from "@/assets/img/mechatronic-banner.jpg";
 import ECURepair from "@/assets/img/ecurepair.png";
 import ParallexBanner from "@/components/modules/ParallexBanner";
+import ServiceRevealCards from "@/components/modules/ServiceRevealCards";
 
 export function generateMetadata() {
   return {
@@ -312,6 +313,26 @@ export default function MechatronicsPage() {
               <Text text="Of het nu gaat om een Audi met schakelklachten of een Seat die compleet stilvalt, we zorgen dat jouw klant snel en veilig de weg weer op kan." />{" "}
             </>
           }
+        />
+      </Container>
+
+      <Container>
+        <Title text="Overige diensten" size="lg" align="center" underline />
+        <Text align="center" className="mb-8" slim>
+          Naast mechatronic reparatie biedt ECU Repair een breed scala aan
+          diensten op het gebied van auto-elektronica. Van DSG revisie tot ECU
+          reparatie en meer.
+        </Text>
+        <ServiceRevealCards
+          includeIds={[
+            "dsg-revisie",
+            "ecu-reparatie",
+            "ecu-testen",
+            "ecu-revisie",
+            "hybride-accu-reparatie",
+            "mercedes-contactslot-reparatie",
+            "mechatronic-reparatie",
+          ]}
         />
       </Container>
     </>

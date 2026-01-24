@@ -278,11 +278,11 @@ export default function DsgRevisiePage() {
         <ServiceRevealCards
           includeIds={[
             "ecu-reparatie",
-            "ecu-revisie",
             "ecu-testen",
+            "ecu-revisie",
+            "hybride-accu-reparatie",
             "mercedes-contactslot-reparatie",
-            // "mechatronic-reparatie",
-            // "mechatronic-revisie",
+            "mechatronic-reparatie",
           ]}
         />
       </Container>

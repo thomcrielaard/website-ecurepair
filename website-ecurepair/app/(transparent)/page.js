@@ -103,6 +103,7 @@ export default async function HomePage() {
             "ecu-reparatie",
             "ecu-testen",
             "ecu-revisie",
+            "hybride-accu-reparatie",
             "mercedes-contactslot-reparatie",
             "mechatronic-reparatie",
           ]}
