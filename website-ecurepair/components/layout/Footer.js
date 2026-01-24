@@ -80,6 +80,11 @@ export default function Footer() {
                   bar={pathname == "/ecu-testen"}
                 />
                 <FooterLink
+                  text="Hybride accu reparatie"
+                  href="/hybride-accu-reparatie"
+                  bar={pathname == "/hybride-accu-reparatie"}
+                />
+                <FooterLink
                   text="Mechatronics"
                   href="/mechatronics"
                   bar={pathname == "/mechatronics"}

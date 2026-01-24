@@ -22,7 +22,7 @@ import { API_URL } from "@/pages/_app";
 
 async function getVacation() {
   const { data } = await Axios.get(
-    `${API_URL}/api/vakantie?fields[0]=ingeschakeld&fields[1]=tekst`,
+    `${API_URL}/api/vakantie?fields[0]=ingeschakeld&fields[1]=tekst`
   );
   return {
     enabled: data.data.ingeschakeld,
@@ -122,10 +122,11 @@ export default function Navbar(props) {
                 href="/mechatronic-reparatie"
                 text="Mechatronic reparatie"
               />
-              {/* <NavbarLink
+              <NavbarLink
                 href="/hybride-accu-reparatie"
                 text="Hybride accu reparatie"
               />
+              {/*
               <NavbarLink
                 href="/hybride-accu-revisie"
                 text="Hybride accu revisie"
@@ -244,10 +245,11 @@ function MobileNavExpanded(props) {
               href="/mercedes-contactslot-reparatie"
               text="Mercedes contactslot reparatie"
             />
-            {/* <NavbarLink
+            <NavbarLink
               href="/hybride-accu-reparatie"
               text="Hybride accu reparatie"
             />
+            {/* 
             <NavbarLink
               href="/hybride-accu-revisie"
               text="Hybride accu revisie"
