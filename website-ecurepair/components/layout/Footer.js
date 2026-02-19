@@ -85,14 +85,29 @@ export default function Footer() {
                   bar={pathname == "/hybride-accu-reparatie"}
                 />
                 <FooterLink
-                  text="Mechatronics"
-                  href="/mechatronics"
-                  bar={pathname == "/mechatronics"}
+                  text="Hybride accu revisie"
+                  href="/hybride-accu-revisie"
+                  bar={pathname == "/hybride-accu-revisie"}
                 />
                 <FooterLink
-                  text="Mercedes contactsloten"
-                  href="/mercedes-contactsloten"
-                  bar={pathname == "/mercedes-contactsloten"}
+                  text="Mechatronics reparatie"
+                  href="/mechatronics-reparatie"
+                  bar={pathname == "/mechatronics-reparatie"}
+                />
+                <FooterLink
+                  text="Mechatronics revisie"
+                  href="/mechatronics-revisie"
+                  bar={pathname == "/mechatronics-revisie"}
+                />
+                <FooterLink
+                  text="Mercedes contactslot reparatie"
+                  href="/mercedes-contactslot-reparatie"
+                  bar={pathname == "/mercedes-contactslot-reparatie"}
+                />
+                <FooterLink
+                  text="Mercedes contactslot revisie"
+                  href="/mercedes-contactslot-revisie"
+                  bar={pathname == "/mercedes-contactslot-revisie"}
                 />
               </div>
             </div>

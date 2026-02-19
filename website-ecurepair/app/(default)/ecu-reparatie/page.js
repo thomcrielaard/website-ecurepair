@@ -92,6 +92,21 @@ export default function EcuReparatiePage() {
           alignTop
           left={
             <>
+              <Title text="Kosten van ECU reparatie" size="md" />
+              <Text>
+                De <strong>kosten</strong> van een ECU reparatie bedragen bij
+                ons <strong>€250 exclusief BTW</strong>. Dit tarief geldt voor
+                een gerichte reparatie waarbij een specifiek defect binnen de
+                ECU wordt hersteld, maar kan worden beinvloed als er meerdere
+                defecte zijn, of de ECU bij ons onbekend is. Vooraf voeren we
+                altijd een technische beoordeling uit, zodat duidelijk is of
+                reparatie de juiste oplossing is. Blijkt tijdens controle dat er
+                meer speelt dan één afzonderlijk probleem, dan nemen we eerst
+                contact op voordat aanvullende werkzaamheden worden uitgevoerd.
+                Zo weet je vooraf waar je aan toe bent en kom je niet voor
+                verrassingen te staan.
+              </Text>
+              <br />
               <Title text="Repareren, reviseren of vervangen" size="md" />
               <Text text="Niet elke ECU hoeft direct de prullenbak in. Integendeel: vaak is <em>revisie</em> een goed middel om kosten te besparen en tegelijk levensduur te verlengen. Denk aan het herstellen van gescheurde bondjes, het vervangen van verbrande transistoren of het herprogrammeren van <em>ECU software</em> die corrupt is geraakt. Onze service omvat:" />
               <ul className="text-lg list-disc list-inside mb-4">
@@ -115,14 +130,14 @@ export default function EcuReparatiePage() {
               <Text text="Zo hoeft een garagebedrijf zijn klant niet direct een dure fabrieksvervanging aan te bieden, maar kan er gekozen worden voor een slimme en duurzame oplossing." />
 
               <br />
-              <Title text="Kennis delen met garages" size="md" />
-              <Text text="We weten dat garagebedrijven snelheid en duidelijkheid nodig hebben. Daarom leveren we niet alleen de technische oplossing, maar ook heldere informatie: wat is er gerepareerd, wat is er vervangen, welke stappen zijn gedaan? Dat geeft vertrouwen richting de eindklant." />
-              <br />
-              <Text text="Daarnaast zijn we bereikbaar voor overleg. Twijfel je of het probleem écht in de ECU zit, of toch in de bedrading of een sensor? Bel ons gewoon. Soms is een kort gesprek het middel dat onnodig zoekwerk bespaart." />
             </>
           }
           right={
             <>
+              <Title text="Kennis delen met garages" size="md" />
+              <Text text="We weten dat garagebedrijven snelheid en duidelijkheid nodig hebben. Daarom leveren we niet alleen de technische oplossing, maar ook heldere informatie: wat is er gerepareerd, wat is er vervangen, welke stappen zijn gedaan? Dat geeft vertrouwen richting de eindklant." />
+              <br />
+              <Text text="Daarnaast zijn we bereikbaar voor overleg. Twijfel je of het probleem écht in de ECU zit, of toch in de bedrading of een sensor? Bel ons gewoon. Soms is een kort gesprek het middel dat onnodig zoekwerk bespaart." />
               <Title text="Waarom kiezen voor een specialist?" size="md" />
               <Text text="Er zijn reparateurs en er zijn specialisten. Het verschil? De specialist verdiept zich dagelijks in ECU’s en aanverwante elektronica – van ABS pompen tot schakelrobots. Bij ons is dat geen bijzaak, maar de kern van wat we doen." />
               <br />
@@ -155,8 +170,11 @@ export default function EcuReparatiePage() {
             "ecu-testen",
             "ecu-revisie",
             "hybride-accu-reparatie",
+            "hybride-accu-revisie",
             "mercedes-contactslot-reparatie",
+            "mercedes-contactslot-revisie",
             "mechatronic-reparatie",
+            "mechatronic-revisie",
           ]}
         />
       </Container>

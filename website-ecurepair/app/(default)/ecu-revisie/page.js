@@ -50,7 +50,7 @@ export default function EcuRevisiePage() {
               <Title size="sm">Wat bedoelen we precies met ECU revisie?</Title>
               <Text align="left" className="mb-4">
                 ECU revisie gaat verder dan een{" "}
-                <Link href="/ecu-reparatie" className="!underline">
+                <Link href="/ecu-reparatie" className="underline!">
                   ECU reparatie
                 </Link>
                 . Bij een revisie kijken we namelijk verder dan alleen het
@@ -149,6 +149,22 @@ export default function EcuRevisiePage() {
           alignTop
           left={
             <>
+              <Title size="md">Kosten van ECU revisie</Title>
+              <Text align="left" className="mb-4">
+                De <strong>kosten</strong> van een ECU revisie bedragen bij ons{" "}
+                <strong>€250 exclusief BTW</strong>. Dit tarief geldt voor een
+                uitgebreide beoordeling en het gericht aanpakken van zwakke of
+                afwijkende onderdelen binnen de ECU, en kan worden beinvloed
+                door de hoeveelheid defecte onderdelen. In tegenstelling tot een
+                <Link href="/ecu-reparatie" className="underline!">
+                  losse reparatie
+                </Link>{" "}
+                kijken we bij revisie breder naar de staat van de module, zodat
+                terugkerende problemen worden voorkomen. Mocht tijdens controle
+                blijken dat aanvullende werkzaamheden nodig zijn, dan nemen we
+                eerst contact op voordat er iets wordt uitgevoerd. Zo blijft het
+                traject duidelijk en beheersbaar qua kosten.
+              </Text>
               <Title size="md">Wat zijn veelvoorkomende ECU problemen?</Title>
               <Text align="left" className="mb-2">
                 ECU-problemen uiten zich lang niet altijd op één duidelijke
@@ -159,14 +175,12 @@ export default function EcuRevisiePage() {
                 Hieronder zie je de meest voorkomende ECU-problemen waarvoor ECU
                 revisie wordt ingezet.
               </Text>
-
               <Title size="xs" text="Terugkerende foutcodes" />
               <Text align="left" className="mb-2">
                 Foutcodes die na wissen steeds opnieuw verschijnen, soms pas na
                 enkele ritten. De oorzaak ligt dan meestal intern in de ECU,
                 waardoor een losse reparatie geen blijvende oplossing biedt.
               </Text>
-
               <Title size="xs" text="Startproblemen of uitval" />
               <Text align="left" className="mb-2">
                 De motor start slecht, helemaal niet, of valt direct weer uit.
@@ -174,7 +188,6 @@ export default function EcuRevisiePage() {
                 wijkt af. Dit komt regelmatig voor bij interne storingen of
                 software-gerelateerde problemen.
               </Text>
-
               <Title size="xs" text="Onverwachte noodloop" />
               <Text align="left" className="mb-2">
                 Het voertuig schakelt zonder vast patroon over naar noodloop. Na
@@ -182,7 +195,6 @@ export default function EcuRevisiePage() {
                 terugkomt. Dit type storing wordt vaak veroorzaakt door
                 instabiele signalen of spanningsproblemen binnen de ECU.
               </Text>
-
               <Title size="xs" text="Communicatiefouten" />
               <Text align="left" className="mb-2">
                 De ECU communiceert continu met andere modules, zoals ABS,
@@ -191,7 +203,6 @@ export default function EcuRevisiePage() {
                 zijn. Revisie richt zich hier op het herstellen van die interne
                 samenwerking binnen het systeem.
               </Text>
-
               <Title size="xs" text="Warmte/spanningsklachten" />
               <Text align="left" className="mb-2">
                 Sommige ECU&apos;s reageren gevoelig op temperatuur of
@@ -199,7 +210,6 @@ export default function EcuRevisiePage() {
                 warme motor. Deze klachten wijzen vaak op componenten die hun
                 technische grens naderen.
               </Text>
-
               <Title size="xs" text="Bekende structurele defecten" />
               <Text align="left" className="mb-4">
                 Bepaalde ECU-types staan bekend om specifieke zwakke punten,
@@ -207,7 +217,6 @@ export default function EcuRevisiePage() {
                 gevallen wordt revisie toegepast om deze onderdelen preventief
                 aan te pakken.
               </Text>
-
               <Text align="left">
                 Herken je één of meerdere van deze ECU-problemen, dan is revisie
                 vaak de aangewezen stap om herhaling te voorkomen en de
@@ -231,7 +240,7 @@ export default function EcuRevisiePage() {
                 <Link
                   href="https://reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
                   target="_blank"
-                  className="!underline"
+                  className="underline!"
                 >
                   reparatieformulier
                 </Link>{" "}
@@ -295,8 +304,11 @@ export default function EcuRevisiePage() {
             "ecu-reparatie",
             "ecu-testen",
             "hybride-accu-reparatie",
+            "hybride-accu-revisie",
             "mercedes-contactslot-reparatie",
+            "mercedes-contactslot-revisie",
             "mechatronic-reparatie",
+            "mechatronic-revisie",
           ]}
         />
       </Container>

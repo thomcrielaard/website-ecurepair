@@ -45,7 +45,7 @@ export default function EcuTestenPage() {
                 antwoord op die vraag. Dit geldt niet alleen bij een duidelijke
                 storing, maar ook wanneer je wilt controleren of een ECU nog
                 correct functioneert. Bij{" "}
-                <Link href="/" className="!underline">
+                <Link href="/" className="underline!">
                   ECU Repair
                 </Link>{" "}
                 testen we ECU&apos;s los van het voertuig, zodat je zekerheid
@@ -74,11 +74,11 @@ export default function EcuTestenPage() {
                 de staat van het systeem. Die informatie gebruiken we om te
                 bepalen of de ECU goed is, of dat er aanleiding is voor verder
                 onderzoek,{" "}
-                <Link href="/ecu-reparatie" className="!underline">
+                <Link href="/ecu-reparatie" className="underline!">
                   ECU reparatie
                 </Link>{" "}
                 of{" "}
-                <Link href="/ecu-revisie" className="!underline">
+                <Link href="/ecu-revisie" className="underline!">
                   ECU revisie
                 </Link>
                 .
@@ -192,7 +192,7 @@ export default function EcuTestenPage() {
                 verkeert. Het komt regelmatig voor dat hierbij meerdere zwakke
                 punten zichtbaar worden die nu nog werken, maar op korte termijn
                 kunnen uitvallen. In zo&apos;n geval kan{" "}
-                <Link href="/ecu-revisie" className="!underline">
+                <Link href="/ecu-revisie" className="underline!">
                   ECU revisie
                 </Link>{" "}
                 een passende vervolgstap: door deze kwetsbare onderdelen direct
@@ -203,13 +203,14 @@ export default function EcuTestenPage() {
               </Text>{" "}
               <Title size="md">Kosten en prijsindicatie</Title>
               <Text align="left">
-                De <strong>kosten</strong> van een ECU test hangen af van het
-                type ECU en complexiteit van het systeem. Over het algemeen
-                geldt dat een test vooraf inzicht geeft in het vervolgtraject en
-                daarmee onverwachte kosten in de werkplaats kan besparen. Wil je
-                een prijsindicatie of heb je specifieke vraagstukken, neem dan
-                gerust contact met ons op via het{" "}
-                <Link href="/contact" className="!underline">
+                De <strong>kosten</strong> van een ECU test bedragen{" "}
+                <strong>€70 exclusief BTW</strong>. Deze prijs kan worden
+                beinvloed door het type ECU en complexiteit van het systeem.
+                Over het algemeen geldt dat een test vooraf inzicht geeft in het
+                vervolgtraject en daarmee onverwachte kosten in de werkplaats
+                kan besparen. Wil je een prijsindicatie of heb je specifieke
+                vraagstukken, neem dan gerust contact met ons op via het{" "}
+                <Link href="/contact" className="underline!">
                   contactformulier
                 </Link>
                 .
@@ -225,7 +226,7 @@ export default function EcuTestenPage() {
                 <Link
                   href="https://reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
                   target="_blank"
-                  className="!underline"
+                  className="underline!"
                 >
                   reparatieformulier
                 </Link>{" "}
@@ -239,7 +240,7 @@ export default function EcuTestenPage() {
                 <Link
                   href="https://reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
                   target="_blank"
-                  className="!underline"
+                  className="underline!"
                 >
                   reparatieformulier
                 </Link>{" "}
@@ -266,11 +267,11 @@ export default function EcuTestenPage() {
                 gevonden en wat mogelijke vervolgstappen zijn. Is de unit in
                 orde, dan sturen we hem retour of kun je hem op komen halen in
                 onze werkplaats. Indien er aanleiding is voor verder onderzoek,{" "}
-                <Link href="/ecu-reparatie" className="!underline">
+                <Link href="/ecu-reparatie" className="underline!">
                   reparatie
                 </Link>{" "}
                 of{" "}
-                <Link href="/ecu-revisie" className="!underline">
+                <Link href="/ecu-revisie" className="underline!">
                   revisie
                 </Link>
                 , bespreken we dit voordat we overgaan tot verdere stappen. Zo
@@ -294,8 +295,11 @@ export default function EcuTestenPage() {
             "ecu-reparatie",
             "ecu-revisie",
             "hybride-accu-reparatie",
+            "hybride-accu-revisie",
             "mercedes-contactslot-reparatie",
+            "mercedes-contactslot-revisie",
             "mechatronic-reparatie",
+            "mechatronic-revisie",
           ]}
         />
       </Container>

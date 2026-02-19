@@ -99,13 +99,14 @@ export default async function HomePage() {
 
         <ServiceRevealCards
           includeIds={[
-            "dsg-revisie",
-            "ecu-reparatie",
             "ecu-testen",
             "ecu-revisie",
             "hybride-accu-reparatie",
+            "hybride-accu-revisie",
             "mercedes-contactslot-reparatie",
+            "mercedes-contactslot-revisie",
             "mechatronic-reparatie",
+            "mechatronic-revisie",
           ]}
         />
       </Container>

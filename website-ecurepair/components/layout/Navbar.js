@@ -22,7 +22,7 @@ import { API_URL } from "@/pages/_app";
 
 async function getVacation() {
   const { data } = await Axios.get(
-    `${API_URL}/api/vakantie?fields[0]=ingeschakeld&fields[1]=tekst`
+    `${API_URL}/api/vakantie?fields[0]=ingeschakeld&fields[1]=tekst`,
   );
   return {
     enabled: data.data.ingeschakeld,
@@ -115,18 +115,9 @@ export default function Navbar(props) {
               <NavbarLink href="/ecu-revisie" text="ECU revisie" />
               <NavbarLink href="/ecu-testen" text="ECU testen" />
               <NavbarLink
-                href="/mercedes-contactslot-reparatie"
-                text="Mercedes contactslot reparatie"
-              />
-              <NavbarLink
-                href="/mechatronic-reparatie"
-                text="Mechatronic reparatie"
-              />
-              <NavbarLink
                 href="/hybride-accu-reparatie"
                 text="Hybride accu reparatie"
               />
-              {/*
               <NavbarLink
                 href="/hybride-accu-revisie"
                 text="Hybride accu revisie"
@@ -140,9 +131,13 @@ export default function Navbar(props) {
                 text="Mechatronic revisie"
               />
               <NavbarLink
+                href="/mercedes-contactslot-reparatie"
+                text="Mercedes contactslot reparatie"
+              />
+              <NavbarLink
                 href="/mercedes-contactslot-revisie"
                 text="Mercedes contactslot revisie"
-              /> */}
+              />
             </div>
           </div>
           <NavbarLink
@@ -238,31 +233,29 @@ function MobileNavExpanded(props) {
             <NavbarLink href="/ecu-revisie" text="ECU revisie" />
             <NavbarLink href="/ecu-testen" text="ECU testen" />
             <NavbarLink
+              href="/hybride-accu-reparatie"
+              text="Hybride accu reparatie"
+            />
+            <NavbarLink
+              href="/hybride-accu-revisie"
+              text="Hybride accu revisie"
+            />
+            <NavbarLink
               href="/mechatronic-reparatie"
               text="Mechatronic reparatie"
+            />
+            <NavbarLink
+              href="/mechatronic-revisie"
+              text="Mechatronic revisie"
             />
             <NavbarLink
               href="/mercedes-contactslot-reparatie"
               text="Mercedes contactslot reparatie"
             />
             <NavbarLink
-              href="/hybride-accu-reparatie"
-              text="Hybride accu reparatie"
-            />
-            {/* 
-            <NavbarLink
-              href="/hybride-accu-revisie"
-              text="Hybride accu revisie"
-            />
-            <NavbarLink
-              href="/mechatronic-revisie"
-              text="Mechatronic revisie"
-            />
-
-            <NavbarLink
               href="/mercedes-contactslot-revisie"
               text="Mercedes contactslot revisie"
-            /> */}
+            />
           </div>
           <NavbarLink
             href="/onderdelen/pagina/1"

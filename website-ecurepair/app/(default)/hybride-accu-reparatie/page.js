@@ -165,12 +165,14 @@ export default function HybrideAccuReparatiePage() {
               </Text>
               <Title size="md">Kosten, prijs en doorlooptijd</Title>
               <Text align="left" className="mb-2">
-                De prijs van hybride accu reparatie hangt af van het type
-                voertuig, de omvang van het probleem en het gekozen traject. In
-                veel gevallen liggen de kosten aanzienlijk lager dan volledige
-                vervanging. De doorlooptijd varieert van enkele dagen tot langer
-                bij complexere pakketten. Na diagnose kunnen we meestal snel
-                aangeven wat de verwachte kosten en benodigde tijd zijn.
+                De <strong>prijs</strong> van hybride accu reparatie bedraagt{" "}
+                <strong>€450 excl. BTW</strong>. Deze prijs staat niet vast, en
+                hangt af van het type voertuig, de omvang van het probleem en
+                het gekozen traject. In veel gevallen liggen de kosten
+                aanzienlijk lager dan volledige vervanging. De doorlooptijd
+                varieert van enkele dagen tot langer bij complexere pakketten.
+                Na diagnose kunnen we meestal snel aangeven wat de exacte kosten
+                en benodigde tijd zijn.
               </Text>
               <Title size="xs">Garantie, milieu en hergebruik</Title>
               <Text align="left">
@@ -202,7 +204,7 @@ export default function HybrideAccuReparatiePage() {
                 <Link
                   href="https://reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
                   target="_blank"
-                  className="!underline"
+                  className="underline!"
                 >
                   reparatieformulier
                 </Link>
@@ -269,8 +271,11 @@ export default function HybrideAccuReparatiePage() {
             "ecu-reparatie",
             "ecu-testen",
             "ecu-revisie",
+            "hybride-accu-revisie",
             "mercedes-contactslot-reparatie",
+            "mercedes-contactslot-revisie",
             "mechatronic-reparatie",
+            "mechatronic-revisie",
           ]}
         />
       </Container>

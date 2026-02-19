@@ -221,6 +221,22 @@ export default function MercedesContactslotenPage() {
           reverse
           left={
             <>
+              <Title size="md">Kosten van Mercedes contactslot reparatie</Title>
+              <Text>
+                De <strong>kosten</strong> van een{" "}
+                <strong>Mercedes contactslot reparatie</strong> bedragen{" "}
+                <strong>€250 exclusief BTW</strong>. Dit tarief geldt voor een
+                gerichte reparatie waarbij het defect binnen het contactslot
+                wordt opgespoord en hersteld, maar kan varieren afhankelijk van
+                de ingreep. Vooraf voeren we een technische controle uit om vast
+                te stellen of het probleem daadwerkelijk in het contactslot zit
+                en niet in bijvoorbeeld het stuurslot of de sleutel. Mocht
+                blijken dat er meer speelt dan alleen een afzonderlijk defect,
+                dan nemen we eerst contact op voordat aanvullende werkzaamheden
+                worden uitgevoerd. Zo weet je vooraf wat de prijs is en kom je
+                niet voor onverwachte kosten te staan.
+              </Text>
+              <br />
               <Title
                 text="Mercedes Sprinter, Mercedes Vito en meer – ieder model zijn eigen uitdaging"
                 size="md"
@@ -241,7 +257,7 @@ export default function MercedesContactslotenPage() {
               <Text>
                 Niet altijd ligt de oorzaak in het <strong>contactslot</strong>{" "}
                 zelf. Soms is het het <strong>stuurslot</strong> dat blokkeert,
-                of een <em>elektronische storing</em> in de
+                of een <em>elektronische storing</em> in de{" "}
                 <strong>sleutelchip</strong>. Onze specialisten onderzoeken het
                 volledige systeem – van autosleutel tot stuurmodule – zodat
                 niets over het hoofd wordt gezien. Stuurslot reparatie is vaak
@@ -310,7 +326,7 @@ export default function MercedesContactslotenPage() {
                 Een afspraak maken is eenvoudig. Bel ons, mail ons of vul het{" "}
                 <Link
                   href="https://www.reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
-                  className="!underline"
+                  className="underline!"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -353,7 +369,10 @@ export default function MercedesContactslotenPage() {
             "ecu-testen",
             "ecu-revisie",
             "hybride-accu-reparatie",
+            "hybride-accu-revisie",
+            "mercedes-contactslot-revisie",
             "mechatronic-reparatie",
+            "mechatronic-revisie",
           ]}
         />
       </Container>

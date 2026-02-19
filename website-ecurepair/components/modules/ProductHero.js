@@ -24,7 +24,7 @@ export default function ProductHero(props) {
         {props.product.merks.map((brand, key) => (
           <React.Fragment key={key}>
             <Link
-              className="font-[poppins] font-medium italic !text-lightgray !underline"
+              className="font-[poppins] font-medium italic !text-lightgray underline!"
               href={`/onderdelen/zoeken/1?merk=${brand.id}`}
             >
               {brand.naam}
@@ -35,7 +35,7 @@ export default function ProductHero(props) {
               style={{ rotate: "-90deg" }}
             />
             <Link
-              className="font-[poppins] font-medium italic !text-lightgray !underline"
+              className="font-[poppins] font-medium italic !text-lightgray underline!"
               href={`/onderdelen/zoeken/1?merk=${brand.id}&part=${props.product.onderdeel.id}`}
             >
               {props.product.onderdeel.naam}

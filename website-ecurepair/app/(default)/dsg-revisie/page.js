@@ -150,6 +150,35 @@ export default function DsgRevisiePage() {
           alignTop
           left={
             <>
+              <Title size="md">Kosten, prijs en doorlooptijd</Title>
+              <Text align="left" className="mb-2">
+                De <strong>prijs</strong> van DSG revisie bedraagt{" "}
+                <strong>€550,- excl. BTW</strong>. De prijs kan worden beinvloed
+                door het type transmissie, de staat van de onderdelen en de
+                benodigde werkzaamheden. Ook de <strong>doorlooptijd</strong>
+                verschilt per situatie, van een middagje werk tot meerdere
+                dagen. Na diagnose kunnen we doorgaans een duidelijke indicatie
+                geven van kosten en de benodigde tijd. Wil je dit vooraf
+                bespreken of een afspraak maken, dan kun je eenvoudig{" "}
+                <Link href="/contact" className="underline!">
+                  contact opnemen
+                </Link>
+                .
+              </Text>
+              <Title size="xs">
+                Transparantie vooraf: geen verrassingen achteraf
+              </Title>
+              <Text align="left" className="mb-4">
+                Bij DSG revisie is geen enkele situatie hetzelfde. Dit maakt het
+                lastig, of eigenlijk onmogelijk, om een vaste prijs aan elke
+                revisie te koppelen. Daarom werken we niet met vaste pakketten
+                of standaardprijzen. Na de diagnose communiceren we duidelijk
+                wat er aan de hand is, en welke opties er zijn. Zo weet je
+                precies welke werkzaamheden nodig zijn, welke onderdelen worden
+                aangepakt en wat dat betekent voor de kosten. Pas daarna wordt
+                de revisie uitgevoerd. Zo voorkom je onverwachtse kosten en kun
+                je richting je klant helder communiceren over prijs en aanpak.
+              </Text>
               <Title size="md">Eerst controleren, dan pas reviseren</Title>
               <Text align="left" className="mb-4">
                 Voorafgaand aan een DSG revisie voeren we altijd een diagnose
@@ -170,36 +199,6 @@ export default function DsgRevisiePage() {
                 gedaan dan nodig. Dat maakt het traject niet alleen
                 overzichtelijk, maar vaak ook voordeliger op de lange termijn.
               </Text>
-              <Title size="md">Kosten, prijs en doorlooptijd</Title>
-              <Text align="left" className="mb-2">
-                De <strong>prijs</strong> van DSG revisie hangt af van het type
-                transmissie, de staat van de onderdelen en de benodigde
-                werkzaamheden. Deze kosten kunnen uiteenlopen een aantal
-                honderd, tot duizenden euro&apos;s. Ook de{" "}
-                <strong>doorlooptijd</strong>
-                verschilt per situatie, van een middagje werk tot meerdere
-                dagen. Na diagnose kunnen we doorgaans een duidelijke indicatie
-                geven van kosten en de benodigde tijd. Wil je dit vooraf
-                bespreken of een afspraak maken, dan kun je eenvoudig{" "}
-                <Link href="/contact" className="!underline">
-                  contact opnemen
-                </Link>
-                .
-              </Text>
-              <Title size="xs">
-                Transparantie vooraf: geen verrassingen achteraf
-              </Title>
-              <Text align="left">
-                Bij DSG revisie is geen enkele situatie hetzelfde. Dit maakt het
-                lastig, of eigenlijk onmogelijk, om een vaste prijs aan elke
-                revisie te koppelen. Daarom werken we niet met vaste pakketten
-                of standaardprijzen. Na de diagnose communiceren we duidelijk
-                wat er aan de hand is, en welke opties er zijn. Zo weet je
-                precies welke werkzaamheden nodig zijn, welke onderdelen worden
-                aangepakt en wat dat betekent voor de kosten. Pas daarna wordt
-                de revisie uitgevoerd. Zo voorkom je onverwachtse kosten en kun
-                je richting je klant helder communiceren over prijs en aanpak.
-              </Text>
             </>
           }
           right={
@@ -219,7 +218,7 @@ export default function DsgRevisiePage() {
                 <Link
                   href="https://reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
                   target="_blank"
-                  className="!underline"
+                  className="underline!"
                 >
                   reparatieformulier
                 </Link>
@@ -281,8 +280,11 @@ export default function DsgRevisiePage() {
             "ecu-testen",
             "ecu-revisie",
             "hybride-accu-reparatie",
+            "hybride-accu-revisie",
             "mercedes-contactslot-reparatie",
+            "mercedes-contactslot-revisie",
             "mechatronic-reparatie",
+            "mechatronic-revisie",
           ]}
         />
       </Container>

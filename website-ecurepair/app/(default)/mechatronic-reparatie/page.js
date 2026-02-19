@@ -46,7 +46,7 @@ export default function MechatronicsPage() {
               <Text>
                 De mechatronic is het regelbrein van de automatische
                 versnellingsbak. Vooral bij de{" "}
-                <Link href="/dsg-reparatie" className="!underline">
+                <Link href="/dsg-reparatie" className="underline!">
                   DSG versnellingsbak
                 </Link>{" "}
                 van <em>Volkswagen</em>, <em>Audi</em>, <em>Seat</em> en{" "}
@@ -138,7 +138,7 @@ export default function MechatronicsPage() {
         <Link
           href="https://www.reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
           target="_blank"
-          className="!underline"
+          className="underline!"
         >
           reparatieformulier
         </Link>{" "}
@@ -188,11 +188,13 @@ export default function MechatronicsPage() {
             <>
               <Title text="Kosten en service" size="md" />
               <Text>
-                De kosten van een mechatronic reparatie verschillen per type
-                transmissie en klacht. Een eenvoudige reparatie is vaak een
-                fractie van de prijs van een nieuwe unit. Een gereviseerde
-                mechatronic is meestal het slimste middel: betrouwbaar, getest
-                en aanzienlijk voordeliger dan vervanging bij de dealer.
+                De <strong>kosten</strong> van een mechatronic reparatie
+                bedragen <strong>€400 exclusief BTW</strong>. Deze kosten
+                verschillen per type transmissie en klacht, en staan dus niet
+                vast. Een eenvoudige reparatie is vaak een fractie van de prijs
+                van een nieuwe unit. Een gereviseerde mechatronic is meestal het
+                slimste middel: betrouwbaar, getest en aanzienlijk voordeliger
+                dan vervanging bij de dealer.
               </Text>
               <br />
               <Text>
@@ -214,7 +216,7 @@ export default function MechatronicsPage() {
               />
               <Text>
                 Vooral de{" "}
-                <Link href="/dsg-reparatie" className="!underline">
+                <Link href="/dsg-reparatie" className="underline!">
                   DSG mechatronic
                 </Link>{" "}
                 vraagt veel aandacht. Bekende klachten: trillingen bij
@@ -295,7 +297,7 @@ export default function MechatronicsPage() {
                   Samenwerking met partnerbedrijven zoals{" "}
                   <Link
                     href="https://schakelrobotspecialist.nl"
-                    className="!underline"
+                    className="underline!"
                     target="_blank"
                   >
                     Schakelrobot Specialist
@@ -303,7 +305,7 @@ export default function MechatronicsPage() {
                   en{" "}
                   <Link
                     href="https://abspompspecialist.nl"
-                    className="!underline"
+                    className="underline!"
                     target="_blank"
                   >
                     ABS Pomp Specialist
@@ -330,8 +332,10 @@ export default function MechatronicsPage() {
             "ecu-testen",
             "ecu-revisie",
             "hybride-accu-reparatie",
+            "hybride-accu-revisie",
             "mercedes-contactslot-reparatie",
-            "mechatronic-reparatie",
+            "mercedes-contactslot-revisie",
+            "mechatronic-revisie",
           ]}
         />
       </Container>

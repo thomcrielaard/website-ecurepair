@@ -225,11 +225,6 @@ export default function ServiceRevealCards({
             aria-describedby={a11yTextId}
             className={`group relative block aspect-square w-full overflow-hidden shadow-sm ring-1 ring-black/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-black/40 focus-visible:ring-offset-2 ${className}`}
           >
-            {/* SEO + accessibility text (not visible) */}
-            <p id={a11yTextId} className="sr-only">
-              {description}
-            </p>
-
             {/* Background image */}
             <Image
               src={imageSrc}
@@ -258,7 +253,9 @@ export default function ServiceRevealCards({
               className={`absolute inset-0 z-20 -translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out bg-black/80`}
             >
               <div className="flex h-full flex-col justify-end p-5">
-                <Title text={title} size="xs" color="white" />
+                <span className="text-white font-semibold text-2xl">
+                  {title}
+                </span>
 
                 <Text
                   className="mt-2 !text-sm leading-relaxed !text-white/90"
