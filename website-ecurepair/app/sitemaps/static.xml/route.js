@@ -20,14 +20,30 @@ export async function GET() {
 
     { loc: u("/contact"), priority: PRIORITY_HIGH, changefreq: "weekly" },
     { loc: u("/overons"), priority: PRIORITY_HIGH, changefreq: "weekly" },
+    { loc: u("/nieuws"), priority: 0.7, changefreq: "daily" },
 
-    { loc: u("/dsg-reparatie"), priority: PRIORITY_HIGH, changefreq: "weekly" },
+    { loc: u("/dsg-reparatie"), priority: PRIORITY_MID, changefreq: "weekly" },
     { loc: u("/dsg-revisie"), priority: PRIORITY_HIGH, changefreq: "weekly" },
     { loc: u("/ecu-reparatie"), priority: PRIORITY_HIGH, changefreq: "weekly" },
     { loc: u("/ecu-revisie"), priority: PRIORITY_HIGH, changefreq: "weekly" },
     { loc: u("/ecu-testen"), priority: PRIORITY_HIGH, changefreq: "weekly" },
     {
+      loc: u("/hybride-accu-reparatie"),
+      priority: PRIORITY_HIGH,
+      changefreq: "weekly",
+    },
+    {
+      loc: u("/hybride-accu-revisie"),
+      priority: PRIORITY_HIGH,
+      changefreq: "weekly",
+    },
+    {
       loc: u("/mechatronic-reparatie"),
+      priority: PRIORITY_HIGH,
+      changefreq: "weekly",
+    },
+    {
+      loc: u("/mechatronic-revisie"),
       priority: PRIORITY_HIGH,
       changefreq: "weekly",
     },
@@ -36,8 +52,11 @@ export async function GET() {
       priority: PRIORITY_HIGH,
       changefreq: "weekly",
     },
-
-    { loc: u("/nieuws"), priority: 0.7, changefreq: "daily" },
+    {
+      loc: u("/mercedes-contactslot-revisie"),
+      priority: PRIORITY_HIGH,
+      changefreq: "weekly",
+    },
   ];
 
   const newsRes = await fetch(
