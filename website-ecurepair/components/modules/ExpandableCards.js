@@ -72,11 +72,13 @@ function ExpandableCard(props) {
       <div
         className={styles.ExpandableCardContentWrapper}
         style={{
-          maxHeight: open ? textRef.current?.offsetHeight : 0,
+          maxHeight: open ? textRef.current?.offsetHeight + 32 : 0,
         }}
       >
-        <div>
-          <Text text={props.text} forwardRef={textRef} align="left" />
+        <div className="my-4">
+          <Text forwardRef={textRef} align="left">
+            {props.text}
+          </Text>
         </div>
       </div>
     </div>

@@ -16,9 +16,13 @@ import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 
 import About from "@/assets/img/overons.png";
-import AboutECU from "@/assets/img/about-ecu.jpg";
-import AboutTachometer from "@/assets/img/about-tachometer.jpg";
 import AboutMechatronics from "@/assets/img/about-mechatronics.jpg";
+import AboutECU from "@/assets/img/about-ecu.jpg";
+import HybridePakket from "@/assets/img/services/hybride-accu-banner.webp";
+import MercedesContactsloten from "@/assets/img/services/mercedes-contactslot-reparatie.jpeg";
+
+import Link from "next/link";
+import ServiceRevealCards from "@/components/modules/ServiceRevealCards";
 
 export function generateMetadata() {
   return {
@@ -37,16 +41,58 @@ export default function OverOnsPage() {
           left={
             <>
               <Title
-                text="WIE WIJ ZIJN"
-                className={styles.OverOnsTitleResponsive}
+                text="Wie wij zijn"
+                className={`${styles.OverOnsTitleResponsive} uppercase`}
                 containerClassName={styles.OverOnsTitleBarResponsive}
                 size="lg"
                 underline
                 h1
               />
-              <Text text="ECU Repair is ontstaan uit een passie voor autotechnologie en een drive om elk voertuig zo efficiënt mogelijk te laten functioneren. Al sinds onze oprichting hebben we ons gewijd aan het onderzoeken, diagnosticeren en repareren van geavanceerde auto-elektronica systemen. We hebben een team van toegewijde professionals die continu hun kennis bijspijkeren om aan de eisen van de zich snel ontwikkelende auto-industrie te voldoen." />
-              <Text text="Ons hoofddoel is om eigenaars van voertuigen de zekerheid te bieden dat hun auto in de best mogelijke handen is. We begrijpen de complexiteit van moderne auto-elektronica en het belang van deze systemen voor de algehele prestaties van het voertuig. Daarom werken we er onophoudelijk aan om ervoor te zorgen dat elk systeem, van de ECU tot de tellerklok, nauwkeurig en effectief functioneert." />
-              <Text text="De tevredenheid van onze klanten staat voorop. Door een combinatie van geavanceerde apparatuur, uitgebreide training en een klantgerichte aanpak, streven we ernaar om elke keer weer topkwaliteit te leveren." />
+              <Text className="mb-4">
+                ECU Repair is ontstaan vanuit een simpele gedachte:{" "}
+                <strong>auto-elektronica moet betrouwbaar zijn</strong>, en
+                reparatie moet helder en voorspelbaar verlopen. Geen onnodige
+                vervangingen, geen half werk. Gewoon duidelijke diagnose,
+                technische onderbouwing en een oplossing die klopt. Wij werken
+                dagelijks voor garagebedrijven en ondernemers in de automotive
+                sector die zekerheid willen richting hun klant. Dat vraagt om
+                kennis, maar ook om communicatie. Want wat heb je aan techniek
+                als je niet weet waar je aan toe bent?
+              </Text>
+              <Text className="mb-4">
+                In onze werkplaats draait het om meten, testen en analyseren.
+                Modules worden los beoordeeld, niet op gevoel maar op data. We
+                werken met gerichte tarieven, duidelijke terugkoppeling en een
+                gestructureerde aanpak. Dat betekent dat je vooraf weet wat jouw
+                ECU reparatie kost , wat een ECU test inhoudt of wat een DSG
+                revisie betekent. Transparantie is bij ons geen marketingterm,
+                maar dagelijkse praktijk.
+              </Text>
+              <Text>
+                We zijn gespecialiseerd in complexe systemen waar mechaniek en
+                elektronica samenkomen. Denk aan ECU&apos;s, DSG transmissies,
+                mechatronics, hybride accupakketten en Mercedes contactsloten.
+                Door jaren ervaring en constante ontwikkeling kennen we de
+                zwakke punten van veelvoorkomende systemen. Die kennis delen we
+                ook met onze partnerbedrijven zoals{" "}
+                <Link
+                  href="https://abspompspecialist.nl"
+                  className="underline!"
+                  target="_blank"
+                >
+                  ABS Pomp Specialist
+                </Link>{" "}
+                en{" "}
+                <Link
+                  href="https://opelecureparatie.nl"
+                  className="underline!"
+                  target="_blank"
+                >
+                  Opel ECU Reparatie
+                </Link>
+                . Uiteindelijk draait het om één ding: zorgen dat jouw klant
+                weer verder kan, zonder gedoe.
+              </Text>
             </>
           }
           right={
@@ -80,19 +126,35 @@ export default function OverOnsPage() {
           left={
             <>
               <Title
-                text="WAT WIJ DOEN"
-                className={styles.OverOnsTitleResponsive}
+                text="Wat wij doen"
+                className={`${styles.OverOnsTitleResponsive} uppercase`}
                 containerClassName={styles.OverOnsTitleBarResponsive}
                 size="lg"
                 underline
               />
-              <Text
-                text="Bij ECU Repair is het onze missie om ervoor te zorgen dat uw auto vlekkeloos werkt. Met een gespecialiseerd team hebben we ons gericht op de technische aspecten van auto-elektronica, zodat u veilig en met vertrouwen de weg op kunt. Of u nu problemen heeft met uw ECU, tellerklok, mechatronics of Mercedes contactslot, wij staan klaar om u te helpen met geavanceerde oplossingen en ongeëvenaarde expertise."
-                style={{ marginBottom: 20 }}
-              />
+              <Text className="mb-4">
+                Auto’s zijn in korte tijd veranderd van mechanische machines
+                naar rijdende computers. Dat betekent dat problemen vaak niet
+                zichtbaar zijn, maar zich schuilhouden in <em>modules</em>,{" "}
+                <em>software</em> of <em>interne componenten</em>. Wij richten
+                ons precies op dat deel van de techniek. Op het moment dat een
+                versnellingsbak schokt, een hybride accu storing geeft of een
+                contactslot weigert, begint ons werk. Wij analyseren, beoordelen
+                en herstellen waar dat zinvol is.
+              </Text>
+              <Text>
+                Wat ons onderscheidt, is dat we niet alleen{" "}
+                <strong>repareren</strong>. We <strong>testen</strong>,{" "}
+                <strong>reviseren</strong>, vergelijken en adviseren. Soms is
+                een gerichte reparatie voldoende. Soms is revisie slimmer. En
+                soms blijkt uit een diagnose dat een module technisch nog gezond
+                is. Dat eerlijke onderscheid maakt het verschil in de praktijk.
+                Geen overbodige vervanging, geen onnodige kosten — maar een
+                passende oplossing per voertuig.
+              </Text>
               <div className={styles.OverOnsButtonWrapper}>
                 <Button
-                  href="/contact"
+                  href="https://reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
                   text="AFSPRAAK MAKEN"
                   color={Colors.WHITE}
                   hoverColor={Colors.RED}
@@ -108,19 +170,135 @@ export default function OverOnsPage() {
             <ExpandableCards
               cards={[
                 {
-                  title: "ECU Diagnose",
-                  text: "De Electronic Control Unit (ECU) is het brein van uw auto. Als deze niet optimaal werkt, kan dit leiden tot een verminderde prestatie en zelfs tot storingen. Een goed functionerende ECU is essentieel voor zaken als brandstofefficiëntie, motorprestaties en andere vitale functies van het voertuig. Wij bij ECU Repair begrijpen het belang van deze component en bieden een grondige diagnostiek en reparatieservice. We maken gebruik van geavanceerde technologieën en methoden om ervoor te zorgen dat uw ECU in perfecte staat verkeert en uw auto naar behoren presteert.",
+                  title: "DSG en mechatronics",
+                  text: (
+                    <>
+                      Binnen aandrijfsystemen werken wij veel aan{" "}
+                      <Link href="/dsg-revisie" className="underline!">
+                        DSG revisie
+                      </Link>
+                      ,{" "}
+                      <Link
+                        href="/mechatronic-reparatie"
+                        className="underline!"
+                      >
+                        mechatronic reparatie
+                      </Link>{" "}
+                      en{" "}
+                      <Link href="/mechatronic-revisie" className="underline!">
+                        mechatronic revisie
+                      </Link>
+                      . Een DSG transmissie is technisch verfijnd, maar gevoelig
+                      voor slijtage in koppelingen, hydrauliek en aansturing.
+                      Bij klachten zoals schokken, foutcodes of onregelmatig
+                      schakelen beoordelen wij of een volledige DSG revisie
+                      nodig is. Mechatronic reparatie en mechatronic revisie
+                      richten zich specifiek op de elektronische en hydraulische
+                      aansturing van de versnellingsbak. Hier komen mechaniek en
+                      software samen. Door gerichte diagnose bepalen we of
+                      herstel mogelijk is of dat vervanging verstandiger is. Dat
+                      voorkomt dat complete transmissies onnodig worden
+                      gewisseld. In veel gevallen verlengen we zo de levensduur
+                      van het systeem aanzienlijk.
+                    </>
+                  ),
+                  img: AboutMechatronics,
+                },
+                {
+                  title: "ECU Services",
+                  text: (
+                    <>
+                      De <strong>ECU</strong> vormt het brein van de motor en
+                      communiceert met vrijwel elk systeem in de auto. Wij
+                      bieden{" "}
+                      <Link href="/ecu-reparatie" className="underline!">
+                        ECU reparatie
+                      </Link>{" "}
+                      en{" "}
+                      <Link href="/ecu-revisie" className="underline!">
+                        ECU revisie
+                      </Link>{" "}
+                      voor elk type auto. Wil jij weten of je ECU nog
+                      betrouwbaar is? Dan kun je bij ons ook je{" "}
+                      <Link href="/ecu-testen" className="underline!">
+                        ECU testen
+                      </Link>
+                      . Bij een reparatie lossen we een concreet defect op. Bij
+                      revisie kijken we breder en pakken we ook bekende zwakke
+                      punten aan. ECU testen wordt vaak ingezet om vast te
+                      stellen of een storing daadwerkelijk in de module zit. Dat
+                      voorkomt onnodige vervanging. Veel garagebedrijven
+                      gebruiken onze testservice om zekerheid te krijgen vóórdat
+                      zij onderdelen bestellen. Uiteindelijk draait het om
+                      duidelijkheid. Is de ECU defect, of ligt het probleem
+                      ergens anders? Die vraag beantwoorden wij onderbouwd.
+                    </>
+                  ),
                   img: AboutECU,
                 },
                 {
-                  title: "Tellerklok Reparaties",
-                  text: "Een defecte tellerklok kan niet alleen voor verwarring zorgen tijdens het rijden, maar ook essentiële informatie over uw voertuig verbergen. Van verlichtingsproblemen en incorrecte snelheidsweergaves tot andere elektronische storingen, een goed functionerende tellerklok is cruciaal voor een veilige rijervaring. Ons team van experts bij ECU Repair heeft jarenlange ervaring in het snel en efficiënt diagnosticeren en oplossen van deze problemen. Wij gebruiken de nieuwste technologieën en technieken om ervoor te zorgen dat u altijd een nauwkeurige en betrouwbare lezing van uw dashboard krijgt.",
-                  img: AboutTachometer,
+                  title: "Hybride accupakketten",
+                  text: (
+                    <>
+                      Hybride techniek vraagt om een andere benadering. Een
+                      storing in een <strong>accupakket</strong> betekent niet
+                      automatisch volledige vervanging. Wij voeren{" "}
+                      <Link
+                        href="/hybride-accu-reparatie"
+                        className="underline!"
+                      >
+                        hybride accu reparatie
+                      </Link>{" "}
+                      en{" "}
+                      <Link href="/hybride-accu-revisie" className="underline!">
+                        hybride accu revisie
+                      </Link>{" "}
+                      uit. Daarbij beoordelen we het complete accupakket,
+                      inclusief individuele modules en spanningsbalans. In veel
+                      gevallen kan een gerichte revisie het systeem weer stabiel
+                      maken. Dat scheelt aanzienlijk in kosten ten opzichte van
+                      een nieuwe batterij via de dealer. We zien dit vaak bij
+                      modellen zoals Toyota Prius, Lexus en vergelijkbare
+                      hybride voertuigen. Door technisch inzicht en
+                      praktijkervaring kunnen we gericht adviseren wat zinvol
+                      is. Dat is beter voor het budget én voor het milieu.
+                    </>
+                  ),
+                  img: HybridePakket,
                 },
                 {
-                  title: "Mechatronics Onderhoud",
-                  text: "Mechatronics speelt een sleutelrol in de automatische transmissie van uw auto. Elk falen of defect binnen dit systeem kan resulteren in een minder soepel schakelgedrag en andere gerelateerde problemen. Bij ECU Repair nemen we geen genoegen met half werk. Ons team is gespecialiseerd in het uitvoeren van een grondige inspectie van mechatronic componenten. We identificeren de kern van het probleem en zorgen voor een efficiënte oplossing, zodat uw rijervaring altijd optimaal is. Met geavanceerde tools en een diepgaande kennis van auto-elektronica, streven we ernaar om de hoogste kwaliteit onderhoud en reparatie te bieden voor uw voertuig.",
-                  img: AboutMechatronics,
+                  title: "Mercedes contactsloten",
+                  text: (
+                    <>
+                      Een <strong>Mercedes contactslot</strong> of{" "}
+                      <strong>Electronic Steering Lock (ESL)</strong> kan voor
+                      flinke problemen zorgen. De sleutel draait niet meer, de
+                      vergrendeling blijft actief of de auto reageert niet. Wij
+                      voeren{" "}
+                      <Link
+                        href="/mercedes-contactslot-reparatie"
+                        className="underline!"
+                      >
+                        Mercedes contactslot reparatie
+                      </Link>{" "}
+                      en{" "}
+                      <Link
+                        href="/mercedes-contactslot-revisie"
+                        className="underline!"
+                      >
+                        revisie
+                      </Link>{" "}
+                      uit. Daarbij beoordelen we het contactslot én het
+                      stuurslot als systeem. Veel voorkomende klachten zien we
+                      bij onder andere de Mercedes Sprinter en Vito. Door
+                      gericht herstel voorkomen we complete vervanging van het
+                      systeem. Dat bespaart tijd én kosten voor het
+                      garagebedrijf. Onze aanpak is technisch onderbouwd en
+                      praktisch uitvoerbaar. Uiteindelijk wil je gewoon dat de
+                      auto start — en dat hij dat blijft doen.
+                    </>
+                  ),
+                  img: MercedesContactsloten,
                 },
               ]}
             />
@@ -129,22 +307,34 @@ export default function OverOnsPage() {
       </Container>
 
       <Container>
-        <Title text="ONZE GESCHIEDENIS" align="center" size="lg" underline />
-        <SideContainer
-          style={{ marginTop: 20 }}
-          alignTop
-          left={
-            <>
-              <Text text="In 2008, tijdens de snelle ontwikkelingen in de auto-elektronica sector, werd ECU Repair geboren. Onze visie was helder: een rol spelen in de niche van auto-elektronica reparaties. Ons team bestond uit een handvol gepassioneerde professionals met een gedeelde ambitie: toonaangevend worden op het gebied van reparatie en onderhoud van motormanagementeenheden, ofwel ECU's. We zagen al snel het belang in van specialisatie in een industrie die steeds technischer en complexer werd." />
-              <Text text="Naarmate de jaren verstreken, breidden we onze expertise uit. Het ging niet meer alleen om ECU's, maar ook om andere cruciale auto-elektronische onderdelen zoals tellerklokken, mechatronics en Mercedes contactsloten. Voortdurende training en het up-to-date blijven met de nieuwste technologische trends stonden centraal in onze groei. Onze technici werden niet alleen experts in hun vakgebied, maar ook consultants voor klanten die op zoek waren naar betrouwbaar advies in een gecompliceerd technisch landschap." />
-            </>
-          }
-          right={
-            <>
-              <Text text="Wat ECU Repair echter onderscheidde van vele anderen, was niet alleen onze technische capaciteit, maar ook de relaties die we opbouwden. We waardeerden elke klant, groot of klein, en streefden ernaar om meer te bieden dan alleen reparatieservices. Eerlijkheid, transparantie en het bieden van duurzame oplossingen vormden de hoeksteen van onze klantrelaties. Onze reputatie groeide, grotendeels door mond-tot-mondreclame en positieve referenties van tevreden klanten." />
-              <Text text="Terwijl we terugkijken op ons traject, zijn we trots op wat we hebben bereikt, maar we kijken ook enthousiast naar de toekomst. De auto-elektronica industrie blijft evolueren, en ECU Repair is vastbesloten om aan het roer van deze veranderingen te staan. We blijven investeren in technologie, opleiding en, het belangrijkste, onze klanten. Hierdoor verzekeren we ons van een plek aan de top in de komende jaren en blijven we de betrouwbare partner die onze klanten van ons verwachten." />
-            </>
-          }
+        <Title
+          text="Al onze diensten"
+          size="lg"
+          align="center"
+          underline
+          className="uppercase"
+        />
+        <Text align="center" className="mb-8" slim>
+          Binnen ECU Repair bundelen we al onze diensten onder één dak, zodat je
+          als garagebedrijf niet hoeft te schakelen tussen verschillende
+          specialisten. Alles wordt technisch beoordeeld in onze eigen
+          werkplaats, wat zorgt voor korte lijnen, heldere tarieven en
+          duidelijke terugkoppeling. Bekijk hieronder ons actuele aanbod aan
+          diensten.
+        </Text>
+        <ServiceRevealCards
+          includeIds={[
+            "dsg-revisie",
+            "ecu-reparatie",
+            "ecu-testen",
+            "ecu-revisie",
+            "hybride-accu-reparatie",
+            "hybride-accu-revisie",
+            "mercedes-contactslot-reparatie",
+            "mercedes-contactslot-revisie",
+            "mechatronic-reparatie",
+            "mechatronic-revisie",
+          ]}
         />
       </Container>
     </>
