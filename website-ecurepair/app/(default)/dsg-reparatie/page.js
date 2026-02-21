@@ -16,7 +16,7 @@ import ParallexBanner from "@/components/modules/ParallexBanner";
 
 export function generateMetadata() {
   return {
-    title: `ECU Repair \u2013 DSG reparatie`,
+    title: `DSG reparatie \u2013 Nu voor €550,- \u2013 ECU Repair`,
     description: `ECU Repair is dé DSG expert met 15+ jaar ervaring. Van revisie tot reparatie en vervanging van DSG-6 en DSG-7. Betrouwbare service voor alle DSG problemen.`,
   };
 }

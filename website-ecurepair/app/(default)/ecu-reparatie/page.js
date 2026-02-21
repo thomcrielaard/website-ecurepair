@@ -18,7 +18,7 @@ import ECUBanner from "@/assets/img/about-ecu.jpg";
 
 export function generateMetadata() {
   return {
-    title: `ECU Reparatie \u2013 Reparatie, Revisie en Diagnose van de ECU \u2013 ECU reparatie`,
+    title: `ECU Reparatie voor €250,- \u2013 Reparatie, Revisie en Diagnose van de ECU \u2013 ECU reparatie`,
     description: `ECU reparatie nodig? ECU Repair is specialist in diagnose, revisie en programmeren van ECU's. Betrouwbare service voor garages en autobedrijven.`,
   };
 }

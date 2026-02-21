@@ -17,7 +17,8 @@ import ECUBanner from "@/assets/img/about-ecu.jpg";
 
 export function generateMetadata() {
   return {
-    title: "ECU Repair \u2013 ECU testen voor diagnose en controle",
+    title:
+      "ECU testen voor €70,- \u2013 Voor diagnose en controle\u2013 ECU Repair",
     description:
       "ECU testen om de staat van de ECU te beoordelen. Geschikt bij storingen of als controle. Meld de ECU eenvoudig aan via het reparatieformulier.",
   };

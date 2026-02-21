@@ -17,7 +17,7 @@ import DSGBanner from "@/assets/img/dsg-banner.jpg";
 
 export function generateMetadata() {
   return {
-    title: `ECU Repair \u2013 DSG revisie voor problemen en preventief onderhoud`,
+    title: `DSG revisie \u2013 Nu voor €550,- \u2013 Voor problemen en preventief onderhoud \u2013 ECU Repair`,
     description: `Problemen met de DSG automaat of preventief reviseren? ECU Repair voert DSG revisies uit met diagnose, duidelijke kosten en heldere terugkoppeling.`,
   };
 }

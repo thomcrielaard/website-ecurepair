@@ -17,7 +17,7 @@ import HybrideBanner from "@/assets/img/services/hybride-accu-banner.webp";
 
 export function generateMetadata() {
   return {
-    title: `ECU Repair \u2013 Hybride accu reparatie en accupakket herstel`,
+    title: `Hybride accu reparatie voor 450,- \u2013 Accupakket herstel \u2013 ECU Repair`,
     description: `ECU Repair is specialist in hybride accu reparatie, diagnose en herstel van accupakketten. Voor garages en ondernemers in de auto-industrie.`,
   };
 }

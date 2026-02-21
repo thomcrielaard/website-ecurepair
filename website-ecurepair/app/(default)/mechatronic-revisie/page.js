@@ -18,7 +18,8 @@ import ServiceRevealCards from "@/components/modules/ServiceRevealCards";
 
 export function generateMetadata() {
   return {
-    title: "Mechatronic revisie voor DSG transmissie \u2013 ECU Repair",
+    title:
+      "Mechatronic revisie voor €400,- \u2013 DSG transmissie mechatronic \u2013 ECU Repair",
     description:
       "Mechatronic revisie voor DSG transmissies bij schakelproblemen en storingen. ECU Repair reviseert DSG mechatronic units na diagnose en test.",
   };

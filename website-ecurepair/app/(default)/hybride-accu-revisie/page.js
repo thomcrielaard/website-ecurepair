@@ -17,7 +17,7 @@ import HybrideBanner from "@/assets/img/services/hybride-accu-banner.webp";
 
 export function generateMetadata() {
   return {
-    title: `ECU Repair \u2013 Hybride accu revisie voor hybride auto's`,
+    title: `Hybride accu revisie voor €550,-\u2013 Voor hybride accu's en auto's \u2013 ECU Repair `,
     description: `Hybride accu revisie bij storingen of slijtage. ECU Repair reviseert accupakketten voor hybride auto's na diagnose, als alternatief voor vervanging.`,
   };
 }

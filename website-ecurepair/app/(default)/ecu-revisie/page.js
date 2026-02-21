@@ -18,7 +18,7 @@ import ECUBanner from "@/assets/img/about-ecu.jpg";
 export function generateMetadata() {
   return {
     title:
-      "ECU Repair \u2013 ECU revisie bij terugkerende storingen en foutcodes",
+      "ECU revisie voor €250,- \u2013 Bij terugkerende storingen en foutcodes \u2013 ECU Repair",
     description:
       "ECU revisie bij structurele ECU problemen. Terugkerende foutcodes, noodloop of startproblemen? Vraag direct een ECU revisie aan bij ECU Repair.",
   };

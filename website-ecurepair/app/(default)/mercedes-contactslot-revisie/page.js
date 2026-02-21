@@ -14,11 +14,10 @@ import ServiceRevealCards from "@/components/modules/ServiceRevealCards";
 
 import Sleutels from "@/assets/img/mercedes.png";
 import MercedesBanner from "@/assets/img/mercedes-banner.jpg";
-import HybrideBanner from "@/assets/img/services/hybride-accu-banner.webp";
 
 export function generateMetadata() {
   return {
-    title: `ECU Repair \u2013 Hybride accu revisie voor hybride auto's`,
+    title: `Mercedes contactslot revisie voor €250,- \u2013 Startproblemen en slijtage \u2013 ECU Repair`,
     description: `Hybride accu revisie bij storingen of slijtage. ECU Repair reviseert accupakketten voor hybride auto's na diagnose, als alternatief voor vervanging.`,
   };
 }

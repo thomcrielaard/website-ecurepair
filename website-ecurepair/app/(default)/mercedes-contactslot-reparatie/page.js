@@ -21,7 +21,8 @@ import ServiceRevealCards from "@/components/modules/ServiceRevealCards";
 
 export function generateMetadata() {
   return {
-    title: "ECU Repair \u2013 Mercedes Contactsloten",
+    title:
+      "Mercedes contactslot reparatie voor €250,- \u2013 Snel weer starten \u2013 ECU Repair",
     description:
       "Mercedes-Benz contactslot reparatie bij ECU Repair: Kwalitatieve service in defecte contactsloten, sleutelhapering & Electronic Steering Lock (ESL) problemen.",
   };

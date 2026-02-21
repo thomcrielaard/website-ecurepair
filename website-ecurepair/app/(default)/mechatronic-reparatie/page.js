@@ -21,7 +21,7 @@ import ServiceRevealCards from "@/components/modules/ServiceRevealCards";
 export function generateMetadata() {
   return {
     title:
-      "Mechatronics reparatie en revisie \u2013 Specialist in auto elektronica \u2013 ECU Repair",
+      "Mechatronics reparatie voor €400,- \u2013 Specialist in auto elektronica \u2013 ECU Repair",
     description:
       "Mechatronic reparatie nodig? ECU Repair is specialist in diagnose, revisie en vervanging van DSG mechatronics. Snelle service en betrouwbare oplossingen.",
   };
