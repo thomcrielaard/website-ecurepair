@@ -12,7 +12,7 @@ import Button from "@/components/modules/Button";
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 
-// ISR: cache each page for 1 hour (adjust as you like)
+// ISR: cache each page for 1 hour
 export const revalidate = 3600;
 
 // Cache the searchbar data globally to ensure it only fetches once per server instance

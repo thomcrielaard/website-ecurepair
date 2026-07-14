@@ -1,35 +1,30 @@
 import * as React from "react";
 
-import styles from "@/styles/modules/IconBar.module.scss";
-
 import Colors from "@/styles/Colors";
-import Gears from "@/assets/svg/Gears";
-import Shield from "@/assets/svg/Shield";
-import Rocket from "@/assets/svg/Rocket";
 
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
-import Star from "@/assets/svg/Star";
-import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
-import Lightbulb from "@/assets/svg/Lightbulb";
+
+import { FaLightbulb, FaMagnifyingGlass, FaStar } from "react-icons/fa6";
 
 export default function IconBar() {
   return (
-    <div className={styles.IconBar}>
+    <div className="flex justify-between flex-col items-center gap-4 sm:gap-8 sm:items-start sm:flex-row p-5 lg:px-20 lg:py-5 shadow-lg">
       <Icon
-        icon={<Lightbulb width={16} color={Colors.RED} />}
+        icon={<FaLightbulb className="text-red" size={18} />}
         title="Innovatief"
         text="Altijd voorop in technologie"
       />
-      <hr className={styles.IconBarSeparator} />
+
+      <hr className="border-0 h-px w-full bg-neutral-200 sm:hidden" />
       <Icon
-        icon={<MagnifyingGlass width={20} color={Colors.RED} />}
+        icon={<FaMagnifyingGlass className="text-red" size={20} />}
         title="Precisie"
         text="Wij kijken naar elk detail"
       />
-      <hr className={styles.IconBarSeparator} />
+      <hr className="border-0 h-px w-full bg-neutral-200 sm:hidden" />
       <Icon
-        icon={<Star width={22} color={Colors.RED} />}
+        icon={<FaStar className="text-red" size={22} />}
         title="Kwaliteit"
         text="Service van topklasse"
       />
@@ -39,13 +34,19 @@ export default function IconBar() {
 
 function Icon(props) {
   return (
-    <div className={styles.IconContainer}>
-      <div className={styles.Icon}>{props.icon}</div>
+    <div className="flex flex-col items-center gap-4 sm:flex-row">
+      <div className="flex h-12 w-12 min-w-12 items-center justify-center rounded-full border-2 border-red text-red">
+        {props.icon}
+      </div>
       <div>
-        <Title size="xs" text={props.title} className={styles.IconTitle} />
+        <Title
+          size="xs"
+          text={props.title}
+          className="!text-center sm:!text-left"
+        />
         <Text
           text={props.text}
-          className={styles.IconText}
+          className="m-0 !text-center sm:!text-left"
           color={Colors.LIGHTGRAY}
           fontSize={16}
         />
