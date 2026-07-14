@@ -1,8 +1,6 @@
 import * as React from "react";
 import Link from "next/link";
 
-import styles from "@/styles/text/TextLink.module.scss";
-
 export default function TextLink(props) {
   const [hover, setHover] = React.useState(false);
 
@@ -15,7 +13,7 @@ export default function TextLink(props) {
       <Link
         href={props.href}
         target={props.target}
-        className={`${styles.TextLink} ${props.className || ""}`}
+        className={`text-base font-normal transition-all duration-300 ease-in-out ${props.className || ""}`}
         style={{
           color: hover ? props.hoverColor : props.color,
           fontSize: props.fontSize,
@@ -24,8 +22,8 @@ export default function TextLink(props) {
         }}
         onClick={props.onClick}
       >
-        <div className={styles.TextLinkBarContainer}>
-          {props.bar && <div className={styles.TextLinkBar} />}
+        <div className="flex items-center gap-2">
+          {props.bar && <div className="w-0.5 self-stretch bg-red" />}
           {props.text}
         </div>
       </Link>

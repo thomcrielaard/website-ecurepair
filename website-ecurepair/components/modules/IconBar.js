@@ -32,6 +32,7 @@ export default function IconBar() {
   );
 }
 
+// TODO: Remove !'s once title and text support tailwind
 function Icon(props) {
   return (
     <div className="flex flex-col items-center gap-4 sm:flex-row">

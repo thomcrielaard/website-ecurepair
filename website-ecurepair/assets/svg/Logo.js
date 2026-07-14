@@ -1,11 +1,8 @@
 import * as React from "react";
 
-import styles from "@/styles/assets/Logo.module.scss";
-
 const Logo = (props) => (
   <div
-    className={`${styles.LogoContainer} 
-    ${props.responsive ? styles.LogoResponsive : ""}`}
+    className={`flex flex-col items-center ${props.responsive ? "w-50 sm:w-75 md:w-100" : "w-50"}`}
   >
     <svg
       className={props.className || ""}
@@ -40,30 +37,30 @@ const Logo = (props) => (
     </svg>
     {props.h1 ? (
       <h1
-        className={styles.LogoCaption}
+        className={`whitespace-nowrap uppercase font-[lato] font-extrabold text-white ${props.responsive ? "text-xl tracking-[3.5px] my-1 mb-0.75 sm:text-3xl sm:tracking-[6px] sm:my-1.5 sm:mb-1 md:text-4xl md:tracking-[8px] md:my-2 md:mb-1.25" : "text-xl tracking-[3.5px] my-1 mb-0.75"}`}
         style={{
           color: props.color,
         }}
       >
-        ECU REPAIR
+        ECU Repair
       </h1>
     ) : (
       <span
-        className={styles.LogoCaption}
+        className={`whitespace-nowrap uppercase font-[lato] font-extrabold text-white ${props.responsive ? "text-xl tracking-[3.5px] my-1 mb-0.75 sm:text-3xl sm:tracking-[6px] sm:my-1.5 sm:mb-1 md:text-4xl md:tracking-[8px] md:my-2 md:mb-1.25" : "text-xl tracking-[3.5px] my-1 mb-0.75"}`}
         style={{
           color: props.color,
         }}
       >
-        ECU REPAIR
+        ECU Repair
       </span>
     )}
     <span
-      className={styles.LogoSubcaption}
+      className={`whitespace-nowrap uppercase font-[lato] font-semibold text-white ${props.responsive ? "text-[8px] tracking-[calc(4px/3)] sm:text-xs sm:tracking-[2px] md:text-base md:tracking-[calc(8px/3)]" : "text-[8px] tracking-[calc(4px/3)]"}`}
       style={{
         color: props.color,
       }}
     >
-      REVISIE EN REPARATIE
+      revisie en reparatie
     </span>
   </div>
 );

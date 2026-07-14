@@ -1,12 +1,11 @@
 import * as React from "react";
 
-import styles from "@/styles/containers/Container.module.scss";
-
+// TODO: Remove style prop
 export default function Container(props) {
   return (
     <>
       <div
-        className={`${styles.ContainerWrapper} 
+        className={`flex justify-center w-full 
         ${props.className || ""}`}
         style={{
           backgroundColor: props.backgroundColor,
@@ -15,7 +14,7 @@ export default function Container(props) {
         id={props.id}
       >
         <div
-          className={`${styles.Container} 
+          className={`max-w-500 w-full px-8 md:px-16 lg:px-32 py-16 
           ${props.innerClassName || ""}`}
           style={{
             paddingTop: props.paddingVert ?? props.padding,
