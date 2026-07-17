@@ -15,7 +15,6 @@ import ItemCards from "@/components/modules/ItemCards";
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 import Button from "@/components/modules/Button";
-import Colors from "@/styles/Colors";
 
 export default function Onderdelen({
   products,
@@ -60,10 +59,7 @@ export default function Onderdelen({
         >
           <Button
             text="REPARATIEFORMULIER"
-            color={Colors.GRAY}
-            borderColor={Colors.GRAY}
-            hoverColor={Colors.RED}
-            hoverBorderColor={Colors.RED}
+            className="text-gray border-gray hover:text-red hover:border-red"
             style={{ marginTop: 30 }}
             href="https://www.reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
             target="_blank"

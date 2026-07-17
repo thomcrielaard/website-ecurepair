@@ -2,10 +2,6 @@
 import * as React from "react";
 import Image from "next/image";
 
-import styles from "@/styles/modules/BigBanner.module.scss";
-
-import Colors from "@/styles/Colors";
-
 import Container from "@/components/containers/Container";
 import Text from "@/components/text/Text";
 import Button from "@/components/modules/Button";
@@ -13,8 +9,9 @@ import Button from "@/components/modules/Button";
 import Header from "@/assets/img/header-home.jpg";
 
 import Logo from "@/assets/svg/Logo";
-import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
 import constructSearchUrl from "@/services/ConstructSearchUrl";
+
+import { FaMagnifyingGlass } from "react-icons/fa6";
 
 export default function BigBanner(props) {
   const selectPartRef = React.useRef(null);
@@ -31,7 +28,7 @@ export default function BigBanner(props) {
   const changeMerk = (merk) => {
     const selectedValue = merk;
     const brand = props.searchbarData.find(
-      (item) => item.id === parseInt(selectedValue)
+      (item) => item.id === parseInt(selectedValue),
     );
     if (brand) {
       setBrandValue(merk);
@@ -47,9 +44,9 @@ export default function BigBanner(props) {
 
   return (
     <>
-      <div className={styles.BigBanner}>
+      <div className="relative bg-gray">
         <Image
-          className={styles.BigBannerImage}
+          className="z-1 object-cover"
           src={Header}
           alt={"Omslagfoto"}
           placeholder="blur"
@@ -58,13 +55,12 @@ export default function BigBanner(props) {
           priority
         />
 
-        <Container innerClassName={styles.BigBannerContainer}>
+        <Container innerClassName="z-2 flex min-h-0 flex-col items-center justify-center gap-5 pt-24 pb-0 md:h-[80vh] md:min-h-125 md:py-16">
           <Logo responsive h1 />
 
           <Text
-            color={Colors.WHITE}
+            className="text-white [text-shadow:0px_0px_4px_#000000]"
             align="center"
-            style={{ textShadow: "0px 0px 4px #000000" }}
             slim
           >
             Welkom bij ECU Repair, dé specialist in geavanceerde autoreparaties.
@@ -76,15 +72,17 @@ export default function BigBanner(props) {
           </Text>
         </Container>
 
-        <div className={styles.BigBannerSearchContainer}>
+        <div className="relative -bottom-12 left-1/2 z-3 flex w-full max-w-500 -translate-x-1/2 flex-col justify-between gap-3.75 bg-gray p-8 shadow-[0px_0px_14px_0px_rgba(0,0,0,0.25)] md:absolute md:flex-row md:py-14 lg:px-20 xl:w-3/4">
           <input
             type="text"
             placeholder="Onderdeelnummer"
+            className="h-10 w-full rounded-xs border-0 border-b border-lightgray bg-white/30 px-2.5 py-0 text-[1.15rem] font-[family-name:lato] font-medium transition-all duration-300 ease-in-out placeholder:text-white md:h-auto md:text-[1.1rem] lg:text-xl"
             onChange={(e) => handleInputChange(e.target.value)}
           />
 
           <select
             defaultValue={"DEFAULT"}
+            className="h-10 w-full rounded-xs border-0 border-b border-lightgray bg-white/30 px-2.5 py-0 text-[1.15rem] font-[family-name:lato] font-medium text-white transition-all duration-300 ease-in-out focus:border-red focus:outline-none disabled:text-gray disabled:hover:cursor-not-allowed md:h-auto md:text-[1.1rem] lg:text-xl [&>option]:font-medium [&>option:not(:disabled)]:text-gray"
             onChange={(e) => changeMerk(e.target.value)}
           >
             <option value="DEFAULT" disabled>
@@ -101,6 +99,7 @@ export default function BigBanner(props) {
             defaultValue={"DEFAULT"}
             disabled={parts.length === 0}
             ref={selectPartRef}
+            className="h-10 w-full rounded-xs border-0 border-b border-lightgray bg-white/30 px-2.5 py-0 text-[1.15rem] font-[family-name:lato] font-medium text-white transition-all duration-300 ease-in-out focus:border-red focus:outline-none disabled:text-gray disabled:hover:cursor-not-allowed md:h-auto md:text-[1.1rem] lg:text-xl [&>option]:font-medium [&>option:not(:disabled)]:text-gray"
             onChange={(e) => changePart(e.target.value)}
           >
             <option value="DEFAULT" disabled>
@@ -115,16 +114,11 @@ export default function BigBanner(props) {
 
           <Button
             text={
-              <div
-                style={{ display: "flex", alignSelf: "flex-start", gap: 10 }}
-              >
-                ZOEKEN <MagnifyingGlass width={20} fill={Colors.WHITE} />
+              <div className="flex gap-2.5 self-start">
+                ZOEKEN <FaMagnifyingGlass size={20} />
               </div>
             }
-            borderColor={Colors.RED}
-            backgroundColor={Colors.RED}
-            color={Colors.WHITE}
-            style={{ alignSelf: "center" }}
+            className="self-center bg-red border-red"
             href={constructSearchUrl(inputValue, brandValue, partValue)}
           />
         </div>

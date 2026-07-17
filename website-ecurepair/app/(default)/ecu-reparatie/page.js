@@ -1,7 +1,5 @@
 import Image from "next/image";
 
-import styles from "@/styles/pages/overons.module.scss";
-
 import Breakpoints from "@/styles/Breakpoints";
 
 import Container from "@/components/containers/Container";
@@ -33,8 +31,8 @@ export default function EcuReparatiePage() {
             <>
               <Title
                 text="ECU Reparatie – Specialist in auto elektronica"
-                className={styles.OverOnsTitleResponsive}
-                containerClassName={styles.OverOnsTitleBarResponsive}
+                className="text-center md:text-left"
+                containerClassName="md:justify-start"
                 size="lg"
                 underline
                 h1

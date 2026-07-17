@@ -1,23 +1,35 @@
 import * as React from "react";
 
-import styles from "@/styles/containers/SideContainer.module.scss";
-
 export default function SideContainer(props) {
   return (
-    <>
+    <div
+      className={`flex w-full justify-between ${
+        props.alignTop ? "items-start" : "items-center"
+      } ${props.reverse ? "flex-col-reverse" : "flex-col"} md:flex-row`}
+      style={props.style}
+    >
       <div
-        className={`${styles.SideContainer} 
-        ${props.reverse ? styles.SideContainerReverse : ""} 
-        ${props.contentRight ? styles.SideContainerContentRight : ""} 
-        ${props.contentLeft ? styles.SideContainerContentLeft : ""}
-        ${props.alignTop ? styles.SideContainerAlignTop : ""}`}
-        style={{
-          ...props.style,
-        }}
+        className={`w-full ${
+          props.contentLeft
+            ? "md:w-[63%]"
+            : props.contentRight
+              ? "md:w-[33%]"
+              : "md:w-[48%]"
+        }`}
       >
-        <div className={styles.SideContainerLeft}>{props.left}</div>
-        <div className={styles.SideContainerRight}>{props.right}</div>
+        {props.left}
       </div>
-    </>
+      <div
+        className={`w-full ${
+          props.contentLeft
+            ? "md:w-[33%]"
+            : props.contentRight
+              ? "md:w-[63%]"
+              : "md:w-[48%]"
+        }`}
+      >
+        {props.right}
+      </div>
+    </div>
   );
 }

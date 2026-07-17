@@ -1,10 +1,6 @@
 import * as React from "react";
 import Image from "next/image";
 
-import styles from "@/styles/modules/ParallexBanner.module.scss";
-
-import Colors from "@/styles/Colors";
-
 import Container from "@/components/containers/Container";
 
 import Text from "@/components/text/Text";
@@ -15,10 +11,10 @@ import Button from "@/components/modules/Button";
 export default function ParallaxBanner(props) {
   return (
     <>
-      <div className={styles.ParallexBannerContainer}>
-        <div className={styles.ParallexBannerOverlay} />
+      <div className="relative [clip-path:polygon(0_0,50%_30px,100%_0,100%_calc(100%-30px),50%_100%,0_calc(100%-30px))] lg:[clip-path:polygon(0_0,50%_65px,100%_0,100%_calc(100%-65px),50%_100%,0_calc(100%-65px))]">
+        <div className="absolute z-0 h-full w-full bg-black/62" />
         <Image
-          style={{ zIndex: -1, objectFit: "cover" }}
+          className="-z-10 object-cover"
           src={props.image}
           alt={"Banner"}
           placeholder="blur"
@@ -26,24 +22,22 @@ export default function ParallaxBanner(props) {
           fill
         />
 
-        <Container paddingVert={0} style={{ zIndex: 1, position: "relative" }}>
-          <div className={styles.ParallexBannerWrapper}>
+        <Container paddingVert={0} className="relative z-1">
+          <div className="flex flex-col items-center justify-center gap-5 pt-20 pb-16.25 lg:pt-33.75">
             <Title
               text={props.title}
-              color={Colors.WHITE}
+              className="text-white"
               size="xl"
               align="center"
             />
 
-            <Text color={Colors.WHITE} align="center" slim>
+            <Text className="text-white" align="center" slim>
               {props.children ?? props.text}
             </Text>
 
             <Button
               text={props.buttonText}
-              backgroundColor={Colors.WHITE}
-              color={Colors.GRAY}
-              hoverColor={Colors.RED}
+              className="bg-white text-gray hover:text-red"
               href={props.buttonLink}
               target={props.target}
             />

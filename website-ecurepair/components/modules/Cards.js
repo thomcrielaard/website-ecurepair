@@ -37,7 +37,7 @@ export default function Cards() {
             </Text>
           </div>
           <Button
-            className="absolute left-1/2 -bottom-16 z-20 w-64! -translate-x-1/2 shadow-lg !text-red hover:!text-gray !bg-white"
+            className="absolute left-1/2 -bottom-16 z-20 w-64 -translate-x-1/2 shadow-lg text-red hover:text-gray bg-white"
             text="ECU Reparatie"
             href="/ecu-reparatie"
           />
@@ -61,7 +61,7 @@ export default function Cards() {
             </Text>
           </div>
           <Button
-            className="absolute left-1/2 -bottom-16 z-20 w-64! -translate-x-1/2 shadow-lg !text-gray hover:!text-red !bg-white"
+            className="absolute left-1/2 -bottom-16 z-20 w-64 -translate-x-1/2 shadow-lg text-gray hover:text-red bg-white"
             text="DSG Revisie"
             href="/dsg-revisie"
           />

@@ -1,7 +1,5 @@
 import * as React from "react";
 
-import Colors from "@/styles/Colors";
-
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 
@@ -47,8 +45,7 @@ function Icon(props) {
         />
         <Text
           text={props.text}
-          className="m-0 !text-center sm:!text-left"
-          color={Colors.LIGHTGRAY}
+          className="m-0 !text-center sm:!text-left text-lightgray"
           fontSize={16}
         />
       </div>

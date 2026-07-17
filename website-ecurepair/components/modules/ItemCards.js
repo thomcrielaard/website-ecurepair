@@ -3,11 +3,8 @@ import * as React from "react";
 import Image from "next/image";
 import ReactPaginate from "react-paginate";
 
-import styles from "@/styles/modules/ItemCards.module.scss";
-
 import UseDimensions from "@/services/UseDimensions";
 import Breakpoints from "@/styles/Breakpoints";
-import Colors from "@/styles/Colors";
 import { BlurDataUrl } from "@/services/BlurDataUrl";
 
 import Button from "@/components/modules/Button";
@@ -15,7 +12,7 @@ import Button from "@/components/modules/Button";
 import Title from "@/components/text/Title";
 import Text from "@/components/text/Text";
 import { API_URL } from "@/pages/_app";
-import Chevron from "@/assets/svg/Chevron";
+import { FaChevronRight, FaChevronLeft } from "react-icons/fa6";
 
 export default function ItemCards(props) {
   const size = UseDimensions();
@@ -29,7 +26,7 @@ export default function ItemCards(props) {
     const endOffset = itemOffset + itemsPerPage;
     setCurrentItems(props.items.slice(itemOffset, endOffset));
     setPageCount(
-      props.pageCount ?? Math.ceil(props.items.length / itemsPerPage)
+      props.pageCount ?? Math.ceil(props.items.length / itemsPerPage),
     );
   }, [itemOffset, props.items, itemsPerPage, props.pageCount]);
 
@@ -44,18 +41,22 @@ export default function ItemCards(props) {
         <Text
           text="Geen onderdelen gevonden."
           align="center"
-          style={{ marginTop: 50 }}
+          className="mt-12.5"
           slim
         />
       )}
-      <div className={styles.ItemCardsContainer}>
+      <div className="my-10 grid w-full grid-cols-1 gap-x-[4%] gap-y-7.5 xxs:grid-cols-2 xxs:gap-y-10 xl:grid-cols-4 xl:gap-y-12.5">
         {currentItems
           .slice(0, props.short ? 4 : props.items.length)
           .map((item, key) => (
-            <div key={key} className={styles.ItemCard}>
+            <div
+              key={key}
+              className="flex w-full flex-col self-stretch shadow-[0px_0px_10px_0px_rgba(0,0,0,0.15)]"
+            >
               <div
-                className={`${styles.ItemCardImageWrapper} 
-                ${props.square && styles.square}`}
+                className={`relative w-full ${
+                  props.square ? "aspect-[6/5]" : "aspect-[5/3]"
+                }`}
               >
                 <Image
                   sizes={`(min-width: ${Breakpoints.lg}) 25vw, (min-width: ${Breakpoints.xs}) 50vw, 100vw`}
@@ -67,42 +68,39 @@ export default function ItemCards(props) {
                       ? item.afbeelding
                         ? item.afbeelding.url
                         : item.onderdeel.afbeeldingen
-                        ? item.onderdeel.afbeeldingen[0].url
-                        : "/uploads/no_image_available_260ccf02f5.png"
+                          ? item.onderdeel.afbeeldingen[0].url
+                          : "/uploads/no_image_available_260ccf02f5.png"
                       : item.omslagfoto.url)
                   }
                   alt={item.onderdeelnummer ?? item.titel}
                   fill
-                  style={{ objectFit: "cover" }}
+                  className="object-cover"
                 />
               </div>
-              <div className={styles.ItemCardTextWrapper}>
+              <div className="flex grow flex-col justify-between gap-3.75 p-5">
                 <div>
                   <Title
                     text={item.onderdeelnummer ?? item.titel}
                     size="xs"
-                    style={{ wordWrap: "break-word" }}
+                    className="break-words"
                   />
                   <Text
                     text={item.samenvatting}
-                    className={styles.ItemCardText}
+                    className="mt-3 text-[15px] text-lightgray"
                     align="left"
                   />
                 </div>
-                <div className={styles.ItemCardBottomWrapper}>
+                <div className="flex items-center justify-between gap-2.5">
                   <Button
                     text="MEER LEZEN"
                     href={
                       item.onderdeelnummer != undefined
                         ? `/onderdelen/${encodeURIComponent(
-                            item.onderdeelnummer
+                            item.onderdeelnummer,
                           )}`
                         : `/nieuws/${encodeURIComponent(item.titel)}`
                     }
-                    color={Colors.GRAY}
-                    hoverColor={Colors.RED}
-                    borderColor={Colors.LIGHTGRAY}
-                    hoverBorderColor={Colors.RED}
+                    className="text-gray border-lightgray hover:text-red hover:border-red"
                     small
                   />
                 </div>
@@ -119,14 +117,8 @@ export default function ItemCards(props) {
             </span>
           }
           nextLabel={
-            <div className={styles.PaginateLabel}>
-              <Chevron
-                width={12}
-                color={Colors.BLACK}
-                style={{
-                  rotate: "-90deg",
-                }}
-              />
+            <div className="flex h-full w-full items-center justify-center">
+              <FaChevronRight size={12} className="text-black" />
             </div>
           }
           hrefBuilder={(page) =>
@@ -146,14 +138,8 @@ export default function ItemCards(props) {
           pageCount={pageCount}
           forcePage={(props.page ?? 1) - 1}
           previousLabel={
-            <div className={styles.PaginateLabel}>
-              <Chevron
-                width={12}
-                color={Colors.BLACK}
-                style={{
-                  rotate: "90deg",
-                }}
-              />
+            <div className="flex h-full w-full items-center justify-center">
+              <FaChevronLeft size={12} className="text-black" />
             </div>
           }
           renderOnZeroPageCount={null}
@@ -162,7 +148,6 @@ export default function ItemCards(props) {
           nextAriaLabel="Volgende pagina"
           previousAriaLabel="Vorige pagina"
           breakAriaLabels={"Meer pagina's"}
-          activeClassName={styles.active}
         />
       )}
     </>

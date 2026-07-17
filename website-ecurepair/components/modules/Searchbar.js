@@ -1,15 +1,11 @@
 "use client";
 import * as React from "react";
-
-import styles from "@/styles/modules/Searchbar.module.scss";
-
-import Colors from "@/styles/Colors";
+import Link from "next/link";
 
 import Button from "@/components/modules/Button";
-import MagnifyingGlass from "@/assets/svg/MagnifyingGlass";
-import Clear from "@/assets/svg/Clear";
 import constructSearchUrl from "@/services/ConstructSearchUrl";
-import Link from "next/link";
+
+import { FaMagnifyingGlass, FaXmark } from "react-icons/fa6";
 
 export default function Searchbar(props) {
   const inputRef = React.useRef(null);
@@ -43,7 +39,7 @@ export default function Searchbar(props) {
   const changeMerk = (merk, clearPart = true) => {
     const selectedValue = merk;
     const brand = props.searchbarData.find(
-      (item) => item.id === parseInt(selectedValue)
+      (item) => item.id === parseInt(selectedValue),
     );
     if (brand) {
       setParts(brand.onderdeels);
@@ -72,38 +68,36 @@ export default function Searchbar(props) {
   };
 
   return (
-    <div className={styles.SearchbarContainer}>
-      <div className={styles.SearchbarWrapper}>
-        <div className={styles.Searchbar}>
-          <div className={styles.SearchbarFormWrapper}>
+    <div className="flex justify-center">
+      <div className="flex w-full max-w-187.5 flex-col justify-between gap-7.5 md:flex-row">
+        <div className="flex w-full flex-col justify-between">
+          <div className="pb-2.5 md:pb-5">
             <form method="GET" action="/onderdelen/zoeken/1">
               <input
                 type="text"
                 name="onderdeel"
                 placeholder="Onderdelen zoeken"
-                className={`${styles.SearchbarInput} searchbar-input`}
+                className="searchbar-input h-full w-full border-0 bg-transparent px-1 py-0 text-lg text-gray font-[family-name:lato] font-semibold"
                 ref={inputRef}
                 onChange={handleInputChange}
               />
             </form>
 
-            <div className={styles.SearchbarIndicationbar}>
+            <div className="mt-0.5 hidden w-full md:flex">
               <div
-                className={styles.SearchbarIndication}
-                style={{
-                  width: `min(${inputWidth}px, 100%)`,
-                }}
+                className="h-0.5 bg-red transition-[width] duration-300 ease-in-out"
+                style={{ width: `min(${inputWidth}px, 100%)` }}
               />
-              <div className={styles.SearchbarIndicationFill} />
+              <div className="h-0.5 flex-1 bg-red/29" />
             </div>
           </div>
 
-          <div className={styles.SearchbarSelectContainer}>
-            <div className={styles.SearchbarSelectWrapper}>
-              <div className={styles.SearchbarMobileSeparator} />
+          <div className="flex gap-2.5">
+            <div className="flex h-full flex-1 flex-col gap-1.25 md:flex-row md:gap-2.5 lg:gap-10">
+              <div className="mb-2.5 h-px w-full bg-gray/29 md:hidden" />
 
               <select
-                className={`${styles.SearchbarInput} select-search hover`}
+                className="select-search hover h-full w-full border-0 bg-transparent px-1 py-0 text-lg text-gray font-[family-name:lato] font-semibold [&>option]:font-medium"
                 ref={selectBrandRef}
                 name="merk"
                 defaultValue={"DEFAULT"}
@@ -119,12 +113,12 @@ export default function Searchbar(props) {
                 ))}
               </select>
 
-              <div className={styles.SearchbarMobileSeparator} />
+              <div className="mb-2.5 h-px w-full bg-gray/29 md:hidden" />
 
               <select
-                className={`select-search 
-                ${styles.SearchbarInput} 
-                ${parts.length === 0 ? "select-disabled" : "hover"}`}
+                className={`select-search h-full w-full border-0 bg-transparent px-1 py-0 text-lg text-gray font-[family-name:lato] font-semibold [&>option]:font-medium ${
+                  parts.length === 0 ? "select-disabled" : "hover"
+                }`}
                 ref={selectPartRef}
                 defaultValue={"DEFAULT"}
                 disabled={parts.length === 0}
@@ -140,43 +134,39 @@ export default function Searchbar(props) {
                 ))}
               </select>
 
-              <div className={styles.SearchbarMobileSeparator} />
+              <div className="mb-2.5 h-px w-full bg-gray/29 md:hidden" />
             </div>
 
             <Link
               href="/onderdelen/pagina/1"
-              className={`${styles.SearchbarClear} hover`}
+              className="hover relative z-1 ml-auto w-4.5 border-0 bg-transparent p-0"
               aria-label="Selectie wissen"
             >
-              <Clear width={12} color={Colors.GRAY} />
+              <FaXmark size={16} className="text-gray" />
             </Link>
           </div>
-          <div className={styles.SearchbarIndicationbar}>
+
+          <div className="mt-0.5 hidden w-full md:flex">
             <div
-              className={styles.SearchbarIndication}
-              style={{
-                width: `${barWidth}%`,
-              }}
+              className="h-0.5 bg-red transition-[width] duration-300 ease-in-out"
+              style={{ width: `${barWidth}%` }}
             />
-            <div className={styles.SearchbarIndicationFill} />
+            <div className="h-0.5 flex-1 bg-red/29" />
           </div>
         </div>
 
-        <div style={{ display: "flex" }}>
+        <div className="flex">
           <Button
             text={
-              <div className={styles.SearchbarButton}>
-                ZOEKEN <MagnifyingGlass width={20} fill={Colors.WHITE} />
+              <div className="flex gap-2.5 self-start">
+                ZOEKEN <FaMagnifyingGlass size={20} />
               </div>
             }
-            borderColor={Colors.RED}
-            backgroundColor={Colors.RED}
-            color={Colors.WHITE}
-            style={{ alignSelf: "center" }}
+            className="bg-red border-red self-center"
             href={constructSearchUrl(
               inputRef.current?.value,
               selectBrandRef.current?.value,
-              selectPartRef.current?.value
+              selectPartRef.current?.value,
             )}
           />
         </div>

@@ -1,9 +1,6 @@
 import Image from "next/image";
 
-import styles from "@/styles/pages/overons.module.scss";
-
 import Breakpoints from "@/styles/Breakpoints";
-import Colors from "@/styles/Colors";
 
 import Container from "@/components/containers/Container";
 import SideContainer from "@/components/containers/SideContainer";
@@ -42,8 +39,8 @@ export default function OverOnsPage() {
             <>
               <Title
                 text="Wie wij zijn"
-                className={`${styles.OverOnsTitleResponsive} uppercase`}
-                containerClassName={styles.OverOnsTitleBarResponsive}
+                className="text-center uppercase md:text-left"
+                containerClassName="md:justify-start"
                 size="lg"
                 underline
                 h1
@@ -127,8 +124,8 @@ export default function OverOnsPage() {
             <>
               <Title
                 text="Wat wij doen"
-                className={`${styles.OverOnsTitleResponsive} uppercase`}
-                containerClassName={styles.OverOnsTitleBarResponsive}
+                className="text-center uppercase md:text-left"
+                containerClassName="md:justify-start"
                 size="lg"
                 underline
               />
@@ -152,16 +149,11 @@ export default function OverOnsPage() {
                 Geen overbodige vervanging, geen onnodige kosten — maar een
                 passende oplossing per voertuig.
               </Text>
-              <div className={styles.OverOnsButtonWrapper}>
+              <div className="mb-10 flex justify-center md:justify-start">
                 <Button
                   href="https://reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
                   text="AFSPRAAK MAKEN"
-                  color={Colors.WHITE}
-                  hoverColor={Colors.RED}
-                  borderColor={Colors.RED}
-                  hoverBorderColor={Colors.RED}
-                  backgroundColor={Colors.RED}
-                  hoverBackgroundColor={Colors.WHITE}
+                  className="bg-red border-red hover:text-red hover:bg-white mt-4"
                 />
               </div>
             </>

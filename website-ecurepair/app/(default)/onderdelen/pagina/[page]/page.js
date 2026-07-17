@@ -2,7 +2,6 @@ import React from "react";
 import Axios from "axios";
 import { notFound } from "next/navigation";
 
-import Colors from "@/styles/Colors";
 import Container from "@/components/containers/Container";
 
 import Searchbar from "@/components/modules/Searchbar";
@@ -92,10 +91,7 @@ export default async function OnderdelenPage({ params }) {
           >
             <Button
               text="REPARATIEFORMULIER"
-              color={Colors.GRAY}
-              borderColor={Colors.GRAY}
-              hoverColor={Colors.RED}
-              hoverBorderColor={Colors.RED}
+              className="text-gray border-gray hover:text-red hover:border-red"
               style={{ marginTop: 30 }}
               href="https://www.reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
               target="_blank"

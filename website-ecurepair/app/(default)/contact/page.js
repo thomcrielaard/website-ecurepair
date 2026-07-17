@@ -1,7 +1,5 @@
 import Container from "@/components/containers/Container";
 
-import styles from "@/styles/pages/contact.module.scss";
-
 import ContactInfo from "@/components/modules/ContactInfo";
 import ContactForm from "@/components/modules/ContactForm";
 
@@ -15,7 +13,7 @@ export function generateMetadata() {
 
 export default function ContactPage() {
   return (
-    <Container innerClassName={styles.ContactFormContainer}>
+    <Container innerClassName="flex flex-wrap gap-24 md:gap-0">
       <ContactInfo />
       <ContactForm />
     </Container>

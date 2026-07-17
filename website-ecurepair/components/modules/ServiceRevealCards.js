@@ -244,8 +244,13 @@ export default function ServiceRevealCards({
 
             {/* Visible title */}
             <div className="absolute inset-x-0 bottom-0 z-10 p-5 group-hover:opacity-0 transition-opacity duration-300">
-              <Title text={title} size="xs" color="white" />
-              <Text text={summary} color="white" fontSize={16} align="left" />
+              <Title text={title} size="xs" className="text-white" />
+              <Text
+                text={summary}
+                className="text-white"
+                fontSize={16}
+                align="left"
+              />
             </div>
 
             {/* Hover reveal overlay */}

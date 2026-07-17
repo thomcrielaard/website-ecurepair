@@ -1,6 +1,5 @@
 "use client";
 
-import styles from "@/styles/modules/CookieBanner.module.scss";
 import Title from "@/components/text/Title";
 import Text from "../text/Text";
 import Colors from "@/styles/Colors";
@@ -39,28 +38,23 @@ export default function CookieBanner() {
   return (
     <>
       {cookies === null && pageLoaded && (
-        <div className={styles.Banner}>
+        <div className="w-full fixed bottom-0 right-0 z-50 bg-gray-800 flex flex-col items-center px-3 py-5 max-w-100 gap-2.5 shadow-[0px_0px_10px_5px_#00000040]">
           <button
-            className={styles.RejectButton}
+            className="bg-transparent border-0 m-0 p-0 absolute top-2.5 right-2.5 hover:cursor-pointer"
             onClick={() => setCookies(false)}
           >
             <Clear width={16} color={Colors.LIGHTGRAY} />
           </button>
-          <Title size="mc" text="Cookies" color={Colors.LIGHTWHITE} />
+          <Title size="md" text="Cookies" className="text-gray-200" />
           <Text
-            style={{ margin: 0 }}
+            className="m-0 text-gray-200"
             align="center"
             text="Om onze site optimaal te laten presteren hanteren wij cookies. "
-            color={Colors.LIGHTWHITE}
           />
-          <div className={styles.ButtonWrapper}>
+          <div className="mt-2 flex justify-center">
             <Button
               text="Accepteren"
-              color={Colors.LIGHTWHITE}
-              borderColor={Colors.LIGHTWHITE}
-              backgroundColor="transparent"
-              hoverColor={Colors.WHITE}
-              hoverBorderColor={Colors.WHITE}
+              className="text-gray-200 border-gray-200 hover:text-white hover:border-white"
               onClick={() => setCookies(true)}
               isButton
             />

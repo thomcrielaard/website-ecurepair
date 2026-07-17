@@ -1,8 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import styles from "@/styles/pages/overons.module.scss";
-
 import Breakpoints from "@/styles/Breakpoints";
 
 import Container from "@/components/containers/Container";
@@ -35,8 +33,8 @@ export default function MechatronicsRevisiePage() {
             <>
               <Title
                 text="Mechatronic revisie – herstel van de kern van je DSG transmissie"
-                className={styles.OverOnsTitleResponsive}
-                containerClassName={styles.OverOnsTitleBarResponsive}
+                className="text-center md:text-left"
+                containerClassName="md:justify-start"
                 size="lg"
                 underline
                 h1

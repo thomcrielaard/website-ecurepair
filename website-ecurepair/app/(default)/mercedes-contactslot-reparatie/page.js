@@ -1,8 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import styles from "@/styles/pages/overons.module.scss";
-
 import Breakpoints from "@/styles/Breakpoints";
 
 import Container from "@/components/containers/Container";
@@ -38,8 +36,8 @@ export default function MercedesContactslotenPage() {
             <>
               <Title
                 text="Mercedes contactslot reparatie – specialist in autosleutels en elektronica"
-                className={styles.OverOnsTitleResponsive}
-                containerClassName={styles.OverOnsTitleBarResponsive}
+                className="text-center md:text-left"
+                containerClassName="md:justify-start"
                 size="lg"
                 underline
                 h1

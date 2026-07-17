@@ -1,38 +1,31 @@
-import * as React from "react";
 import Link from "next/link";
-
-import styles from "@/styles/modules/Button.module.scss";
-import Colors from "@/styles/Colors";
+import { twMerge } from "tailwind-merge";
 
 export default function Button(props) {
-  const style = {
-    "--backgroundColor": props.backgroundColor ?? "transparent",
-    "--hoverBackgroundColor":
-      props.hoverBackgroundColor ?? props.backgroundColor ?? "transparent",
-    "--color": props.color ?? Colors.WHITE,
-    "--hoverColor": props.hoverColor ?? Colors.WHITE,
-    "--borderColor": props.borderColor ?? Colors.WHITE,
-    "--hoverBorderColor": props.hoverBorderColor ?? Colors.WHITE,
-    ...props.style,
-  };
+  const className = twMerge(
+    `hover w-fit border border-white text-white text-center font-[family-name:poppins] font-medium text-base transition-all duration-300 ease-in-out ${
+      props.small
+        ? "px-4 py-1.5 text-xs tracking-[2px]"
+        : "px-6 py-2.5 tracking-[3px] md:tracking-[5px]"
+    }`,
+    props.className,
+  );
 
   return props.isButton ? (
     <button
-      className={`hover ${styles.Button} 
-      ${props.small && styles.small} 
-      ${props.className || ""}`}
-      style={style}
+      type={props.type}
+      className={className}
+      style={props.style}
       onClick={props.onClick}
+      disabled={props.disabled}
     >
       {props.text}
     </button>
   ) : (
     <Link
       href={props.href ?? ""}
-      className={`hover ${styles.Button} 
-      ${props.small && styles.small} 
-      ${props.className || ""}`}
-      style={style}
+      className={className}
+      style={props.style}
       scroll={props.scroll ?? true}
       target={props.target}
     >

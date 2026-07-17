@@ -2,10 +2,6 @@
 import * as React from "react";
 import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 
-import styles from "@/styles/modules/ProductAttributes.module.scss";
-
-import Colors from "@/styles/Colors";
-
 import Title from "../text/Title";
 import Text from "../text/Text";
 
@@ -19,24 +15,21 @@ export default function ProductDescription(props) {
           text="Omschrijving"
           size="sm"
           align="left"
-          color={tab == 0 ? Colors.BLACK : Colors.MEDIUMWHITE}
-          className="cursor-pointer"
+          className={`cursor-pointer ${tab == 0 ? "text-black" : "text-gray-400"}`}
           onClick={() => setTab(0)}
         />
         <Title
           text="Merken en Modellen"
           size="sm"
           align="left"
-          color={tab == 1 ? Colors.BLACK : Colors.MEDIUMWHITE}
-          className="cursor-pointer"
+          className={`cursor-pointer ${tab == 1 ? "text-black" : "text-gray-400"}`}
           onClick={() => setTab(1)}
         />
         <Title
           text="Foutcodes"
           size="sm"
           align="left"
-          color={tab == 2 ? Colors.BLACK : Colors.MEDIUMWHITE}
-          className="cursor-pointer"
+          className={`cursor-pointer ${tab == 2 ? "text-black" : "text-gray-400"}`}
           onClick={() => setTab(2)}
         />
       </div>
@@ -65,8 +58,8 @@ export default function ProductDescription(props) {
             <li key={key}>
               {error.code && (
                 <>
-                  <span className={styles.FaultCode}>{error.code}</span>
-                  <span className={styles.Bold}>{" - "}</span>
+                  <span className="text-red font-bold">{error.code}</span>
+                  <span className="font-bold">{" - "}</span>
                 </>
               )}
               {error.omschrijving}

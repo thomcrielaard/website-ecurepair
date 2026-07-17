@@ -4,25 +4,22 @@ import Link from "next/link";
 import { API_URL } from "@/pages/_app";
 import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 
-import styles from "@/styles/modules/Product.module.scss";
-
 import Breakpoints from "@/styles/Breakpoints";
-import Colors from "@/styles/Colors";
 import { BlurDataUrl } from "@/services/BlurDataUrl";
 
 import Button from "@/components/modules/Button";
 
 import Title from "../text/Title";
 
-import Chevron from "@/assets/svg/Chevron";
+import { FaChevronRight } from "react-icons/fa6";
 
 export default function Product(props) {
   return (
-    <div className={styles.ProductContainer}>
-      <div className={styles.ProductSideContainer}>
-        <div className={styles.ProductImageWrapper}>
+    <div className="flex flex-col items-center justify-between gap-12.5 lg:flex-row lg:gap-7.5 xl:justify-evenly">
+      <div className="w-full xxs:w-4/5 lg:w-1/2 xl:w-2/5">
+        <div className="relative w-full aspect-square">
           <Image
-            className={styles.ProductImage}
+            className="object-cover border border-gray"
             src={
               API_URL +
               (props.product.afbeelding
@@ -39,26 +36,20 @@ export default function Product(props) {
           />
         </div>
       </div>
-      <div
-        className={`${styles.ProductSideContainer} ${styles.ProductTextContainer}`}
-      >
+      <div className="flex w-full flex-col gap-2.5 xxs:w-4/5 lg:w-1/2 xl:w-2/5">
         <Title text={props.product.onderdeelnummer} size="lg" />
-        <div className={styles.ProductTitleWrapper}>
+        <div className="flex gap-2.5">
           {props.product.merks.map((brand, key) => (
             <React.Fragment key={key}>
               <Link
-                className={styles.ProductQuicklink}
+                className="font-[family-name:poppins] font-medium italic text-lightgray underline"
                 href={`/onderdelen/zoeken/1?merk=${brand.id}`}
               >
                 {brand.naam}
               </Link>
-              <Chevron
-                width={10}
-                color={Colors.LIGHTGRAY}
-                style={{ rotate: "-90deg" }}
-              />
+              <FaChevronRight size={10} className="text-lightgray" />
               <Link
-                className={styles.ProductQuicklink}
+                className="font-[family-name:poppins] font-medium italic text-lightgray underline"
                 href={`/onderdelen/zoeken/1?merk=${brand.id}&part=${props.product.onderdeel.id}`}
               >
                 {props.product.onderdeel.naam}
@@ -66,8 +57,8 @@ export default function Product(props) {
             </React.Fragment>
           ))}
         </div>
-        {/* <div className={styles.ProductPriceWrapper}>
-          <span className={styles.ProductPrice}>
+        {/* <div className="-mb-4 flex items-center gap-2.5">
+          <span className="font-[family-name:lato] font-medium text-[32px] text-red">
             €
             {Number(
               props.discount.ingeschakeld
@@ -77,7 +68,7 @@ export default function Product(props) {
             ).toFixed(2)}
           </span>
           {props.discount.ingeschakeld && (
-            <span className={styles.ProductOldPrice}>
+            <span className="font-[family-name:lato] font-medium text-[26px] text-gray line-through">
               €{Number(props.product.prijs).toFixed(2)}
             </span>
           )}
@@ -85,17 +76,12 @@ export default function Product(props) {
         <div className="content">
           <ReactMarkdown>{props.product.omschrijving}</ReactMarkdown>
         </div>
-        <div className={styles.ProductErrorWrapper}>
-          <div style={{ alignSelf: "flex-end" }}>
+        <div className="mt-3.75 flex flex-wrap justify-between gap-5">
+          <div className="self-end">
             <Button
               text={"REPARATIEFORMULIER"}
               href="https://www.reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
-              color={Colors.WHITE}
-              hoverColor={Colors.RED}
-              borderColor={Colors.RED}
-              hoverBorderColor={Colors.RED}
-              backgroundColor={Colors.RED}
-              hoverBackgroundColor={Colors.WHITE}
+              className="bg-red border-red hover:text-red hover:bg-white"
               target="_blank"
             />
           </div>

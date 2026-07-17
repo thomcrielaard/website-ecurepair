@@ -2,40 +2,34 @@ import * as React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { API_URL } from "@/pages/_app";
-import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 import { FaPhoneAlt, FaRocket, FaShieldAlt } from "react-icons/fa";
 import { IoIosPricetags } from "react-icons/io";
 import { FaGears } from "react-icons/fa6";
 
 import Breakpoints from "@/styles/Breakpoints";
-import Colors from "@/styles/Colors";
 import { BlurDataUrl } from "@/services/BlurDataUrl";
 
 import Button from "@/components/modules/Button";
 
 import Title from "../text/Title";
 
-import Chevron from "@/assets/svg/Chevron";
+import { FaChevronRight } from "react-icons/fa6";
 
 export default function ProductHero(props) {
   return (
     <>
-      <div className="flex gap-2 mb-4">
+      <div className="flex gap-2 mb-4 items-center">
         {props.product.merks.map((brand, key) => (
           <React.Fragment key={key}>
             <Link
-              className="font-[poppins] font-medium italic !text-lightgray underline!"
+              className="font-[family-name:poppins] font-medium italic !text-lightgray underline!"
               href={`/onderdelen/zoeken/1?merk=${brand.id}`}
             >
               {brand.naam}
             </Link>
-            <Chevron
-              width={10}
-              color={Colors.LIGHTGRAY}
-              style={{ rotate: "-90deg" }}
-            />
+            <FaChevronRight size={10} className="text-lightgray" />
             <Link
-              className="font-[poppins] font-medium italic !text-lightgray underline!"
+              className="font-[family-name:poppins] font-medium italic !text-lightgray underline!"
               href={`/onderdelen/zoeken/1?merk=${brand.id}&part=${props.product.onderdeel.id}`}
             >
               {props.product.onderdeel.naam}
@@ -79,12 +73,7 @@ export default function ProductHero(props) {
           <Button
             text={"REPARATIEFORMULIER"}
             href="https://www.reparatieformulier.nl/reparaties/nieuw?ref=ECUR"
-            color={Colors.WHITE}
-            hoverColor={Colors.RED}
-            borderColor={Colors.RED}
-            hoverBorderColor={Colors.RED}
-            backgroundColor={Colors.RED}
-            hoverBackgroundColor={Colors.WHITE}
+            className="bg-red border-red hover:text-red hover:bg-white"
             target="_blank"
           />
           <span className="text-gray-900">
@@ -136,7 +125,7 @@ export default function ProductHero(props) {
           <div className="w-full grid-cols-1 xxs:grid-cols-2 grid gap-8">
             <div className="flex gap-4">
               <div className="w-12 min-w-12 h-12 relative rounded-full flex justify-center items-center border-1 border-red">
-                <FaShieldAlt size={20} color={Colors.RED} />
+                <FaShieldAlt size={20} className="text-red" />
               </div>
               <div className="flex flex-col">
                 <span className="font-bold text-gray-900">Betrouwbaar</span>
@@ -145,7 +134,7 @@ export default function ProductHero(props) {
             </div>
             <div className="flex gap-4">
               <div className="w-12 min-w-12 h-12 relative rounded-full flex justify-center items-center border-1 border-red">
-                <FaGears size={26} color={Colors.RED} />
+                <FaGears size={26} className="text-red" />
               </div>
               <div className="flex flex-col">
                 <span className="font-bold text-gray-900">Ervaren</span>
@@ -156,7 +145,7 @@ export default function ProductHero(props) {
             </div>
             <div className="flex gap-4">
               <div className="w-12 min-w-12 h-12 relative rounded-full flex justify-center items-center border-1 border-red">
-                <FaRocket size={20} color={Colors.RED} />
+                <FaRocket size={20} className="text-red" />
               </div>
               <div className="flex flex-col">
                 <span className="font-bold text-gray-900">Efficiënt</span>
@@ -167,7 +156,7 @@ export default function ProductHero(props) {
             </div>
             <div className="flex gap-4">
               <div className="w-12 min-w-12 h-12 relative rounded-full flex justify-center items-center border-1 border-red">
-                <IoIosPricetags size={22} color={Colors.RED} />
+                <IoIosPricetags size={22} className="text-red" />
               </div>
               <div className="flex flex-col">
                 <span className="font-bold text-gray-900">Prijsbewust</span>

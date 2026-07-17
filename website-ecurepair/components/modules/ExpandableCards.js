@@ -2,19 +2,16 @@
 import * as React from "react";
 import Image from "next/image";
 
-import styles from "@/styles/modules/ExpandableCards.module.scss";
-
 import Breakpoints from "@/styles/Breakpoints";
-import Colors from "@/styles/Colors";
 
 import Text from "@/components/text/Text";
 import Title from "@/components/text/Title";
 
-import Chevron from "@/assets/svg/Chevron";
+import { FaChevronDown } from "react-icons/fa6";
 
 export default function ExpandableCards(props) {
   return (
-    <div className={styles.ExpandableCardsContainer}>
+    <div className="w-full flex flex-col gap-12.5">
       {props.cards.map((card, key) => (
         <ExpandableCard
           key={key}
@@ -34,43 +31,37 @@ function ExpandableCard(props) {
 
   return (
     <div onClick={() => setOpen(!open)} className="hover">
-      <div className={styles.ExpandableCard}>
+      <div className="relative w-full py-12.5 px-7.5">
         <Image
-          style={{ objectFit: "cover", zIndex: -2 }}
           sizes={`(min-width: ${Breakpoints.sm}) 45vw, 100vw`}
           placeholder="blur"
           fill
           src={props.img}
           alt={props.title}
+          className="object-cover -z-20"
         />
-        <div className={styles.ExpandableCardOverlay} />
-        <div className={styles.ExpandableCardWrapper}>
-          <span
-            className={`${styles.ExpandableCardTitle} ${styles.ExpandableCardSubtitle}`}
-          >
+        <div className="absolute inset-0 -z-10 bg-black/62" />
+        <div className="flex gap-2 items-center">
+          <span className="font-[family-name:poppins] font-medium text-sm text-gray-400/70">
             00{props.number + 1}
           </span>
-          <div className={styles.ExpandableCardBar} />
+          <div className="h-7.5 w-[0.5px] mr-2 ml-0.5 bg-gray-400/70" />
           <Title
             text={props.title}
             size="xxs"
-            color={Colors.WHITE}
-            className={styles.ExpandableCardTitle}
+            className="text-white font-[family-name:poppins] font-medium"
           />
-          <Chevron
-            width={14}
-            color={Colors.WHITE}
-            style={{
-              rotate: open ? "180deg" : "0deg",
-              transition: "all .3s ease-in-out",
-              minWidth: 14,
-            }}
+          <FaChevronDown
+            size={14}
+            className={`min-w-3.5 text-white transition-transform duration-300 ease-in-out ${
+              open ? "rotate-180" : "rotate-0"
+            }`}
           />
         </div>
       </div>
 
       <div
-        className={styles.ExpandableCardContentWrapper}
+        className="overflow-hidden transition-[max-height] duration-300 ease-in-out px-5 shadow-[0px_0px_10px_0px_rgba(42,48,57,0.19)]"
         style={{
           maxHeight: open ? textRef.current?.offsetHeight + 32 : 0,
         }}
