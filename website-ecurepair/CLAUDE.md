@@ -5,11 +5,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Commands
 
 ```bash
-npm run dev      # Start dev server (http://localhost:3000)
-npm run build    # Production build
-npm run start    # Serve production build
-npm run lint     # next lint (extends next/core-web-vitals)
+yarn dev      # Start dev server (http://localhost:3000)
+yarn build    # Production build
+yarn start    # Serve production build
+yarn lint     # next lint (extends next/core-web-vitals)
 ```
+
+**Yarn is the package manager** — use `yarn add`/`yarn remove`, not npm. (A stale `package-lock.json` may still exist from earlier npm use; `yarn.lock` is authoritative.)
 
 There is no test suite configured in this project.
 
@@ -48,11 +50,16 @@ Both layouts independently import the same global styles/Navbar/Footer/CookieBan
 
 **Product pages** (`app/(default)/onderdelen/[number]/page.js`) normalize the `onderdeelnummer` route param by double-decoding it (handles double-encoded `%2520` cases from external links) before querying Strapi.
 
-**Styling** is a mix of two systems, not fully migrated to one:
-- Tailwind CSS v4 (`@import "tailwindcss"` + `@theme` block in `styles/globals.css`, config lives in CSS, not a `tailwind.config.js`) — newer components (`Container`, `Logo`, cards, `TextLink`) use Tailwind utility classes directly
-- SCSS modules under `styles/**/*.module.scss`, one per component, imported as `styles` — most existing components still use this pattern
-- `styles/Colors.js` and `styles/Breakpoints.js` are plain JS constants used both in inline styles/logic and mirrored in the Tailwind `@theme` block (e.g. `--color-red` == `Colors.RED`) — keep these in sync if changing brand colors or breakpoints
-- Custom fonts (`lato`, `poppins`) are declared via `@font-face` in `globals.css`, not `next/font`, despite `@next/font` being a dependency
+**Styling** is Tailwind CSS v4 only — the SCSS-module system has been fully removed (no `sass` dependency, no `.module.scss` files). Config lives in the `@theme` block in `styles/globals.css` (`@import "tailwindcss"`), not a `tailwind.config.js`. Conventions to follow:
+
+- **Classes inline in JSX** — do not extract className strings into variables. The only accepted exceptions are prop-driven variant tables (e.g. the `SIZES` map in `components/text/Title.js`) and runtime `twMerge` compositions inside shared components.
+- **Colors via classes, never via props or inline styles.** Shared components (`Button`, `Title`, `Text`, `TextLink`) set their own defaults (e.g. `text-gray`) and merge caller classes with `tailwind-merge` (`twMerge`), so a caller's `text-white`/`bg-red` cleanly overrides the default — no `!important` needed. `Title`/`Text`/`TextLink` deliberately have **no** `color` prop anymore. Inline `style` is reserved for genuinely runtime-computed values (e.g. the measured `maxHeight` in `ExpandableCards`, the width indicators in `Searchbar`) and for component-API props that aren't CSS (Hamburger's and react-loader-spinner's `color`/`backgroundColor`).
+- **Custom theme tokens**: `text-red`, `bg-gray`, `text-darkgray`, `text-lightgray` (see `@theme`), plus `--breakpoint-xxs: 576px`. `styles/Colors.js` documents the hex→utility mapping in comments (LIGHTWHITE≈`gray-200`, MEDIUMWHITE≈`gray-400`); keep it in sync with `@theme`. `Colors.js` is now only used for non-CSS component props; `styles/Breakpoints.js` only for `next/image` `sizes` strings and `UseDimensions` comparisons.
+- **Breakpoint mapping** used throughout the migration (old SCSS max-width mixins → Tailwind min-width variants): 576→`xxs:`, 768→`md:`, 992→`lg:`, 1200→`xl:`, 1400→`2xl:`. The 992/1200/1400 mappings are approximations (1024/1280/1536).
+- **Fonts**: custom `lato`/`poppins` via `@font-face` in `globals.css` (not `next/font`); reference them with the labeled arbitrary syntax `font-[family-name:lato]` — a bare `font-[lato]` gets misclassified as a font-*weight* by `tailwind-merge` and silently dropped.
+- **Icons**: use `react-icons` (mostly `fa6`) instead of custom SVGs; they render `fill="currentColor"`, so color them with `text-*` classes or let them inherit. Remaining custom SVGs: `Logo` (brand mark), `Clear` (CookieBanner), plus several unused dead files in `assets/svg/`.
+- **Markdown-rendered content** (react-markdown output) can't receive Tailwind classes, so its typography lives as plain-CSS global classes in `globals.css`: `.content` (product descriptions) and `.news-content` (news articles).
+- **Cascade-layer gotcha**: unlayered global CSS beats Tailwind utilities regardless of specificity. Global element resets belong in `@layer base` (see the `a { color: inherit }` rule in `globals.css`); `pagination.css` (ReactPaginate styling, targets its default `selected` class) is intentionally unlayered.
 
 **Client vs server components**: components using hooks, `axios` client fetches, or browser APIs are marked `"use client"` (e.g. `Navbar.js`, `ItemCards.js`, `ContactForm.js`). `Navbar.js` has a `// TODO: Fix` comment above its `"use client"` directive — it fetches vacation-banner state client-side via `axios` rather than server-rendering it, which is a known-suboptimal state per that TODO.
 
